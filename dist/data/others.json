@@ -1,0 +1,4232 @@
+[
+  {
+    "id": "arthurian",
+    "name": "亚瑟王传说",
+    "en": "ARTHURIAN LEGEND",
+    "region": "不列颠与西欧",
+    "coords": [
+      -4,
+      51
+    ],
+    "depth": 2,
+    "color": "#b69bd4",
+    "tagline": "圆桌的荣光，与理想王国的裂缝",
+    "period": "早期不列颠传说；12—15世纪法语与英语文学扩展",
+    "summary": "亚瑟王故事不是一个古代统一宗教，而是跨越威尔士、不列颠、法国及其他欧洲地区的文学传统。它把王权合法性、骑士武力、宫廷爱情和基督教救赎放在同一舞台。先认识卡美洛与圆桌，再读圣杯和王国崩溃，可以看到“最强的骑士”与“最洁净的灵魂”为什么不是同一个人。本区以马洛礼《亚瑟王之死》为阅读主线，并保留更早版本的差别。地图点是文化参照区，非确定历史都城。",
+    "worldview": [
+      {
+        "title": "三种价值的冲突",
+        "text": "圆桌追求忠诚、公正与武勇；宫廷爱情却可能越过婚姻和封臣义务；圣杯故事又要求谦卑、悔罪和洁净。三套标准的冲突推动悲剧，而非简单的善恶阵营。",
+        "source": "ar-malory2"
+      },
+      {
+        "title": "卡美洛、荒野与异界",
+        "text": "宫廷是社会秩序的中心，森林、渡口、城堡和湖泊则是骑士受考验的边界。阿瓦隆属于传奇地理；不要把现代旅游景点的定位当作考古结论。",
+        "source": "ar-malory1"
+      },
+      {
+        "title": "圣杯的版本演变",
+        "text": "较早的珀西瓦尔叙事与后来基督教化的圣杯史并不相同。到马洛礼，圣杯探求把世俗骑士功绩放在神恩与灵性审判之下，加拉哈德成为完成探求的中心。",
+        "source": "ar-malory2"
+      },
+      {
+        "title": "并无唯一正典",
+        "text": "石中剑、湖中剑、梅林、摩根与莫德雷德的角色随作品变化。本图以马洛礼为基本关系网络；“圆桌固定十二骑士”等流行简图并不适用于整个传统。",
+        "source": "ar-malory1"
+      }
+    ],
+    "history": [
+      {
+        "title": "历史亚瑟仍有争论",
+        "text": "后罗马不列颠的战争是传说形成背景，但文学中的统一王国、圆桌和圣杯没有可直接对应的同时代证明。约1136年的杰弗里把亚瑟塑造成大规模传奇史中的国王。",
+        "source": "ar-bl"
+      },
+      {
+        "title": "封建社会的自我想象",
+        "text": "12世纪后的骑士文学讨论君臣关系、贵族声誉、婚姻和战争伦理。故事虽设在更早的不列颠，制度和礼仪往往投射作者所处的中世纪。",
+        "source": "ar-malory1"
+      },
+      {
+        "title": "跨语言的欧洲网络",
+        "text": "威尔士故事、拉丁伪史、法语传奇和英语改写相互影响。马洛礼综合多条材料，因此人物关系时有断裂，阅读时应把差异当作文本形成线索。",
+        "source": "ar-oxford"
+      }
+    ],
+    "entities": [
+      {
+        "id": "arthurian-arthur",
+        "name": "亚瑟",
+        "alias": "Arthur",
+        "kind": "国王",
+        "tier": 1,
+        "domain": "王权与圆桌",
+        "summary": "圆桌共同体的中心，也是无法阻止其解体的国王。",
+        "detail": "拔剑确立天命，战争建立秩序；到结尾，血亲复仇与兰斯洛特事件把王国拖入内战。他既是理想王者，也承担错误决定的后果。文学形象不能当作某位已证实的历史君主。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-merlin",
+        "name": "梅林",
+        "alias": "Merlin",
+        "kind": "预言者",
+        "tier": 1,
+        "domain": "预言与王权",
+        "summary": "帮助乌瑟与亚瑟、知晓灾难的魔法师。",
+        "detail": "他的知识并不等于无限控制：预言可指向注定发生的灾难，也能被欲望和选择限制。被妮妙封困的情节展示智慧与情欲之间的反讽。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-guinevere",
+        "name": "桂妮薇儿",
+        "alias": "Guinevere",
+        "kind": "王后",
+        "tier": 1,
+        "domain": "婚姻与宫廷爱情",
+        "summary": "亚瑟之妻，与兰斯洛特的关系引发政治危机。",
+        "detail": "她不是只有“背叛”这一功能的反派。王后的荣誉、骑士的保护义务和爱情构成复杂秩序；最终退隐修道院，把结局从战争转向悔罪。",
+        "sources": [
+          "ar-malory2"
+        ]
+      },
+      {
+        "id": "arthurian-lancelot",
+        "name": "兰斯洛特",
+        "alias": "Lancelot",
+        "kind": "骑士",
+        "tier": 1,
+        "domain": "武勇与爱情",
+        "summary": "武艺卓绝，却不能凭武力完成最高灵性使命。",
+        "detail": "与桂妮薇儿的爱情及救援行为触发圆桌分裂。他在圣杯探求中获得有限启示，成为世俗伟大与灵性不完满并存的代表。",
+        "sources": [
+          "ar-malory2"
+        ]
+      },
+      {
+        "id": "arthurian-galahad",
+        "name": "加拉哈德",
+        "alias": "Galahad",
+        "kind": "骑士",
+        "tier": 1,
+        "domain": "圣杯与洁净",
+        "summary": "兰斯洛特与佩莱斯之女伊莱恩的儿子。",
+        "detail": "入座危险席，完成圣杯探求；纯洁身份使他超越父亲。其重要性属于散文圣杯传统和马洛礼整合，不应倒置到所有早期亚瑟故事。",
+        "sources": [
+          "ar-malory2"
+        ]
+      },
+      {
+        "id": "arthurian-gawain",
+        "name": "高文",
+        "alias": "Gawain",
+        "kind": "骑士",
+        "tier": 1,
+        "domain": "血亲与荣誉",
+        "summary": "亚瑟外甥，常代表圆桌骑士的世俗力量。",
+        "detail": "在马洛礼末段，兄弟之死使他坚持向兰斯洛特复仇。其他作品如《高文爵士与绿衣骑士》则把他放在诚实、恐惧和礼仪的考验中心。",
+        "sources": [
+          "ar-malory2"
+        ]
+      },
+      {
+        "id": "arthurian-mordred",
+        "name": "莫德雷德",
+        "alias": "Mordred",
+        "kind": "骑士",
+        "tier": 1,
+        "domain": "继承与叛乱",
+        "summary": "摄政期间夺权，最终与亚瑟互相致命。",
+        "detail": "马洛礼传统中，他是亚瑟与同母异父姐姐摩高斯之子；早期文本身份不同。他不等同摩根之子，也不是所有改编都保留同一出生故事。",
+        "sources": [
+          "ar-malory2"
+        ]
+      },
+      {
+        "id": "arthurian-morgan",
+        "name": "摩根勒菲",
+        "alias": "Morgan le Fay",
+        "kind": "施术者",
+        "tier": 2,
+        "domain": "疗愈与敌对",
+        "summary": "亚瑟同母异父的姐妹，角色在敌人与疗愈者间变化。",
+        "detail": "马洛礼中她多次设计伤害亚瑟，却也出现在终局送他离去的船上。这样的矛盾保留了传统中异界女性的多重面向。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-nimue",
+        "name": "妮妙",
+        "alias": "Nimue",
+        "kind": "施术者",
+        "tier": 2,
+        "domain": "湖中仙女传统",
+        "summary": "与梅林的终局、亚瑟宫廷的保护相连。",
+        "detail": "湖中女神并非永远只有一个姓名和身份。妮妙在马洛礼中学得梅林法术并将其封困，后来也介入骑士与王室危机。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-percival",
+        "name": "珀西瓦尔",
+        "alias": "Percival",
+        "kind": "骑士",
+        "tier": 2,
+        "domain": "圣杯探求",
+        "summary": "从乡野青年成长为圣杯骑士。",
+        "detail": "在较早圣杯文学中是中心英雄；在马洛礼综合版本中与加拉哈德、鲍斯共同进入探求终段。版本不同会改变谁最接近圣杯。",
+        "sources": [
+          "ar-malory2"
+        ]
+      },
+      {
+        "id": "arthurian-bors",
+        "name": "鲍斯",
+        "alias": "Bors",
+        "kind": "骑士",
+        "tier": 2,
+        "domain": "见证与抉择",
+        "summary": "圣杯探求完成者中的生还见证者。",
+        "detail": "他在亲属义务和救助陌生人等考验中作选择；返回宫廷报告圣杯经历，使神圣经验重新进入世俗历史。",
+        "sources": [
+          "ar-malory2"
+        ]
+      },
+      {
+        "id": "arthurian-tristan",
+        "name": "特里斯坦",
+        "alias": "Tristan",
+        "kind": "骑士",
+        "tier": 2,
+        "domain": "爱情与封臣伦理",
+        "summary": "与伊索尔德的爱情构成另一条大型传奇支线。",
+        "detail": "他效忠马克王，却爱上国王之妻；不同作品通过爱情药、误会和背叛安排悲剧。马洛礼把这套原可独立的故事并入圆桌世界。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-isolde",
+        "name": "伊索尔德",
+        "alias": "Isolde",
+        "kind": "王后",
+        "tier": 2,
+        "domain": "爱情与婚姻",
+        "summary": "马克之妻、特里斯坦所爱。",
+        "detail": "她的名字有多种译写；要与“白手伊索尔德”等同名角色区别。婚姻联盟与私人情感的冲突使她成为跨欧洲文学的重要女性。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-mark",
+        "name": "马克王",
+        "alias": "Mark",
+        "kind": "国王",
+        "tier": 3,
+        "domain": "康沃尔王权",
+        "summary": "特里斯坦故事里的君主与丈夫。",
+        "detail": "马洛礼常把他写成嫉妒而奸诈的王者，与亚瑟的理想王权形成比较；不同版本对他的同情程度并不一致。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-uther",
+        "name": "乌瑟·潘德拉贡",
+        "alias": "Uther Pendragon",
+        "kind": "国王",
+        "tier": 2,
+        "domain": "亚瑟的前代",
+        "summary": "在梅林帮助下与伊格赖恩生下亚瑟。",
+        "detail": "伪装、王权和不正当欲望出现在开端，说明卡美洛的黄金时代并非建立在完全纯洁的起点上。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-igraine",
+        "name": "伊格赖恩",
+        "alias": "Igraine",
+        "kind": "贵族",
+        "tier": 3,
+        "domain": "王室谱系",
+        "summary": "亚瑟的母亲，早期婚姻连接康沃尔与王室。",
+        "detail": "乌瑟借魔法化为她丈夫的模样与她同宿；这个情节不能简单改写成一段双方知情的浪漫相遇。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-morgause",
+        "name": "摩高斯",
+        "alias": "Morgause",
+        "kind": "王后",
+        "tier": 2,
+        "domain": "奥克尼家族",
+        "summary": "高文诸兄弟之母，也是莫德雷德之母。",
+        "detail": "她与摩根是不同人物；马洛礼中亚瑟在不知双方亲属关系时与她发生关系，导致莫德雷德诞生。",
+        "sources": [
+          "ar-malory1"
+        ]
+      },
+      {
+        "id": "arthurian-bedivere",
+        "name": "贝狄威尔",
+        "alias": "Bedivere",
+        "kind": "骑士",
+        "tier": 2,
+        "domain": "王国的最后见证",
+        "summary": "奉命把王剑归还湖中。",
+        "detail": "他先后迟疑，最后才真正完成还剑；所见的手臂接剑成为传奇最著名的终末意象。其职责是见证而不是复兴卡美洛。",
+        "sources": [
+          "ar-malory2"
+        ]
+      },
+      {
+        "id": "arthurian-kay",
+        "name": "凯",
+        "alias": "Kay",
+        "kind": "骑士",
+        "tier": 3,
+        "domain": "宫廷与养育",
+        "summary": "亚瑟的养兄，担任宫廷管家。",
+        "detail": "拔剑故事中，他最初把亚瑟取得的剑视为自己的机会；后续文学常用他的傲慢或尖刻为年轻英雄的成长设置阻力。",
+        "sources": [
+          "ar-malory1"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "arthurian-uther",
+        "to": "arthurian-arthur",
+        "type": "父子",
+        "note": "马洛礼第I书",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-igraine",
+        "to": "arthurian-arthur",
+        "type": "母子",
+        "note": "马洛礼第I书",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-merlin",
+        "to": "arthurian-arthur",
+        "type": "辅佐",
+        "note": "预言与政治建议",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-arthur",
+        "to": "arthurian-guinevere",
+        "type": "婚姻",
+        "note": "王室婚姻",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-guinevere",
+        "to": "arthurian-lancelot",
+        "type": "爱情",
+        "note": "核心冲突，不等于整个传统唯一故事",
+        "source": "ar-malory2"
+      },
+      {
+        "from": "arthurian-lancelot",
+        "to": "arthurian-galahad",
+        "type": "父子",
+        "note": "母亲是佩莱斯之女伊莱恩",
+        "source": "ar-malory2"
+      },
+      {
+        "from": "arthurian-arthur",
+        "to": "arthurian-gawain",
+        "type": "舅甥",
+        "note": "摩高斯为高文母亲",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-morgause",
+        "to": "arthurian-gawain",
+        "type": "母子",
+        "note": "奥克尼家族",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-arthur",
+        "to": "arthurian-mordred",
+        "type": "父子／敌对",
+        "note": "马洛礼版本；早期传统有别",
+        "source": "ar-malory2"
+      },
+      {
+        "from": "arthurian-morgause",
+        "to": "arthurian-mordred",
+        "type": "母子",
+        "note": "不要与摩根混淆",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-arthur",
+        "to": "arthurian-morgan",
+        "type": "同母异父手足",
+        "note": "并有长期冲突",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-merlin",
+        "to": "arthurian-nimue",
+        "type": "传授／封困",
+        "note": "角色名与情节有版本差异",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-percival",
+        "to": "arthurian-galahad",
+        "type": "共同探求",
+        "note": "圣杯探求",
+        "source": "ar-malory2"
+      },
+      {
+        "from": "arthurian-bors",
+        "to": "arthurian-galahad",
+        "type": "共同探求",
+        "note": "鲍斯返回宫廷见证",
+        "source": "ar-malory2"
+      },
+      {
+        "from": "arthurian-tristan",
+        "to": "arthurian-isolde",
+        "type": "爱情",
+        "note": "宫廷爱情支线",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-isolde",
+        "to": "arthurian-mark",
+        "type": "婚姻",
+        "note": "私人情感与王室婚姻冲突",
+        "source": "ar-malory1"
+      },
+      {
+        "from": "arthurian-bedivere",
+        "to": "arthurian-arthur",
+        "type": "忠臣",
+        "note": "结尾还剑与送别",
+        "source": "ar-malory2"
+      },
+      {
+        "from": "arthurian-kay",
+        "to": "arthurian-arthur",
+        "type": "养兄弟",
+        "note": "埃克托家庭的养育",
+        "source": "ar-malory1"
+      }
+    ],
+    "events": [
+      {
+        "id": "arthurian-sword",
+        "title": "石中剑与加冕",
+        "tier": 1,
+        "era": "马洛礼第I书",
+        "summary": "陌生少年的身份通过拔剑显露。",
+        "detail": "拔剑并未立即消除政治反对；贵族与地方王的抵抗显示神圣认可仍须转化为现实统治。石中剑与后来从湖中得到的剑应按具体版本区分。",
+        "actors": [
+          "arthurian-arthur",
+          "arthurian-kay",
+          "arthurian-merlin"
+        ],
+        "source": "ar-malory1"
+      },
+      {
+        "id": "arthurian-roundtable",
+        "title": "圆桌与王室婚姻",
+        "tier": 1,
+        "era": "马洛礼第III书",
+        "summary": "亚瑟迎娶桂妮薇儿，圆桌成为共同体象征。",
+        "detail": "圆桌把贵族结为一个可见的团体，但座次的形式平等不等于社会地位平等。骑士誓言、节日集会和冒险报告维持共同体。",
+        "actors": [
+          "arthurian-arthur",
+          "arthurian-guinevere",
+          "arthurian-merlin"
+        ],
+        "source": "ar-malory1"
+      },
+      {
+        "id": "arthurian-merlinfall",
+        "title": "梅林被封困",
+        "tier": 2,
+        "era": "马洛礼第IV书",
+        "summary": "预知许多事情的魔法师仍被欲望与法术困住。",
+        "detail": "妮妙向梅林学习后将他封入不能离开的空间。女性施术者在不同作品中可被写成威胁或保护者，不能机械统一为恶女。",
+        "actors": [
+          "arthurian-merlin",
+          "arthurian-nimue"
+        ],
+        "source": "ar-malory1"
+      },
+      {
+        "id": "arthurian-grail",
+        "title": "圣杯探求",
+        "tier": 1,
+        "era": "马洛礼第XIII—XVII书",
+        "summary": "圆桌骑士离开宫廷，接受灵性考验。",
+        "detail": "加拉哈德、珀西瓦尔与鲍斯抵达圣杯终段；兰斯洛特因自身不完满只能获得有限显现。圣杯的成功也意味着圆桌精英的离散。",
+        "actors": [
+          "arthurian-galahad",
+          "arthurian-percival",
+          "arthurian-bors",
+          "arthurian-lancelot"
+        ],
+        "source": "ar-malory2"
+      },
+      {
+        "id": "arthurian-betrayal",
+        "title": "爱情曝光与内战",
+        "tier": 1,
+        "era": "马洛礼第XX书",
+        "summary": "兰斯洛特救援桂妮薇儿造成骑士死亡，复仇撕裂圆桌。",
+        "detail": "事件不能只归因于两人的爱情：宫廷揭发、司法惩罚、血亲复仇和君主职责共同把危机升级为跨海战争。",
+        "actors": [
+          "arthurian-lancelot",
+          "arthurian-guinevere",
+          "arthurian-gawain",
+          "arthurian-arthur"
+        ],
+        "source": "ar-malory2"
+      },
+      {
+        "id": "arthurian-camlann",
+        "title": "最后的战斗",
+        "tier": 1,
+        "era": "马洛礼第XXI书",
+        "summary": "莫德雷德夺权，父子在战场互相致命。",
+        "detail": "原可谈判的双方因误会重新开战。英雄死亡是社会关系崩溃的结局；文学中的战地名称和史书战役记录不能自动合一。",
+        "actors": [
+          "arthurian-arthur",
+          "arthurian-mordred",
+          "arthurian-bedivere"
+        ],
+        "source": "ar-malory2"
+      },
+      {
+        "id": "arthurian-avalon",
+        "title": "还剑与驶向阿瓦隆",
+        "tier": 2,
+        "era": "马洛礼第XXI书",
+        "summary": "贝狄威尔归还王剑，亚瑟乘船离去。",
+        "detail": "结局同时留下死亡与将归的可能。王后的修道、兰斯洛特的悔罪和亚瑟的离去，使“王国终结”成为伦理反思而非单纯败战。",
+        "actors": [
+          "arthurian-arthur",
+          "arthurian-bedivere",
+          "arthurian-morgan",
+          "arthurian-guinevere"
+        ],
+        "source": "ar-malory2"
+      }
+    ],
+    "sources": [
+      {
+        "id": "ar-malory1",
+        "title": "Le Morte d’Arthur，卷一",
+        "author": "托马斯·马洛礼／Project Gutenberg",
+        "kind": "文学",
+        "url": "https://www.gutenberg.org/files/1251/1251-h/1251-h.htm",
+        "note": "1485年印本传统；第I—IX书；公开英文文本。"
+      },
+      {
+        "id": "ar-malory2",
+        "title": "Le Morte d’Arthur，卷二",
+        "author": "托马斯·马洛礼／Project Gutenberg",
+        "kind": "文学",
+        "url": "https://www.gutenberg.org/files/1252/1252-h/1252-h.htm",
+        "note": "第X—XXI书：圣杯、兰斯洛特与王国终局。"
+      },
+      {
+        "id": "ar-bl",
+        "title": "Arundel MS 10：不列颠诸王史抄本",
+        "author": "大英图书馆",
+        "kind": "学术",
+        "url": "https://searcharchives.bl.uk/catalog/040-002039290",
+        "note": "杰弗里作品的中世纪抄本记录；传奇历史不可等同实证历史。"
+      },
+      {
+        "id": "ar-oxford",
+        "title": "Where Do Myths, Legends and Folktales Come From?",
+        "author": "牛津大学 Medieval Studies",
+        "kind": "学术",
+        "url": "https://medieval.ox.ac.uk/where-do-myths-legends-and-folktales-come-from/",
+        "note": "亚瑟文学、历史与现代再创作的关系。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Hic jacet Arthurus, Rex quondam, Rexque futurus.",
+        "source": "ar-malory2",
+        "locator": "《亚瑟王之死》第XXI书第VII章，传闻墓铭",
+        "note": "“这里长眠着亚瑟，曾为王，亦将为王。”这是作品保留的传闻墓铭，不是已考古证实的碑刻。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "先读王国，再读失败",
+        "text": "依次读第I书拔剑、第III书圆桌、第XIII—XVII书圣杯、第XX—XXI书终局；记录每次“忠诚”究竟指向谁。"
+      }
+    ],
+    "cautions": [
+      "亚瑟传奇不是全部凯尔特神话；本区与爱尔兰、威尔士传统分列。",
+      "莫德雷德、摩根、摩高斯的家族关系必须注明版本。",
+      "人物重要等级反映本网站学习顺序，不是中世纪的官方排序。"
+    ]
+  },
+  {
+    "id": "japan",
+    "name": "日本 · 神道叙事",
+    "en": "JAPANESE MYTH",
+    "region": "日本列岛",
+    "coords": [
+      135,
+      35
+    ],
+    "depth": 2,
+    "color": "#cb8a85",
+    "tagline": "从黄泉归来，于净化中看见太阳",
+    "period": "《古事记》712年；《日本书纪》720年；后世祭祀与解释不断发展",
+    "summary": "日本神话的重要书面线索来自《古事记》和《日本书纪》，两者保存了相近又并不一致的神代叙事。列岛生成、天照与须佐之男的冲突、出云的国土建设、天孙降临，构成从宇宙到王权谱系的连续故事。神道中的“神”（kami）不限于人格化天神，还与山川、祖先、共同体和祭祀场所有关。这里以经典叙事为主，不把全国各地活态信仰压成唯一神谱。",
+    "worldview": [
+      {
+        "title": "神的世界并非整齐的三层图",
+        "text": "高天原、苇原中国、黄泉以及根之国等空间承担不同叙事功能，边界不能总画成一个统一楼层表。黄泉与佛教地狱也不是同一概念。",
+        "source": "jp-chamberlain"
+      },
+      {
+        "title": "生成、污秽与祓除",
+        "text": "伊邪那岐从黄泉返回后行禊，三贵子由净化行动产生。此处关注死亡污秽与恢复秩序；污秽不简单等于道德犯罪。",
+        "source": "jp-izanagi"
+      },
+      {
+        "title": "天孙谱系与国土让渡",
+        "text": "出云的大国主先经营地上世界，随后让国于天神后裔；天孙降临把天界权威、土地与王室祖系相连。它是王权叙事，不能当作字面的迁徙档案。",
+        "source": "jp-chamberlain"
+      },
+      {
+        "title": "无数的神与地方实践",
+        "text": "“八百万神”表达众多而非精确数量。经典神谱只是神道生活的一部分；地方祭礼、神社缘起和佛教长期交流也参与塑造神的身份。",
+        "source": "jp-portal"
+      }
+    ],
+    "history": [
+      {
+        "title": "8世纪的编纂语境",
+        "text": "两部早期文献把口传、谱系和朝廷历史组织为文字，服务于秩序与身份建构。《日本书纪》常并列“一书曰”异文，是观察多种传统的入口。",
+        "source": "jp-izanagi"
+      },
+      {
+        "title": "伊势与出云",
+        "text": "天照关联伊势，大国主关联出云；这些地域祭祀传统在经典中被纳入同一政治宇宙，但并不意味着地方信仰从此没有差异。",
+        "source": "jp-amaterasu"
+      },
+      {
+        "title": "神佛习合与近代分离",
+        "text": "长期历史中神与佛可被解释为彼此显现；近代神佛分离改变了制度和空间。学习今天的神社图像时，应区分古典叙事、后世信仰与现代国家制度。",
+        "source": "jp-portal"
+      }
+    ],
+    "entities": [
+      {
+        "id": "japan-izanagi",
+        "name": "伊邪那岐",
+        "alias": "Izanagi",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "列岛生成与净化",
+        "summary": "与伊邪那美共同生国，后从黄泉归来。",
+        "detail": "《古事记》中，他洗左眼、右眼和鼻子分别产生天照、月读、须佐之男；《日本书纪》还有不同诞生版本，关系图采用《古事记》主线。",
+        "sources": [
+          "jp-izanagi"
+        ]
+      },
+      {
+        "id": "japan-izanami",
+        "name": "伊邪那美",
+        "alias": "Izanami",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "生育与黄泉",
+        "summary": "因生火神而死，成为黄泉叙事的中心。",
+        "detail": "伊邪那岐违背禁忌见到她死后的形貌，引发追逐和诀别；夫妻关于每日死亡与出生数量的对答解释人世生死持续。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-amaterasu",
+        "name": "天照大御神",
+        "alias": "Amaterasu",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "太阳与高天原",
+        "summary": "统领高天原，与皇室祖系相连。",
+        "detail": "躲入岩户使光明消失；众神用仪式与协作使她重现。作为天孙降临的授权者，她把太阳秩序与地上王权连接起来。",
+        "sources": [
+          "jp-amaterasu"
+        ]
+      },
+      {
+        "id": "japan-susanoo",
+        "name": "须佐之男",
+        "alias": "Susanoo",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "越界、风暴与英雄行动",
+        "summary": "既破坏高天原秩序，也在出云斩蛇救人。",
+        "detail": "他在天界的暴行和在人间的救援形成强烈反差，不能只用“邪神”概括。与大国主的关系在谱系和根之国故事中各有表达。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-okuninushi",
+        "name": "大国主",
+        "alias": "Ōkuninushi",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "国土经营与出云",
+        "summary": "经历迫害、试炼与婚姻后成为地上国土之主。",
+        "detail": "救助因幡白兔，接受须佐之男试炼，与少彦名经营国土，最终让国。其许多异名和婚姻网络反映地方传统的叠合。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-ninigi",
+        "name": "迩迩艺命",
+        "alias": "Ninigi",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "天孙降临",
+        "summary": "天照后裔，受命降临地上。",
+        "detail": "携神圣器物和随从降至日向，把王室祖系连接天界。与木花之佐久夜毗卖的婚姻同时解释繁荣与人寿有限的主题。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-tsukuyomi",
+        "name": "月读命",
+        "alias": "Tsukuyomi",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "月与夜",
+        "summary": "三贵子之一，在不同经典中的行动并不完全相同。",
+        "detail": "《古事记》叙述简略；《日本书纪》部分异文让月读杀死食物神。不可把其他版本里须佐之男的相似事件无说明地接入。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-uzume",
+        "name": "天宇受卖",
+        "alias": "Ame-no-Uzume",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "表演与仪式",
+        "summary": "在天岩户前以舞蹈引出众神欢笑。",
+        "detail": "她的身体表演属于恢复光明的集体仪式；天孙降临时又与猿田彦互动。后世表演与祭祀传统常将她作为重要祖神。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-omoikane",
+        "name": "思金神",
+        "alias": "Omoikane",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "策划与智慧",
+        "summary": "提出使天照离开岩户的方案。",
+        "detail": "故事中的光明恢复不是某一英雄独力完成，而是镜、勾玉、祭词、舞蹈和力量的协作。思金体现这一仪式智慧。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-tajikarao",
+        "name": "天手力男",
+        "alias": "Ame-no-Tajikarao",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "力量",
+        "summary": "天照探视岩户时将她拉出。",
+        "detail": "他的身体力量完成其他神的仪式策划，使太阳重返世界；适合与思金、天宇受卖共同观察行动分工。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-orochi",
+        "name": "八岐大蛇",
+        "alias": "Yamata-no-Orochi",
+        "kind": "异兽",
+        "tier": 2,
+        "domain": "水患与怪物",
+        "summary": "八头八尾的大蛇，吞噬少女。",
+        "detail": "须佐之男用酒使其沉醉后斩杀，在尾部发现后来称草薙的剑。可讨论蛇、水与地域想象，但不能把寓意假说说成唯一原意。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-kushinada",
+        "name": "栉名田比卖",
+        "alias": "Kushinadahime",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "救援与婚姻",
+        "summary": "遭大蛇威胁，后与须佐之男成婚。",
+        "detail": "被化为梳子藏起的情节与杀蛇英雄母题相连；她也是出云家族谱系的重要节点，不只是没有姓名的被救少女。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-sukunahikona",
+        "name": "少彦名",
+        "alias": "Sukunahikona",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "国土、医药与酒",
+        "summary": "小体形的神，与大国主合作经营土地。",
+        "detail": "乘奇特小舟出现，后来前往常世。其体量、跨海来历与专门知识构成独特文化英雄形象。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-sarutahiko",
+        "name": "猿田彦",
+        "alias": "Sarutahiko",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "道路与边界",
+        "summary": "迎接天孙下降的地上神。",
+        "detail": "在天与地的路口出现，担任引导角色。与天宇受卖的故事连接交通边界和仪式家系。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-konohana",
+        "name": "木花之佐久夜毗卖",
+        "alias": "Konohanasakuyahime",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "花、婚姻与生育",
+        "summary": "迩迩艺命之妻，在火中生子证明身份。",
+        "detail": "与姐姐石长比卖的命运相对照：花的繁盛短暂与岩石的长久成为人类寿命的解释框架。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-iwynaga",
+        "name": "石长比卖",
+        "alias": "Iwanagahime",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "长寿与岩石",
+        "summary": "被迩迩艺拒绝的姐姐。",
+        "detail": "父亲原意是让花的繁荣与石的长寿一并降临；拒绝石长的选择意味着后裔不能像岩石般长久。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-hoori",
+        "name": "火远理命",
+        "alias": "Hoori",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "山幸与海宫",
+        "summary": "丢失兄长鱼钩后进入海神宫殿。",
+        "detail": "与丰玉毗卖结婚，并借潮珠解决兄弟冲突。故事把陆地与海域的政治、婚姻和禁忌连接起来。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-toyotama",
+        "name": "丰玉毗卖",
+        "alias": "Toyotamahime",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "海域与王室祖系",
+        "summary": "海神之女，生产时要求丈夫不要窥视。",
+        "detail": "禁忌被破坏后她返回海域；跨界婚姻虽破裂，后裔谱系仍连接天、地、海三种权威。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-kagutsuchi",
+        "name": "迦具土",
+        "alias": "Kagutsuchi",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "火",
+        "summary": "出生烧伤母亲，后被父亲斩杀。",
+        "detail": "其死亡又产生众神，显示毁灭与生成紧密相连；火的两面性在此以家族悲剧的方式表达。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      },
+      {
+        "id": "japan-jimmu",
+        "name": "神武天皇",
+        "alias": "Jimmu",
+        "kind": "传说君主",
+        "tier": 2,
+        "domain": "东征与王统",
+        "summary": "经典中从神代谱系进入人间王统的首位天皇。",
+        "detail": "传统纪年并非现代史学证实的在位年代；东征故事体现王朝对地理中心和祖先合法性的解释。",
+        "sources": [
+          "jp-chamberlain"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "japan-izanagi",
+        "to": "japan-izanami",
+        "type": "配偶／生国",
+        "note": "共同完成列岛生成",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-izanagi",
+        "to": "japan-amaterasu",
+        "type": "生成",
+        "note": "《古事记》左眼行禊",
+        "source": "jp-izanagi"
+      },
+      {
+        "from": "japan-izanagi",
+        "to": "japan-tsukuyomi",
+        "type": "生成",
+        "note": "《古事记》右眼行禊",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-izanagi",
+        "to": "japan-susanoo",
+        "type": "生成",
+        "note": "《古事记》鼻部行禊",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-izanami",
+        "to": "japan-kagutsuchi",
+        "type": "母子",
+        "note": "生产导致伊邪那美死亡",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-amaterasu",
+        "to": "japan-susanoo",
+        "type": "手足／冲突",
+        "note": "誓约与岩户事件",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-amaterasu",
+        "to": "japan-ninigi",
+        "type": "祖孙",
+        "note": "中间一代是天忍穗耳命",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-uzume",
+        "to": "japan-amaterasu",
+        "type": "迎请",
+        "note": "天岩户前的舞蹈",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-omoikane",
+        "to": "japan-amaterasu",
+        "type": "谋划迎请",
+        "note": "集体恢复光明",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-tajikarao",
+        "to": "japan-amaterasu",
+        "type": "拉出岩户",
+        "note": "完成仪式行动",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-susanoo",
+        "to": "japan-orochi",
+        "type": "斩杀",
+        "note": "以酒使蛇沉醉",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-susanoo",
+        "to": "japan-kushinada",
+        "type": "婚姻",
+        "note": "斩蛇后的婚姻",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-okuninushi",
+        "to": "japan-sukunahikona",
+        "type": "合作",
+        "note": "共同经营国土",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-okuninushi",
+        "to": "japan-ninigi",
+        "type": "让国／继承",
+        "note": "让国先于天孙下降，并非两人直接同时谈判",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-ninigi",
+        "to": "japan-konohana",
+        "type": "婚姻",
+        "note": "火中生产故事",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-konohana",
+        "to": "japan-iwynaga",
+        "type": "姐妹",
+        "note": "花与石的寿命对照",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-ninigi",
+        "to": "japan-sarutahiko",
+        "type": "引路",
+        "note": "天孙下降",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-hoori",
+        "to": "japan-toyotama",
+        "type": "婚姻",
+        "note": "海宫婚姻与生产禁忌",
+        "source": "jp-chamberlain"
+      },
+      {
+        "from": "japan-hoori",
+        "to": "japan-jimmu",
+        "type": "祖孙",
+        "note": "中间一代为鸬鹚草葺不合尊",
+        "source": "jp-chamberlain"
+      }
+    ],
+    "events": [
+      {
+        "id": "japan-islands",
+        "title": "生国与生神",
+        "tier": 1,
+        "era": "《古事记》神代开端",
+        "summary": "伊邪那岐与伊邪那美以结合生成列岛和诸神。",
+        "detail": "国土以家族出生方式被叙述，地理因此具有亲缘秩序。先后次序、失败的初次结合与再行仪式，显示礼法在创世中的位置。",
+        "actors": [
+          "japan-izanagi",
+          "japan-izanami"
+        ],
+        "source": "jp-chamberlain"
+      },
+      {
+        "id": "japan-yomi",
+        "title": "黄泉诀别与禊",
+        "tier": 1,
+        "era": "《古事记》黄泉／禊段",
+        "summary": "伊邪那岐寻妻失败，返回后洗去污秽。",
+        "detail": "窥视禁忌被破坏，生死两界由巨石隔断。随后净化生出天照、月读与须佐之男，把死亡经历转化为新的宇宙秩序。",
+        "actors": [
+          "japan-izanagi",
+          "japan-izanami",
+          "japan-amaterasu",
+          "japan-tsukuyomi",
+          "japan-susanoo"
+        ],
+        "source": "jp-chamberlain"
+      },
+      {
+        "id": "japan-cave",
+        "title": "天岩户",
+        "tier": 1,
+        "era": "《古事记》天岩户段",
+        "summary": "天照隐去，众神合力恢复光明。",
+        "detail": "思金谋划，天宇受卖舞蹈，天手力男行动；镜与祭祀器物共同发挥作用。此故事适合从仪式分工观察神话，而非仅视作姐弟争吵。",
+        "actors": [
+          "japan-amaterasu",
+          "japan-susanoo",
+          "japan-uzume",
+          "japan-omoikane",
+          "japan-tajikarao"
+        ],
+        "source": "jp-chamberlain"
+      },
+      {
+        "id": "japan-serpent",
+        "title": "斩八岐大蛇",
+        "tier": 1,
+        "era": "《古事记》出云段",
+        "summary": "须佐之男救下栉名田，获得神剑。",
+        "detail": "离开天界的破坏者在地上转为救援者。后世把草薙剑纳入王权器物体系，给地方英雄故事增添国家性意义。",
+        "actors": [
+          "japan-susanoo",
+          "japan-kushinada",
+          "japan-orochi"
+        ],
+        "source": "jp-chamberlain"
+      },
+      {
+        "id": "japan-land",
+        "title": "大国主让国",
+        "tier": 1,
+        "era": "《古事记》国让段",
+        "summary": "地上国主与天神使者协商交出统治权。",
+        "detail": "传统并非只叙述天神直接征服空地，而是先承认出云经营者的功业。祭祀居所与政治统治的安排体现不同权威的重新配置。",
+        "actors": [
+          "japan-okuninushi",
+          "japan-amaterasu"
+        ],
+        "source": "jp-chamberlain"
+      },
+      {
+        "id": "japan-descent",
+        "title": "天孙降临",
+        "tier": 1,
+        "era": "《古事记》天孙降临段",
+        "summary": "迩迩艺受命下降日向。",
+        "detail": "神圣器物、随行神和引路者共同使天界秩序落地。地理坐标和祖系有强烈政治功能，不能按文本直读为可证实的历史年代。",
+        "actors": [
+          "japan-ninigi",
+          "japan-amaterasu",
+          "japan-sarutahiko",
+          "japan-uzume"
+        ],
+        "source": "jp-chamberlain"
+      },
+      {
+        "id": "japan-sea",
+        "title": "山幸海幸与海宫",
+        "tier": 2,
+        "era": "《古事记》山幸海幸段",
+        "summary": "火远理寻鱼钩进入海神世界，并与丰玉结缘。",
+        "detail": "潮汐宝珠解决兄弟争端，生产禁忌却造成夫妻分离；这个故事给后续王统补上来自海域的祖先联系。",
+        "actors": [
+          "japan-hoori",
+          "japan-toyotama",
+          "japan-jimmu"
+        ],
+        "source": "jp-chamberlain"
+      }
+    ],
+    "sources": [
+      {
+        "id": "jp-kojiki",
+        "title": "《古事记》原文与注释：天地初发",
+        "author": "国学院大学古典文化学事业",
+        "kind": "原典",
+        "url": "https://kojiki.kokugakuin.ac.jp/kojiki/%E5%A4%A9%E5%9C%B0%E5%88%9D%E7%99%BA/",
+        "note": "可切换校订本文、训读文和注释。"
+      },
+      {
+        "id": "jp-chamberlain",
+        "title": "The Kojiki",
+        "author": "B. H. Chamberlain 1882年英译／Sacred Texts",
+        "kind": "原典",
+        "url": "https://sacred-texts.com/book/the-kojiki-2",
+        "note": "早期公共领域译本；部分神名采用意译，需与现代研究对照。"
+      },
+      {
+        "id": "jp-amaterasu",
+        "title": "Amaterasu",
+        "author": "国学院大学 Encyclopedia of Shinto",
+        "kind": "学术",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9440",
+        "note": "天照诞生、神职与经典异文。"
+      },
+      {
+        "id": "jp-izanagi",
+        "title": "Izanagi",
+        "author": "国学院大学 Encyclopedia of Shinto",
+        "kind": "学术",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9385",
+        "note": "《古事记》与《日本书纪》的出生叙事差异。"
+      },
+      {
+        "id": "jp-portal",
+        "title": "Encyclopedia of Shinto",
+        "author": "国学院大学",
+        "kind": "学术",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/",
+        "note": "神名、祭祀、神社与神道史的专题索引。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "天地初發之時、於高天原成神名、天之御中主神。",
+        "source": "jp-kojiki",
+        "locator": "《古事记》上卷开篇",
+        "note": "天地初发时首先显现的神是天之御中主神；开篇还有高御产巢日、神产巢日等神，不能从伊邪那岐夫妇才开始全部神谱。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "顺着空间读经典",
+        "text": "高天原 → 黄泉 → 出云 → 日向 → 海宫。每到一处，问：谁拥有权威？用出生、契约还是武力取得？"
+      }
+    ],
+    "cautions": [
+      "《古事记》与《日本书纪》存在异文，本图不能替代所有版本。",
+      "神道不是一部有固定作者、统一教义的神话小说。",
+      "神武传统纪年不作考古学年代使用。"
+    ]
+  },
+  {
+    "id": "hindu",
+    "name": "印度教传统",
+    "en": "HINDU TRADITIONS",
+    "region": "南亚",
+    "coords": [
+      79,
+      23
+    ],
+    "depth": 2,
+    "color": "#dfaa68",
+    "tagline": "在宇宙的循环里，寻找行动与解脱",
+    "period": "吠陀、奥义书、史诗与往世书跨越不同时代；活态传统至今延续",
+    "summary": "印度教神话横跨许多语言、地区和宗派，不能只用“三相神”概括。吠陀祭祀、史诗伦理、往世书的宇宙循环与虔信实践相互交织。毗湿奴、湿婆与女神传统各能把自身所敬奉的神理解为最高实在。学习的主轴是法（dharma）、业与轮回、解脱，以及神如何通过化身和多重形态参与人间。本区以《薄伽梵歌》《罗摩衍那》与往世书叙事建立入口，神学差异予以保留。",
+    "worldview": [
+      {
+        "title": "法、业、轮回与解脱",
+        "text": "法包含秩序与处境中的义务，业涉及行动及其后果，轮回是生死持续，解脱指超越束缚。不同哲学对自我与最高实在有不同解释，不能把这些词缩成一套简单奖惩表。",
+        "source": "hi-gita"
+      },
+      {
+        "title": "循环的宇宙与多重世界",
+        "text": "往世书常以劫、世与周期性毁灭描述宇宙。一次世界的消亡未必等于绝对终结，而可接续新的生成；各文本的数字与世界结构需分别阅读。",
+        "source": "hi-vp"
+      },
+      {
+        "title": "化身与最高神",
+        "text": "毗湿奴以罗摩、克里希纳等化身维护法；湿婆及女神传统有自身的最高实在解释。三相神是有用的图像组合，却不能代表所有印度教徒的主要崇拜。",
+        "source": "hi-deities"
+      },
+      {
+        "title": "神像与观看",
+        "text": "多臂、坐骑、持物和姿态传达神的力量与故事。观看神像与接受神的目光（darśan）属于宗教关系，不只是欣赏一件装饰品。",
+        "source": "hi-met"
+      }
+    ],
+    "history": [
+      {
+        "title": "文本的层次",
+        "text": "吠陀、奥义书、两大史诗和往世书不是同时写定。后世故事会重新安排早期神祇的位置；例如因陀罗在吠陀与克里希纳故事中的地位并不相同。",
+        "source": "hi-vp"
+      },
+      {
+        "title": "寺庙、王权与地方传统",
+        "text": "神庙获得统治者、社群和个人支持；神像出巡、节庆和地方语言叙事让宇宙论进入公共生活。南印度舞王湿婆的铜像尤其与朱罗时期艺术相连。",
+        "source": "hi-shiva"
+      },
+      {
+        "title": "跨亚洲传播与改编",
+        "text": "罗摩故事随贸易、宫廷和表演传统传播到东南亚，不同社会会改写人物伦理、服饰与政治象征。相似角色可以比较，但不能认定所有版本完全同义。",
+        "source": "hi-rama"
+      }
+    ],
+    "entities": [
+      {
+        "id": "hindu-vishnu",
+        "name": "毗湿奴",
+        "alias": "Viṣṇu",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "维护与化身",
+        "summary": "在许多传统中以化身维护宇宙与人间的法。",
+        "detail": "常见图像持轮、螺、杵、莲，卧于舍沙之上。不同派别对克里希纳与毗湿奴的主从关系有不同说明；这里用便于比较的化身关系表示。",
+        "sources": [
+          "hi-vp"
+        ]
+      },
+      {
+        "id": "hindu-shiva",
+        "name": "湿婆",
+        "alias": "Śiva",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "毁灭、再生与修行",
+        "summary": "兼具苦行者、家长与宇宙舞者的面向。",
+        "detail": "舞王形象让创造、维持、破坏、遮蔽与恩典进入同一动作。把湿婆仅称“毁灭之神”会遗漏他的疗愈、慈悲和解脱面向。",
+        "sources": [
+          "hi-shiva"
+        ]
+      },
+      {
+        "id": "hindu-devi",
+        "name": "大女神",
+        "alias": "Devī / Śakti",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "神圣力量",
+        "summary": "女神传统以多种形态理解最高力量。",
+        "detail": "帕尔瓦蒂、难近母、迦梨等形态既可彼此关联，也有独立的叙事与崇拜。她们不是仅为男神提供配偶位置的附属角色。",
+        "sources": [
+          "hi-deities"
+        ]
+      },
+      {
+        "id": "hindu-krishna",
+        "name": "克里希纳",
+        "alias": "Kṛṣṇa",
+        "kind": "化身／神祇",
+        "tier": 1,
+        "domain": "虔信、牧歌与行动",
+        "summary": "既是牧童、王者，也是阿周那的御者和教导者。",
+        "detail": "童年盗乳、伏蛇、护牧民与战场说法表达不同层面的神圣关系；《薄伽梵歌》讨论行动、知识和虔信，不能只读成战争宣言。",
+        "sources": [
+          "hi-gita"
+        ]
+      },
+      {
+        "id": "hindu-rama",
+        "name": "罗摩",
+        "alias": "Rāma",
+        "kind": "化身／王子",
+        "tier": 1,
+        "domain": "王道与伦理困境",
+        "summary": "被流放后救回悉多，成为理想王者的重要形象。",
+        "detail": "史诗同时呈现服从父命、夫妻关系、政治声誉和个人痛苦的张力。不同地域版本会改变对罗摩决定的评价。",
+        "sources": [
+          "hi-rama"
+        ]
+      },
+      {
+        "id": "hindu-sita",
+        "name": "悉多",
+        "alias": "Sītā",
+        "kind": "王后／女神",
+        "tier": 1,
+        "domain": "忠贞、土地与尊严",
+        "summary": "罗摩之妻，遭罗波那劫至楞伽。",
+        "detail": "她在囚禁中拒绝罗波那，回归后的考验也引发长期伦理辩论；不应把她的意义简化为等待拯救的被动人物。",
+        "sources": [
+          "hi-rama"
+        ]
+      },
+      {
+        "id": "hindu-brahma",
+        "name": "梵天",
+        "alias": "Brahmā",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "创造",
+        "summary": "常以多面形象出现的创造神。",
+        "detail": "梵天与哲学概念梵（Brahman）不可混同；三相神图式中的位置也不等于现实崇拜中与毗湿奴、湿婆拥有相同规模。",
+        "sources": [
+          "hi-vp"
+        ]
+      },
+      {
+        "id": "hindu-lakshmi",
+        "name": "吉祥天女",
+        "alias": "Lakṣmī",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "繁荣与吉祥",
+        "summary": "与毗湿奴相伴，常持莲花。",
+        "detail": "搅乳海叙事中出现，是财富、王权与吉祥的象征。她在印度教中的位置应与佛教吸纳后的吉祥天信仰分别说明。",
+        "sources": [
+          "hi-vp"
+        ]
+      },
+      {
+        "id": "hindu-sarasvati",
+        "name": "辩才天女",
+        "alias": "Sarasvatī",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "语言、知识与音乐",
+        "summary": "常以琴与书卷表现知识和艺术。",
+        "detail": "其河流背景、言语力量与后世知识女神身份层层发展；在亚洲跨宗教传播后，还出现日本辩才天等不同形态。",
+        "sources": [
+          "hi-deities"
+        ]
+      },
+      {
+        "id": "hindu-parvati",
+        "name": "帕尔瓦蒂",
+        "alias": "Pārvatī",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "山岳、苦行与家庭",
+        "summary": "湿婆配偶，也是女神力量的重要形态。",
+        "detail": "通过苦行与湿婆结合，又与象头神、室建陀的家族叙事相连。家庭面向与独立力量不应被割裂。",
+        "sources": [
+          "hi-deities"
+        ]
+      },
+      {
+        "id": "hindu-durga",
+        "name": "难近母",
+        "alias": "Durgā",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "护世与战斗",
+        "summary": "以多臂持武器、驾狮或虎的形象降服魔敌。",
+        "detail": "与水牛魔的战斗表现女神独立完成诸神不能完成之事。它既是宇宙秩序故事，也构成重要节庆和图像传统。",
+        "sources": [
+          "hi-deities"
+        ]
+      },
+      {
+        "id": "hindu-kali",
+        "name": "迦梨",
+        "alias": "Kālī",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "时间与激烈护佑",
+        "summary": "以可畏形态消除魔障的女神。",
+        "detail": "血、头颅和战场意象不等于崇拜者把她理解为“邪恶女神”；不同修行与虔信传统也强调她作为母亲的慈悲。",
+        "sources": [
+          "hi-deities"
+        ]
+      },
+      {
+        "id": "hindu-ganesha",
+        "name": "象头神",
+        "alias": "Gaṇeśa",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "开端与除障",
+        "summary": "许多仪式和事业开始时受到礼敬。",
+        "detail": "象头、圆腹、鼠坐骑和甜食构成常见图像。关于断首再生、父母关系和诞生方式，诸往世书保留不同版本。",
+        "sources": [
+          "hi-deities"
+        ]
+      },
+      {
+        "id": "hindu-karttikeya",
+        "name": "室建陀",
+        "alias": "Skanda / Kārttikeya",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "战争与青年",
+        "summary": "常与孔雀、长矛联系。",
+        "detail": "在南印度以穆鲁甘等形式拥有深厚地方传统；不能只作为湿婆家庭中的次要儿子理解。",
+        "sources": [
+          "hi-deities"
+        ]
+      },
+      {
+        "id": "hindu-hanuman",
+        "name": "哈奴曼",
+        "alias": "Hanumān",
+        "kind": "神猴／英雄",
+        "tier": 1,
+        "domain": "忠诚、力量与服务",
+        "summary": "罗摩盟友，跨海寻找悉多。",
+        "detail": "他的力量与自我约束共同服务于虔信。焚烧楞伽、搬药山等片段在表演与图像中广泛传播，版本细节并不完全一致。",
+        "sources": [
+          "hi-rama"
+        ]
+      },
+      {
+        "id": "hindu-ravana",
+        "name": "罗波那",
+        "alias": "Rāvaṇa",
+        "kind": "罗刹王",
+        "tier": 1,
+        "domain": "楞伽与权力",
+        "summary": "劫持悉多的楞伽王，是罗摩的主要对手。",
+        "detail": "常见十首形象表现非凡力量。他也能是修行者和博学者；史诗的复杂敌手不能一概归为没有文化的怪物。",
+        "sources": [
+          "hi-rama"
+        ]
+      },
+      {
+        "id": "hindu-lakshmana",
+        "name": "罗什曼那",
+        "alias": "Lakṣmaṇa",
+        "kind": "王子",
+        "tier": 2,
+        "domain": "手足与护卫",
+        "summary": "陪伴罗摩流放、参与楞伽战役。",
+        "detail": "他的忠诚构成理想手足关系，也涉及愤怒、责任和救援。受重伤与寻药片段推动哈奴曼的重要行动。",
+        "sources": [
+          "hi-rama"
+        ]
+      },
+      {
+        "id": "hindu-arjuna",
+        "name": "阿周那",
+        "alias": "Arjuna",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "战争与伦理选择",
+        "summary": "面对亲族战争而犹疑的弓箭手。",
+        "detail": "他向克里希纳提出杀伤亲人与履行战士义务的矛盾，构成《薄伽梵歌》的叙事起点。问题的深度远超过胆怯与勇敢之分。",
+        "sources": [
+          "hi-gita"
+        ]
+      },
+      {
+        "id": "hindu-indra",
+        "name": "因陀罗",
+        "alias": "Indra",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "雷雨与天界王权",
+        "summary": "吠陀传统中的重要战神，后世常为诸天之王。",
+        "detail": "战胜弗栗多、释放水流是早期重要母题；在克里希纳护山故事中，他的骄傲又受到挑战，体现文本时代与神学焦点变化。",
+        "sources": [
+          "hi-vp"
+        ]
+      },
+      {
+        "id": "hindu-agni",
+        "name": "阿耆尼",
+        "alias": "Agni",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "火与祭祀",
+        "summary": "祭火连接祭献者与诸神。",
+        "detail": "火既是可见自然力量也是仪式媒介；在罗摩叙事中火也参与悉多的考验，不同文本对该段的伦理理解不能一概而论。",
+        "sources": [
+          "hi-rama"
+        ]
+      },
+      {
+        "id": "hindu-yama",
+        "name": "阎摩",
+        "alias": "Yama",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "死亡与亡者",
+        "summary": "与亡者领域和死后秩序相连。",
+        "detail": "印度教阎摩与佛教阎罗及中国地府系统有传播联系，但官署、审判细节和神谱不能互相原样套用。",
+        "sources": [
+          "hi-vp"
+        ]
+      },
+      {
+        "id": "hindu-garuda",
+        "name": "迦楼罗",
+        "alias": "Garuḍa",
+        "kind": "神鸟",
+        "tier": 2,
+        "domain": "毗湿奴坐骑",
+        "summary": "常与蛇族构成对立关系的大鸟。",
+        "detail": "既有自己的家族与救母叙事，又作为毗湿奴坐骑出现；进入佛教天龙八部体系后，职能和解释有所变化。",
+        "sources": [
+          "hi-vp"
+        ]
+      },
+      {
+        "id": "hindu-shesha",
+        "name": "舍沙",
+        "alias": "Śeṣa / Ananta",
+        "kind": "神蛇",
+        "tier": 2,
+        "domain": "宇宙支撑",
+        "summary": "毗湿奴安卧其上的多头蛇。",
+        "detail": "无限、支撑和宇宙海的意象汇集在其身上；它不是所有蛇族的同义词，也不能与搅海绳索之蛇婆苏吉直接混同。",
+        "sources": [
+          "hi-vp"
+        ]
+      },
+      {
+        "id": "hindu-vasuki",
+        "name": "婆苏吉",
+        "alias": "Vāsuki",
+        "kind": "神蛇",
+        "tier": 3,
+        "domain": "搅海与蛇族",
+        "summary": "被诸神与阿修罗用作搅海绳索。",
+        "detail": "蛇身缠绕曼陀罗山，两阵营拉动以获得甘露；其位置和毒的出现随版本而异，适合与舍沙作图像对照。",
+        "sources": [
+          "hi-vp"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "hindu-vishnu",
+        "to": "hindu-krishna",
+        "type": "化身",
+        "note": "常见分类；克里希纳传统有自身最高神解释",
+        "source": "hi-vp"
+      },
+      {
+        "from": "hindu-vishnu",
+        "to": "hindu-rama",
+        "type": "化身",
+        "note": "罗摩作为维护法的化身",
+        "source": "hi-vp"
+      },
+      {
+        "from": "hindu-vishnu",
+        "to": "hindu-lakshmi",
+        "type": "配偶",
+        "note": "常见毗湿奴派叙事",
+        "source": "hi-vp"
+      },
+      {
+        "from": "hindu-vishnu",
+        "to": "hindu-garuda",
+        "type": "坐骑",
+        "note": "常见图像",
+        "source": "hi-vp"
+      },
+      {
+        "from": "hindu-vishnu",
+        "to": "hindu-shesha",
+        "type": "卧于其上",
+        "note": "宇宙海图像",
+        "source": "hi-vp"
+      },
+      {
+        "from": "hindu-shiva",
+        "to": "hindu-parvati",
+        "type": "配偶",
+        "note": "家族叙事",
+        "source": "hi-deities"
+      },
+      {
+        "from": "hindu-parvati",
+        "to": "hindu-ganesha",
+        "type": "母子",
+        "note": "诞生有异文",
+        "source": "hi-deities"
+      },
+      {
+        "from": "hindu-shiva",
+        "to": "hindu-karttikeya",
+        "type": "父子",
+        "note": "诞生过程各本不同",
+        "source": "hi-deities"
+      },
+      {
+        "from": "hindu-devi",
+        "to": "hindu-durga",
+        "type": "形态关联",
+        "note": "女神传统；非单一固定谱系",
+        "source": "hi-deities"
+      },
+      {
+        "from": "hindu-devi",
+        "to": "hindu-kali",
+        "type": "形态关联",
+        "note": "女神传统中的激烈面向",
+        "source": "hi-deities"
+      },
+      {
+        "from": "hindu-rama",
+        "to": "hindu-sita",
+        "type": "婚姻",
+        "note": "史诗中心关系",
+        "source": "hi-rama"
+      },
+      {
+        "from": "hindu-rama",
+        "to": "hindu-lakshmana",
+        "type": "兄弟",
+        "note": "共同流放与作战",
+        "source": "hi-rama"
+      },
+      {
+        "from": "hindu-rama",
+        "to": "hindu-hanuman",
+        "type": "盟友／虔信",
+        "note": "服务与护佑",
+        "source": "hi-rama"
+      },
+      {
+        "from": "hindu-rama",
+        "to": "hindu-ravana",
+        "type": "敌对",
+        "note": "楞伽战役",
+        "source": "hi-rama"
+      },
+      {
+        "from": "hindu-ravana",
+        "to": "hindu-sita",
+        "type": "劫持",
+        "note": "囚于楞伽",
+        "source": "hi-rama"
+      },
+      {
+        "from": "hindu-krishna",
+        "to": "hindu-arjuna",
+        "type": "御者／教导",
+        "note": "薄伽梵歌战场对话",
+        "source": "hi-gita"
+      },
+      {
+        "from": "hindu-krishna",
+        "to": "hindu-indra",
+        "type": "冲突／和解",
+        "note": "举山护牧民",
+        "source": "hi-vp"
+      },
+      {
+        "from": "hindu-vasuki",
+        "to": "hindu-vishnu",
+        "type": "搅海参与",
+        "note": "毗湿奴以龟形支撑山",
+        "source": "hi-vp"
+      }
+    ],
+    "events": [
+      {
+        "id": "hindu-churn",
+        "title": "搅乳海",
+        "tier": 1,
+        "era": "往世书宇宙叙事",
+        "summary": "诸神与阿修罗合作搅海，以求甘露。",
+        "detail": "山作搅棒、蛇作绳索；毒、宝物与吉祥天相继出现。合作与争夺同时存在，说明宇宙秩序的建立并非从来没有风险和竞争。",
+        "actors": [
+          "hindu-vishnu",
+          "hindu-vasuki",
+          "hindu-lakshmi",
+          "hindu-shiva"
+        ],
+        "source": "hi-vp"
+      },
+      {
+        "id": "hindu-exile",
+        "title": "罗摩流放与悉多被劫",
+        "tier": 1,
+        "era": "《罗摩衍那》阿逾陀／森林篇",
+        "summary": "王位继承的承诺迫使罗摩进入森林。",
+        "detail": "罗摩、悉多与罗什曼那共同流放，金鹿诱离与劫持引向楞伽战争。王室承诺、亲属关系与森林边界是这一长篇的结构基础。",
+        "actors": [
+          "hindu-rama",
+          "hindu-sita",
+          "hindu-lakshmana",
+          "hindu-ravana"
+        ],
+        "source": "hi-rama"
+      },
+      {
+        "id": "hindu-lanka",
+        "title": "渡海与楞伽战争",
+        "tier": 1,
+        "era": "《罗摩衍那》美妙／战争篇",
+        "summary": "哈奴曼找到悉多，盟军修桥渡海击败罗波那。",
+        "detail": "史诗把忠诚、战略、动物盟友和神圣力量织在一起。战争胜利之后仍有关于悉多身份、公众评价与君主义务的伦理危机。",
+        "actors": [
+          "hindu-rama",
+          "hindu-sita",
+          "hindu-hanuman",
+          "hindu-ravana"
+        ],
+        "source": "hi-rama"
+      },
+      {
+        "id": "hindu-gita",
+        "title": "俱卢之野的教诲",
+        "tier": 1,
+        "era": "《摩诃婆罗多》毗湿摩篇中的《薄伽梵歌》",
+        "summary": "阿周那放下弓，向克里希纳询问应当如何行动。",
+        "detail": "对话讨论不执著行动结果、自我、知识和虔信等道路。不同哲学传统对经文有不同注释，阅读应保留战场语境与解释史。",
+        "actors": [
+          "hindu-arjuna",
+          "hindu-krishna"
+        ],
+        "source": "hi-gita"
+      },
+      {
+        "id": "hindu-govardhana",
+        "title": "举起牧山",
+        "tier": 2,
+        "era": "《毗湿奴往世书》第V卷",
+        "summary": "克里希纳保护牧民免受因陀罗暴雨。",
+        "detail": "故事调整了神圣权威：高位天神也可能受骄傲驱使，而与社群亲近的神为他们提供庇护。它与牧区节庆及虔信情感相关。",
+        "actors": [
+          "hindu-krishna",
+          "hindu-indra"
+        ],
+        "source": "hi-vp"
+      },
+      {
+        "id": "hindu-nataraja",
+        "title": "宇宙之舞",
+        "tier": 1,
+        "era": "舞王图像；现存铜像约11世纪末",
+        "summary": "湿婆在火焰环中舞蹈。",
+        "detail": "鼓、火、无畏印、抬起的足与脚下被压制的无知，共同表达生成、毁灭和解脱。这是一种凝聚多重时间的图像，而非必须落在单一日期的事件。",
+        "actors": [
+          "hindu-shiva"
+        ],
+        "source": "hi-shiva"
+      },
+      {
+        "id": "hindu-durga-battle",
+        "title": "女神降服水牛魔",
+        "tier": 1,
+        "era": "女神传统；《女神颂》等",
+        "summary": "难近母接受诸神力量，战胜水牛魔。",
+        "detail": "多种武器与骑兽显示力量聚合。女神最终完成战斗，使保护世界与女性神圣主体性同时成为故事中心。",
+        "actors": [
+          "hindu-durga",
+          "hindu-devi"
+        ],
+        "source": "hi-deities"
+      }
+    ],
+    "sources": [
+      {
+        "id": "hi-met",
+        "title": "Hinduism and Hindu Art",
+        "author": "Vidya Dehejia／大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/essays/hinduism-and-hindu-art",
+        "note": "教义、人生目标、寺庙与图像。"
+      },
+      {
+        "id": "hi-gita",
+        "title": "《薄伽梵歌》4.7，梵文与多译本",
+        "author": "印度理工学院坎普尔 Gita Supersite",
+        "kind": "原典",
+        "url": "https://www.gitasupersite.iitk.ac.in/srimad?field_chapter_value=4&field_nsutra_value=7&language=dv&etgb=1",
+        "note": "可按章句切换；阅读化身、行动与法。"
+      },
+      {
+        "id": "hi-rama",
+        "title": "The Ramayan of Valmiki",
+        "author": "R. T. H. Griffith 英译／Sacred Texts",
+        "kind": "原典",
+        "url": "https://sacred-texts.com/book/ramayan-of-valmiki",
+        "note": "19世纪公共领域译本，罗摩史诗完整阅读入口。"
+      },
+      {
+        "id": "hi-vp",
+        "title": "The Vishnu Purana",
+        "author": "H. H. Wilson 英译／Sacred Texts",
+        "kind": "原典",
+        "url": "https://sacred-texts.com/book/the-vishnu-purana",
+        "note": "毗湿奴传统宇宙论、诸化身和克里希纳叙事。"
+      },
+      {
+        "id": "hi-shiva",
+        "title": "Shiva as Lord of Dance (Nataraja)，1987.80.1",
+        "author": "大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/art/collection/search/39328",
+        "note": "约11世纪末泰米尔铜像；图像公开领域。"
+      },
+      {
+        "id": "hi-deities",
+        "title": "Hindu deities",
+        "author": "大英图书馆／Smarthistory",
+        "kind": "学术",
+        "url": "https://smarthistory.org/hindu-deities/",
+        "note": "不同虔信传统与神像解释。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।",
+        "source": "hi-gita",
+        "locator": "《薄伽梵歌》4.7前半偈",
+        "note": "意译：每当法衰败之时，婆罗多族的后裔啊……后文转向神的显现。此处的法兼有伦理、秩序与职责含义。"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39328/154124/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/39328",
+        "title": "舞王湿婆",
+        "credit": "印度泰米尔地区，约11世纪末；The Met，1987.80.1",
+        "license": "Public Domain（馆藏页标示）",
+        "caption": "火环、鼓与抬足把循环时间和解脱凝聚为一幅图像。",
+        "local": "assets/images/0dc2c70cb1b8c4f9.jpg"
+      }
+    ],
+    "reading": [
+      {
+        "title": "两条路线交叉阅读",
+        "text": "伦理线：《罗摩衍那》→《薄伽梵歌》；宇宙线：搅乳海→毗湿奴化身→舞王湿婆。比较“维持秩序”究竟意味着什么。"
+      }
+    ],
+    "cautions": [
+      "印度教梵天与哲学概念“梵”不同。",
+      "天龙八部是佛教分类，不是印度教唯一神谱。",
+      "仍在实践的宗教传统远多于本区选取的故事与神名。"
+    ]
+  },
+  {
+    "id": "maya",
+    "name": "玛雅神话",
+    "en": "MAYA TRADITIONS",
+    "region": "危地马拉高地与墨西哥东南部",
+    "coords": [
+      -90,
+      17.5
+    ],
+    "depth": 2,
+    "color": "#67b5aa",
+    "tagline": "言语唤醒世界，玉米成为血肉",
+    "period": "古典低地玛雅图像（约250—900年）；基切玛雅《波波尔·乌》殖民初期记写",
+    "summary": "玛雅不是已经消失的单一国家，而是具有多种语言、城邦历史与活态传统的文化世界。本卷以危地马拉高地基切玛雅《波波尔·乌》的创世、英雄双子与祖先故事为阅读主线，同时用低地古典玛雅雨神、玉米神实物作图像对照。两类材料有联系，但不能把相隔地区与时代的全部神名拼成一套固定家谱。",
+    "worldview": [
+      {
+        "title": "玛雅：言语、玉米与人的形成",
+        "text": "《波波尔·乌》中造人经历失败和修正，最终以玉米形成能记忆、言说并敬奉创造者的人。它是基切玛雅的特定文本，不能自动代表所有时期全部玛雅人的相同教义。",
+        "source": "me-pv"
+      },
+      {
+        "title": "冥界是一套考验空间",
+        "text": "希巴尔巴有自己的统治者、道路与试炼屋。英雄双子的胜利依靠辨识、计谋、表演和复生，不能简单等同善神正面击败恶魔的单次战争。",
+        "source": "me-spence"
+      },
+      {
+        "title": "季节、王权与玉米神",
+        "text": "低地玛雅艺术将玉米的萌发与再生表现为神的身体和装束，并由统治者参与这一形象。图像可与《波波尔·乌》比较，却不能未经论证就把每件玉米神雕像认定为一胡纳普。",
+        "source": "me-maize"
+      },
+      {
+        "title": "共享图像不等于同一个神",
+        "text": "羽蛇、雨神、玉米神在不同语言、地域与时代有不同身份。库库尔坎、古库马茨与克察尔科亚特尔可以比较，但不应画成一位角色的无条件别名。",
+        "source": "me-maize"
+      }
+    ],
+    "history": [
+      {
+        "title": "玉米、雨水与城市生活",
+        "text": "农业、季节雨和统治者组织仪式的能力密切相关；神像和建筑将自然力量变成可见秩序。雨神与玉米神图像既涉及生存，也涉及王权。",
+        "source": "me-chaak"
+      },
+      {
+        "title": "殖民期文献的双重价值",
+        "text": "许多叙事在征服后以拉丁字母记下，或经修士抄写保存。它们珍贵地保留原住民知识，同时需要考虑翻译、传教和政治语境。",
+        "source": "me-pv"
+      },
+      {
+        "title": "玛雅社群延续至今",
+        "text": "古典期一些城市衰落与人口迁移，不等于玛雅人消失。殖民暴力和宗教转换改变了表达方式，但语言、农业知识、仪式与对祖先的记忆持续存在。",
+        "source": "me-pv"
+      }
+    ],
+    "entities": [
+      {
+        "id": "mesoamerica-hunahpu",
+        "name": "胡纳普",
+        "alias": "Hunahpu",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "基切玛雅／英雄双子",
+        "summary": "与兄弟一起进入希巴尔巴，反转前代失败。",
+        "detail": "他与兄弟共同降服自夸的七鹦鹉，又在冥界利用牺牲、复生和表演击败统治者。不要把双子直接与所有古典期球赛图像一一对应。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-xbalanque",
+        "name": "伊斯巴兰克",
+        "alias": "Xbalanque",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "基切玛雅／英雄双子",
+        "summary": "英雄双子的另一位，善用策略。",
+        "detail": "双子往往作为协作主体行动；名字的语源与图像认定存在研究问题。阅读重点是他们如何识破冥界试炼和改变游戏规则。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-hunhunahpu",
+        "name": "一胡纳普",
+        "alias": "One Hunahpu",
+        "kind": "英雄／祖先",
+        "tier": 2,
+        "domain": "基切玛雅／前代球手",
+        "summary": "双子之父，进入冥界后被杀。",
+        "detail": "头颅置于树上，随后引出血月怀孕的故事。古典玛雅玉米神与他之间有比较关系，但不应把所有相关图像都作确定同一。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-xquic",
+        "name": "血月",
+        "alias": "Xquic / Lady Blood",
+        "kind": "祖先",
+        "tier": 2,
+        "domain": "基切玛雅／母亲",
+        "summary": "与树上头颅相遇后怀下双子。",
+        "detail": "她在被指控和驱逐后通过考验进入祖母家庭。其行动把冥界与地上连接起来，也是英雄家族延续不可缺的部分。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-xmucane",
+        "name": "伊斯穆卡内",
+        "alias": "Xmucane",
+        "kind": "神祇／祖先",
+        "tier": 1,
+        "domain": "基切玛雅／祖母与造人",
+        "summary": "参与造人并养育英雄双子的祖母。",
+        "detail": "她研磨玉米的行动将食物与人类肉身直接相连；家务、占卜、农业与宇宙创造在此没有现代式的严格分隔。",
+        "sources": [
+          "me-pv"
+        ]
+      },
+      {
+        "id": "mesoamerica-huracan",
+        "name": "胡拉坎",
+        "alias": "Huracan / Heart of Sky",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "基切玛雅／天空之心",
+        "summary": "与创造世界、风暴和造人商议有关。",
+        "detail": "“天空之心”包含复合的表现与称谓；不能把它只压缩成现代气象意义的飓风神，也不等于整个玛雅区唯一至高神。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-gucumatz",
+        "name": "古库马茨",
+        "alias": "Q’uq’umatz",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "基切玛雅／羽蛇",
+        "summary": "《波波尔·乌》开篇创造者中的羽蛇。",
+        "detail": "与“主宰”等称谓并列商议生成世界；与尤卡坦库库尔坎或纳瓦羽蛇神有可比性，却属于不同语言和文本环境。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-sevencaw",
+        "name": "七鹦鹉",
+        "alias": "Vucub-Caquix",
+        "kind": "异兽／敌手",
+        "tier": 2,
+        "domain": "基切玛雅／虚假荣耀",
+        "summary": "自称太阳月亮般灿烂的鸟形强者。",
+        "detail": "双子用计夺去其光耀与力量，揭露把财富和外在光彩当作最高权威的虚假主张。其儿子西帕克纳与卡布拉坎另有降服故事。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-hun-came",
+        "name": "一死",
+        "alias": "Hun-Came",
+        "kind": "冥界主",
+        "tier": 2,
+        "domain": "基切玛雅／希巴尔巴",
+        "summary": "与七死共同统治冥界。",
+        "detail": "通过球赛和试炼杀害前代英雄，却在双子的复生表演中误判力量，最终失去权威。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-vucub-came",
+        "name": "七死",
+        "alias": "Vucub-Came",
+        "kind": "冥界主",
+        "tier": 3,
+        "domain": "基切玛雅／希巴尔巴",
+        "summary": "冥界主之一，与一死结对出现。",
+        "detail": "成对命名是本书组织人物的方式；它不意味着两人就是现代意义上分别统辖七个地狱的君主。",
+        "sources": [
+          "me-spence"
+        ]
+      },
+      {
+        "id": "mesoamerica-chaak",
+        "name": "恰克",
+        "alias": "Chahk / Chaak",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "低地玛雅／雨与雷",
+        "summary": "常持斧、具有突出面部特征的雨神。",
+        "detail": "不同方位与表现形态可形成复数雨神。斧击、雷声、雨水与农业生长共同构成图像语汇；具体雕像应回到其出土地与年代。",
+        "sources": [
+          "me-chaak"
+        ]
+      },
+      {
+        "id": "mesoamerica-maize",
+        "name": "玉米神",
+        "alias": "Maya Maize God",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "古典玛雅／再生与王权",
+        "summary": "在植物、青年身体和统治者装扮间显现。",
+        "detail": "玉米的埋藏、萌芽与成熟适合表达死亡和再生。古典玛雅王者以玉米神要素装扮，宣示对土地与群体繁荣的责任。",
+        "sources": [
+          "me-maize"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "mesoamerica-hunahpu",
+        "to": "mesoamerica-xbalanque",
+        "type": "双生手足",
+        "note": "《波波尔·乌》",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-hunhunahpu",
+        "to": "mesoamerica-hunahpu",
+        "type": "父子",
+        "note": "前代与后代英雄",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-hunhunahpu",
+        "to": "mesoamerica-xbalanque",
+        "type": "父子",
+        "note": "前代与后代英雄",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-xquic",
+        "to": "mesoamerica-hunahpu",
+        "type": "母子",
+        "note": "血月怀孕叙事",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-xquic",
+        "to": "mesoamerica-xbalanque",
+        "type": "母子",
+        "note": "血月怀孕叙事",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-xmucane",
+        "to": "mesoamerica-hunahpu",
+        "type": "祖母与孙",
+        "note": "家族养育",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-hunahpu",
+        "to": "mesoamerica-sevencaw",
+        "type": "降服",
+        "note": "反对虚假的光耀",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-xbalanque",
+        "to": "mesoamerica-hun-came",
+        "type": "智取",
+        "note": "冥界试炼与复生表演",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-hun-came",
+        "to": "mesoamerica-vucub-came",
+        "type": "共同统治",
+        "note": "希巴尔巴的成对冥王",
+        "source": "me-spence"
+      },
+      {
+        "from": "mesoamerica-huracan",
+        "to": "mesoamerica-gucumatz",
+        "type": "创造合作",
+        "note": "基切玛雅创造者集合",
+        "source": "me-spence"
+      }
+    ],
+    "events": [
+      {
+        "id": "mesoamerica-humans",
+        "title": "数次造人与玉米之人",
+        "tier": 1,
+        "era": "基切玛雅《波波尔·乌》",
+        "summary": "木人等尝试失败后，以玉米造出人类。",
+        "detail": "“人”不仅要有外形，还应能言说、记忆与承认创造者。玉米把农业劳动、祖先和身体连为一体，适合与其他文化的泥土造人母题比较。",
+        "actors": [
+          "mesoamerica-huracan",
+          "mesoamerica-gucumatz",
+          "mesoamerica-xmucane"
+        ],
+        "source": "me-pv"
+      },
+      {
+        "id": "mesoamerica-false-sun",
+        "title": "击败七鹦鹉",
+        "tier": 2,
+        "era": "《波波尔·乌》英雄双子早期行动",
+        "summary": "双子使冒充太阳月亮的强者失去光耀。",
+        "detail": "战胜不是单纯蛮力，而借助欺骗、医治伪装与亲属合作；故事为真正的宇宙光明到来清除错误权威。",
+        "actors": [
+          "mesoamerica-hunahpu",
+          "mesoamerica-xbalanque",
+          "mesoamerica-sevencaw"
+        ],
+        "source": "me-spence"
+      },
+      {
+        "id": "mesoamerica-xibalba",
+        "title": "冥界球赛与复生",
+        "tier": 1,
+        "era": "《波波尔·乌》希巴尔巴段",
+        "summary": "双子识破试炼，用自身死亡与复生改变局势。",
+        "detail": "父辈曾被同一套试炼杀害；后代通过观察、替身、动物协助和表演把死亡的主宰引入圈套。球场是宇宙秩序竞争的舞台。",
+        "actors": [
+          "mesoamerica-hunahpu",
+          "mesoamerica-xbalanque",
+          "mesoamerica-hun-came",
+          "mesoamerica-vucub-came"
+        ],
+        "source": "me-spence"
+      }
+    ],
+    "sources": [
+      {
+        "id": "me-pv",
+        "title": "Popol Vuh: Sacred Book of the Quiché Maya People",
+        "author": "Allen J. Christenson／Mesoweb",
+        "kind": "原典",
+        "url": "https://www.mesoweb.com/publications/Christenson/PopolVuh.pdf",
+        "note": "2007电子版，含译文与注；本文只作短引，完整内容请读原书。"
+      },
+      {
+        "id": "me-spence",
+        "title": "The Popul Vuh",
+        "author": "Lewis Spence 1908／Sacred Texts",
+        "kind": "参考",
+        "url": "https://sacred-texts.com/book/the-popol-vuh/the-popul-vuh-by-lewis-spence",
+        "note": "公共领域早期概述；旧式民族学评论需谨慎，不作现代学术定论。"
+      },
+      {
+        "id": "me-chaak",
+        "title": "Chahk (rain god)，309404",
+        "author": "大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/art/collection/search/309404",
+        "note": "雨神雕刻，考古地理与图像特征。"
+      },
+      {
+        "id": "me-maize",
+        "title": "Pair of carved ornaments with the Maize God，317760",
+        "author": "大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/art/collection/search/317760",
+        "note": "玉米神与古典玛雅王权图像。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Their flesh was merely yellow ears of maize and white ears of maize.",
+        "source": "me-pv",
+        "locator": "Christenson译《波波尔·乌》，书内第181页（PDF第181页索引180）",
+        "note": "意译：他们的血肉只是黄玉米和白玉米。句子处在最终造人段，农业在这里就是人的身体来源。"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/309404/662095/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/309404",
+        "title": "持斧的玛雅雨神恰克",
+        "credit": "玛雅艺术家，800—1000年；The Met，66.181",
+        "license": "Public Domain（馆藏页标示）",
+        "caption": "斧象征雷电；雕像的建筑尺度与服饰提示其宫廷环境。",
+        "local": "assets/images/e11ff60a466d55e8.jpg"
+      }
+    ],
+    "reading": [
+      {
+        "title": "分三条线阅读",
+        "text": "先读创造者与造人，再读双子家族和希巴尔巴，最后比较雨神、玉米神实物。每次先辨认“基切文本”或“低地玛雅图像”，再建立联系。"
+      }
+    ],
+    "cautions": [
+      "《波波尔·乌》是基切玛雅的重要文本，不是全部玛雅社群的统一教典。",
+      "古典玛雅神名和图像识别会随文字释读推进；不把有争议的形象强行指定为人物头像。",
+      "长纪历周期更替不等于2012年末日预言；玛雅社群仍然存在。"
+    ]
+  },
+  {
+    "id": "aztec",
+    "name": "阿兹特克 · 墨西加",
+    "en": "AZTEC / MEXICA",
+    "region": "墨西哥中部高原与墨西哥谷",
+    "coords": [
+      -99,
+      20
+    ],
+    "depth": 2,
+    "color": "#d49b65",
+    "tagline": "诸太阳更替，城邦在神谕中生长",
+    "period": "后古典期墨西加，特诺奇蒂特兰与三方同盟；16世纪殖民期文献",
+    "summary": "本卷聚焦墨西加及相邻纳瓦传统，解释诸太阳、羽蛇神取骨造人、维齐洛波奇特利的出生战斗，以及特诺奇蒂特兰的建城记忆。“阿兹特克”是常用总称，墨西加是更具体的历史群体。神话与农业、战争、历法、统治者的祭祀责任紧密相连；阅读时并列参考原住民抄本、殖民期记述与考古遗存。它与玛雅同属中美洲文化区，仍是独立的语言和叙事传统。",
+    "worldview": [
+      {
+        "title": "墨西加：多次世界与延续太阳",
+        "text": "“诸太阳”传统描述先前世界的毁灭与当前太阳的形成。神的自我牺牲及人的仪式责任联系起来；各资料的顺序、参与者与细节存在差异。",
+        "source": "me-aztec"
+      },
+      {
+        "title": "取骨、流血与新的人类",
+        "text": "羽蛇神取回旧世界的骨骸，造人的叙事把人类生命与前代遗存、神的行动连在一起。这与玛雅玉米造人是可以比较的不同故事。",
+        "source": "me-aztec"
+      },
+      {
+        "title": "神祇具有多重面貌",
+        "text": "神名、服饰、历法身份与仪式角色有重叠和变体；某些图像由祭司或扮神者穿戴。关系图呈现常见叙事联系，并不意味着每位神只有一个固定人格或标准家谱。",
+        "source": "me-gods"
+      },
+      {
+        "title": "水、战争与宇宙维持",
+        "text": "大神庙将雨神特拉洛克与墨西加守护神维齐洛波奇特利并置，使雨水农业、战争和政治中心在建筑中相遇。祭祀需要结合当地观念、实际政治与殖民期记录者的立场理解。",
+        "source": "me-aztec"
+      }
+    ],
+    "history": [
+      {
+        "title": "帝国中心与湖上城市",
+        "text": "特诺奇蒂特兰的神圣起源与湖区城市建设、迁徙记忆和政治权力交织。鹰与仙人掌的象征后来进入墨西哥国家图像，其叙事和画面细节存在版本差别。",
+        "source": "me-lacma"
+      },
+      {
+        "title": "地下遗存校对书面记述",
+        "text": "大神庙的发掘及科约尔沙乌基石雕使研究者能把建筑空间、祭祀材料与出生战斗并读；实物也提醒我们，神话并非只有抄本中的文字。",
+        "source": "me-aztec"
+      },
+      {
+        "title": "殖民期文本与当代记忆",
+        "text": "许多神话由原住民画师、纳瓦语记述者与西班牙修士在殖民环境中共同保存。应辨认不同作者与文类，既不把它们视为无损的古代录音，也不因此抹除原住民知识的延续。",
+        "source": "me-gods"
+      }
+    ],
+    "entities": [
+      {
+        "id": "mesoamerica-quetzalcoatl",
+        "name": "克察尔科亚特尔",
+        "alias": "Quetzalcoatl",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "墨西加／羽蛇与风",
+        "summary": "与风、知识、文化秩序和创造有关。",
+        "detail": "其名称和形象也见于更早的中美洲传统；神、祭司头衔与托尔特克文化英雄叙事互相交错，需要按来源区分。",
+        "sources": [
+          "me-aztec"
+        ]
+      },
+      {
+        "id": "mesoamerica-tezcatlipoca",
+        "name": "特斯卡特利波卡",
+        "alias": "Tezcatlipoca",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "墨西加／烟镜与权力",
+        "summary": "与命运、统治和危险的神圣力量相关。",
+        "detail": "常见烟镜与缺足等图像标志；与羽蛇神既有冲突也共同参与创造。善恶二分不足以解释这种多面神圣权力。",
+        "sources": [
+          "me-aztec"
+        ]
+      },
+      {
+        "id": "mesoamerica-huitzilopochtli",
+        "name": "维齐洛波奇特利",
+        "alias": "Huitzilopochtli",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "墨西加／护佑、战争与太阳",
+        "summary": "墨西加社群的核心护佑神。",
+        "detail": "指导迁徙和建城，出生战斗又与大神庙的空间相连。其太阳和战争面向连接帝国扩张、祭祀与社群身份。",
+        "sources": [
+          "me-lacma"
+        ]
+      },
+      {
+        "id": "mesoamerica-tlaloc",
+        "name": "特拉洛克",
+        "alias": "Tlaloc",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "墨西加／雨与农业",
+        "summary": "以环眼、獠牙等特征被识别的雨神。",
+        "detail": "雨既带来粮食，也可带来危险；其祭祀与山、湖和农业紧密相连。在特诺奇蒂特兰大神庙与战争护佑神并置，显示帝国两种生存支柱。",
+        "sources": [
+          "me-aztec"
+        ]
+      },
+      {
+        "id": "mesoamerica-coatlicue",
+        "name": "科亚特利库埃",
+        "alias": "Coatlicue",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "墨西加／母性与大地",
+        "summary": "维齐洛波奇特利之母，常以蛇裙形象出现。",
+        "detail": "怀孕引起子女愤怒，最终导致科阿特佩克山上的战斗。著名雕塑结合生命和死亡元素，不能只当作恐怖怪物。",
+        "sources": [
+          "me-gods"
+        ]
+      },
+      {
+        "id": "mesoamerica-coyolxauhqui",
+        "name": "科约尔沙乌基",
+        "alias": "Coyolxauhqui",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "墨西加／战败的女神",
+        "summary": "率领手足反对母亲，却被新生的维齐洛波奇特利击败。",
+        "detail": "肢解形象出现在大神庙相关石雕上，使神话战斗与祭祀建筑的上下关系相互映照。",
+        "sources": [
+          "me-gods"
+        ]
+      },
+      {
+        "id": "mesoamerica-mictlantecuhtli",
+        "name": "米克特兰特库特利",
+        "alias": "Mictlantecuhtli",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "墨西加／亡者领域",
+        "summary": "米克特兰的统治者。",
+        "detail": "羽蛇神取骨造人的故事需要与亡者之主交涉。墨西加死后去处并非一律按生前道德善恶分配，死亡方式也十分重要。",
+        "sources": [
+          "me-aztec"
+        ]
+      },
+      {
+        "id": "mesoamerica-xipe",
+        "name": "希佩托特克",
+        "alias": "Xipe Totec",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "墨西加／更新与剥皮仪式",
+        "summary": "与更新、祭仪及特定神像装束相关。",
+        "detail": "其图像与仪式令人不适，却需在当地历史语境下研究；不能仅用现代恐怖审美代替对社会和宗教功能的解释。",
+        "sources": [
+          "me-aztec"
+        ]
+      },
+      {
+        "id": "aztec-nanahuatzin",
+        "name": "纳纳瓦津",
+        "alias": "Nanahuatzin／Nanáhuatl",
+        "kind": "神",
+        "tier": 1,
+        "domain": "投火与太阳",
+        "summary": "外表卑微却先投入神火，使当前太阳得以出现。",
+        "detail": "常见叙事以他与富有的特库西斯特卡特尔形成对照。勇于奉献是这一段的核心；太阳诞生、命名和开始移动在不同纳瓦文献中有细节差别。",
+        "sources": [
+          "az-sun",
+          "az-xolotl"
+        ]
+      },
+      {
+        "id": "aztec-tecuciztecatl",
+        "name": "特库西斯特卡特尔",
+        "alias": "Tecuciztecatl",
+        "kind": "神",
+        "tier": 2,
+        "domain": "投火与月亮",
+        "summary": "踌躇后跟随纳纳瓦津投火，在常见版本中成为月亮。",
+        "detail": "故事将外在财富与行动的勇气分开，也解释太阳与月亮为何亮度有别。不能用此故事概括所有中美洲太阳月亮神话。",
+        "sources": [
+          "az-xolotl"
+        ]
+      },
+      {
+        "id": "aztec-tonatiuh",
+        "name": "托纳蒂乌",
+        "alias": "Tonatiuh",
+        "kind": "神",
+        "tier": 1,
+        "domain": "太阳与运行",
+        "summary": "纳瓦传统中的太阳神，关联世界的光明和运行。",
+        "detail": "当前太阳常与纳纳瓦津投火相连。“太阳”又可指一个世界纪元，阅读时须区分天体、神格与时代三种用法。太阳石中央面孔的识别存在研究讨论，不直接将其当无争议肖像。",
+        "sources": [
+          "az-sun",
+          "me-aztec"
+        ]
+      },
+      {
+        "id": "aztec-chalchiuhtlicue",
+        "name": "查尔丘特利奎",
+        "alias": "Chalchiuhtlicue",
+        "kind": "女神",
+        "tier": 2,
+        "domain": "地表水",
+        "summary": "名字意为“身穿玉裙者”，与河流、湖泊等水域相关。",
+        "detail": "出土石雕可依服饰识别其水女神身份。她与特拉洛克同处水和生育的祭祀领域，但不同材料对亲属关系并不一致，本卷不强行固定夫妻谱系。",
+        "sources": [
+          "az-water"
+        ]
+      },
+      {
+        "id": "aztec-xolotl",
+        "name": "索洛特尔",
+        "alias": "Xólotl",
+        "kind": "神",
+        "tier": 2,
+        "domain": "犬、变化与太阳历程",
+        "summary": "常以犬的特征呈现，与双重性、变化和太阳故事相关。",
+        "detail": "有关他逃避牺牲、变化形体及太阳运动的材料存在多层解释。不要把现代墨西哥无毛犬的形象直接当成所有古代叙事中的固定外貌。",
+        "sources": [
+          "az-xolotl"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "mesoamerica-coatlicue",
+        "to": "mesoamerica-huitzilopochtli",
+        "type": "母子",
+        "note": "科阿特佩克出生故事",
+        "source": "me-gods"
+      },
+      {
+        "from": "mesoamerica-coatlicue",
+        "to": "mesoamerica-coyolxauhqui",
+        "type": "母女",
+        "note": "出生战斗",
+        "source": "me-gods"
+      },
+      {
+        "from": "mesoamerica-huitzilopochtli",
+        "to": "mesoamerica-coyolxauhqui",
+        "type": "手足／敌对",
+        "note": "战败、肢解的神话",
+        "source": "me-gods"
+      },
+      {
+        "from": "mesoamerica-quetzalcoatl",
+        "to": "mesoamerica-tezcatlipoca",
+        "type": "合作／对抗",
+        "note": "不同创世与文化英雄版本",
+        "source": "me-aztec"
+      },
+      {
+        "from": "mesoamerica-quetzalcoatl",
+        "to": "mesoamerica-mictlantecuhtli",
+        "type": "交涉／冲突",
+        "note": "取骨造人",
+        "source": "me-aztec"
+      },
+      {
+        "from": "mesoamerica-huitzilopochtli",
+        "to": "mesoamerica-tlaloc",
+        "type": "祭祀并置",
+        "note": "大神庙双神殿；不是亲属关系",
+        "source": "me-aztec"
+      },
+      {
+        "from": "aztec-nanahuatzin",
+        "to": "aztec-tecuciztecatl",
+        "type": "投火的对照",
+        "note": "先后投火，形成太阳和月亮的常见版本",
+        "source": "az-xolotl"
+      },
+      {
+        "from": "aztec-nanahuatzin",
+        "to": "aztec-tonatiuh",
+        "type": "成为太阳",
+        "note": "当前太阳的起源，不表示所有时期神名完全等同",
+        "source": "az-sun"
+      },
+      {
+        "from": "aztec-chalchiuhtlicue",
+        "to": "mesoamerica-tlaloc",
+        "type": "水域与雨的关联",
+        "note": "祭祀领域相连；不固定为唯一婚姻谱系",
+        "source": "az-water"
+      }
+    ],
+    "events": [
+      {
+        "id": "mesoamerica-sun",
+        "title": "诸太阳与当前世界",
+        "tier": 1,
+        "era": "墨西加／纳瓦宇宙叙事",
+        "summary": "多个前代世界遭毁灭，当前太阳依赖神的牺牲形成。",
+        "detail": "此处不是一条考古年代轴，而是解释世界为何不稳定、仪式为何必要的神圣时间。不同文献的参与神与顺序须对照阅读。",
+        "actors": [
+          "mesoamerica-quetzalcoatl",
+          "mesoamerica-tezcatlipoca",
+          "aztec-nanahuatzin",
+          "aztec-tecuciztecatl",
+          "aztec-tonatiuh"
+        ],
+        "source": "az-sun"
+      },
+      {
+        "id": "mesoamerica-birth-war",
+        "title": "科阿特佩克的出生战斗",
+        "tier": 1,
+        "era": "墨西加神话",
+        "summary": "维齐洛波奇特利出生即击败反对母亲的手足。",
+        "detail": "山顶出生与战败者坠落的结构，后来与大神庙建筑和石雕互相映照。宗教叙事也参与塑造墨西加统治的公共形象。",
+        "actors": [
+          "mesoamerica-coatlicue",
+          "mesoamerica-huitzilopochtli",
+          "mesoamerica-coyolxauhqui"
+        ],
+        "source": "me-gods"
+      },
+      {
+        "id": "mesoamerica-tenochtitlan",
+        "title": "神谕、鹰与特诺奇蒂特兰",
+        "tier": 1,
+        "era": "建城传说；殖民期《门多萨抄本》记录",
+        "summary": "迁徙者找到鹰立仙人掌的标志。",
+        "detail": "湖中建城的故事为政治中心赋予神圣起源。图像后世进入墨西哥国家象征，但各时期画面细节并不一模一样。",
+        "actors": [
+          "mesoamerica-huitzilopochtli"
+        ],
+        "source": "me-lacma"
+      },
+      {
+        "id": "mesoamerica-bones",
+        "title": "羽蛇神取骨造人",
+        "tier": 2,
+        "era": "纳瓦传统",
+        "summary": "克察尔科亚特尔进入亡者领域取回前代骨骸。",
+        "detail": "新的人类由旧世界的遗存生成，死亡与再生因此相连。应与基切玛雅的玉米造人并列比较，不能说成同一书中的连续章节。",
+        "actors": [
+          "mesoamerica-quetzalcoatl",
+          "mesoamerica-mictlantecuhtli"
+        ],
+        "source": "me-aztec"
+      }
+    ],
+    "sources": [
+      {
+        "id": "me-lacma",
+        "title": "The Aztec Gods",
+        "author": "洛杉矶郡艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.lacma.org/aztec-gods",
+        "note": "墨西加迁徙、建城与祭祀的介绍。"
+      },
+      {
+        "id": "me-aztec",
+        "title": "Art of Aztec Mexico",
+        "author": "美国国家美术馆",
+        "kind": "博物馆",
+        "url": "https://www.nga.gov/sites/default/files/migrate_images/content/dam/ngaweb/research/publications/pdfs/art-of-aztec-mexico.pdf",
+        "note": "展览图录；神祇、仪式与艺术。"
+      },
+      {
+        "id": "me-gods",
+        "title": "Los dioses de los mexicas",
+        "author": "Arqueología Mexicana",
+        "kind": "学术",
+        "url": "https://arqueologiamexicana.mx/mexico-antiguo/los-dioses-de-los-mexicas",
+        "note": "神名、神谱与科约尔沙乌基故事。"
+      },
+      {
+        "id": "az-sun",
+        "title": "El Quinto Sol",
+        "author": "Arqueología Mexicana／《诸太阳传说》选读",
+        "kind": "学术",
+        "url": "https://arqueologiamexicana.mx/mexico-antiguo/el-quinto-sol",
+        "note": "当前太阳的命名、火炉与特奥蒂瓦坎语境。"
+      },
+      {
+        "id": "az-xolotl",
+        "title": "Xólotl, el dios perro",
+        "author": "Arqueología Mexicana",
+        "kind": "学术",
+        "url": "https://arqueologiamexicana.mx/mexico-antiguo/xolotl-el-dios-perro",
+        "note": "讨论投火、太阳月亮、索洛特尔与运动符号的联系。"
+      },
+      {
+        "id": "az-water",
+        "title": "Chalchiuhtlicue，307651",
+        "author": "大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/art/collection/search/307651",
+        "note": "水女神的服饰、玉裙名称和石雕识别。"
+      }
+    ],
+    "quotes": [],
+    "images": [],
+    "reading": [
+      {
+        "title": "从城市回到宇宙",
+        "text": "先看大神庙双神殿和出生战斗，再读第五太阳与取骨造人，最后把建城传说与湖区历史并读。可在玛雅卷比较玉米、球赛和羽蛇母题，不把相似性画成同一神的别名。"
+      }
+    ],
+    "cautions": [
+      "阿兹特克、墨西加和纳瓦不是在所有语境中完全同义。",
+      "玛雅英雄双子不属于墨西加神谱；印加属于南美安第斯。",
+      "牺牲与战争应依据具体年代、地区和文类分析，避免把整个文化简化为单一暴力符号。"
+    ]
+  },
+  {
+    "id": "inca",
+    "name": "安第斯 · 印加",
+    "en": "ANDEAN & INKA",
+    "region": "南美安第斯",
+    "coords": [
+      -72,
+      -14
+    ],
+    "depth": 1,
+    "color": "#d6ba6c",
+    "tagline": "太阳的后裔，行走在有灵的山川之间",
+    "period": "印加帝国主要为15—16世纪；更早安第斯传统与殖民期记载并存",
+    "summary": "印加神圣世界围绕太阳、祖先、山川与库斯科展开，但帝国从未消除被纳入各社群的地方圣物和起源故事。瓦卡（wak’a）可以是山、泉、石、建筑或祖先遗存，是具有关系与力量的具体存在。关于维拉科查创造世界和曼科·卡帕克建立王统的故事有多种版本。多数文字记载来自征服后，因此应同时观察原住民记忆与殖民书写。本区在南美单独定位，避免误列为中美洲。",
+    "worldview": [
+      {
+        "title": "瓦卡与神圣地景",
+        "text": "山、洞、泉、岩石和祖先遗存都可能成为瓦卡。神圣并不只存在于人形神殿内，而通过土地、道路、亲属和奉献关系表现。",
+        "source": "in-road"
+      },
+      {
+        "title": "太阳、祖先与王统",
+        "text": "印加王室以太阳后裔身份表达统治合法性。祖先遗存仍参与社群生活，死亡没有把亲属关系完全终结；地方起源叙事则常连接洞穴、湖泊或山峰。",
+        "source": "in-origin"
+      }
+    ],
+    "history": [
+      {
+        "title": "帝国并非全部安第斯文明",
+        "text": "印加继承并整合很长的安第斯历史，帝国的道路与祭祀可把各地圣所连接起来。不能把前印加遗址和今日所有安第斯仪式都直接称为印加制度。",
+        "source": "in-road"
+      },
+      {
+        "title": "殖民记载与今日社群",
+        "text": "征服者、传教士和原住民作者各有位置与目的；现代研究需对读考古、口述与文献。今日安第斯信仰也经历基督教与地方传统的长期互动。",
+        "source": "in-sarmiento"
+      }
+    ],
+    "entities": [
+      {
+        "id": "inca-viracocha",
+        "name": "维拉科查",
+        "alias": "Tiqzi Wiracocha",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "创造与行旅",
+        "summary": "在多种记载中创造、安排世界并走过大地。",
+        "detail": "其形象与行动在地区和文献间变化。不要把早期遗址中任何持杖人像都直接认作同一位已明确命名的神。",
+        "sources": [
+          "in-creator"
+        ]
+      },
+      {
+        "id": "inca-inti",
+        "name": "因蒂",
+        "alias": "Inti",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "太阳与王室",
+        "summary": "印加国家祭祀与王室祖系的重要中心。",
+        "detail": "太阳的运行联系农业、季节和王权，奉献与建筑使这套关系进入公共生活。帝国中的地方神圣存在仍保有自身意义。",
+        "sources": [
+          "in-road"
+        ]
+      },
+      {
+        "id": "inca-manco",
+        "name": "曼科·卡帕克",
+        "alias": "Manco Cápac",
+        "kind": "祖先／传说君主",
+        "tier": 1,
+        "domain": "库斯科起源",
+        "summary": "被叙述为印加王统的开端。",
+        "detail": "有太阳子女、阿亚尔兄妹等不同起源版本；不应把不同文本拼成一条唯一且已证实的生平。",
+        "sources": [
+          "in-origin"
+        ]
+      },
+      {
+        "id": "inca-mamaocllo",
+        "name": "玛玛·奥克略",
+        "alias": "Mama Ocllo",
+        "kind": "祖先",
+        "tier": 2,
+        "domain": "起源与社群秩序",
+        "summary": "与曼科·卡帕克相伴的女性祖先。",
+        "detail": "某些记载中她教导生活与纺织技能，表达建国秩序的性别分工；这类内容同样受记载时代观念影响。",
+        "sources": [
+          "in-origin"
+        ]
+      },
+      {
+        "id": "inca-pachamama",
+        "name": "帕查玛玛",
+        "alias": "Pachamama",
+        "kind": "神圣主体",
+        "tier": 1,
+        "domain": "土地与相互馈赠",
+        "summary": "安第斯传统中与土地、养育和奉献相连。",
+        "detail": "不能仅翻译为一尊固定的“地球女神”。她在不同地区和今日社群中的意义具有变化，涉及人与地方的互惠责任。",
+        "sources": [
+          "in-road"
+        ]
+      },
+      {
+        "id": "inca-illapa",
+        "name": "伊利亚帕",
+        "alias": "Illapa",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "雷雨",
+        "summary": "与雨、雷电及农业供水有关。",
+        "detail": "在高山农业环境中天气关系生计，雷神崇拜与国家、地方祭仪均有联系；神职不等于对自然现象的简单拟人标签。",
+        "sources": [
+          "in-sarmiento"
+        ]
+      },
+      {
+        "id": "inca-mamakilla",
+        "name": "玛玛·基利亚",
+        "alias": "Mama Killa",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "月亮与历法",
+        "summary": "印加记载中的月神。",
+        "detail": "月亮与周期、祭仪和女性关联；具体家族关系在殖民记载中需分别核对，不与现代重建神谱直接混用。",
+        "sources": [
+          "in-sarmiento"
+        ]
+      },
+      {
+        "id": "inca-ayar",
+        "name": "阿亚尔·卡奇",
+        "alias": "Ayar Cachi",
+        "kind": "祖先",
+        "tier": 3,
+        "domain": "起源旅程",
+        "summary": "阿亚尔兄妹起源叙事中力量非凡的兄弟。",
+        "detail": "其被留在洞穴的情节解释为何只有部分始祖继续前进，地景和族群记忆在迁徙故事中紧密相连。",
+        "sources": [
+          "in-sarmiento"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "inca-inti",
+        "to": "inca-manco",
+        "type": "神圣祖系",
+        "note": "太阳子女版本",
+        "source": "in-origin"
+      },
+      {
+        "from": "inca-inti",
+        "to": "inca-mamaocllo",
+        "type": "神圣祖系",
+        "note": "太阳子女版本",
+        "source": "in-origin"
+      },
+      {
+        "from": "inca-manco",
+        "to": "inca-mamaocllo",
+        "type": "伴侣／祖先",
+        "note": "具体亲属称谓依版本",
+        "source": "in-origin"
+      },
+      {
+        "from": "inca-manco",
+        "to": "inca-ayar",
+        "type": "兄弟",
+        "note": "阿亚尔兄妹版本",
+        "source": "in-sarmiento"
+      },
+      {
+        "from": "inca-inti",
+        "to": "inca-illapa",
+        "type": "国家祭祀并列",
+        "note": "不是推断的血缘关系",
+        "source": "in-sarmiento"
+      },
+      {
+        "from": "inca-viracocha",
+        "to": "inca-manco",
+        "type": "创造与王统的不同层次",
+        "note": "同一传统可同时容纳多个起源层次",
+        "source": "in-sarmiento"
+      }
+    ],
+    "events": [
+      {
+        "id": "inca-creation",
+        "title": "维拉科查安排世界",
+        "tier": 1,
+        "era": "殖民期记载保存的神话时代",
+        "summary": "创造者使黑暗中的世界取得秩序。",
+        "detail": "人群、地形和旅程在叙事中被分配，创造常带有地域性；不同版本的洪水和石化情节不必强行合并。",
+        "actors": [
+          "inca-viracocha"
+        ],
+        "source": "in-creator"
+      },
+      {
+        "id": "inca-origin",
+        "title": "始祖出发与库斯科",
+        "tier": 1,
+        "era": "印加起源传说",
+        "summary": "始祖从神圣地点出发，寻找统治中心。",
+        "detail": "太阳子女的故事与阿亚尔兄妹故事各有结构。地图上的库斯科是重要历史政治中心，但不能因此证明每段神话旅程皆为实录。",
+        "actors": [
+          "inca-manco",
+          "inca-mamaocllo",
+          "inca-ayar"
+        ],
+        "source": "in-origin"
+      },
+      {
+        "id": "inca-sun-feast",
+        "title": "太阳祭与帝国道路",
+        "tier": 2,
+        "era": "帝国时期历史实践",
+        "summary": "节庆、奉献与道路把政治中心和各地连接。",
+        "detail": "这是仪式与历史专题，而非单次神话战役。应与农业周期、劳役组织和地方圣所一同理解。",
+        "actors": [
+          "inca-inti",
+          "inca-pachamama",
+          "inca-illapa"
+        ],
+        "source": "in-road"
+      }
+    ],
+    "sources": [
+      {
+        "id": "in-creator",
+        "title": "The Creator—Tiqzi Wiracocha",
+        "author": "史密森尼国家美洲印第安人博物馆",
+        "kind": "博物馆",
+        "url": "https://americanindian.si.edu/inkaroad/ancestors/creationstories/the-creator.html",
+        "note": "安第斯创造者与道路展览。"
+      },
+      {
+        "id": "in-origin",
+        "title": "Origin Story of the Inka",
+        "author": "史密森尼国家美洲印第安人博物馆",
+        "kind": "博物馆",
+        "url": "https://americanindian.si.edu/inkaroad/ancestors/creationstories/children-sun.html",
+        "note": "太阳后裔的起源叙事。"
+      },
+      {
+        "id": "in-road",
+        "title": "The Inka Road and Religion",
+        "author": "史密森尼国家美洲印第安人博物馆",
+        "kind": "博物馆",
+        "url": "https://americanindian.si.edu/inkaroad/inkauniverse/inkaroadexpansion/road-religion.html",
+        "note": "道路、扩张、祭献与地方实践。"
+      },
+      {
+        "id": "in-sarmiento",
+        "title": "History of the Incas",
+        "author": "佩德罗·萨米恩托；C. R. Markham英译",
+        "kind": "原典",
+        "url": "https://www.gutenberg.org/cache/epub/20218/pg20218-images.html",
+        "note": "16世纪殖民期记载、20世纪初英译；作者政治立场需批判阅读。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "He created a dark world without sun, moon or stars.",
+        "source": "in-sarmiento",
+        "locator": "《印加史》第VI章，Markham英译",
+        "note": "意译：他创造了没有太阳、月亮和星辰的黑暗世界。这是殖民时期作者转述的创造故事，不是创造年代的历史断言。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "对照两个起源版本",
+        "text": "先读太阳子女，再读阿亚尔兄妹；列出出发地、同行者和到达库斯科的原因，观察差异。"
+      }
+    ],
+    "cautions": [
+      "印加属于南美安第斯，不是玛雅或阿兹特克的一支。",
+      "地图点标示学习参照地，不声称所有安第斯叙事都起源于库斯科。"
+    ]
+  },
+  {
+    "id": "mesopotamia",
+    "name": "美索不达米亚",
+    "en": "MESOPOTAMIA",
+    "region": "两河流域",
+    "coords": [
+      44,
+      33
+    ],
+    "depth": 1,
+    "color": "#c49973",
+    "tagline": "在城墙、洪水与死亡之间，问人的位置",
+    "period": "苏美尔、阿卡德、巴比伦和亚述传统跨越约三千年",
+    "summary": "两河流域的神话通过楔形文字泥板保存，城市、神庙和王权是理解它的重要入口。苏美尔语与阿卡德语材料有翻译、改写和重新组合，诸神名次也会随政治中心变化。伊南娜下降冥界、吉尔伽美什寻找不死、马尔杜克建立宇宙秩序，分别涉及权力边界、人的死亡与城市神的上升。本区展示主要路径；它不是单一王朝的一套固定神谱。",
+    "worldview": [
+      {
+        "title": "神的城市，人类的劳动",
+        "text": "诸神有庙宇、家族与需要，人类通过劳动和仪式供养他们。城市神的地位并非永恒固定；政治权力改变也会重排宇宙的表达方式。",
+        "source": "ms-met"
+      },
+      {
+        "title": "死亡是一道难以越过的边界",
+        "text": "冥界故事揭示连强大神祇也要服从当地规矩；英雄史诗则让寻找不死的愿望遭遇限制。与道德审判型来世相比，这些作品常更强调死亡的普遍性。",
+        "source": "ms-inanna"
+      }
+    ],
+    "history": [
+      {
+        "title": "泥板、抄写与版本",
+        "text": "我们读到的作品来自不同时期的残片和抄本，现代编辑将其比较重建；有时某行缺失或神名不确定。泥板的年代与故事可能更早的形成时间需分开。",
+        "source": "ms-tablet"
+      },
+      {
+        "title": "巴比伦神的上升",
+        "text": "马尔杜克的突出地位与巴比伦政治和宗教中心地位相连。神话既解释宇宙，也能表达城市如何理解自身的秩序和优越性。",
+        "source": "ms-met"
+      }
+    ],
+    "entities": [
+      {
+        "id": "mesopotamia-an",
+        "name": "安／阿努",
+        "alias": "An / Anu",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "天空",
+        "summary": "天界权威的重要神。",
+        "detail": "苏美尔与阿卡德神名有对应关系，但在不同文本中的家谱与行动并不完全一致；他常作为高位授权者而非每场故事的主角。",
+        "sources": [
+          "ms-oracc"
+        ]
+      },
+      {
+        "id": "mesopotamia-enlil",
+        "name": "恩利尔",
+        "alias": "Enlil",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "权威与秩序",
+        "summary": "与尼普尔和诸神决议相连。",
+        "detail": "作为强大的命运与政治秩序之神，他能施予，也能引发人类灾难；不是仅掌某一种天气的地方小神。",
+        "sources": [
+          "ms-oracc"
+        ]
+      },
+      {
+        "id": "mesopotamia-enki",
+        "name": "恩基／埃亚",
+        "alias": "Enki / Ea",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "淡水与智慧",
+        "summary": "善于谋划、保护或援助的神。",
+        "detail": "与地下淡水阿普苏及埃利都相连；洪水与冥界故事里，他的策略常给被规则困住的生命留下出路。",
+        "sources": [
+          "ms-oracc"
+        ]
+      },
+      {
+        "id": "mesopotamia-inanna",
+        "name": "伊南娜／伊什塔尔",
+        "alias": "Inanna / Ishtar",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "爱情、战争与王权",
+        "summary": "拥有强大欲望与政治力量的女神。",
+        "detail": "苏美尔伊南娜与阿卡德伊什塔尔高度对应，却各有文本历史。她下降冥界时逐层失去装束，显示权力也有领域边界。",
+        "sources": [
+          "ms-inanna"
+        ]
+      },
+      {
+        "id": "mesopotamia-ereshkigal",
+        "name": "埃列什基伽勒",
+        "alias": "Ereshkigal",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "冥界",
+        "summary": "冥界的女主人。",
+        "detail": "伊南娜进入她的领域必须通过七门；冥界并不是上界权力可随意占领的空间，离开也需付出代价。",
+        "sources": [
+          "ms-inanna"
+        ]
+      },
+      {
+        "id": "mesopotamia-dumuzi",
+        "name": "杜穆兹／塔木兹",
+        "alias": "Dumuzi / Tammuz",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "牧者与亡者命运",
+        "summary": "与伊南娜相连的牧者神。",
+        "detail": "下降冥界故事中，他成为替代者；与姐妹轮流承担命运的情节把家族、哀悼和周期性离返联系起来。",
+        "sources": [
+          "ms-inanna"
+        ]
+      },
+      {
+        "id": "mesopotamia-gilgamesh",
+        "name": "吉尔伽美什",
+        "alias": "Gilgamesh",
+        "kind": "英雄／国王",
+        "tier": 1,
+        "domain": "乌鲁克与死亡",
+        "summary": "经历友人死亡后寻找超越死亡的方法。",
+        "detail": "英雄的力量最终无法使他摆脱人类命运。城市、记忆和留下的工程，成为与不死愿望相对照的价值。",
+        "sources": [
+          "ms-tablet"
+        ]
+      },
+      {
+        "id": "mesopotamia-enkidu",
+        "name": "恩奇都",
+        "alias": "Enkidu",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "荒野与文明",
+        "summary": "从荒野进入城市，与吉尔伽美什结为伙伴。",
+        "detail": "他与英雄的友谊改变两人的生活，而他的死亡触发整部史诗最重要的追问：英雄功绩能否抵挡生命的终结。",
+        "sources": [
+          "ms-tablet"
+        ]
+      },
+      {
+        "id": "mesopotamia-utnapishtim",
+        "name": "乌特纳皮什提",
+        "alias": "Utnapishtim",
+        "kind": "洪水幸存者",
+        "tier": 2,
+        "domain": "洪水与例外生命",
+        "summary": "向吉尔伽美什讲述大洪水。",
+        "detail": "他的特殊命运不是人人可复制的秘方。比较诺亚或其他洪水故事时，要同时比较神的动机、灾后安排与人神关系。",
+        "sources": [
+          "ms-tablet"
+        ]
+      },
+      {
+        "id": "mesopotamia-marduk",
+        "name": "马尔杜克",
+        "alias": "Marduk",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "巴比伦与宇宙王权",
+        "summary": "巴比伦的城市神，后成为高位统治神。",
+        "detail": "《埃努玛·埃利什》把战胜提亚玛特与建立天地秩序联系起来。其地位的变化是观察宗教和城市历史交织的好例子。",
+        "sources": [
+          "ms-oracc"
+        ]
+      },
+      {
+        "id": "mesopotamia-tiamat",
+        "name": "提亚玛特",
+        "alias": "Tiamat",
+        "kind": "原初主体",
+        "tier": 2,
+        "domain": "原初海水",
+        "summary": "巴比伦创世叙事中的原初海水及冲突一方。",
+        "detail": "她不是整套两河神话从头到尾唯一的邪恶龙神；后世常用龙形重绘她，但古代文本与可靠图像对应需谨慎。",
+        "sources": [
+          "ms-oracc"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "mesopotamia-inanna",
+        "to": "mesopotamia-ereshkigal",
+        "type": "姐妹／冲突",
+        "note": "下降冥界文本",
+        "source": "ms-inanna"
+      },
+      {
+        "from": "mesopotamia-inanna",
+        "to": "mesopotamia-dumuzi",
+        "type": "配偶／替代者",
+        "note": "下降冥界文本",
+        "source": "ms-inanna"
+      },
+      {
+        "from": "mesopotamia-enki",
+        "to": "mesopotamia-inanna",
+        "type": "援助",
+        "note": "派遣存在促成复苏",
+        "source": "ms-inanna"
+      },
+      {
+        "from": "mesopotamia-gilgamesh",
+        "to": "mesopotamia-enkidu",
+        "type": "伙伴",
+        "note": "友情是史诗转折核心",
+        "source": "ms-tablet"
+      },
+      {
+        "from": "mesopotamia-gilgamesh",
+        "to": "mesopotamia-utnapishtim",
+        "type": "求访",
+        "note": "不死与洪水的见证",
+        "source": "ms-tablet"
+      },
+      {
+        "from": "mesopotamia-enki",
+        "to": "mesopotamia-marduk",
+        "type": "父子",
+        "note": "巴比伦谱系",
+        "source": "ms-oracc"
+      },
+      {
+        "from": "mesopotamia-marduk",
+        "to": "mesopotamia-tiamat",
+        "type": "战斗",
+        "note": "《埃努玛·埃利什》",
+        "source": "ms-oracc"
+      }
+    ],
+    "events": [
+      {
+        "id": "mesopotamia-descent",
+        "title": "伊南娜下降冥界",
+        "tier": 1,
+        "era": "苏美尔神话文本",
+        "summary": "女神通过七门，失去衣饰与权能。",
+        "detail": "她被杀后复苏，但离开须有人替代。故事让读者观察权力在跨越边界时怎样被剥夺，以及亲属如何承担后果。",
+        "actors": [
+          "mesopotamia-inanna",
+          "mesopotamia-ereshkigal",
+          "mesopotamia-enki",
+          "mesopotamia-dumuzi"
+        ],
+        "source": "ms-inanna"
+      },
+      {
+        "id": "mesopotamia-quest",
+        "title": "恩奇都之死与求不死",
+        "tier": 1,
+        "era": "《吉尔伽美什》史诗",
+        "summary": "朋友死亡促使英雄寻找永生。",
+        "detail": "洪水幸存者讲述例外命运，英雄仍不得不回到人的生活。史诗以经验和城墙重新审视功绩，而非让强者最终战胜死亡。",
+        "actors": [
+          "mesopotamia-gilgamesh",
+          "mesopotamia-enkidu",
+          "mesopotamia-utnapishtim"
+        ],
+        "source": "ms-tablet"
+      },
+      {
+        "id": "mesopotamia-cosmos",
+        "title": "马尔杜克建立秩序",
+        "tier": 1,
+        "era": "巴比伦《埃努玛·埃利什》",
+        "summary": "战胜提亚玛特后安排宇宙。",
+        "detail": "战争、王权与创造在这部作品中合为一体；应结合巴比伦的城市崇拜阅读，不把它当成所有苏美尔文本共同的创世起点。",
+        "actors": [
+          "mesopotamia-marduk",
+          "mesopotamia-tiamat"
+        ],
+        "source": "ms-oracc"
+      }
+    ],
+    "sources": [
+      {
+        "id": "ms-met",
+        "title": "Mesopotamian Deities",
+        "author": "Ira Spar／大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/essays/mesopotamian-deities",
+        "note": "城市神、神人关系与政治地位的变化。"
+      },
+      {
+        "id": "ms-inanna",
+        "title": "Inana’s descent to the nether world",
+        "author": "牛津大学 ETCSL",
+        "kind": "原典",
+        "url": "https://etcsl.orinst.ox.ac.uk/section1/tr141.htm",
+        "note": "苏美尔文本学术译文，按行编号。"
+      },
+      {
+        "id": "ms-tablet",
+        "title": "《吉尔伽美什》第十一泥板残片",
+        "author": "大英博物馆",
+        "kind": "博物馆",
+        "url": "https://www.britishmuseum.org/collection/object/W_SM-1881",
+        "note": "新亚述时期抄本，洪水故事实物。"
+      },
+      {
+        "id": "ms-oracc",
+        "title": "Ancient Mesopotamian Gods and Goddesses",
+        "author": "ORACC 学术项目",
+        "kind": "学术",
+        "url": "https://oracc.museum.upenn.edu/amgg/",
+        "note": "神祇条目与参考书目。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "From the great heaven she set her mind on the great below.",
+        "source": "ms-inanna",
+        "locator": "ETCSL 1.4.1，第1—5行开句",
+        "note": "意译：她从高天把心转向深处。重复的下降句式先确定了全篇跨界行动的方向。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "比较三种边界",
+        "text": "伊南娜：神的权力边界；吉尔伽美什：人的生命边界；马尔杜克：城市权威如何变成宇宙权威。"
+      }
+    ],
+    "cautions": [
+      "美索不达米亚不等于“中亚”；主要指底格里斯河、幼发拉底河流域。",
+      "神名对照不代表千年间教义与家谱完全不变。"
+    ]
+  },
+  {
+    "id": "persia",
+    "name": "伊朗 · 波斯传统",
+    "en": "IRANIAN TRADITIONS",
+    "region": "伊朗高原",
+    "coords": [
+      54,
+      32
+    ],
+    "depth": 1,
+    "color": "#8aa6b8",
+    "tagline": "选择真善，也听见英雄家族的悲声",
+    "period": "《阿维斯塔》多层形成；中古波斯文献；菲尔多西《列王纪》约1010年完成",
+    "summary": "本区并读两条不同线索：琐罗亚斯德教关于真理、谎言、善恶选择与世界更新的宗教传统，以及《列王纪》中君王、英雄和神鸟的文学世界。两者相互关联，却不是一部同年代、同结构的神话书。阿胡拉·马兹达、阿里曼属于宗教宇宙论；鲁斯塔姆、扎尔和西摩格则帮助理解伊朗英雄史诗与后世文化记忆。",
+    "worldview": [
+      {
+        "title": "选择与宇宙伦理",
+        "text": "《伽萨》强调辨别与选择，真理、正当秩序和谎言的对立具有伦理意义。后来的宇宙论发展出更系统的善恶混合、战斗与最终更新阶段。",
+        "source": "pe-yasna"
+      },
+      {
+        "title": "宗教宇宙与英雄史诗",
+        "text": "后世文献中的创造、善恶混合与更新，和《列王纪》的王朝兴亡不是一条可直接拼接的时间线。史诗英雄可以忠诚却犯下悲剧性错误，不是善神在人间的简单替身。",
+        "source": "pe-cosmos"
+      }
+    ],
+    "history": [
+      {
+        "title": "跨越伊斯兰化的记忆",
+        "text": "《列王纪》在伊斯兰时代以新波斯语写成，保存并重塑更早王者与英雄传统。其阅读、讲述和插图长期参与塑造波斯文化认同。",
+        "source": "pe-shah"
+      },
+      {
+        "title": "仍在实践的宗教",
+        "text": "琐罗亚斯德教并未随古代帝国结束而消失；学习时要区分早期诗歌、萨珊及后萨珊书写与现代信仰。把它只称为“拜火教”会遮蔽丰富的伦理和仪式体系。",
+        "source": "pe-yasna"
+      }
+    ],
+    "entities": [
+      {
+        "id": "persia-mazda",
+        "name": "阿胡拉·马兹达",
+        "alias": "Ahura Mazdā",
+        "kind": "神圣主体",
+        "tier": 1,
+        "domain": "智慧与创造",
+        "summary": "琐罗亚斯德传统中至高的智慧主。",
+        "detail": "不同年代文本对创造、圣灵与敌对力量关系有复杂讨论；不能把后世最整齐的二元宇宙图原样推回所有早期经文。",
+        "sources": [
+          "pe-cosmos"
+        ]
+      },
+      {
+        "id": "persia-ahriman",
+        "name": "阿里曼",
+        "alias": "Ahriman / Angra Mainyu",
+        "kind": "敌对力量",
+        "tier": 1,
+        "domain": "破坏与谎言",
+        "summary": "在后世系统中与光明创造相对抗。",
+        "detail": "其存在与行动的解释随时代变化；早期关于“两种精神”的诗句和中古波斯宇宙叙事应分别阅读。",
+        "sources": [
+          "pe-cosmos"
+        ]
+      },
+      {
+        "id": "persia-zarathustra",
+        "name": "琐罗亚斯德",
+        "alias": "Zarathushtra",
+        "kind": "宗教人物",
+        "tier": 1,
+        "domain": "启示与伦理",
+        "summary": "与《伽萨》传统相连的先知。",
+        "detail": "生存年代和具体历史背景仍有争论；其思想强调辨识、选择和正当行动，不宜给出一个无争议的精确生卒年。",
+        "sources": [
+          "pe-yasna"
+        ]
+      },
+      {
+        "id": "persia-simorgh",
+        "name": "西摩格",
+        "alias": "Sīmorgh",
+        "kind": "神鸟",
+        "tier": 1,
+        "domain": "智慧、养育与医治",
+        "summary": "养育被遗弃的扎尔，并在危难时帮助其家族。",
+        "detail": "羽毛召唤的母题使它成为跨越人类能力边界的援助者；《列王纪》与苏菲寓言中的神鸟意义也不能完全混为一谈。",
+        "sources": [
+          "pe-simorgh"
+        ]
+      },
+      {
+        "id": "persia-zal",
+        "name": "扎尔",
+        "alias": "Zāl",
+        "kind": "英雄",
+        "tier": 2,
+        "domain": "被弃与归家",
+        "summary": "白发异貌使他被父亲遗弃，后由西摩格养大。",
+        "detail": "他的归家故事把恐惧异类转变为承认特殊才能；与鲁达贝结婚后，成为鲁斯塔姆之父。",
+        "sources": [
+          "pe-rostam"
+        ]
+      },
+      {
+        "id": "persia-rudabeh",
+        "name": "鲁达贝",
+        "alias": "Rudābeh",
+        "kind": "王族",
+        "tier": 2,
+        "domain": "婚姻与生育",
+        "summary": "扎尔之妻、鲁斯塔姆之母。",
+        "detail": "婚姻曾遭血统与政治疑虑阻挡；鲁斯塔姆出生时的艰险使神鸟医治知识介入人类家庭。",
+        "sources": [
+          "pe-rostam"
+        ]
+      },
+      {
+        "id": "persia-rostam",
+        "name": "鲁斯塔姆",
+        "alias": "Rostam",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "力量与悲剧",
+        "summary": "《列王纪》中最著名的伊朗英雄之一。",
+        "detail": "帮助诸王、经历七关，也在不知情中杀死儿子苏赫拉布。武力、忠诚与无知交错，让他不只是没有阴影的救世者。",
+        "sources": [
+          "pe-shah"
+        ]
+      },
+      {
+        "id": "persia-sohrab",
+        "name": "苏赫拉布",
+        "alias": "Sohrāb",
+        "kind": "英雄",
+        "tier": 2,
+        "domain": "父子不相识",
+        "summary": "寻找父亲，却在战场与其相遇。",
+        "detail": "父子相认来得太迟，故事把英雄战争的荣誉与家庭失落并置，强调力量无法弥补信息和关系的断裂。",
+        "sources": [
+          "pe-shah"
+        ]
+      },
+      {
+        "id": "persia-zahhak",
+        "name": "扎哈克",
+        "alias": "Żaḥḥāk",
+        "kind": "暴君",
+        "tier": 2,
+        "domain": "暴政",
+        "summary": "肩生蛇的暴君形象。",
+        "detail": "对人命的吞噬把暴政表现为具体身体需求；卡维与法里敦推翻他的故事，为反抗与正当王权提供文学语言。",
+        "sources": [
+          "pe-shah"
+        ]
+      },
+      {
+        "id": "persia-fereydun",
+        "name": "法里敦",
+        "alias": "Fereydun",
+        "kind": "英雄／国王",
+        "tier": 2,
+        "domain": "解放与王权",
+        "summary": "击败并囚禁扎哈克的王者。",
+        "detail": "胜利并未永久消除家族冲突，后续分国又引出兄弟争斗；《列王纪》的秩序总面临新的伦理考验。",
+        "sources": [
+          "pe-shah"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "persia-mazda",
+        "to": "persia-ahriman",
+        "type": "宇宙对抗",
+        "note": "后世巴列维体系，不作所有早期文本唯一读法",
+        "source": "pe-cosmos"
+      },
+      {
+        "from": "persia-zarathustra",
+        "to": "persia-mazda",
+        "type": "启示与敬奉",
+        "note": "经文中的关系",
+        "source": "pe-yasna"
+      },
+      {
+        "from": "persia-simorgh",
+        "to": "persia-zal",
+        "type": "养育",
+        "note": "《列王纪》",
+        "source": "pe-simorgh"
+      },
+      {
+        "from": "persia-zal",
+        "to": "persia-rudabeh",
+        "type": "婚姻",
+        "note": "《列王纪》",
+        "source": "pe-rostam"
+      },
+      {
+        "from": "persia-zal",
+        "to": "persia-rostam",
+        "type": "父子",
+        "note": "《列王纪》",
+        "source": "pe-rostam"
+      },
+      {
+        "from": "persia-rudabeh",
+        "to": "persia-rostam",
+        "type": "母子",
+        "note": "《列王纪》",
+        "source": "pe-rostam"
+      },
+      {
+        "from": "persia-simorgh",
+        "to": "persia-rostam",
+        "type": "援助",
+        "note": "出生与战伤等危机",
+        "source": "pe-simorgh"
+      },
+      {
+        "from": "persia-rostam",
+        "to": "persia-sohrab",
+        "type": "父子／误杀",
+        "note": "悲剧性不相识",
+        "source": "pe-shah"
+      },
+      {
+        "from": "persia-fereydun",
+        "to": "persia-zahhak",
+        "type": "击败／囚禁",
+        "note": "暴政终结",
+        "source": "pe-shah"
+      }
+    ],
+    "events": [
+      {
+        "id": "persia-renewal",
+        "title": "创造、混合与世界更新",
+        "tier": 1,
+        "era": "中古波斯宇宙论",
+        "summary": "善的创造遭破坏，最终走向消除邪恶的更新。",
+        "detail": "此处是宇宙阶段结构，而非人间历史年代。灵与物质、混合与分离的语言帮助解释为什么当下世界仍有痛苦。",
+        "actors": [
+          "persia-mazda",
+          "persia-ahriman"
+        ],
+        "source": "pe-cosmos"
+      },
+      {
+        "id": "persia-bird",
+        "title": "西摩格养育扎尔",
+        "tier": 1,
+        "era": "《列王纪》英雄时代",
+        "summary": "被遗弃的婴儿在神鸟巢中长大。",
+        "detail": "父亲后来接纳孩子，神鸟赠羽毛以便求援。异貌、亲情和超常知识构成这条家族故事的开端。",
+        "actors": [
+          "persia-simorgh",
+          "persia-zal"
+        ],
+        "source": "pe-simorgh"
+      },
+      {
+        "id": "persia-son",
+        "title": "鲁斯塔姆与苏赫拉布",
+        "tier": 1,
+        "era": "《列王纪》英雄时代",
+        "summary": "不相识的父子在战场决斗。",
+        "detail": "身份揭示不能逆转致命伤害；这段故事提供对战争英雄主义的深刻反思，也使父子关系超越简单的血统荣耀。",
+        "actors": [
+          "persia-rostam",
+          "persia-sohrab"
+        ],
+        "source": "pe-shah"
+      },
+      {
+        "id": "persia-tyrant",
+        "title": "法里敦推翻扎哈克",
+        "tier": 2,
+        "era": "《列王纪》传说王朝",
+        "summary": "蛇肩暴君遭反抗和囚禁。",
+        "detail": "卡维的反抗与法里敦的胜利共同赋予新王权合法性；暴君被囚而非立即消灭，也保留恶仍需警惕的意味。",
+        "actors": [
+          "persia-zahhak",
+          "persia-fereydun"
+        ],
+        "source": "pe-shah"
+      }
+    ],
+    "sources": [
+      {
+        "id": "pe-cosmos",
+        "title": "Cosmogony and Cosmology i.",
+        "author": "Philip G. Kreyenbroek／Encyclopaedia Iranica",
+        "kind": "学术",
+        "url": "https://www.iranicaonline.org/articles/cosmogony-i/",
+        "note": "阿维斯塔与后世巴列维宇宙论的差异。"
+      },
+      {
+        "id": "pe-yasna",
+        "title": "Yasna：祭祀与伽萨",
+        "author": "Avesta.org，Mills等英译",
+        "kind": "原典",
+        "url": "https://www.avesta.org/yasna/",
+        "note": "译本年代与出处列于页首；按章节阅读。"
+      },
+      {
+        "id": "pe-simorgh",
+        "title": "Simorḡ",
+        "author": "Hanns-Peter Schmidt／Encyclopaedia Iranica",
+        "kind": "学术",
+        "url": "https://www.iranicaonline.org/articles/simorg/",
+        "note": "神鸟的词源、宗教与文学形象。"
+      },
+      {
+        "id": "pe-shah",
+        "title": "The Shahnameh：波斯文化象征",
+        "author": "剑桥大学菲茨威廉博物馆",
+        "kind": "博物馆",
+        "url": "https://shahnameh.fitzmuseum.cam.ac.uk/explore/section-three",
+        "note": "《列王纪》绘本与故事。"
+      },
+      {
+        "id": "pe-rostam",
+        "title": "Portrait of the infant Rostam shown to Sam",
+        "author": "菲茨威廉博物馆",
+        "kind": "博物馆",
+        "url": "https://shahnameh.fitzmuseum.cam.ac.uk/explore/objects/no-46-portrait-of-the-infant-rostam-shown-to-sam",
+        "note": "鲁斯塔姆出生、西摩格援助与家族故事。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I praise good thoughts, good words, and good deeds",
+        "source": "pe-yasna",
+        "locator": "Yasna 页面 Introduction 第4段",
+        "note": "意译：我赞颂善思、善言、善行。此短句取自页面列出的礼仪开端，不能误标为《伽萨》30章原句。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "宗教与史诗分两列",
+        "text": "一列记录宇宙的善恶阶段，一列记录鲁斯塔姆家族；比较“选择”如何在两种文类里产生后果。"
+      }
+    ],
+    "cautions": [
+      "《阿维斯塔》《本达希申》与《列王纪》属于不同文本层次。",
+      "不要把伊朗密特拉直接等同罗马密特拉密仪的全部内容。"
+    ]
+  },
+  {
+    "id": "celtic",
+    "name": "凯尔特 · 爱尔兰与威尔士",
+    "en": "CELTIC TRADITIONS",
+    "region": "西北欧洲",
+    "coords": [
+      -8,
+      53
+    ],
+    "depth": 1,
+    "color": "#88ab91",
+    "tagline": "异界近在山丘、海面与誓言的另一边",
+    "period": "古代凯尔特宗教遗存；中世纪爱尔兰与威尔士文字传统",
+    "summary": "“凯尔特神话”是一个比较用总称，不能当作全欧洲凯尔特语言族群共有的一部圣经。本区以中世纪保存的爱尔兰神话、英雄故事和威尔士《马比诺吉昂》为入口。神族、英雄、异界国王和命运禁忌各有文类与地域背景。达努神族与弗摩尔的战争、库丘林守卫阿尔斯特、普伊尔与异界交换身份，提供了比“自然崇拜”更具体的学习路径。亚瑟王传奇另设专区。",
+    "worldview": [
+      {
+        "title": "异界不一定是死后审判所",
+        "text": "山丘、岛屿、森林和宴席可成为跨界入口。异界中的时间、礼法和馈赠有自己的规则；它不宜统一翻译为基督教天堂或地狱。",
+        "source": "ce-mabinogi"
+      },
+      {
+        "title": "王权、禁忌与社会责任",
+        "text": "英雄的誓约与禁忌（geis）可以保护也可以束缚；国王是否公正、身体是否完备、是否善待宾客，都可能关系土地和共同体的繁荣。",
+        "source": "ce-tuired"
+      }
+    ],
+    "history": [
+      {
+        "title": "修道院保存的早期材料",
+        "text": "许多故事由基督教时代抄写者记录，因此既含更早传统，也带有中世纪文学和宗教环境。没有办法从每句故事直接复原一套纯粹史前宗教。",
+        "source": "ce-tuired"
+      },
+      {
+        "title": "民族与浪漫主义的再创造",
+        "text": "19世纪译本扩大了这些故事的影响，但其“民族性格”解释常带时代偏见。现代奇幻作品中的精灵与德鲁伊体系不能反向当作古代证据。",
+        "source": "ce-mabinogi"
+      }
+    ],
+    "entities": [
+      {
+        "id": "celtic-lug",
+        "name": "卢格",
+        "alias": "Lug / Lugh",
+        "kind": "神祇／英雄",
+        "tier": 1,
+        "domain": "多艺与战争",
+        "summary": "以兼具多种技艺赢得领导地位。",
+        "detail": "第二次莫伊图拉之战中统领达努神族，击败巴洛尔；他不是仅凭某一自然元素就能说明的单职能神。",
+        "sources": [
+          "ce-tuired"
+        ]
+      },
+      {
+        "id": "celtic-dagda",
+        "name": "达格达",
+        "alias": "Dagda",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "力量、丰足与技艺",
+        "summary": "兼有力量、丰足和神奇器物的神。",
+        "detail": "战前行动兼具威严与诙谐，显示故事并不要求神总保持庄重。竖琴等器物与丰足、社会秩序相连。",
+        "sources": [
+          "ce-tuired"
+        ]
+      },
+      {
+        "id": "celtic-morrigan",
+        "name": "莫瑞甘",
+        "alias": "Morrígan",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "战争、预言与主权",
+        "summary": "在战斗与命运转折处出现的女性主体。",
+        "detail": "她的形态、名称与其他战争女神的关系在不同文本中复杂多变，不宜统一成现代固定“三位一体”角色表。",
+        "sources": [
+          "ce-tuired"
+        ]
+      },
+      {
+        "id": "celtic-nuada",
+        "name": "努阿达",
+        "alias": "Nuadu",
+        "kind": "神祇／国王",
+        "tier": 2,
+        "domain": "王权与完整性",
+        "summary": "失去手臂后王位受到影响。",
+        "detail": "医治与银手故事把身体完整、统治资格和技术能力联系起来。重点是政治与社会秩序，而非机械设定般的战斗能力值。",
+        "sources": [
+          "ce-tuired"
+        ]
+      },
+      {
+        "id": "celtic-balor",
+        "name": "巴洛尔",
+        "alias": "Balor",
+        "kind": "敌手",
+        "tier": 2,
+        "domain": "毁灭之眼",
+        "summary": "弗摩尔阵营中拥有危险眼睛的强者。",
+        "detail": "与卢格的亲缘和战斗把代际冲突带入神族战争；弗摩尔也有通婚关系，不能当作完全外在的单一恶魔种族。",
+        "sources": [
+          "ce-tuired"
+        ]
+      },
+      {
+        "id": "celtic-cuchulainn",
+        "name": "库丘林",
+        "alias": "Cú Chulainn",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "阿尔斯特与守卫",
+        "summary": "《夺牛长征》中的年轻战士。",
+        "detail": "在其他战士失去战力时独自迎战；他的勇武伴随狂暴、脆弱和悲剧。英雄故事与神族战争属于不同叙事层次。",
+        "sources": [
+          "ce-tain"
+        ]
+      },
+      {
+        "id": "celtic-medb",
+        "name": "梅芙",
+        "alias": "Medb",
+        "kind": "王后",
+        "tier": 2,
+        "domain": "康诺特与竞争",
+        "summary": "发动夺牛行动的女王。",
+        "detail": "财富与权力竞争推动长篇冲突，她兼具统治者、策略者与欲望主体身份；不能只简化为英雄的反派背景。",
+        "sources": [
+          "ce-tain"
+        ]
+      },
+      {
+        "id": "celtic-pwyll",
+        "name": "普伊尔",
+        "alias": "Pwyll",
+        "kind": "王子",
+        "tier": 1,
+        "domain": "达费德与异界",
+        "summary": "与异界国王交换身份。",
+        "detail": "在一年交换中遵守礼法并完成承诺，建立跨界友谊；故事把克制与守信视为与武力同样重要的能力。",
+        "sources": [
+          "ce-mabinogi"
+        ]
+      },
+      {
+        "id": "celtic-arawn",
+        "name": "阿朗",
+        "alias": "Arawn",
+        "kind": "异界之王",
+        "tier": 2,
+        "domain": "安努恩",
+        "summary": "与普伊尔交换身份的异界统治者。",
+        "detail": "安努恩在故事中是有宫廷、冲突与礼仪的异界；不能仅因它不属于人间就把阿朗解释成恶魔。",
+        "sources": [
+          "ce-mabinogi"
+        ]
+      },
+      {
+        "id": "celtic-rhiannon",
+        "name": "莉安侬",
+        "alias": "Rhiannon",
+        "kind": "异界女性／王后",
+        "tier": 1,
+        "domain": "婚姻、诬告与尊严",
+        "summary": "与普伊尔成婚，后遭失子诬告。",
+        "detail": "她通过言语、选择与忍受不公维持自身地位；马的意象重要，但仅凭这个元素不能断言全部角色来源已经确定。",
+        "sources": [
+          "ce-mabinogi"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "celtic-lug",
+        "to": "celtic-balor",
+        "type": "亲缘／战斗",
+        "note": "外祖孙关系与战场冲突",
+        "source": "ce-tuired"
+      },
+      {
+        "from": "celtic-lug",
+        "to": "celtic-nuada",
+        "type": "领导传承",
+        "note": "战前领导与技艺展示",
+        "source": "ce-tuired"
+      },
+      {
+        "from": "celtic-dagda",
+        "to": "celtic-morrigan",
+        "type": "结合／协作",
+        "note": "战争准备情节",
+        "source": "ce-tuired"
+      },
+      {
+        "from": "celtic-cuchulainn",
+        "to": "celtic-medb",
+        "type": "敌对",
+        "note": "《夺牛长征》",
+        "source": "ce-tain"
+      },
+      {
+        "from": "celtic-pwyll",
+        "to": "celtic-arawn",
+        "type": "交换身份／友谊",
+        "note": "第一支故事",
+        "source": "ce-mabinogi"
+      },
+      {
+        "from": "celtic-pwyll",
+        "to": "celtic-rhiannon",
+        "type": "婚姻",
+        "note": "第一支故事",
+        "source": "ce-mabinogi"
+      }
+    ],
+    "events": [
+      {
+        "id": "celtic-tuired",
+        "title": "第二次莫伊图拉之战",
+        "tier": 1,
+        "era": "爱尔兰神话组",
+        "summary": "卢格带领达努神族对抗弗摩尔势力。",
+        "detail": "战争胜利依赖工匠、医者、诗人和战士共同作用，不能只看最终决斗；战后秩序还涉及农业知识与繁荣。",
+        "actors": [
+          "celtic-lug",
+          "celtic-dagda",
+          "celtic-morrigan",
+          "celtic-nuada",
+          "celtic-balor"
+        ],
+        "source": "ce-tuired"
+      },
+      {
+        "id": "celtic-cattle",
+        "title": "夺牛长征",
+        "tier": 1,
+        "era": "阿尔斯特英雄组",
+        "summary": "梅芙争夺名牛，库丘林守卫阿尔斯特。",
+        "detail": "财富比较引发战争，单人决斗和亲友冲突不断积累，英雄荣誉与社会代价相互纠缠。不同抄本在段落与细节上存在差异。",
+        "actors": [
+          "celtic-cuchulainn",
+          "celtic-medb"
+        ],
+        "source": "ce-tain"
+      },
+      {
+        "id": "celtic-exchange",
+        "title": "普伊尔与阿朗交换身份",
+        "tier": 1,
+        "era": "《马比诺吉昂》第一支",
+        "summary": "人间王子在异界生活一年。",
+        "detail": "普伊尔守信并克制欲望，最终建立友谊；异界不是单纯的危险副本，而是另一种礼法与身份的考验。",
+        "actors": [
+          "celtic-pwyll",
+          "celtic-arawn",
+          "celtic-rhiannon"
+        ],
+        "source": "ce-mabinogi"
+      }
+    ],
+    "sources": [
+      {
+        "id": "ce-tuired",
+        "title": "Cath Maige Tuired：第二次莫伊图拉之战",
+        "author": "Elizabeth A. Gray译／科克大学 CELT",
+        "kind": "原典",
+        "url": "https://celt.ucc.ie/published/T300010.html",
+        "note": "学术译文；作者、手稿与版本信息列于页首。"
+      },
+      {
+        "id": "ce-tain",
+        "title": "Táin Bó Cúalnge：版本与文本",
+        "author": "科克大学 Irish Sagas Online",
+        "kind": "学术",
+        "url": "https://iso.ucc.ie/Tain-cualnge/Tain-cualnge-sources.html",
+        "note": "列出不同校本、抄本图像及译文入口。"
+      },
+      {
+        "id": "ce-mabinogi",
+        "title": "The Mabinogion",
+        "author": "Charlotte Guest英译／Project Gutenberg",
+        "kind": "文学",
+        "url": "https://www.gutenberg.org/files/5160/5160-h/5160-h.htm",
+        "note": "公共领域旧译；四支故事与其他威尔士传奇的合集。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "And thenceforth they made strong the friendship that was between them",
+        "source": "ce-mabinogi",
+        "locator": "《马比诺吉昂》第一支，普伊尔与阿朗交换身份结束后",
+        "note": "意译：从此他们巩固彼此的友谊。交换身份的结果是互惠、克制与礼法得到承认。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "三份故事，三种共同体",
+        "text": "神族战争看技艺分工，《夺牛长征》看英雄与政治，《马比诺吉昂》看跨界礼法；不要先把所有角色塞入一个家谱。"
+      }
+    ],
+    "cautions": [
+      "爱尔兰、威尔士与大陆凯尔特材料不能无条件合并。",
+      "现代奇幻中的“德鲁伊职业”不是古代文献分类。"
+    ]
+  },
+  {
+    "id": "slavic",
+    "name": "斯拉夫传统",
+    "en": "SLAVIC TRADITIONS",
+    "region": "东欧与中欧",
+    "coords": [
+      30,
+      51
+    ],
+    "depth": 1,
+    "color": "#a5aec1",
+    "tagline": "从编年史的神名，到森林边缘的故事",
+    "period": "中世纪外部与基督教记载；近代采集的民俗与故事",
+    "summary": "斯拉夫传统保存情况不均衡：中世纪编年史留下佩伦、韦列斯等神名与祭祀线索，后来的民间故事又保存雅加婆婆、森林精灵和不死的科谢伊。二者不能直接拼成一部完整的古代神谱。本区将较可靠的历史记载与较晚采集的童话、民俗区分展示，并把“雷神对抗蛇形敌手”等学术重建明确作为解释模型，而非已保存的完整古诗。",
+    "worldview": [
+      {
+        "title": "没有完整保存的统一神谱",
+        "text": "地区差异和证据缺口很大。神名、地名、外部见闻、讲道和童话各能提供线索，但证据性质不同；不宜把现代网络家谱当作古代原典。",
+        "source": "sl-zaroff"
+      },
+      {
+        "title": "边界、交换与家庭",
+        "text": "较晚民间叙事经常在森林、河岸、炉边、婚姻和丧葬等边界展开。超自然主体可能危险，也可能帮助遵守礼法的人，善恶往往随情境改变。",
+        "source": "sl-tales"
+      }
+    ],
+    "history": [
+      {
+        "title": "基辅罗斯的基督教化",
+        "text": "编年史记载统治者建立神像，后来受洗并拆毁旧像。文字同时讲述政治与宗教转变，也带有基督教作者评价，不能不加分析地照搬措辞。",
+        "source": "sl-chronicle"
+      },
+      {
+        "title": "民俗的延续与重写",
+        "text": "后世节庆、圣徒、童话和地方习俗可能保存或改写旧元素；相似功能不自动证明一条连续不变的信仰线。19世纪收藏者自身的理论也影响编排。",
+        "source": "sl-tales"
+      }
+    ],
+    "entities": [
+      {
+        "id": "slavic-perun",
+        "name": "佩伦",
+        "alias": "Perun",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "雷电与誓约",
+        "summary": "中世纪史料有明确记载的雷神。",
+        "detail": "在基辅罗斯与王权、武士誓约相连。后来与圣伊利亚等形象的比较可帮助理解宗教转换，但不是简单的一对一替换公式。",
+        "sources": [
+          "sl-perun"
+        ]
+      },
+      {
+        "id": "slavic-veles",
+        "name": "韦列斯／沃洛斯",
+        "alias": "Veles / Volos",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "牲畜、财富与誓约",
+        "summary": "在史料中与誓约及牲畜相关。",
+        "detail": "与佩伦的对立被学者用于重建神话结构；完整“雷神追蛇”故事并没有以统一斯拉夫古典史诗形式保存。",
+        "sources": [
+          "sl-zaroff"
+        ]
+      },
+      {
+        "id": "slavic-mokosh",
+        "name": "莫科什",
+        "alias": "Mokosh",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "女性神名与后世解释",
+        "summary": "出现在基辅罗斯神名名单中的女性神。",
+        "detail": "纺织、湿土、生育等解释涉及民俗与词源比较，证据强弱不同；不应为她编造完整而固定的丈夫、子女和故事。",
+        "sources": [
+          "sl-zaroff"
+        ]
+      },
+      {
+        "id": "slavic-dazhbog",
+        "name": "达日博格",
+        "alias": "Dazhbog",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "太阳相关传统",
+        "summary": "中世纪材料中有记载的神名。",
+        "detail": "与太阳、施予等联系来自不同文献和研究，不能仅凭现代“太阳神”标签推导出一套没有来源的家族谱系。",
+        "sources": [
+          "sl-zaroff"
+        ]
+      },
+      {
+        "id": "slavic-babayaga",
+        "name": "雅加婆婆",
+        "alias": "Baba Yaga",
+        "kind": "民间超自然主体",
+        "tier": 1,
+        "domain": "森林与考验",
+        "summary": "居于森林边界、可以威胁或帮助来访者。",
+        "detail": "鸡脚屋、骷髅和役使任务构成著名意象；她是多种故事里的角色类型，不是可直接证实古代全国统一崇拜的女神。",
+        "sources": [
+          "sl-tales"
+        ]
+      },
+      {
+        "id": "slavic-koshchei",
+        "name": "不死的科谢伊",
+        "alias": "Koshchei the Deathless",
+        "kind": "童话敌手",
+        "tier": 2,
+        "domain": "禁闭与外置生命",
+        "summary": "常把生命藏于难以找到的外部物件。",
+        "detail": "英雄必须借助动物、盟友和知识找到其弱点。故事关注控制、救援与机智，而非证明古代宗教相信某个固定恶神。",
+        "sources": [
+          "sl-tales"
+        ]
+      },
+      {
+        "id": "slavic-vasilissa",
+        "name": "瓦西丽莎",
+        "alias": "Vasilissa",
+        "kind": "童话主人公",
+        "tier": 1,
+        "domain": "考验与援助",
+        "summary": "在不同故事中拥有“美丽”或“智慧”等称号。",
+        "detail": "同名角色不总是同一个人。《美丽的瓦西丽莎》中母亲留下的小偶提供帮助；应与水王故事中的智女区别。",
+        "sources": [
+          "sl-tales"
+        ]
+      },
+      {
+        "id": "slavic-leshy",
+        "name": "列希",
+        "alias": "Leshy",
+        "kind": "民间精灵",
+        "tier": 2,
+        "domain": "森林",
+        "summary": "与森林迷路、规矩和遭遇相连的精灵。",
+        "detail": "形貌和性情随地方故事变化。森林的资源与危险在此被关系化，不能只当作一只外观固定的怪物。",
+        "sources": [
+          "sl-tales"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "slavic-perun",
+        "to": "slavic-veles",
+        "type": "誓约并列／重建对立",
+        "note": "史料并列较可靠；完整对抗叙事属于研究模型",
+        "source": "sl-zaroff"
+      },
+      {
+        "from": "slavic-perun",
+        "to": "slavic-mokosh",
+        "type": "祭祀名单并列",
+        "note": "不是有证据的婚姻关系",
+        "source": "sl-zaroff"
+      },
+      {
+        "from": "slavic-perun",
+        "to": "slavic-dazhbog",
+        "type": "祭祀名单并列",
+        "note": "不由此推断血缘",
+        "source": "sl-zaroff"
+      },
+      {
+        "from": "slavic-babayaga",
+        "to": "slavic-vasilissa",
+        "type": "考验／援助",
+        "note": "《美丽的瓦西丽莎》",
+        "source": "sl-tales"
+      },
+      {
+        "from": "slavic-babayaga",
+        "to": "slavic-koshchei",
+        "type": "童话世界中的关联",
+        "note": "部分故事共享角色类型；非固定亲属",
+        "source": "sl-tales"
+      }
+    ],
+    "events": [
+      {
+        "id": "slavic-idols",
+        "title": "建立神像与拆毁神像",
+        "tier": 1,
+        "era": "编年史记载：980与988年相关叙事",
+        "summary": "王权先组织旧神崇拜，后转向基督教。",
+        "detail": "这是有文献支撑的历史宗教专题；编年史叙述带有胜利的新宗教立场，细节和年代仍应与其他证据比较。",
+        "actors": [
+          "slavic-perun",
+          "slavic-mokosh",
+          "slavic-dazhbog"
+        ],
+        "source": "sl-chronicle"
+      },
+      {
+        "id": "slavic-vasilissa-fire",
+        "title": "瓦西丽莎取火",
+        "tier": 1,
+        "era": "19世纪记录的童话传统",
+        "summary": "少女被送往雅加婆婆处，完成任务后带回火。",
+        "detail": "亡母留下的小偶、家务考验和危险馈赠共同推动故事。其残酷结局应置于童话文类中理解，不把角色行为当作宗教伦理教条。",
+        "actors": [
+          "slavic-vasilissa",
+          "slavic-babayaga"
+        ],
+        "source": "sl-tales"
+      },
+      {
+        "id": "slavic-death-hidden",
+        "title": "寻找科谢伊的外置生命",
+        "tier": 2,
+        "era": "民间故事异文",
+        "summary": "英雄寻找藏在重重容器或动物之中的致命弱点。",
+        "detail": "动物帮助与遵守互惠往往比正面武力更重要。容器、动物和杀死方法因版本而异，因此只给出母题，不强定唯一细节。",
+        "actors": [
+          "slavic-koshchei"
+        ],
+        "source": "sl-tales"
+      }
+    ],
+    "sources": [
+      {
+        "id": "sl-perun",
+        "title": "Perun",
+        "author": "Internet Encyclopedia of Ukraine／加拿大乌克兰研究所",
+        "kind": "学术",
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CP%5CE%5CPerun.htm",
+        "note": "佩伦的史料、誓约和基督教化。"
+      },
+      {
+        "id": "sl-chronicle",
+        "title": "Russian Primary Chronicle：节选",
+        "author": "C. T. Evans译／Northern Virginia Community College",
+        "kind": "原典",
+        "url": "https://novaonline.nvcc.edu/eli/evans/his101/documents/chronicle.html",
+        "note": "编年史中的受洗与毁像；作者有明确基督教立场。"
+      },
+      {
+        "id": "sl-zaroff",
+        "title": "Organized Pagan Cult in Kievan Rus’",
+        "author": "Roman Zaroff，Studia Mythologica Slavica",
+        "kind": "学术",
+        "url": "https://ojs.zrc-sazu.si/sms/article/download/1844/1591/4809",
+        "note": "基辅罗斯前基督教宗教研究；需区分证据与重建。"
+      },
+      {
+        "id": "sl-tales",
+        "title": "Russian Fairy Tales",
+        "author": "W. R. S. Ralston／Project Gutenberg",
+        "kind": "文学",
+        "url": "https://www.gutenberg.org/files/22373/22373-h/22373-h.htm",
+        "note": "19世纪采集传统的英文选译；故事不是古代宗教的直接录像。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "He thus ordered that Perun should be bound to a horse’s tail",
+        "source": "sl-chronicle",
+        "locator": "《往年纪事》受洗与毁像节选",
+        "note": "意译：他命令把佩伦像绑在马尾上。这里说的是神像处置，不是神祇作为历史人物遭处刑。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "每条知识先问证据类型",
+        "text": "把内容标记为编年史、外部见闻、民俗采集或现代重建；证据等级本身就是学习这片传统的重要部分。"
+      }
+    ],
+    "cautions": [
+      "不提供没有原典支持的完整斯拉夫神族家谱。",
+      "雅加婆婆和科谢伊主要属于后世故事材料，不能直接与佩伦并列为同一古代祭祀名单。"
+    ]
+  }
+]

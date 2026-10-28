@@ -1,0 +1,3584 @@
+{
+  "ce-nuwa": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anonymous-Fuxi_and_N%C3%BCwa.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Anonymous-Fuxi_and_N%C3%BCwa.jpg",
+        "credit": "anonymous",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fuxinuwa.jpg",
+        "title": "伏羲女娲绢画",
+        "caption": "唐代8世纪中叶伏羲女娲合像；这幅后世艺术品反映人首蛇身与配对图式，不是先秦绘画。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.25,
+          0.105,
+          0.23,
+          0.11
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-hnlm",
+        "locator": "《淮南子·览冥训》女娲补天段",
+        "note": "补天、断鳌足与止洪水见此；此段不把共工撞山明确写成紧邻前因。",
+        "quote": "于是女娲炼五色石以补苍天。"
+      },
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·大荒西经》女娲之肠段",
+        "note": "此处记录女娲之肠化为神，不是完整的抟土造人故事。"
+      }
+    ]
+  },
+  "ce-fuxi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anonymous-Fuxi_and_N%C3%BCwa.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Anonymous-Fuxi_and_N%C3%BCwa.jpg",
+        "credit": "anonymous",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fuxinuwa.jpg",
+        "title": "伏羲女娲绢画",
+        "caption": "唐代8世纪中叶合像中的伏羲；图中规矩、日月与交尾蛇身构成宇宙秩序象征。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.53,
+          0.12,
+          0.21,
+          0.101
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shuowen",
+        "locator": "《说文解字·叙》庖牺、仓颉与书契起源段",
+        "note": "汉代文字学序言保存的文明起源叙述；庖牺即伏羲的一种写法。"
+      }
+    ]
+  },
+  "ce-huangdi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Portraits_of_Famous_Men_-_Yellow_Emperor_%28Huangdi%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Yellow_Emperor_(Huangdi).jpg",
+        "credit": "Unknown Chinese artist",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-huangdi.jpg",
+        "title": "黄帝画像",
+        "caption": "19至20世纪初的想象性帝王肖像；神话年代与作品年代不同。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shiji",
+        "locator": "《史记》卷一《五帝本纪》黄帝与炎帝、蚩尤段",
+        "note": "汉代史家将多种祖先传说整理为帝王史；与《山海经》的神异战争并读。"
+      },
+      {
+        "source": "cn-shjdb",
+        "locator": "《山海经·大荒北经》蚩尤作兵伐黄帝段",
+        "note": "应龙蓄水、风伯雨师与女魃止雨属于该篇具体叙事，不能视作战争的考古记录。"
+      }
+    ]
+  },
+  "ce-shennong": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Xu_Jetian_-_Shennong.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Xu_Jetian_-_Shennong.jpg",
+        "credit": "Xu Jetian",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-shennong.jpg",
+        "title": "神农图",
+        "caption": "徐节田（Xu Jetian），18世纪神农图；后世药草起源叙事的视觉参照。",
+        "avatar": true,
+        "position": "50% 20%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-hnxw",
+        "locator": "《淮南子·修务训》神农教民、尝百草段",
+        "note": "尝百草与农业、医药和制度的起源相连；神农、炎帝的合流另有历史层次。"
+      }
+    ]
+  },
+  "ce-chiyou": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Chi_You.gif",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Chi_You.gif",
+        "credit": "Unknown author Unknown author",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-chiyou.gif",
+        "title": "蚩尤图",
+        "caption": "传统插图中的蚩尤形象；作品版本与年代以来源页为准，不当作上古肖像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shiji",
+        "locator": "《史记》卷一《五帝本纪》黄帝与炎帝、蚩尤段",
+        "note": "汉代史家将多种祖先传说整理为帝王史；与《山海经》的神异战争并读。"
+      },
+      {
+        "source": "cn-shjdb",
+        "locator": "《山海经·大荒北经》蚩尤作兵伐黄帝段",
+        "note": "应龙蓄水、风伯雨师与女魃止雨属于该篇具体叙事，不能视作战争的考古记录。"
+      }
+    ]
+  },
+  "ce-yu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/YuTheGreat.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:YuTheGreat.JPG",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-yu.jpg",
+        "title": "大禹画像",
+        "caption": "后世大禹想象像；用作治水故事主角参照，非夏代人物写生。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海内经》鲧窃息壤、祝融杀鲧及鲧复生禹段",
+        "note": "这是鲧禹治水的神话版本，勿与其他经史记载合并为唯一顺序。"
+      }
+    ]
+  },
+  "ce-gun": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海内经》鲧窃息壤、祝融杀鲧及鲧复生禹段",
+        "note": "这是鲧禹治水的神话版本，勿与其他经史记载合并为唯一顺序。"
+      }
+    ]
+  },
+  "ce-gonggong": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%E5%A5%B3%E5%AA%A7%E8%88%88%E5%85%B5%E8%A8%8E%E5%85%B1%E5%B7%A5.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:%E5%A5%B3%E5%AA%A7%E8%88%88%E5%85%B5%E8%A8%8E%E5%85%B1%E5%B7%A5.jpg",
+        "credit": "Unknown author Unknown author",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-gonggong.jpg",
+        "title": "女娲兴兵讨共工",
+        "caption": "1635年插图表现女娲讨共工的后起叙事；《淮南子·天文训》写共工与颛顼争帝，本图不能替代该段情节。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-hntw",
+        "locator": "《淮南子·天文训》共工与颛顼争帝段",
+        "note": "这里与共工争帝的是颛顼；撞山后天倾西北、地不满东南，被用来解释天象和水流。"
+      }
+    ]
+  },
+  "ce-zhuanxu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-hntw",
+        "locator": "《淮南子·天文训》共工与颛顼争帝段",
+        "note": "这里与共工争帝的是颛顼；撞山后天倾西北、地不满东南，被用来解释天象和水流。"
+      },
+      {
+        "source": "cn-shiji",
+        "locator": "《史记》卷一《五帝本纪》颛顼、尧、舜诸段",
+        "note": "帝系和禅让叙事属于汉代史学编排；应与更早材料及考古证据区分。"
+      }
+    ]
+  },
+  "ce-zhurong": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海内经》鲧窃息壤、祝融杀鲧及鲧复生禹段",
+        "note": "这是鲧禹治水的神话版本，勿与其他经史记载合并为唯一顺序。"
+      }
+    ]
+  },
+  "ce-yi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Houyi_Shooting_an_Arrow%2C_Xiao_Yuncong.gif",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif",
+        "credit": "Xiao Yuncong (蕭雲從)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-yi.gif",
+        "title": "羿射日图",
+        "caption": "萧云从《天问图》，1645年刻本；清初对羿射日的视觉解释。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-hnbj",
+        "locator": "《淮南子·本经训》尧之时十日并出段",
+        "note": "原文并列射日与诛凿齿、杀九婴等除害行动；羿的不同传说并非全属同一人物传记。"
+      }
+    ]
+  },
+  "ce-change": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-hnlm",
+        "locator": "《淮南子·览冥训》羿请不死之药、姮娥奔月段",
+        "note": "姮娥与嫦娥是传世异名；奔月缘由与后世爱情叙事应分读。"
+      }
+    ]
+  },
+  "ce-kuafu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kua-fu.gif",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Kua-fu.gif",
+        "credit": "Гань Бао?",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-kuafu.gif",
+        "title": "夸父逐日插图",
+        "caption": "传统夸父逐日图；原文件对作者、年代存疑，此处不据图判定成书年代。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.51,
+          0,
+          0.49,
+          1
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海外北经》夸父逐日；《大荒北经》夸父与应龙",
+        "note": "《海外北经》写渴死与杖化邓林；《大荒北经》另有应龙杀夸父的叙述。"
+      }
+    ]
+  },
+  "ce-jingwei": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Classic_of_Mountains_and_Seas%2C_1597%2C_plate_XXV_%28detail%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Classic_of_Mountains_and_Seas,_1597,_plate_XXV_(detail).jpg",
+        "credit": "Jiang Yinghao (fl. late 16th century)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-jingwei.jpg",
+        "title": "精卫图",
+        "caption": "蒋应镐《山海经图》1597年版局部，精卫衔木石；这是一幅明代插图。",
+        "avatar": true,
+        "position": "50% 50%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shjn",
+        "locator": "《山海经·北山经》发鸠之山条",
+        "note": "女娃是炎帝之少女，溺海后化鸟；不要与女娲混淆。",
+        "quote": "常衔西山之木石，以堙于东海。"
+      }
+    ]
+  },
+  "ce-xingtian": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海外西经》形天与帝争神段",
+        "note": "原文常作“形天”；断首后以乳为目、以脐为口，操干戚而舞。"
+      }
+    ]
+  },
+  "ce-xiwangmu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Shan_Hai_Jing_-_Xi_Wangmu.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shan_Hai_Jing_-_Xi_Wangmu.jpg",
+        "credit": "佚名；Wikimedia Commons 文件页记为清代版本，扫描来自《中国古典文学大系》",
+        "license": "Public Domain／公有领域（文件页标注）",
+        "local": "assets/images/e528421ed24fbc6a.jpg",
+        "title": "《山海经》西王母图",
+        "caption": "清代《山海经》图像中的西王母；与王母宫廷形象对照，可观察文本到图像的改写。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·西山经》玉山条；《大荒西经》昆仑之丘条",
+        "note": "豹尾虎齿、蓬发戴胜的早期形象，与后来宫廷化王母形象有显著差别。"
+      }
+    ]
+  },
+  "ce-dijun": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Xihe%28deity%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Xihe(deity).jpg",
+        "credit": "Unknown artist Unknown artist",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-xihe.jpg",
+        "title": "羲和浴日：帝俊神族的关联图像",
+        "caption": "图中主体是帝俊之妻羲和与太阳，并不是帝俊肖像；对照《大荒南经》生十日一段。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·大荒南经》羲和国、羲和浴日段",
+        "note": "帝俊之妻羲和生十日；这是一组帝俊亲缘叙事，不应自动把帝俊等同于其他至上神。"
+      },
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·大荒西经》常羲生月段",
+        "note": "常羲生月十有二；与羲和生十日是不同条目。"
+      }
+    ]
+  },
+  "ce-xihe": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Xihe%28deity%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Xihe(deity).jpg",
+        "credit": "Unknown artist Unknown artist",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-xihe.jpg",
+        "title": "羲和浴日图",
+        "caption": "19世纪羲和浴日图，与《山海经·大荒南经》帝俊之妻生十日相对照。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.39,
+          0.035,
+          0.22,
+          0.23
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·大荒南经》羲和国、羲和浴日段",
+        "note": "帝俊之妻羲和生十日；这是一组帝俊亲缘叙事，不应自动把帝俊等同于其他至上神。"
+      }
+    ]
+  },
+  "ce-changxi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·大荒西经》常羲生月段",
+        "note": "常羲生月十有二；与羲和生十日是不同条目。"
+      }
+    ]
+  },
+  "ce-zhulong": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海外北经》钟山之神烛阴；《大荒北经》烛龙",
+        "note": "睁闭眼、呼吸与昼夜寒暑相联系；两篇称名和细节有差异。"
+      }
+    ]
+  },
+  "ce-yinglong": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shjdb",
+        "locator": "《山海经·大荒北经》蚩尤作兵伐黄帝段",
+        "note": "应龙蓄水、风伯雨师与女魃止雨属于该篇具体叙事，不能视作战争的考古记录。"
+      }
+    ]
+  },
+  "ce-nuba": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shjdb",
+        "locator": "《山海经·大荒北经》蚩尤作兵伐黄帝段",
+        "note": "应龙蓄水、风伯雨师与女魃止雨属于该篇具体叙事，不能视作战争的考古记录。"
+      }
+    ]
+  },
+  "ce-xiangliu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海外北经》共工之臣相柳；《大荒北经》相繇",
+        "note": "九首蛇身与毒水、禹治水相连；相柳／相繇保留篇章异名。"
+      }
+    ]
+  },
+  "ce-pangu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pangu.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pangu.jpg",
+        "credit": "Wang Qi",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-pangu.jpg",
+        "title": "《三才图会》盘古图",
+        "caption": "王圻《三才图会》，约1607年。明代图像与三国以来的盘古文献传统分开标年。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-pangu",
+        "locator": "《太平御览》卷二引徐整《三五历纪》",
+        "note": "宋代类书保存三国时期材料；这不是《山海经》或先秦文本中的创世神。",
+        "quote": "天地浑沌如鸡子，盘古生其中。"
+      }
+    ]
+  },
+  "ce-cangjie": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shuowen",
+        "locator": "《说文解字·叙》庖牺、仓颉与书契起源段",
+        "note": "汉代文字学序言保存的文明起源叙述；庖牺即伏羲的一种写法。"
+      }
+    ]
+  },
+  "ce-yao": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shiji",
+        "locator": "《史记》卷一《五帝本纪》颛顼、尧、舜诸段",
+        "note": "帝系和禅让叙事属于汉代史学编排；应与更早材料及考古证据区分。"
+      }
+    ]
+  },
+  "ce-shun": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shiji",
+        "locator": "《史记》卷一《五帝本纪》颛顼、尧、舜诸段",
+        "note": "帝系和禅让叙事属于汉代史学编排；应与更早材料及考古证据区分。"
+      }
+    ]
+  },
+  "ce-donghuang": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌·东皇太一》",
+        "note": "祭歌以迎神、思慕、离别等声音组织仪式经验；说话者与神的身份不宜简化为现代人物传记。"
+      }
+    ]
+  },
+  "ce-yunzhong": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌·云中君》",
+        "note": "祭歌以迎神、思慕、离别等声音组织仪式经验；说话者与神的身份不宜简化为现代人物传记。"
+      }
+    ]
+  },
+  "ce-xiangjun": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌·湘君》",
+        "note": "祭歌以迎神、思慕、离别等声音组织仪式经验；说话者与神的身份不宜简化为现代人物传记。"
+      }
+    ]
+  },
+  "ce-xiangfuren": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌·湘夫人》",
+        "note": "祭歌以迎神、思慕、离别等声音组织仪式经验；说话者与神的身份不宜简化为现代人物传记。"
+      }
+    ]
+  },
+  "ce-dasiming": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌·大司命》",
+        "note": "祭歌以迎神、思慕、离别等声音组织仪式经验；说话者与神的身份不宜简化为现代人物传记。"
+      }
+    ]
+  },
+  "ce-shaosiming": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌·少司命》",
+        "note": "祭歌以迎神、思慕、离别等声音组织仪式经验；说话者与神的身份不宜简化为现代人物传记。"
+      }
+    ]
+  },
+  "ce-hebo": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌·河伯》",
+        "note": "祭歌以迎神、思慕、离别等声音组织仪式经验；说话者与神的身份不宜简化为现代人物传记。"
+      }
+    ]
+  },
+  "ce-shangui": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌·山鬼》",
+        "note": "祭歌以迎神、思慕、离别等声音组织仪式经验；说话者与神的身份不宜简化为现代人物传记。"
+      }
+    ]
+  },
+  "ce-jiuweihu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Shahaijing-chongzhen%281628%E2%80%931644%29-nanshanjing1-fol5b-ninetailfox.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol5b-ninetailfox.jpg",
+        "credit": "蒋应镐绘，李文孝刻；1628—1644年本；Wikimedia Commons／美国国会图书馆原扫描",
+        "license": "Public Domain／公有领域",
+        "local": "assets/images/75a8468a630622ae.jpg",
+        "title": "《山海经》九尾狐图",
+        "caption": "明崇祯时期《山海经》九尾狐插图；不等同于《封神》的妲己狐妖。",
+        "avatar": true,
+        "position": "50% 50%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·南山经》青丘之山、丹穴之山条",
+        "note": "九尾狐与凤凰各有具体地理条目；早期狐的属性不能用后世狐妖故事替代。"
+      }
+    ]
+  },
+  "ce-bifang": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·西山经》章莪之山、昆仑之丘、三危之山等条",
+        "note": "毕方、陆吾与三青鸟属于不同山川条目；图像应与条目文字对读。"
+      }
+    ]
+  },
+  "ce-kuishou": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·大荒东经》流波山夔条",
+        "note": "状如牛、一足与风雨雷声是此条特征；不与其他同名人物混写。"
+      }
+    ]
+  },
+  "ce-luwu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·西山经》章莪之山、昆仑之丘、三危之山等条",
+        "note": "毕方、陆吾与三青鸟属于不同山川条目；图像应与条目文字对读。"
+      }
+    ]
+  },
+  "ce-fengbo": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shjdb",
+        "locator": "《山海经·大荒北经》蚩尤作兵伐黄帝段",
+        "note": "应龙蓄水、风伯雨师与女魃止雨属于该篇具体叙事，不能视作战争的考古记录。"
+      }
+    ]
+  },
+  "ce-fenghuang": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·南山经》青丘之山、丹穴之山条",
+        "note": "九尾狐与凤凰各有具体地理条目；早期狐的属性不能用后世狐妖故事替代。"
+      }
+    ]
+  },
+  "ce-zhouniao": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·西山经》章莪之山、昆仑之丘、三危之山等条",
+        "note": "毕方、陆吾与三青鸟属于不同山川条目；图像应与条目文字对读。"
+      }
+    ]
+  },
+  "ce-ev-nuwa": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anonymous-Fuxi_and_N%C3%BCwa.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Anonymous-Fuxi_and_N%C3%BCwa.jpg",
+        "credit": "anonymous",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fuxinuwa.jpg",
+        "title": "唐代伏羲女娲合像",
+        "caption": "女娲的后世图像参照，并非描绘补天全过程的场景。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-hnlm",
+        "locator": "《淮南子·览冥训》女娲补天段",
+        "note": "补天、断鳌足与止洪水见此；此段不把共工撞山明确写成紧邻前因。",
+        "quote": "于是女娲炼五色石以补苍天。"
+      }
+    ]
+  },
+  "ce-ev-pangu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pangu.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pangu.jpg",
+        "credit": "Wang Qi",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-pangu.jpg",
+        "title": "《三才图会》盘古图",
+        "caption": "王圻《三才图会》，约1607年。明代图像与三国以来的盘古文献传统分开标年。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-pangu",
+        "locator": "《太平御览》卷二引徐整《三五历纪》",
+        "note": "宋代类书保存三国时期材料；这不是《山海经》或先秦文本中的创世神。",
+        "quote": "天地浑沌如鸡子，盘古生其中。"
+      }
+    ]
+  },
+  "ce-ev-flood": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/YuTheGreat.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:YuTheGreat.JPG",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-yu.jpg",
+        "title": "大禹画像",
+        "caption": "后世大禹想象像；用作治水故事主角参照，非夏代人物写生。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海内经》鲧窃息壤、祝融杀鲧及鲧复生禹段",
+        "note": "这是鲧禹治水的神话版本，勿与其他经史记载合并为唯一顺序。"
+      }
+    ]
+  },
+  "ce-ev-zhuolu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Portraits_of_Famous_Men_-_Yellow_Emperor_%28Huangdi%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Yellow_Emperor_(Huangdi).jpg",
+        "credit": "Unknown Chinese artist",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-huangdi.jpg",
+        "title": "黄帝画像：战争主角参照",
+        "caption": "后世黄帝想象像；本图不是涿鹿之战现场图。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shiji",
+        "locator": "《史记》卷一《五帝本纪》黄帝与炎帝、蚩尤段",
+        "note": "汉代史家将多种祖先传说整理为帝王史；与《山海经》的神异战争并读。"
+      },
+      {
+        "source": "cn-shjdb",
+        "locator": "《山海经·大荒北经》蚩尤作兵伐黄帝段",
+        "note": "应龙蓄水、风伯雨师与女魃止雨属于该篇具体叙事，不能视作战争的考古记录。"
+      }
+    ]
+  },
+  "ce-ev-sun": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Houyi_Shooting_an_Arrow%2C_Xiao_Yuncong.gif",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif",
+        "credit": "Xiao Yuncong (蕭雲從)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-yi.gif",
+        "title": "羿射日图",
+        "caption": "萧云从《天问图》，1645年刻本；清初对羿射日的视觉解释。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-hnbj",
+        "locator": "《淮南子·本经训》尧之时十日并出段",
+        "note": "原文并列射日与诛凿齿、杀九婴等除害行动；羿的不同传说并非全属同一人物传记。"
+      }
+    ]
+  },
+  "ce-ev-jingwei": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Classic_of_Mountains_and_Seas%2C_1597%2C_plate_XXV_%28detail%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Classic_of_Mountains_and_Seas,_1597,_plate_XXV_(detail).jpg",
+        "credit": "Jiang Yinghao (fl. late 16th century)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-jingwei.jpg",
+        "title": "精卫图",
+        "caption": "蒋应镐《山海经图》1597年版局部，精卫衔木石；这是一幅明代插图。",
+        "avatar": true,
+        "position": "50% 50%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shjn",
+        "locator": "《山海经·北山经》发鸠之山条",
+        "note": "女娃是炎帝之少女，溺海后化鸟；不要与女娲混淆。",
+        "quote": "常衔西山之木石，以堙于东海。"
+      }
+    ]
+  },
+  "ce-ev-kuafu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kua-fu.gif",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Kua-fu.gif",
+        "credit": "Гань Бао?",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-kuafu.gif",
+        "title": "夸父逐日插图",
+        "caption": "传统夸父逐日图；原文件对作者、年代存疑，此处不据图判定成书年代。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.51,
+          0,
+          0.49,
+          1
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海外北经》夸父逐日；《大荒北经》夸父与应龙",
+        "note": "《海外北经》写渴死与杖化邓林；《大荒北经》另有应龙杀夸父的叙述。"
+      }
+    ]
+  },
+  "ce-ev-gonggong": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%E5%A5%B3%E5%AA%A7%E8%88%88%E5%85%B5%E8%A8%8E%E5%85%B1%E5%B7%A5.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:%E5%A5%B3%E5%AA%A7%E8%88%88%E5%85%B5%E8%A8%8E%E5%85%B1%E5%B7%A5.jpg",
+        "credit": "Unknown author Unknown author",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-gonggong.jpg",
+        "title": "女娲兴兵讨共工",
+        "caption": "1635年插图表现女娲讨共工的后起叙事；《淮南子·天文训》写共工与颛顼争帝，本图不能替代该段情节。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-hntw",
+        "locator": "《淮南子·天文训》共工与颛顼争帝段",
+        "note": "这里与共工争帝的是颛顼；撞山后天倾西北、地不满东南，被用来解释天象和水流。"
+      }
+    ]
+  },
+  "ce-ev-moon": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-hnlm",
+        "locator": "《淮南子·览冥训》羿请不死之药、姮娥奔月段",
+        "note": "姮娥与嫦娥是传世异名；奔月缘由与后世爱情叙事应分读。"
+      }
+    ]
+  },
+  "ce-ev-xingtian": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shj",
+        "locator": "《山海经·海外西经》形天与帝争神段",
+        "note": "原文常作“形天”；断首后以乳为目、以脐为口，操干戚而舞。"
+      }
+    ]
+  },
+  "ce-ev-herbs": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Xu_Jetian_-_Shennong.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Xu_Jetian_-_Shennong.jpg",
+        "credit": "Xu Jetian",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-shennong.jpg",
+        "title": "神农图",
+        "caption": "徐节田（Xu Jetian），18世纪神农图；后世药草起源叙事的视觉参照。",
+        "avatar": true,
+        "position": "50% 20%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cn-hnxw",
+        "locator": "《淮南子·修务训》神农教民、尝百草段",
+        "note": "尝百草与农业、医药和制度的起源相连；神农、炎帝的合流另有历史层次。"
+      }
+    ]
+  },
+  "ce-ev-writing": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-shuowen",
+        "locator": "《说文解字·叙》庖牺、仓颉与书契起源段",
+        "note": "汉代文字学序言保存的文明起源叙述；庖牺即伏羲的一种写法。"
+      }
+    ]
+  },
+  "ce-ev-jiumu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cn-jiuge",
+        "locator": "《楚辞·九歌》诸篇，末篇《礼魂》",
+        "note": "建议从《东皇太一》读到《礼魂》，观察祭祀、歌舞与神人关系。"
+      }
+    ]
+  },
+  "cb-shakyamuni": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/61820/1851362/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/61820",
+        "credit": "Purchase, Arthur M. Sackler Gift, 1974；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-shakyamuni.jpg",
+        "title": "佛坐像（可能为释迦牟尼）",
+        "caption": "中国4世纪末至5世纪初鎏金铜像；保留馆方“可能为释迦牟尼”的识别限定。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·方便品》第二；《如来寿量品》第十六",
+        "note": "这是大乘经典的佛陀与说法观；不是现代历史传记，也不等同于小说“如来”的全部设定。"
+      }
+    ]
+  },
+  "cb-amita": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/40448/1838670/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/40448",
+        "credit": "Rogers Fund, 1987；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-amita.jpg",
+        "title": "阿弥陀佛接引图",
+        "caption": "南宋13世纪末绢画，阿弥陀佛持接引手势；作品年代并非佛土的时间。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-amita",
+        "locator": "《佛说阿弥陀经》极乐世界与佛名解释段",
+        "note": "净土是宗教修行与救度语境中的佛土，不能按现代地理定位。",
+        "quote": "其土众生，无有众苦，但受诸乐，故名极乐。"
+      }
+    ]
+  },
+  "cb-medicine": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42716/174472/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/42716",
+        "credit": "Gift of Arthur M. Sackler, 1965；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-medicine.jpg",
+        "title": "药师佛法会图",
+        "caption": "原山西广胜寺壁画，约1319年；中央为药师佛，周围有日月光菩萨与十二神将。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.445,
+          0.2,
+          0.12,
+          0.152
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-medicine",
+        "locator": "《药师琉璃光如来本愿功德经》十二大愿段（T0450）",
+        "note": "愿文涉及疾病、贫困与身心安稳；愿行与佛土叙述应连读。"
+      }
+    ]
+  },
+  "cb-maitreya": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42733/163638/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/42733",
+        "credit": "大都会艺术博物馆，26.123，John Stewart Kennedy Fund",
+        "license": "Public Domain／馆方开放获取",
+        "local": "assets/images/4300f4935b7460fd.jpg",
+        "title": "弥勒佛像",
+        "caption": "北魏，公元486年；这是弥勒造像传统中的一种形象，与后世布袋和尚图式不同。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一；《从地涌出品》第十五",
+        "note": "此经可观察弥勒作为会众及问法者的角色；未来佛信仰还须对读弥勒诸经。"
+      }
+    ]
+  },
+  "cb-dipankara": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-diamond",
+        "locator": "《金刚般若波罗蜜经》如来在燃灯佛所段",
+        "note": "借授记和“无所得”讨论觉悟；不得据此把燃灯佛与《封神》的燃灯道人混为一人。"
+      }
+    ]
+  },
+  "cb-guanyin": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42718/166706/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/42718",
+        "credit": "大都会艺术博物馆，65.29.4，Sackler Collections",
+        "license": "Public Domain／馆方开放获取",
+        "local": "assets/images/ad197aa0ac3a4ce5.jpg",
+        "title": "菩萨立像（可能为观音）",
+        "caption": "北齐，约550—560年；保留博物馆“可能为观音”的辨识限定。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·观世音菩萨普门品》第二十五",
+        "note": "观察闻声救苦、不同应身和无畏施；与后世观音女身及民间传说分层阅读。"
+      },
+      {
+        "source": "cb-heart",
+        "locator": "《般若波罗蜜多心经》开篇（T0251）",
+        "note": "此译本称“观自在”，强调般若与空。",
+        "quote": "照见五蕴皆空，度一切苦厄。"
+      }
+    ]
+  },
+  "cb-manjushri": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/49568/163740/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/49568",
+        "credit": "大都会艺术博物馆，67.228",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-manjushri.jpg",
+        "title": "五髻文殊菩萨像",
+        "caption": "辽，11世纪中叶；五髻与文殊的智慧、陀罗尼信仰相关。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一；《提婆达多品》第十二",
+        "note": "文殊的智慧形象与龙女成佛叙事相连。"
+      }
+    ]
+  },
+  "cb-samantabhadra": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45369/176375/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/45369",
+        "credit": "H. O. Havemeyer Collection, 1929；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-triad.jpg",
+        "title": "释迦三尊图中的普贤",
+        "caption": "日本13世纪释迦三尊图，画面右下骑白象者为普贤，左下骑狮者为文殊；作为东亚传播对照，非中国本土作品。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.6,
+          0.56,
+          0.2,
+          0.133
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·普贤菩萨劝发品》第二十八",
+        "note": "普贤劝发、守护受持者；六牙白象是可与图像对读的显著标识。"
+      }
+    ]
+  },
+  "cb-ksitigarbha": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39883/1708498/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/39883",
+        "credit": "H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-dizang.jpg",
+        "title": "地藏菩萨图",
+        "caption": "高丽14世纪前半绢画；持锡杖、宝珠的僧形地藏，用于东亚图像比较。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-dizang",
+        "locator": "《地藏菩萨本愿经·忉利天宫神通品》第一；《阎浮众生业感品》第四（T0412）",
+        "note": "婆罗门女与光目女故事是不同本生段落；不要拼作同一历史人物的经历。"
+      }
+    ]
+  },
+  "cb-mahastama": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-contemplation",
+        "locator": "《佛说观无量寿佛经》大势至身相观（T0365）",
+        "note": "与观音、阿弥陀佛的图像组合有经文语境。"
+      }
+    ]
+  },
+  "cb-ananda": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众；《授记品》第六；《授学无学人记品》第九",
+        "note": "弟子名单与授记对象各有定位；目连救母的后世变文、戏曲不能全部回填到这些经文章节。"
+      }
+    ]
+  },
+  "cb-kashyapa": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众；《授记品》第六；《授学无学人记品》第九",
+        "note": "弟子名单与授记对象各有定位；目连救母的后世变文、戏曲不能全部回填到这些经文章节。"
+      }
+    ]
+  },
+  "cb-sariputra": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众；《授记品》第六；《授学无学人记品》第九",
+        "note": "弟子名单与授记对象各有定位；目连救母的后世变文、戏曲不能全部回填到这些经文章节。"
+      }
+    ]
+  },
+  "cb-maudgalyayana": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众；《授记品》第六；《授学无学人记品》第九",
+        "note": "弟子名单与授记对象各有定位；目连救母的后世变文、戏曲不能全部回填到这些经文章节。"
+      }
+    ]
+  },
+  "cb-vaisravana": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·陀罗尼品》第二十六",
+        "note": "多闻、持国等护法天王在此出现；四天王完整宇宙位置可对照《俱舍论》。"
+      }
+    ]
+  },
+  "cb-fourkings": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·陀罗尼品》第二十六",
+        "note": "多闻、持国等护法天王在此出现；四天王完整宇宙位置可对照《俱舍论》。"
+      },
+      {
+        "source": "cb-abhidharma",
+        "locator": "《阿毗达磨俱舍论》卷十一《分别世品》（T1558）",
+        "note": "用于对照天界、四洲与众生类别；经论系统间不必存在完全相同的谱系。"
+      }
+    ]
+  },
+  "cb-deva": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-abhidharma",
+        "locator": "《阿毗达磨俱舍论》卷十一《分别世品》（T1558）",
+        "note": "用于对照天界、四洲与众生类别；经论系统间不必存在完全相同的谱系。"
+      }
+    ]
+  },
+  "cb-naga": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-abhidharma",
+        "locator": "《阿毗达磨俱舍论》卷十一《分别世品》（T1558）",
+        "note": "用于对照天界、四洲与众生类别；经论系统间不必存在完全相同的谱系。"
+      },
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众段",
+        "note": "这些是众生类别，不能把整个类别当作单一有固定传记的神。"
+      }
+    ]
+  },
+  "cb-asura": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-abhidharma",
+        "locator": "《阿毗达磨俱舍论》卷十一《分别世品》（T1558）",
+        "note": "用于对照天界、四洲与众生类别；经论系统间不必存在完全相同的谱系。"
+      },
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众段",
+        "note": "这些是众生类别，不能把整个类别当作单一有固定传记的神。"
+      }
+    ]
+  },
+  "cb-garuda": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-abhidharma",
+        "locator": "《阿毗达磨俱舍论》卷十一《分别世品》（T1558）",
+        "note": "用于对照天界、四洲与众生类别；经论系统间不必存在完全相同的谱系。"
+      },
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众段",
+        "note": "这些是众生类别，不能把整个类别当作单一有固定传记的神。"
+      }
+    ]
+  },
+  "cb-yaksha": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-abhidharma",
+        "locator": "《阿毗达磨俱舍论》卷十一《分别世品》（T1558）",
+        "note": "用于对照天界、四洲与众生类别；经论系统间不必存在完全相同的谱系。"
+      },
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众段",
+        "note": "这些是众生类别，不能把整个类别当作单一有固定传记的神。"
+      }
+    ]
+  },
+  "cb-eightclasses": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-abhidharma",
+        "locator": "《阿毗达磨俱舍论》卷十一《分别世品》（T1558）",
+        "note": "用于对照天界、四洲与众生类别；经论系统间不必存在完全相同的谱系。"
+      },
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众段",
+        "note": "这些是众生类别，不能把整个类别当作单一有固定传记的神。"
+      }
+    ]
+  },
+  "cb-arhats": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·序品》第一会众；《授记品》第六；《授学无学人记品》第九",
+        "note": "弟子名单与授记对象各有定位；目连救母的后世变文、戏曲不能全部回填到这些经文章节。"
+      }
+    ]
+  },
+  "cb-wukong": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/JourneytotheWest.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:JourneytotheWest.jpg",
+        "credit": "Rolf Müller，2005／Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "local": "assets/images/enrich-cn-xygroup.jpg",
+        "title": "取经队伍：左侧探路、穿虎皮裙的孙悟空",
+        "caption": "颐和园长廊《西游记》彩画，2005年摄；图中左侧探路、穿虎皮裙的孙悟空。这是后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.44,
+          0.11,
+          0.09,
+          0.219
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第1—7回；第14回；第100回",
+        "note": "石猴求道、天宫冲突、加入取经和受职构成不同叙事阶段。"
+      },
+      {
+        "source": "cb-j100",
+        "locator": "《西游记》第100回，如来授悟空职段",
+        "note": "这是百回本小说的结尾，不是佛教经典对历史人物的授记。",
+        "quote": "汝为斗战胜佛。"
+      }
+    ]
+  },
+  "cb-tangseng": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/JourneytotheWest.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:JourneytotheWest.jpg",
+        "credit": "Rolf Müller，2005／Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "local": "assets/images/enrich-cn-xygroup.jpg",
+        "title": "取经队伍：骑白马、着袈裟的唐僧",
+        "caption": "颐和园长廊《西游记》彩画，2005年摄；图中骑白马、着袈裟的唐僧。这是后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.59,
+          0.12,
+          0.08,
+          0.195
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第8—14回；第98—100回",
+        "note": "小说唐僧取材于玄奘形象，但身世、妖怪历险和授职是文学叙事。"
+      },
+      {
+        "source": "cb-xuanzang",
+        "locator": "《大唐西域记》卷一等行程记录",
+        "note": "以历史旅行记录对照小说；两部书的文体与目的不同。"
+      }
+    ]
+  },
+  "cb-bajie": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/JourneytotheWest.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:JourneytotheWest.jpg",
+        "credit": "Rolf Müller，2005／Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "local": "assets/images/enrich-cn-xygroup.jpg",
+        "title": "取经队伍：唐僧身后持钉耙的猪八戒",
+        "caption": "颐和园长廊《西游记》彩画，2005年摄；图中唐僧身后持钉耙的猪八戒。这是后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.66,
+          0.2,
+          0.08,
+          0.195
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第18—19回；第100回",
+        "note": "高老庄收徒与净坛使者授职；勿把最终封号误写成佛。"
+      }
+    ]
+  },
+  "cb-wujing": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/JourneytotheWest.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:JourneytotheWest.jpg",
+        "credit": "Rolf Müller，2005／Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "local": "assets/images/enrich-cn-xygroup.jpg",
+        "title": "取经队伍：画面右侧挑担的沙悟净",
+        "caption": "颐和园长廊《西游记》彩画，2005年摄；图中画面右侧挑担的沙悟净。这是后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.72,
+          0.24,
+          0.08,
+          0.195
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第22回；第100回",
+        "note": "流沙河入队、赐名与金身罗汉授职。"
+      }
+    ]
+  },
+  "cb-whitedragon": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/JourneytotheWest.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:JourneytotheWest.jpg",
+        "credit": "Rolf Müller，2005／Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "local": "assets/images/enrich-cn-xygroup.jpg",
+        "title": "取经队伍：承载唐僧的白龙马",
+        "caption": "颐和园长廊《西游记》彩画，2005年摄；图中承载唐僧的白龙马。这是后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.52,
+          0.28,
+          0.09,
+          0.219
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第15回；第100回",
+        "note": "鹰愁涧归队，结尾授八部天龙马。"
+      }
+    ]
+  },
+  "cb-subhuti": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Li_Zhuowu%27s_Commentary_on_Journey_to_the_West%2C_Puti_Zushi_%281%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Li_Zhuowu%27s_Commentary_on_Journey_to_the_West,_Puti_Zushi_(1).jpg",
+        "credit": "晚明佚名插图／《李卓吾先生批评西游记》／Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-subhuti.jpg",
+        "title": "菩提祖师插图",
+        "caption": "晚明《李卓吾先生批评西游记》插图；书名中的评者不能据此当作画工。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第1—2回",
+        "note": "菩提祖师授悟空法术是小说设定，不宜直接等同于佛经中的须菩提。"
+      }
+    ]
+  },
+  "cb-whitebone": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bai_Gu_Jing.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Bai_Gu_Jing.jpg",
+        "credit": "Unknown author Unknown author",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-whitebone.jpg",
+        "title": "白骨精故事插图",
+        "caption": "16世纪《西游记》插图：左上沙僧、八戒，左下白骨精变化形象，右侧师徒冲突。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第27回",
+        "note": "三次变化与师徒误解集中在这一回。"
+      }
+    ]
+  },
+  "cb-redboy": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Red_Boy_%28Long_Corridor%29.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Red_Boy_(Long_Corridor).JPG",
+        "credit": "shizhao  (  talk  )拍摄，画者不明",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-redboy.jpg",
+        "title": "路遇红孩儿",
+        "caption": "颐和园长廊彩画，Shizhao于2008年摄；小说红孩儿故事的后世图像。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第40—42回",
+        "note": "三昧真火与观音收伏；善财童子名号在小说和佛教经典中有不同来历。"
+      }
+    ]
+  },
+  "cb-bullking": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Long_Corridor-%E7%89%9B%E9%AD%94%E7%8E%8B.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Long_Corridor-%E7%89%9B%E9%AD%94%E7%8E%8B.JPG",
+        "credit": "Shizhao",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-cn-xybull.jpg",
+        "title": "孙悟空大战牛魔王",
+        "caption": "颐和园长廊彩画，2008年摄；对应三调芭蕉扇中的大战。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第59—61回",
+        "note": "牛魔王家族与芭蕉扇争夺；人物关系按小说内部叙事。"
+      }
+    ]
+  },
+  "cb-ironfan": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Journey_to_the_West%2C_Shidetang_Hall_of_Jinling_in_1592.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Journey_to_the_West,_Shidetang_Hall_of_Jinling_in_1592.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-xyfan.jpg",
+        "title": "悟空与铁扇公主",
+        "caption": "1592年金陵世德堂《西游记》跨页插图，表现芭蕉洞的悟空与铁扇公主。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第59—61回",
+        "note": "三调芭蕉扇涉及变形、亲缘与火焰山民生。"
+      }
+    ]
+  },
+  "cb-sixears": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%E7%9C%9E%E5%81%87%E4%BA%8C%E6%82%9F%E7%A9%BA%E7%A9%BA%E4%B8%AD%E6%88%A6_%28cropped%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:%E7%9C%9E%E5%81%87%E4%BA%8C%E6%82%9F%E7%A9%BA%E7%A9%BA%E4%B8%AD%E6%88%A6_(cropped).jpg",
+        "credit": "Ōhara Tōya (大原東野)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-sixears.jpg",
+        "title": "真假二悟空空中战",
+        "caption": "大原东野（Ōhara Tōya），1837年日本《西游记》插图的来源裁片，表现真假悟空交战；不是中国明代原版。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第56—58回",
+        "note": "真假悟空从师徒冲突发展到灵山辨认。"
+      }
+    ]
+  },
+  "cb-yellowbrow": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第65—66回",
+        "note": "黄眉假设小雷音寺，弥勒揭明来历并收伏。"
+      }
+    ]
+  },
+  "cb-scorpion": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第54—55回",
+        "note": "蝎子精挟走唐僧及昴日星官收伏。"
+      }
+    ]
+  },
+  "cb-diting": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第58回",
+        "note": "谛听识别真假悟空而不当众言明，属于小说情节。"
+      }
+    ]
+  },
+  "cb-vairocana": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/73200/163791/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/73200",
+        "credit": "Purchase, Lila Acheson Wallace Gift, 2006；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-vairocana.jpg",
+        "title": "毗卢遮那佛像",
+        "caption": "辽，11世纪鎏金铜像；馆方以“智拳印”识别其为毗卢遮那。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-vairocana",
+        "locator": "馆藏条目 73200：11世纪辽代毗卢遮那像",
+        "note": "馆方根据手印等识别图像；宗教造像身份与《西游记》的文学角色应分别说明。"
+      }
+    ]
+  },
+  "cb-weituo": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/61701/163694/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/61701",
+        "credit": "Gift of Frank M. Michaelian, 1947；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-weituo.jpg",
+        "title": "韦陀菩萨像",
+        "caption": "明代16—17世纪漆金木雕；以着甲青年武将表现佛教护法。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-skanda",
+        "locator": "馆藏条目 61701：明代韦陀木像",
+        "note": "护法武将形象在中国寺院传统中发展；此像年代为16—17世纪。"
+      }
+    ]
+  },
+  "cb-jiedi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第15回等，五方揭谛护持取经段",
+        "note": "五方揭谛是小说里的护法群体；与佛经咒语音译的词源关联不能当作完整人物传记。"
+      }
+    ]
+  },
+  "cb-zhenyuan": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第24—26回",
+        "note": "人参果树、道观与悟空结义；不要把该小说人物等同于道教通行最高神谱。"
+      }
+    ]
+  },
+  "cb-blackbear": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第16—17回",
+        "note": "袈裟失窃、黑风山与观音收伏。"
+      }
+    ]
+  },
+  "cb-gold-silver": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第32—35回",
+        "note": "平顶山莲花洞，结尾揭示与老君的关联。"
+      }
+    ]
+  },
+  "cb-greenox": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第50—52回",
+        "note": "金兜山与金刚琢；老君收回青牛。"
+      }
+    ]
+  },
+  "cb-lion": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第74—77回",
+        "note": "青狮在狮驼岭为魔，结尾由文殊收回。"
+      }
+    ]
+  },
+  "cb-elephant": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第74—77回",
+        "note": "白象在狮驼岭为魔，结尾由普贤收回。"
+      }
+    ]
+  },
+  "cb-roc": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第74—77回",
+        "note": "大鹏身世、孔雀与如来的关系由小说第77回解释。"
+      }
+    ]
+  },
+  "cb-spiders": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第72回",
+        "note": "盘丝洞七蜘蛛精，不是可套用于所有蜘蛛精传说的统一谱系。"
+      }
+    ]
+  },
+  "cb-centipede": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第73回",
+        "note": "黄花观百眼魔君及毗蓝婆收伏。"
+      }
+    ]
+  },
+  "cb-white-deer": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第78—79回",
+        "note": "比丘国国丈，结尾由寿星收回白鹿。"
+      }
+    ]
+  },
+  "cb-jade-rabbit": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第93—95回",
+        "note": "天竺国真假公主与太阴星君收回玉兔。"
+      }
+    ]
+  },
+  "cb-nine-lion": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第89—90回",
+        "note": "玉华州兵器、竹节山九灵元圣与太乙救苦天尊。"
+      }
+    ]
+  },
+  "cb-womenqueen": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第53—55回",
+        "note": "女儿国婚姻邀请与唐僧继续西行的选择。"
+      }
+    ]
+  },
+  "cb-ev-awakening": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/61820/1851362/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/61820",
+        "credit": "Purchase, Arthur M. Sackler Gift, 1974；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-shakyamuni.jpg",
+        "title": "佛坐像（可能为释迦牟尼）",
+        "caption": "中国4世纪末至5世纪初鎏金铜像；保留馆方“可能为释迦牟尼”的识别限定。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·方便品》第二；《如来寿量品》第十六",
+        "note": "这是大乘经典的佛陀与说法观；不是现代历史传记，也不等同于小说“如来”的全部设定。"
+      }
+    ]
+  },
+  "cb-ev-pureland": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/40448/1838670/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/40448",
+        "credit": "Rogers Fund, 1987；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-amita.jpg",
+        "title": "阿弥陀佛接引图",
+        "caption": "南宋13世纪末绢画，阿弥陀佛持接引手势；作品年代并非佛土的时间。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-amita",
+        "locator": "《佛说阿弥陀经》极乐世界与佛名解释段",
+        "note": "净土是宗教修行与救度语境中的佛土，不能按现代地理定位。",
+        "quote": "其土众生，无有众苦，但受诸乐，故名极乐。"
+      }
+    ]
+  },
+  "cb-ev-guanyin": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42718/166706/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/42718",
+        "credit": "大都会艺术博物馆，65.29.4，Sackler Collections",
+        "license": "Public Domain／馆方开放获取",
+        "local": "assets/images/ad197aa0ac3a4ce5.jpg",
+        "title": "菩萨立像（可能为观音）",
+        "caption": "北齐，约550—560年；保留博物馆“可能为观音”的辨识限定。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-lotus",
+        "locator": "《妙法莲华经·观世音菩萨普门品》第二十五",
+        "note": "观察闻声救苦、不同应身和无畏施；与后世观音女身及民间传说分层阅读。"
+      }
+    ]
+  },
+  "cb-ev-medicine": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42716/174472/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/42716",
+        "credit": "Gift of Arthur M. Sackler, 1965；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-medicine.jpg",
+        "title": "药师佛法会图",
+        "caption": "原山西广胜寺壁画，约1319年；中央为药师佛，周围有日月光菩萨与十二神将。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.445,
+          0.2,
+          0.12,
+          0.152
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-medicine",
+        "locator": "《药师琉璃光如来本愿功德经》十二大愿段（T0450）",
+        "note": "愿文涉及疾病、贫困与身心安稳；愿行与佛土叙述应连读。"
+      }
+    ]
+  },
+  "cb-ev-dizang": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39883/1708498/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/39883",
+        "credit": "H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-dizang.jpg",
+        "title": "地藏菩萨图",
+        "caption": "高丽14世纪前半绢画；持锡杖、宝珠的僧形地藏，用于东亚图像比较。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-dizang",
+        "locator": "《地藏菩萨本愿经·忉利天宫神通品》第一；《阎浮众生业感品》第四（T0412）",
+        "note": "婆罗门女与光目女故事是不同本生段落；不要拼作同一历史人物的经历。"
+      }
+    ]
+  },
+  "cb-ev-heaven": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/JourneytotheWest.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:JourneytotheWest.jpg",
+        "credit": "Rolf Müller，2005／Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "local": "assets/images/enrich-cn-xygroup.jpg",
+        "title": "大闹天宫后的悟空：形象参照",
+        "caption": "本图表现取经时期悟空及同伴，不是大闹天宫场景；用于比较他从天庭反叛者到取经弟子的身份转变。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第3—7回",
+        "note": "从龙宫、地府到天庭冲突；五行山是小说的惩戒和等待取经结构。"
+      }
+    ]
+  },
+  "cb-ev-gather": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/JourneytotheWest.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:JourneytotheWest.jpg",
+        "credit": "Rolf Müller，2005／Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "local": "assets/images/enrich-cn-xygroup.jpg",
+        "title": "取经队伍彩画",
+        "caption": "颐和园长廊彩画，2005年摄；用于对照取经五众，并非专门描绘结尾授职的场面。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第8回；第14—15回；第18—19回；第22回",
+        "note": "观音预先招募与各人实际入队发生在不同回目。"
+      }
+    ]
+  },
+  "cb-ev-whitebone": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bai_Gu_Jing.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Bai_Gu_Jing.jpg",
+        "credit": "Unknown author Unknown author",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-whitebone.jpg",
+        "title": "白骨精故事插图",
+        "caption": "16世纪《西游记》插图：左上沙僧、八戒，左下白骨精变化形象，右侧师徒冲突。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第27回",
+        "note": "妖怪变化、悟空识破与唐僧驱逐构成同一冲突。"
+      }
+    ]
+  },
+  "cb-ev-redboy": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Red_Boy_%28Long_Corridor%29.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Red_Boy_(Long_Corridor).JPG",
+        "credit": "shizhao  (  talk  )拍摄，画者不明",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-redboy.jpg",
+        "title": "路遇红孩儿",
+        "caption": "颐和园长廊彩画，Shizhao于2008年摄；小说红孩儿故事的后世图像。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第40—42回",
+        "note": "观音收伏的过程与红孩儿最终身份。"
+      }
+    ]
+  },
+  "cb-ev-sixears": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%E7%9C%9E%E5%81%87%E4%BA%8C%E6%82%9F%E7%A9%BA%E7%A9%BA%E4%B8%AD%E6%88%A6_%28cropped%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:%E7%9C%9E%E5%81%87%E4%BA%8C%E6%82%9F%E7%A9%BA%E7%A9%BA%E4%B8%AD%E6%88%A6_(cropped).jpg",
+        "credit": "Ōhara Tōya (大原東野)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-sixears.jpg",
+        "title": "真假二悟空空中战",
+        "caption": "大原东野（Ōhara Tōya），1837年日本《西游记》插图的来源裁片，表现真假悟空交战；不是中国明代原版。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第56—58回",
+        "note": "可连读真假问题、师徒分歧与最终辨认。"
+      }
+    ]
+  },
+  "cb-ev-fan": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Journey_to_the_West%2C_Shidetang_Hall_of_Jinling_in_1592.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Journey_to_the_West,_Shidetang_Hall_of_Jinling_in_1592.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-xyfan.jpg",
+        "title": "悟空与铁扇公主",
+        "caption": "1592年金陵世德堂《西游记》跨页插图，表现芭蕉洞的悟空与铁扇公主。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第59—61回",
+        "note": "三次借扇与牛魔王家族关系相互推进。"
+      }
+    ]
+  },
+  "cb-ev-results": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/JourneytotheWest.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:JourneytotheWest.jpg",
+        "credit": "Rolf Müller，2005／Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "local": "assets/images/enrich-cn-xygroup.jpg",
+        "title": "取经队伍彩画",
+        "caption": "颐和园长廊彩画，2005年摄；用于对照取经五众，并非专门描绘结尾授职的场面。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第98—100回",
+        "note": "经书、通天河末难与五众不同授职应连读。"
+      },
+      {
+        "source": "cb-j100",
+        "locator": "《西游记》第100回，如来授悟空职段",
+        "note": "这是百回本小说的结尾，不是佛教经典对历史人物的授记。",
+        "quote": "汝为斗战胜佛。"
+      }
+    ]
+  },
+  "cb-ev-tree": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第24—26回",
+        "note": "从偷果、毁树到医树和结义。"
+      }
+    ]
+  },
+  "cb-ev-women": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第53—55回",
+        "note": "子母河、女王招婚与蝎子精插曲是连续但不同的情节。"
+      }
+    ]
+  },
+  "cb-ev-lion": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45369/176375/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/45369",
+        "credit": "H. O. Havemeyer Collection, 1929；大都会艺术博物馆",
+        "license": "Public Domain / CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "local": "assets/images/enrich-cn-triad.jpg",
+        "title": "狮驼岭的收伏者：释迦、文殊与普贤",
+        "caption": "日本13世纪释迦三尊图，供对照小说第77回收伏三魔的释迦、文殊、普贤；这是宗教造像，不是狮驼岭战斗图，也不能把图中坐骑直接当作小说妖魔。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cb-journey",
+        "locator": "《西游记》第74—77回",
+        "note": "三魔来历与佛菩萨收伏由第77回揭明。"
+      }
+    ]
+  },
+  "cd-yuanshi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/The_Three_Purities%2C_one_of_three_-_Yuanshi_Tianzun.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Three_Purities,_one_of_three_-_Yuanshi_Tianzun.jpg",
+        "credit": "Unknow (Ming Dynasty)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-yuanshi.jpg",
+        "title": "元始天尊图",
+        "caption": "明代16世纪三清系列之一，明尼阿波利斯艺术博物馆藏；宗教三清图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-pure",
+        "locator": "Three Pure Ones：三清名称、形象与经典权威",
+        "note": "宗教三清与《封神》主要教主的对应不是可以无条件互换的同义表。"
+      }
+    ]
+  },
+  "cd-lingbao": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Three_Purities%2C_one_of_three_-_Lingbao_Tianzun.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Three_Purities,_one_of_three_-_Lingbao_Tianzun.jpg",
+        "credit": "Unknow (Ming Dynasty)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-lingbao.jpg",
+        "title": "灵宝天尊图",
+        "caption": "明代16世纪三清系列之一，明尼阿波利斯艺术博物馆藏；不直接替代小说通天教主形象。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-pure",
+        "locator": "Three Pure Ones：三清名称、形象与经典权威",
+        "note": "宗教三清与《封神》主要教主的对应不是可以无条件互换的同义表。"
+      }
+    ]
+  },
+  "cd-laojun": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39488/151876/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/39488",
+        "credit": "大都会艺术博物馆，1997.139",
+        "license": "Public Domain／馆方开放获取",
+        "local": "assets/images/e9accfc493050db8.jpg",
+        "title": "陈彦清造老子像",
+        "caption": "1438年鎏金铜像；作为后世老子／老君的宗教图像，不是东汉授道现场图。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-pure",
+        "locator": "Three Pure Ones：三清名称、形象与经典权威",
+        "note": "宗教三清与《封神》主要教主的对应不是可以无条件互换的同义表。"
+      },
+      {
+        "source": "cd-daode",
+        "locator": "《道德经》第42章",
+        "note": "本章用于理解道与万物的生成；后世老君神格和神传另有发展。",
+        "quote": "道生一，一生二，二生三，三生万物。"
+      }
+    ]
+  },
+  "cd-yuhuang": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/%E7%8E%89%E7%9A%87%E5%A4%A7%E5%B8%9D%E7%95%AB%E5%83%8F.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:%E7%8E%89%E7%9A%87%E5%A4%A7%E5%B8%9D%E7%95%AB%E5%83%8F.jpg",
+        "credit": "Unknow (Ming Dynasty)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-yuhuang.jpg",
+        "title": "玉皇大帝图",
+        "caption": "明代玉皇大帝图；礼服、冠冕与侍从构成天庭帝王式秩序。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-yuhuang",
+        "locator": "玉皇信仰介绍：本行经故事与尊号沿革",
+        "note": "宗教内部神传与历史加封资料需要分别阅读。"
+      }
+    ]
+  },
+  "cd-ziwei": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-four",
+        "locator": "三清四御：紫微、勾陈、后土条",
+        "note": "四御、六御名单随传统而异；此处明确采用该参考所列体系。"
+      }
+    ]
+  },
+  "cd-gouchen": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-four",
+        "locator": "三清四御：紫微、勾陈、后土条",
+        "note": "四御、六御名单随传统而异；此处明确采用该参考所列体系。"
+      }
+    ]
+  },
+  "cd-houdu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-four",
+        "locator": "三清四御：紫微、勾陈、后土条",
+        "note": "四御、六御名单随传统而异；此处明确采用该参考所列体系。"
+      }
+    ]
+  },
+  "cd-xiwangmu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Anonymous_-_Paying_homage_to_Xiwangmu%2C_the_Queen_Mother_of_the_West_-_23.33.3_-_Metropolitan_Museum_of_Art.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Paying_homage_to_Xiwangmu,_the_Queen_Mother_of_the_West_-_23.33.3_-_Metropolitan_Museum_of_Art.jpg",
+        "credit": "anonymous",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-xiwangmu_late.jpg",
+        "title": "群仙祝寿：西王母",
+        "caption": "明代《群仙祝寿》图，表现向西王母致敬的群仙；不是《西游记》蟠桃会的逐场插图。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-journey",
+        "locator": "《西游记》第5回，蟠桃园与蟠桃会",
+        "note": "这是小说中的王母及天庭宴会；不要把王母与玉帝的夫妻关系当作原文必有设定。"
+      }
+    ]
+  },
+  "cd-erlang": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ping_Sien_Si_-_011_Yang_Jian_%28Erlang_Shen%29_%2815949358169%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_011_Yang_Jian_(Erlang_Shen)_(15949358169).jpg",
+        "credit": "Photo Dharma / Anandajoti，2014，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-erlang.jpg",
+        "title": "杨戬／二郎神庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》浮雕，2014年摄影；仅作后世图像参照，文学身份仍按各书区分。",
+        "avatar": true,
+        "position": "50% 20%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-j6",
+        "locator": "《西游记》第6回，二郎显圣降悟空",
+        "note": "玉帝外甥、梅山兄弟和细犬等属于本回的二郎形象；名字“杨戬”须与《封神》另作对照。"
+      }
+    ]
+  },
+  "cd-lizjing": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ping_Sien_Si_-_005_Li_Jing_%28deity%29_%2816135565965%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_005_Li_Jing_(deity)_(16135565965).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-lijing.jpg",
+        "title": "李靖／托塔天王庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》系列浮雕，2014—2015年摄影；呈现李靖／托塔天王的后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-journey",
+        "locator": "《西游记》第3—6回，龙宫与天庭战争",
+        "note": "李靖、哪吒、龙王在小说里属于不同机构与家庭关系。"
+      }
+    ]
+  },
+  "cd-nezha": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nezha_contra_Ao_Guang.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nezha_contra_Ao_Guang.jpg",
+        "credit": "Isidijeron",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-cn-nezha.jpg",
+        "title": "哪吒与敖广浮雕",
+        "caption": "现代庙宇浮雕，2015年摄影；表现哪吒闹海题材，并非小说成书时期原作。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/FengShen2.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen2.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs2.jpg",
+        "title": "《封神》哪吒人物合刻",
+        "caption": "左页左侧为哪吒，右侧为杨戬；右页另刻苏护、黄飞虎。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.07,
+          0.46,
+          0.13,
+          0.181
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第12—14回",
+        "note": "闹海、自刎、莲花化身与父子矛盾；其宗教起源不能全部由小说倒推。"
+      }
+    ]
+  },
+  "cd-dragonkings": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-journey",
+        "locator": "《西游记》第3—6回，龙宫与天庭战争",
+        "note": "李靖、哪吒、龙王在小说里属于不同机构与家庭关系。"
+      }
+    ]
+  },
+  "cd-zhangdaoling": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-sep",
+        "locator": "Religious Daoism：天师道起源、启示与组织史相关节",
+        "note": "天师道传承和老君授道既有宗教自述也有历史研究，勿混写成同类证据。"
+      }
+    ]
+  },
+  "cd-zhenwu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“玄天上帝／真武”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-wanglingguan": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/41474/1908306/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/41474",
+        "credit": "佚名，1542年；大都会艺术博物馆，1989.155",
+        "license": "Public Domain／馆方开放获取",
+        "local": "assets/images/6ba84de206903ea7.jpg",
+        "title": "王元帅图",
+        "caption": "1542年道教护法图，明代宗教艺术实物，可观察武将化护法形象。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-wang-art",
+        "locator": "馆藏条目 41474：《王元帅图》，1542年",
+        "note": "有明确年代的护法图像；用于观察明代道教艺术与赞助背景。"
+      }
+    ]
+  },
+  "cd-leishen": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-journey",
+        "locator": "《西游记》第3—7回及第59—61回中的地府、星宿与护法",
+        "note": "类群节点只概括小说中的机构或群体；并不假定每个时代都有一张完全相同的名单。"
+      }
+    ]
+  },
+  "cd-lv": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“吕洞宾”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-zhongli": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“钟离权”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-tieguai": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“铁拐李”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-hexiangu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“何仙姑”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-lancaihe": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“蓝采和”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-hangxiang": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“韩湘子”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-zhangguolao": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“张果老”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-cao": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“曹国舅”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-tudi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“土地”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-chenghuang": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“城隍”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-zaojun": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-ganying",
+        "locator": "《太上感应篇》司过之神、三台北斗及灶神段",
+        "note": "善恶感应连接家内生活与天界监察。",
+        "quote": "祸福无门，惟人自召；善恶之报，如影随形。"
+      }
+    ]
+  },
+  "cd-guandi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“关圣帝君”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-mazu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-mazu",
+        "locator": "UNESCO：Mazu belief and customs，项目00227",
+        "note": "重点对照航海、节庆、社区与日常仪式；文化遗产介绍并非判定神迹真假的史证。"
+      }
+    ]
+  },
+  "cd-zhongkui": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“钟馗”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-fengdu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“酆都”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-tenkings": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-soushen",
+        "locator": "《三教源流搜神大全》相关神传（检索“十王”）",
+        "note": "晚期汇编记录神传层累与地方信仰；人物起源和神格不能一律追溯到先秦。"
+      }
+    ]
+  },
+  "cd-oxhorse": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-journey",
+        "locator": "《西游记》第3—7回及第59—61回中的地府、星宿与护法",
+        "note": "类群节点只概括小说中的机构或群体；并不假定每个时代都有一张完全相同的名单。"
+      }
+    ]
+  },
+  "cd-blackwhite": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-wuchang",
+        "locator": "馆藏2001.008.1450：范将军与谢将军明信片说明",
+        "note": "七爷八爷、范谢与黑白无常有相互关联和地方辨识差异。"
+      }
+    ]
+  },
+  "cd-stars": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-journey",
+        "locator": "《西游记》第3—7回及第59—61回中的地府、星宿与护法",
+        "note": "类群节点只概括小说中的机构或群体；并不假定每个时代都有一张完全相同的名单。"
+      }
+    ]
+  },
+  "cd-dingjia": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-journey",
+        "locator": "《西游记》第3—7回及第59—61回中的地府、星宿与护法",
+        "note": "类群节点只概括小说中的机构或群体；并不假定每个时代都有一张完全相同的名单。"
+      }
+    ]
+  },
+  "cd-jiang": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jiang_ziya.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Jiang_ziya.jpg",
+        "credit": "Wang Qi",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-jiang.jpg",
+        "title": "《三才图会》姜太公像",
+        "caption": "王圻《三才图会》，约1607年；姜子牙后世形象，封神事件本身须读小说第99回。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第15回；第23—24回；第99回",
+        "note": "下山、渭水访贤与封神是分散于全书的不同阶段。"
+      }
+    ]
+  },
+  "cd-zhou": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/FengShen.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs1.jpg",
+        "title": "《封神》人物合刻：商纣王／帝辛",
+        "caption": "旧刊本合刻；右页左方为纣王。图像是小说人物的后世描绘，刊刻年代以原页面为准。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.62,
+          0.36,
+          0.13,
+          0.181
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第1—9回；第97—98回",
+        "note": "小说商纣叙事应与帝辛的商代历史材料区分。"
+      }
+    ]
+  },
+  "cd-daji": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/FengShen.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs1.jpg",
+        "title": "《封神》人物合刻：妲己／狐妖",
+        "caption": "旧刊本合刻；右页右方为妲己。图像是小说人物的后世描绘，刊刻年代以原页面为准。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.71,
+          0.44,
+          0.13,
+          0.181
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第4—7回；第96—97回",
+        "note": "妲己与九尾狐的替身、入宫与结局属于小说设定。"
+      }
+    ]
+  },
+  "cd-wenwang": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dai_Jin-Dropping_a_Fishing_Line_on_the_Bank_of_the_Wei_River.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dai_Jin-Dropping_a_Fishing_Line_on_the_Bank_of_the_Wei_River.jpg",
+        "credit": "Dai Jin",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-jwyuan.jpg",
+        "title": "渭滨垂钓图",
+        "caption": "戴进，明代前期。以渭滨访贤题材联系姜子牙与周文王，是历史传说的后世绘画。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第19—24回",
+        "note": "羑里脱难、归西岐与访姜尚。"
+      }
+    ]
+  },
+  "cd-wuwang": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第28回；第86—98回",
+        "note": "周武王的继位、伐纣与分封是小说对商周史事的再叙述。"
+      }
+    ]
+  },
+  "cd-wen": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/FengShen.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs1.jpg",
+        "title": "《封神》人物合刻：闻仲",
+        "caption": "旧刊本合刻；左页右方执双鞭者为闻太师。图像是小说人物的后世描绘，刊刻年代以原页面为准。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.19,
+          0.27,
+          0.145,
+          0.202
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第27—28回；第42—52回；第99回",
+        "note": "征西、十绝阵、绝龙岭与雷部授职。"
+      }
+    ]
+  },
+  "cd-tongtian": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ping_Sien_Si_-_053_Tongtian_Jiao_Zhu_%2816553242217%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_053_Tongtian_Jiao_Zhu_(16553242217).jpg",
+        "credit": "Photo Dharma / Anandajoti，2015，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-tongtian.jpg",
+        "title": "通天教主庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》浮雕，2015年摄影；图示小说教主，不能替代灵宝天尊宗教图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第77—84回",
+        "note": "诛仙阵、万仙阵与三教冲突；不把通天教主自动等同于宗教三清中的灵宝天尊。"
+      }
+    ]
+  },
+  "cd-shen": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ping_Sien_Si_-_035_Shen_Gongbao_%2815948173610%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_035_Shen_Gongbao_(15948173610).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-shen.jpg",
+        "title": "申公豹庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》系列浮雕，2014—2015年摄影；呈现申公豹的后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第37回；第72回；第99回",
+        "note": "申公豹游说、鼓动争端与最终封授。"
+      }
+    ]
+  },
+  "cd-yangjian": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ping_Sien_Si_-_011_Yang_Jian_%28Erlang_Shen%29_%2815949358169%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_011_Yang_Jian_(Erlang_Shen)_(15949358169).jpg",
+        "credit": "Photo Dharma / Anandajoti，2014，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-erlang.jpg",
+        "title": "杨戬／二郎神庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》浮雕，2014年摄影；仅作后世图像参照，文学身份仍按各书区分。",
+        "avatar": true,
+        "position": "50% 20%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/FengShen2.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen2.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs2.jpg",
+        "title": "《封神》杨戬与哪吒合刻",
+        "caption": "左页右方持长兵器者为杨戬、左侧为哪吒；右页为苏护、黄飞虎。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.16,
+          0.35,
+          0.13,
+          0.181
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第40回；第73回；第92回等",
+        "note": "《封神》阐教弟子杨戬；与《西游》二郎神形象比较时保留文本差别。"
+      }
+    ]
+  },
+  "cd-taiyi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ping_Sien_Si_-_002_Taiyi_Zhenren_%2815949381439%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_002_Taiyi_Zhenren_(15949381439).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-taiyi.jpg",
+        "title": "太乙真人庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》系列浮雕，2014—2015年摄影；呈现太乙真人的后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第12—14回",
+        "note": "太乙真人护持哪吒、收石矶与莲花化身。"
+      }
+    ]
+  },
+  "cd-yuding": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ping_Sien_Si_-_025_Yu_ding_zhen_ren_%2815949295759%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_025_Yu_ding_zhen_ren_(15949295759).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-yuding.jpg",
+        "title": "玉鼎真人庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》系列浮雕，2014—2015年摄影；呈现玉鼎真人的后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第40回；第78—84回相关阐教弟子与十二仙叙述",
+        "note": "玉鼎真人与杨戬的师承属于小说阐教体系。"
+      }
+    ]
+  },
+  "cd-randeng": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第44—52回；第78—84回",
+        "note": "燃灯道人参与破阵与阐教行动；不要直接当作佛经燃灯佛的传记。"
+      }
+    ]
+  },
+  "cd-zhaogongming": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ping_Sien_Si_-_032_Zhao_gong_ming_%2815515629603%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_032_Zhao_gong_ming_(15515629603).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-zhaogongming.jpg",
+        "title": "赵公明庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》系列浮雕，2014—2015年摄影；呈现赵公明的后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第47—48回；第99回",
+        "note": "赵公明斗法与封授；小说财神安排与后来广泛信仰相互影响。"
+      }
+    ]
+  },
+  "cd-sanyun": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ping_Sien_Si_-_033_Yun_xiao_niang_niang_%2815949411829%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_033_Yun_xiao_niang_niang_(15949411829).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-yunxiao.jpg",
+        "title": "云霄娘娘浮雕",
+        "caption": "马来西亚品仙祠《封神》系列中的云霄；三霄是三位不同角色，本图仅表现其中一位。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ping_Sien_Si_-_034_Bi_xiao_niang_niang_%2816134736802%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_034_Bi_xiao_niang_niang_(16134736802).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-bixiao.jpg",
+        "title": "碧霄娘娘浮雕",
+        "caption": "马来西亚品仙祠《封神》系列中的碧霄；三霄是三位不同角色，本图仅表现其中一位。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ping_Sien_Si_-_037_Qiong_xiao_niang_niang_%2815948041090%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_037_Qiong_xiao_niang_niang_(15948041090).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-qiongxiao.jpg",
+        "title": "琼霄娘娘浮雕",
+        "caption": "马来西亚品仙祠《封神》系列中的琼霄；三霄是三位不同角色，本图仅表现其中一位。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第49—50回；第99回",
+        "note": "云霄、琼霄、碧霄与九曲黄河阵，结尾有具体职司。"
+      }
+    ]
+  },
+  "cd-leizhenzi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ping_Sien_Si_-_044_Le_izhen_zi_%2816109515406%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_044_Le_izhen_zi_(16109515406).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-leizhenzi.jpg",
+        "title": "雷震子庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》系列浮雕，2014—2015年摄影；呈现雷震子的后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第10回；第22回等",
+        "note": "雷震子被收养、学艺与救父；不要将其误写成闻仲封得的雷部最高神。"
+      }
+    ]
+  },
+  "cd-yunzhongzi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第5回；第22回；第52回",
+        "note": "云中子进剑、收教雷震子与绝龙岭布置。"
+      }
+    ]
+  },
+  "cd-huangfeihu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/FengShen2.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen2.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs2.jpg",
+        "title": "《封神》黄飞虎人物合刻",
+        "caption": "右页左方为黄飞虎，右方为苏护；左页是杨戬与哪吒。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.67,
+          0.2,
+          0.13,
+          0.181
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第30—34回；第99回",
+        "note": "反商归周与后来封授；家族遭遇推动其阵营转变。"
+      }
+    ]
+  },
+  "cd-bigan": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/FengShen.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs1.jpg",
+        "title": "《封神》人物合刻：比干",
+        "caption": "旧刊本合刻；左页左方为比干。图像是小说人物的后世描绘，刊刻年代以原页面为准。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。",
+        "crop": [
+          0.08,
+          0.27,
+          0.13,
+          0.181
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第26回；第99回",
+        "note": "剖心叙事与封授须与历史人物比干的不同记载区分。"
+      }
+    ]
+  },
+  "cd-fshen-nuwa": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ping_Sien_Si_-_065_Nu_Wa_Niang_Niang_%2816140351273%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_065_Nu_Wa_Niang_Niang_(16140351273).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-fsnuwa.jpg",
+        "title": "女娲（封神）庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》系列浮雕，2014—2015年摄影；呈现女娲（封神）的后世小说图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第1回；第96回",
+        "note": "《封神》女娲宫题诗、招妖与处置三妖，不能替代上古文献中的女娲。"
+      }
+    ]
+  },
+  "cd-ev-revelation": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39488/151876/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/39488",
+        "credit": "大都会艺术博物馆，1997.139",
+        "license": "Public Domain／馆方开放获取",
+        "local": "assets/images/e9accfc493050db8.jpg",
+        "title": "陈彦清造老子像",
+        "caption": "1438年鎏金铜像；作为后世老子／老君的宗教图像，不是东汉授道现场图。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-sep",
+        "locator": "Religious Daoism：天师道起源、启示与组织史相关节",
+        "note": "天师道传承和老君授道既有宗教自述也有历史研究，勿混写成同类证据。"
+      }
+    ]
+  },
+  "cd-ev-peaches": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Anonymous_-_Paying_homage_to_Xiwangmu%2C_the_Queen_Mother_of_the_West_-_23.33.3_-_Metropolitan_Museum_of_Art.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Paying_homage_to_Xiwangmu,_the_Queen_Mother_of_the_West_-_23.33.3_-_Metropolitan_Museum_of_Art.jpg",
+        "credit": "anonymous",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-xiwangmu_late.jpg",
+        "title": "群仙祝寿：西王母",
+        "caption": "明代《群仙祝寿》图，表现向西王母致敬的群仙；不是《西游记》蟠桃会的逐场插图。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-journey",
+        "locator": "《西游记》第5回，蟠桃园与蟠桃会",
+        "note": "这是小说中的王母及天庭宴会；不要把王母与玉帝的夫妻关系当作原文必有设定。"
+      }
+    ]
+  },
+  "cd-ev-erlang": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ping_Sien_Si_-_011_Yang_Jian_%28Erlang_Shen%29_%2815949358169%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_011_Yang_Jian_(Erlang_Shen)_(15949358169).jpg",
+        "credit": "Photo Dharma / Anandajoti，2014，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-erlang.jpg",
+        "title": "杨戬／二郎神庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》浮雕，2014年摄影；仅作后世图像参照，文学身份仍按各书区分。",
+        "avatar": true,
+        "position": "50% 20%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-j6",
+        "locator": "《西游记》第6回，二郎显圣降悟空",
+        "note": "玉帝外甥、梅山兄弟和细犬等属于本回的二郎形象；名字“杨戬”须与《封神》另作对照。"
+      }
+    ]
+  },
+  "cd-ev-fs-start": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/FengShen.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs1.jpg",
+        "title": "纣王与妲己：人物图像对照",
+        "caption": "旧刊《封神》人物合刻；右页为纣王与妲己，左页为闻太师、比干。此图不是题诗或牧野战场的场景。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第1—4回",
+        "note": "题诗、招妖、妲己入宫构成小说的开端；其因果是文学叙事。"
+      }
+    ]
+  },
+  "cd-ev-nezha": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nezha_contra_Ao_Guang.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nezha_contra_Ao_Guang.jpg",
+        "credit": "Isidijeron",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-cn-nezha.jpg",
+        "title": "哪吒与敖广浮雕",
+        "caption": "现代庙宇浮雕，2015年摄影；表现哪吒闹海题材，并非小说成书时期原作。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第12—14回",
+        "note": "从闹海到莲花化身，注意父子关系与师门护持。"
+      }
+    ]
+  },
+  "cd-ev-jiang": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dai_Jin-Dropping_a_Fishing_Line_on_the_Bank_of_the_Wei_River.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dai_Jin-Dropping_a_Fishing_Line_on_the_Bank_of_the_Wei_River.jpg",
+        "credit": "Dai Jin",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-jwyuan.jpg",
+        "title": "渭滨垂钓图",
+        "caption": "戴进，明代前期。以渭滨访贤题材联系姜子牙与周文王，是历史传说的后世绘画。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第15回；第23—24回",
+        "note": "下山和渭水访贤相隔若干回目。"
+      }
+    ]
+  },
+  "cd-ev-wen": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/FengShen.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs1.jpg",
+        "title": "闻太师人物合刻",
+        "caption": "旧刊《封神》合刻中的闻仲形象，用于征西故事人物参照；不是绝龙岭战况实录。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第42—52回",
+        "note": "十绝阵、赵公明、三霄与闻仲败亡连续推进，但属于不同战事。"
+      }
+    ]
+  },
+  "cd-ev-ninebends": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ping_Sien_Si_-_033_Yun_xiao_niang_niang_%2815949411829%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_033_Yun_xiao_niang_niang_(15949411829).jpg",
+        "credit": "Photo Dharma / Anandajoti，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-yunxiao.jpg",
+        "title": "九曲黄河阵主角：云霄",
+        "caption": "现代品仙祠云霄浮雕，2014年摄；用作九曲黄河阵主角参照，不是阵法现场图。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第47—50回",
+        "note": "赵公明遭难引出三霄摆九曲黄河阵。"
+      }
+    ]
+  },
+  "cd-ev-immortals": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ping_Sien_Si_-_053_Tongtian_Jiao_Zhu_%2816553242217%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_053_Tongtian_Jiao_Zhu_(16553242217).jpg",
+        "credit": "Photo Dharma / Anandajoti，2015，CC BY 2.0",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "local": "assets/images/enrich-cn-tongtian.jpg",
+        "title": "通天教主庙宇浮雕",
+        "caption": "马来西亚霹雳品仙祠现代《封神》浮雕，2015年摄影；图示小说教主，不能替代灵宝天尊宗教图像。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第77—84回",
+        "note": "诛仙阵与万仙阵是两场不同大阵，宜分别观察参战者和结局。"
+      }
+    ]
+  },
+  "cd-ev-muye": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/FengShen.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:FengShen.jpg",
+        "credit": "佚名／Wikimedia Commons（原作公版，详见出处页）",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-fs1.jpg",
+        "title": "纣王与妲己：人物图像对照",
+        "caption": "旧刊《封神》人物合刻；右页为纣王与妲己，左页为闻太师、比干。此图不是题诗或牧野战场的场景。",
+        "avatar": false,
+        "position": "50% 30%",
+        "role": "scene",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第86—98回",
+        "note": "小说的伐纣过程与历史上的牧野之战不能视作相同证据。"
+      }
+    ]
+  },
+  "cd-ev-investiture": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jiang_ziya.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Jiang_ziya.jpg",
+        "credit": "Wang Qi",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "local": "assets/images/enrich-cn-jiang.jpg",
+        "title": "《三才图会》姜太公像",
+        "caption": "王圻《三才图会》，约1607年；姜子牙后世形象，封神事件本身须读小说第99回。",
+        "avatar": true,
+        "position": "50% 30%",
+        "role": "portrait",
+        "modification": "原图未作内容编辑；列表与图谱头像仅作显示裁切，详情展示完整图像。"
+      }
+    ],
+    "citations": [
+      {
+        "source": "cd-fengshen",
+        "locator": "《封神演义》第99回",
+        "note": "封神榜重新分配职司；战败者也可能进入神界行政秩序。"
+      },
+      {
+        "source": "cd-fs99",
+        "locator": "《封神演义》第99回，封神前后韵语",
+        "note": "区分小说的仙、神、人、鬼与宗教实际信仰分类。",
+        "quote": "仙神人鬼从今定，不使朝朝堕草莱。"
+      }
+    ]
+  },
+  "cd-ev-mazu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "cd-mazu",
+        "locator": "UNESCO：Mazu belief and customs，项目00227",
+        "note": "重点对照航海、节庆、社区与日常仪式；文化遗产介绍并非判定神迹真假的史证。"
+      }
+    ]
+  }
+}

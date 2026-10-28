@@ -1,0 +1,5121 @@
+[
+  {
+    "id": "egypt",
+    "name": "埃及",
+    "en": "ANCIENT EGYPT",
+    "region": "尼罗河流域",
+    "coords": [
+      31,
+      27
+    ],
+    "color": "#d3b369",
+    "depth": 3,
+    "tagline": "太阳之舟，穿越永夜",
+    "period": "王朝时期约前3100—前30年；原典跨越金字塔文、棺椁文、亡灵书及希腊罗马时代",
+    "summary": "埃及神话是一组与神庙、王权和葬仪相连的地方传统，持续改写三千余年。太阳每日重生、尼罗河季节性涨落、国王继承与死者再生共同构成它的节律。神既可呈人形、动物形或混合形，也可融合为复合神名；不同创世说通常并存，不必拼成唯一年表。阅读时先辨认地方神学，再沿拉的太阳循环和奥西里斯的死亡—继承叙事进入众神网络。",
+    "worldview": [
+      {
+        "title": "洪水退去，世界出现",
+        "text": "原初水域努恩并不是被永远消灭的空无。土地、太阳与生命从中显现，尼罗河泛滥后泥土重现为这一想象提供了可感的类比。创世不是仅发生一次的遥远事件，也在日出、节庆和王权更新中被重演。",
+        "source": "eg-creation"
+      },
+      {
+        "title": "多个中心，多个创造者",
+        "text": "赫里奥波利斯以阿图姆及九柱神谱系解释展开；赫尔莫波利斯传统强调原初成对力量；孟菲斯突出卜塔的心与言语；底比斯突出阿蒙。它们可互相结合；“四套互斥创世体系”是过度整齐的现代分类。",
+        "source": "eg-creation"
+      },
+      {
+        "title": "玛阿特与失序",
+        "text": "玛阿特兼具真理、公正、适当秩序和女神身份。法老献玛阿特的图像表明统治的理想义务是维持宇宙与社会平衡。阿佩普则把威胁太阳的失序具象化；赛特在某些语境敌对，在另一些语境却保护太阳舟。",
+        "source": "eg-divine"
+      },
+      {
+        "title": "死后存在不只有“灵魂”",
+        "text": "卡常与生命力、供养有关，巴表现个体移动能力，阿赫涉及转化后的有效存在；心脏、名字、影子和身体也重要。木乃伊保存只是葬仪的一环，咒文、祭品、墓像和活人纪念共同维持死者与世界的联系。",
+        "source": "eg-hunefer"
+      },
+      {
+        "title": "两条再生路线",
+        "text": "拉的日夜航行与奥西里斯的死亡再生并不互斥：太阳进入冥界、与奥西里斯相遇的想象使循环与墓葬结合。亡者希望获得太阳的行动自由，同时成为“奥西里斯某某”，参与稳定而持续的生命。",
+        "source": "eg-legends"
+      }
+    ],
+    "history": [
+      {
+        "title": "王朝与神话年代要分开",
+        "text": "上、下埃及国家形成约在前3100年前后；“美尼斯统一”属于后世王表传统，不能直接当作已确认的单一人物事迹。吉萨金字塔是前第三千纪古王国第四王朝建筑，托勒密王朝则始于前305年左右。",
+        "source": "eg-oldkingdom"
+      },
+      {
+        "title": "农业与王权",
+        "text": "尼罗河的可预期循环帮助人们想象恢复秩序；灾害和政治断裂也会挑战这一理想。生前国王与荷鲁斯、死后国王与奥西里斯的关联，为合法继承提供宗教语言，却不等于每一位实际统治者都遵循同一种固定教义。",
+        "source": "eg-osiris-source"
+      },
+      {
+        "title": "神庙与日常生活",
+        "text": "宏大的国家祭仪之外，人们向贝斯、塔沃里特求护产，用护身符求健康，也向地方神祈请。动物形象不等于“把普通动物当神”；圣兽、象征、神的显现和供献动物各有语境。",
+        "source": "eg-divine"
+      },
+      {
+        "title": "文本的流传与重写",
+        "text": "金字塔文主要见于古王国晚期王室墓室；棺椁文与后来的亡灵书又为不同群体使用。所谓《亡灵书》是现代集合名称，并非具有完全固定篇序的一本圣典；个人抄本的篇目、图像和预算各异。",
+        "source": "eg-hunefer"
+      },
+      {
+        "title": "希腊罗马时期的继续发展",
+        "text": "伊西斯崇拜传播至地中海许多地区，塞拉皮斯等复合神格说明交流会生成新表达。晚出的希腊文完整故事可帮助理解奥西里斯叙事，但不能不加区别地当作早王朝埃及人的原话。",
+        "source": "eg-divine"
+      }
+    ],
+    "entities": [
+      {
+        "id": "eg-atum",
+        "name": "阿图姆",
+        "alias": "Atum",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "创世／完整性",
+        "summary": "在赫里奥波利斯传统中自行显现的创造者。",
+        "detail": "他从原初状态展开，产生舒与泰芙努特，进而连到天空、大地及奥西里斯家族。阿图姆可与拉结合，也常联系落日；这不是两个“竞争太阳神”简单替换。九柱神谱系以他为起点，显示宇宙如何从统一到分化。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-ra",
+        "name": "拉",
+        "alias": "Ra / Re",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "太阳／王权",
+        "summary": "太阳舟的主人，维系光明与生命。",
+        "detail": "拉的力量随日夜转换，常与阿图姆、凯布利和荷鲁斯结合表述不同太阳状态。航行并非轻松例行公事，阿佩普和冥界险阻使每日黎明成为秩序再获胜的证明。相关故事中拉也会衰老或受骗，神话叙事与神学尊崇能够并存。",
+        "sources": [
+          "eg-legends"
+        ]
+      },
+      {
+        "id": "eg-shu",
+        "name": "舒",
+        "alias": "Shu",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "空气／分隔",
+        "summary": "把天空与大地分开的神。",
+        "detail": "舒与泰芙努特构成阿图姆的第一对子女，盖布与努特是其下一代。在抬举天空的图像中，他表现空间出现的条件；不能简单把这一动作等同于现代物理的宇宙起源。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-tefnut",
+        "name": "泰芙努特",
+        "alias": "Tefnut",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "湿气／狮形力量",
+        "summary": "与舒成对的九柱神成员。",
+        "detail": "她常呈狮首形象，与太阳之眼、远方女神和回归的母题联系。神职随文本而变化，“湿气女神”有助记忆，却不足以概括全部祭祀角色。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-geb",
+        "name": "盖布",
+        "alias": "Geb",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "大地",
+        "summary": "努特的配偶，奥西里斯家族之父。",
+        "detail": "埃及神话常将大地人格化为男性、天空人格化为女性，提醒比较研究不要假设所有文化都遵循“天父地母”。他的形象位于拱起身体的努特下方。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-nut",
+        "name": "努特",
+        "alias": "Nut",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "天空／星辰／再生",
+        "summary": "吞下夕阳、在清晨生出太阳的天空女神。",
+        "detail": "她拱身覆盖大地的图像同时表现天穹与保护。棺盖上的努特把死者安置于再生的宇宙之中。她与盖布的后代通常包括奥西里斯、伊西斯、赛特和奈芙蒂斯；谱系用亲属关系组织自然与王权，不应理解为单一生物家族。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-osiris",
+        "name": "奥西里斯",
+        "alias": "Osiris",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "死者／再生／王权",
+        "summary": "被害后成为冥界统治者，也是继承秩序的中心。",
+        "detail": "奥西里斯遭赛特加害，伊西斯等重聚并照料其身体，荷鲁斯最终继承王位。他并非恢复普通人间统治，而以死者之王的方式获得新生命。谷物生长、木乃伊式形象与墓葬称号使他的故事连到农业、葬仪和政治合法性。",
+        "sources": [
+          "eg-osiris-source",
+          "eg-legends"
+        ]
+      },
+      {
+        "id": "eg-isis",
+        "name": "伊西斯",
+        "alias": "Isis",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "魔法／母亲／王后",
+        "summary": "以知识、哀悼和保护推动奥西里斯与荷鲁斯故事。",
+        "detail": "她寻找并保护奥西里斯的遗体，哺育荷鲁斯，对抗威胁幼神的毒蛇和蝎害；另一个故事中她迫使拉透露秘密名字，说明“知名”与魔法权力的关联。其崇拜后来远播罗马世界，母子形象不宜未经证据就认作其他宗教图像的直接来源。",
+        "sources": [
+          "eg-legends"
+        ]
+      },
+      {
+        "id": "eg-seth",
+        "name": "赛特",
+        "alias": "Seth / Set",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "风暴／荒野／冲突",
+        "summary": "既是王位冲突的参与者，也可守护太阳舟。",
+        "detail": "赛特与奥西里斯及荷鲁斯的冲突使他成为破坏性力量，但早期王权传统和太阳舟叙事也可赋予他积极角色。他在不同历史环境中的评价改变，不能用基督教魔鬼概念概括。其动物外形的真实物种认定仍有争论。",
+        "sources": [
+          "eg-legends"
+        ]
+      },
+      {
+        "id": "eg-nephthys",
+        "name": "奈芙蒂斯",
+        "alias": "Nephthys",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "丧葬／保护",
+        "summary": "与伊西斯共同哀悼和守护死者。",
+        "detail": "她是盖布与努特的子女之一，常与赛特配对，却在葬仪中协助奥西里斯一方。晚出版本把她与阿努比斯的出生联系起来；亲属关系应标注文本时代。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-horus",
+        "name": "荷鲁斯",
+        "alias": "Horus",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "王权／天空／鹰",
+        "summary": "神名涵盖多种地方与年龄形态。",
+        "detail": "伊西斯之子荷鲁斯与赛特争夺王位，是继承叙事的中心；“年长荷鲁斯”等形态却不一定共享同一谱系。鹰、双王冠和被修复的眼睛分别连接天空、统治与恢复。阅读时宜问清具体是幼年荷鲁斯、太阳荷鲁斯还是某地的荷鲁斯。",
+        "sources": [
+          "eg-legends"
+        ]
+      },
+      {
+        "id": "eg-anubis",
+        "name": "阿努比斯",
+        "alias": "Anubis",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "防腐／墓地／引导亡者",
+        "summary": "胡狼或犬科外形的墓葬守护者。",
+        "detail": "阿努比斯参与防腐和称量心脏的场景，帮助死者进入秩序化的审判。他通常不是审判之王，奥西里斯才坐在宝座上。其父母关系存在不同版本；不能把一个晚期谱系视为三千年埃及宗教的统一标准。",
+        "sources": [
+          "eg-gods",
+          "eg-bookdead"
+        ]
+      },
+      {
+        "id": "eg-thoth",
+        "name": "托特",
+        "alias": "Thoth",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "书写／知识／月亮",
+        "summary": "以朱鹭或狒狒形象出现的记录者与调解者。",
+        "detail": "托特在审判图像中记录衡量结果，也在荷鲁斯之眼的修复与神间争端中发挥作用。文字、计量和历法因而具有神圣权威。赫尔莫波利斯是重要崇拜中心，希腊人将其对应于赫尔墨斯，但这种对应并不抹去各自传统。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-maat",
+        "name": "玛阿特",
+        "alias": "Maat",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "真理／公正／宇宙秩序",
+        "summary": "秩序的原则也是戴鸵鸟羽毛的女神。",
+        "detail": "心脏与羽毛的称量把伦理生活连接死后命运，献玛阿特则把王权连接维持秩序的责任。她不能仅被理解为一个掌管法庭的女神：正常日出、祭祀、社会正义都可在这个概念下相互关联。",
+        "sources": [
+          "eg-bookdead",
+          "eg-divine"
+        ]
+      },
+      {
+        "id": "eg-apep",
+        "name": "阿佩普",
+        "alias": "Apep / Apophis",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "混沌／太阳之敌",
+        "summary": "阻拦太阳舟的巨蛇。",
+        "detail": "阿佩普在太阳夜航中遭众神反复制伏；每夜重现的威胁说明失序从未被永久消除。它与会护航的赛特角色不同，不宜把所有凶猛形象归入一个邪恶阵营。",
+        "sources": [
+          "eg-legends"
+        ]
+      },
+      {
+        "id": "eg-ptah",
+        "name": "卜塔",
+        "alias": "Ptah",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "创造／工匠",
+        "summary": "孟菲斯的重要创造神。",
+        "detail": "孟菲斯神学以心的构想与舌的言说说明创造，强调命名、知识与生产。他常呈紧裹身体的人形，和塞赫美特、奈菲尔图姆组成地方三神家庭。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-sekhmet",
+        "name": "塞赫美特",
+        "alias": "Sekhmet / Sakhmet",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "烈日／瘟疫／治疗",
+        "summary": "狮首女神，太阳之眼的强烈面相。",
+        "detail": "她的破坏力也可以转向保护和治病。《天牛之书》毁灭人类叙事把凶猛的太阳之眼与醉酒平息联系；哈托尔与塞赫美特的关系依文本变化。",
+        "sources": [
+          "eg-legends"
+        ]
+      },
+      {
+        "id": "eg-nefertem",
+        "name": "奈菲尔图姆",
+        "alias": "Nefertem",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "莲花／香气／初日",
+        "summary": "从莲花意象联系太阳初现的神。",
+        "detail": "在孟菲斯三神组中常为卜塔与塞赫美特之子。莲花从水面开放，使他连接香气、疗愈与新生，而非只是一位装饰性花神。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-amun",
+        "name": "阿蒙",
+        "alias": "Amun",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "隐秘／创造／国家神",
+        "summary": "由底比斯地方崇拜升为国家中心神格。",
+        "detail": "与拉结合的阿蒙—拉把隐秘创造力和可见太阳威力联合起来。新王国的卡尔纳克神庙与王室献祭彰显其政治地位。阿蒙的兴盛不意味着其他神被完全取代，地方崇拜和复合神名继续并存。",
+        "sources": [
+          "eg-divine"
+        ]
+      },
+      {
+        "id": "eg-mut",
+        "name": "穆特",
+        "alias": "Mut",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "王后／母性",
+        "summary": "与阿蒙、孔苏构成底比斯三神组。",
+        "detail": "其神名与母亲概念有关，常戴双王冠。地方三神组展示神庙如何以家庭组织神格，但这些三元组合不能类比基督教三位一体。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-khonsu",
+        "name": "孔苏",
+        "alias": "Khonsu",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "月亮／旅行／治疗",
+        "summary": "底比斯三神组中的年轻月神。",
+        "detail": "常以头戴月盘的少年或紧裹身体形象出现。月亮周期使他连到时间与生命更新，其治疗角色在后期故事中尤其明显。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-hathor",
+        "name": "哈托尔",
+        "alias": "Hathor",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "爱／音乐／母性／西方墓地",
+        "summary": "牛角与日盘是常见标志。",
+        "detail": "哈托尔可欢乐、哺育，也可作为太阳之眼显露危险力量。德恩德拉是重要中心。她在迎接死者、妇女生育和王者合法性方面的作用说明神职往往彼此重叠。",
+        "sources": [
+          "eg-divine"
+        ]
+      },
+      {
+        "id": "eg-bastet",
+        "name": "巴斯特",
+        "alias": "Bastet",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "保护／家庭／猫形神格",
+        "summary": "布巴斯提斯的著名女神。",
+        "detail": "其早期狮形与后期猫形应放进历史演变中理解。猫和猫首形象广为流传，但她的太阳保护属性并未因家庭化形象而完全消失。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-sobek",
+        "name": "索贝克",
+        "alias": "Sobek",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "鳄鱼／水域／王权",
+        "summary": "以鳄鱼力量表现危险水域的神。",
+        "detail": "在法尤姆和康翁波等地受到崇敬。鳄鱼的可怕力量可转化为王者与信众的保护力，说明埃及神圣动物形象并非简单的善恶标签。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-khnum",
+        "name": "克努姆",
+        "alias": "Khnum",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "塑造生命／尼罗河源头",
+        "summary": "羊首神，以陶轮塑造生命的形象著称。",
+        "detail": "其崇拜中心包括象岛。陶匠造人的图像把手艺、身体形成和创造结合；不同地方也以其他神为造物者，无须把这些版本拼成连续工序。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-neith",
+        "name": "奈特",
+        "alias": "Neith",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "创造／战争／织造",
+        "summary": "赛斯城的古老女神。",
+        "detail": "她可被描述为创造性的母神，也参与众神裁决争端。弓箭与织造等关联并存，提醒“每神一职”的现代列表只能是学习索引。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-nun",
+        "name": "努恩",
+        "alias": "Nun",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "原初水域",
+        "summary": "世界出现之前且仍包围世界的水性存在。",
+        "detail": "努恩与女性对应者努奈特可列入八元神，既可人格化又表示宇宙状态。它不是希腊混沌的直接翻译，也不能与作为河流的尼罗河完全等同。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-heh",
+        "name": "赫赫",
+        "alias": "Heh",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "无尽／原初力量",
+        "summary": "八元神中表达无尽维度的男性成员。",
+        "detail": "他与赫赫特成对；早期与晚期名单可能不同。成对存在强调创造之前的无定形条件，并不等于八位在同一时间共同制造世界的工匠。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-kek",
+        "name": "凯克",
+        "alias": "Kek",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "黑暗",
+        "summary": "八元神中表达原初黑暗的一位。",
+        "detail": "与凯凯特配对。古代神名及图像的现代网络挪用不属于古埃及宗教证据；认识原典语境可避免把当代梗反投射到古代。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-amunet",
+        "name": "阿蒙奈特",
+        "alias": "Amunet",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "隐匿／原初力量",
+        "summary": "某些八元神版本中与阿蒙成对。",
+        "detail": "最早相关名单并非一律含阿蒙与阿蒙奈特，这一差异可见传统的累积性。不要把现代最常见名单视为从一开始就固定。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-taweret",
+        "name": "塔沃里特",
+        "alias": "Taweret",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "怀孕／分娩／家庭",
+        "summary": "由河马等特征组合的守护女神。",
+        "detail": "危险动物的身体特征在这里形成保护生育的力量。她常见于护符与日用品，帮助把神话学习从法老和神庙扩展到普通家庭生活。",
+        "sources": [
+          "eg-divine"
+        ]
+      },
+      {
+        "id": "eg-bes",
+        "name": "贝斯",
+        "alias": "Bes",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "家宅／儿童／音乐",
+        "summary": "常以正面矮小形象出现的护卫神格。",
+        "detail": "凶猛面容、乐舞及护产作用并存，正面造型也不同于常见侧身埃及图像。其形象广泛出现在生活器具，而不只在国家神庙。",
+        "sources": [
+          "eg-divine"
+        ]
+      },
+      {
+        "id": "eg-serket",
+        "name": "塞尔凯特",
+        "alias": "Serket / Selket",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "蝎毒／保护",
+        "summary": "头顶蝎形标志的女神。",
+        "detail": "她既联系蝎毒危险，也保护遭毒害者和亡者。与伊西斯、奈芙蒂斯、奈特组成的保护组合在葬仪器物中具有重要位置。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-wepwawet",
+        "name": "乌普奥特",
+        "alias": "Wepwawet",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "开路／王权／墓葬",
+        "summary": "犬科形象的开路者。",
+        "detail": "与阿努比斯相似的动物外形容易造成混淆，但神名、地域崇拜和仪式用途各有区别。他的开路角色可以适用于军队、王仪或死后旅程。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-apis",
+        "name": "阿匹斯",
+        "alias": "Apis",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "圣牛／孟菲斯崇拜",
+        "summary": "与卜塔关联的圣牛。",
+        "detail": "具体被选定的活牛具有特殊祭祀地位，死后又与奥西里斯相连。圣兽制度、动物图像和一般动物保护不能直接混为一谈。",
+        "sources": [
+          "eg-divine"
+        ]
+      },
+      {
+        "id": "eg-hapi",
+        "name": "哈皮",
+        "alias": "Hapi",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "尼罗河泛滥",
+        "summary": "表现丰饶与河水供养的神。",
+        "detail": "常以丰腴身躯与水生植物标志呈现。此处指尼罗河神哈皮，不是荷鲁斯四子中同名的狒狒首哈皮，两者功能和图像不同。",
+        "sources": [
+          "eg-gods"
+        ]
+      },
+      {
+        "id": "eg-ammit",
+        "name": "阿米特",
+        "alias": "Ammit",
+        "kind": "异兽",
+        "tier": 2,
+        "domain": "审判／吞噬",
+        "summary": "由鳄、狮与河马特征构成的吞噬者。",
+        "detail": "她在称心画面旁等待，表现审判失败的危险，通常不是地狱的统治者。形体组合汇集对人危险的动物，使死后伦理具有强烈视觉效果。",
+        "sources": [
+          "eg-bookdead"
+        ]
+      },
+      {
+        "id": "eg-khepri",
+        "name": "凯布利",
+        "alias": "Khepri",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "旭日／生成",
+        "summary": "以圣甲虫表示生成与晨日。",
+        "detail": "滚动粪球的甲虫形象被用于太阳与生命出现的隐喻。他可与拉、阿图姆组成一天中的太阳面相，但各文本表达未必完全相同。",
+        "sources": [
+          "eg-creation"
+        ]
+      },
+      {
+        "id": "eg-bennu",
+        "name": "贝努鸟",
+        "alias": "Bennu",
+        "kind": "神鸟",
+        "tier": 3,
+        "domain": "太阳／再生",
+        "summary": "与赫里奥波利斯太阳传统有关的神鸟。",
+        "detail": "其鹭形形象和再生意义常被拿来比较希腊凤凰，但不能把后世凤凰所有焚烧重生细节都直接归给埃及贝努。",
+        "sources": [
+          "eg-legends"
+        ]
+      },
+      {
+        "id": "eg-imhotep",
+        "name": "伊姆霍特普",
+        "alias": "Imhotep",
+        "kind": "神化人物",
+        "tier": 3,
+        "domain": "智慧／医治",
+        "summary": "历史人物在后世获得神化。",
+        "detail": "与左塞尔时代建筑活动有关的官员，后来成为智慧和医治对象。这是一例可考人物与漫长崇拜史相接，不能把其所有神迹当作生平事实。",
+        "sources": [
+          "eg-oldkingdom"
+        ]
+      },
+      {
+        "id": "eg-aten",
+        "name": "阿顿",
+        "alias": "Aten",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "日盘／阿玛尔纳改革",
+        "summary": "阿肯那顿统治下获得特殊地位的日盘神格。",
+        "detail": "阿玛尔纳时期强调日盘赐生并压制其他神的崇拜，王室在祭祀中占中心位置。改革持续时间有限，之后传统神庙恢复；其是否适合直接称“一神教”需要说明定义。",
+        "sources": [
+          "eg-gods"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "to": "eg-shu",
+        "type": "产生",
+        "note": "赫里奥波利斯创世谱系",
+        "source": "eg-creation",
+        "from": "eg-atum"
+      },
+      {
+        "to": "eg-tefnut",
+        "type": "产生",
+        "note": "与舒构成第一对子女",
+        "source": "eg-creation",
+        "from": "eg-atum"
+      },
+      {
+        "to": "eg-tefnut",
+        "type": "配对",
+        "note": "创世神学中的第一对",
+        "source": "eg-creation",
+        "from": "eg-shu"
+      },
+      {
+        "to": "eg-geb",
+        "type": "父辈",
+        "note": "九柱神谱系",
+        "source": "eg-creation",
+        "from": "eg-shu"
+      },
+      {
+        "to": "eg-nut",
+        "type": "母辈",
+        "note": "九柱神谱系",
+        "source": "eg-creation",
+        "from": "eg-tefnut"
+      },
+      {
+        "to": "eg-nut",
+        "type": "配偶",
+        "note": "大地与天空",
+        "source": "eg-creation",
+        "from": "eg-geb"
+      },
+      {
+        "to": "eg-osiris",
+        "type": "父亲",
+        "note": "九柱神谱系",
+        "source": "eg-creation",
+        "from": "eg-geb"
+      },
+      {
+        "to": "eg-osiris",
+        "type": "母亲",
+        "note": "九柱神谱系",
+        "source": "eg-creation",
+        "from": "eg-nut"
+      },
+      {
+        "to": "eg-isis",
+        "type": "母亲",
+        "note": "九柱神谱系",
+        "source": "eg-creation",
+        "from": "eg-nut"
+      },
+      {
+        "to": "eg-seth",
+        "type": "母亲",
+        "note": "九柱神谱系",
+        "source": "eg-creation",
+        "from": "eg-nut"
+      },
+      {
+        "to": "eg-nephthys",
+        "type": "母亲",
+        "note": "九柱神谱系",
+        "source": "eg-creation",
+        "from": "eg-nut"
+      },
+      {
+        "to": "eg-isis",
+        "type": "配偶",
+        "note": "亦为同胞神",
+        "source": "eg-creation",
+        "from": "eg-osiris"
+      },
+      {
+        "to": "eg-nephthys",
+        "type": "配对",
+        "note": "九柱神谱系",
+        "source": "eg-creation",
+        "from": "eg-seth"
+      },
+      {
+        "to": "eg-horus",
+        "type": "母亲",
+        "note": "此处指伊西斯之子荷鲁斯",
+        "source": "eg-creation",
+        "from": "eg-isis"
+      },
+      {
+        "to": "eg-horus",
+        "type": "父亲",
+        "note": "王位继承叙事",
+        "source": "eg-creation",
+        "from": "eg-osiris"
+      },
+      {
+        "to": "eg-osiris",
+        "type": "加害",
+        "note": "具体杀害细节随版本而异",
+        "source": "eg-legends",
+        "from": "eg-seth"
+      },
+      {
+        "to": "eg-seth",
+        "type": "争位",
+        "note": "众神审理与多轮较量",
+        "source": "eg-legends",
+        "from": "eg-horus"
+      },
+      {
+        "to": "eg-osiris",
+        "type": "复原与哀悼",
+        "note": "死后再生而非普通人间复活",
+        "source": "eg-legends",
+        "from": "eg-isis"
+      },
+      {
+        "to": "eg-osiris",
+        "type": "保护",
+        "note": "葬仪哀悼传统",
+        "source": "eg-legends",
+        "from": "eg-nephthys"
+      },
+      {
+        "to": "eg-osiris",
+        "type": "防腐守护",
+        "note": "木乃伊化与葬仪",
+        "source": "eg-legends",
+        "from": "eg-anubis"
+      },
+      {
+        "to": "eg-horus",
+        "type": "修复与调解",
+        "note": "荷鲁斯之眼相关传统",
+        "source": "eg-legends",
+        "from": "eg-thoth"
+      },
+      {
+        "to": "eg-apep",
+        "type": "敌对",
+        "note": "太阳舟的循环斗争",
+        "source": "eg-legends",
+        "from": "eg-ra"
+      },
+      {
+        "to": "eg-apep",
+        "type": "制伏",
+        "note": "赛特在部分太阳舟传统中为护卫",
+        "source": "eg-legends",
+        "from": "eg-seth"
+      },
+      {
+        "to": "eg-khepri",
+        "type": "太阳面相",
+        "note": "晨日与生成",
+        "source": "eg-legends",
+        "from": "eg-ra"
+      },
+      {
+        "to": "eg-atum",
+        "type": "神格融合",
+        "note": "拉—阿图姆等复合表达",
+        "source": "eg-legends",
+        "from": "eg-ra"
+      },
+      {
+        "to": "eg-ra",
+        "type": "神格融合",
+        "note": "阿蒙—拉",
+        "source": "eg-legends",
+        "from": "eg-amun"
+      },
+      {
+        "to": "eg-sekhmet",
+        "type": "地方配对",
+        "note": "孟菲斯三神组",
+        "source": "eg-legends",
+        "from": "eg-ptah"
+      },
+      {
+        "to": "eg-nefertem",
+        "type": "父辈",
+        "note": "孟菲斯三神组",
+        "source": "eg-creation",
+        "from": "eg-ptah"
+      },
+      {
+        "to": "eg-nefertem",
+        "type": "母辈",
+        "note": "孟菲斯三神组",
+        "source": "eg-creation",
+        "from": "eg-sekhmet"
+      },
+      {
+        "to": "eg-mut",
+        "type": "地方配对",
+        "note": "底比斯三神组",
+        "source": "eg-legends",
+        "from": "eg-amun"
+      },
+      {
+        "to": "eg-khonsu",
+        "type": "父辈",
+        "note": "底比斯三神组",
+        "source": "eg-creation",
+        "from": "eg-amun"
+      },
+      {
+        "to": "eg-khonsu",
+        "type": "母辈",
+        "note": "底比斯三神组",
+        "source": "eg-creation",
+        "from": "eg-mut"
+      },
+      {
+        "to": "eg-hathor",
+        "type": "太阳之眼",
+        "note": "太阳之眼可由多位女神体现",
+        "source": "eg-legends",
+        "from": "eg-ra"
+      },
+      {
+        "to": "eg-sekhmet",
+        "type": "太阳之眼",
+        "note": "毁灭人类故事",
+        "source": "eg-legends",
+        "from": "eg-ra"
+      },
+      {
+        "to": "eg-sekhmet",
+        "type": "形态关联",
+        "note": "依地方和文本语境解释",
+        "source": "eg-legends",
+        "from": "eg-hathor"
+      },
+      {
+        "to": "eg-maat",
+        "type": "称心衡量",
+        "note": "以玛阿特羽毛为准",
+        "source": "eg-legends",
+        "from": "eg-anubis"
+      },
+      {
+        "to": "eg-anubis",
+        "type": "共同主持称心",
+        "note": "记录结果与操作衡器",
+        "source": "eg-legends",
+        "from": "eg-thoth"
+      },
+      {
+        "to": "eg-anubis",
+        "type": "同处审判",
+        "note": "阿米特等待吞噬不合格之心",
+        "source": "eg-legends",
+        "from": "eg-ammit"
+      },
+      {
+        "to": "eg-apis",
+        "type": "圣兽显现",
+        "note": "孟菲斯圣牛传统",
+        "source": "eg-legends",
+        "from": "eg-ptah"
+      },
+      {
+        "to": "eg-serket",
+        "type": "共同护卫",
+        "note": "幼神与死者保护传统",
+        "source": "eg-legends",
+        "from": "eg-isis"
+      },
+      {
+        "to": "eg-amunet",
+        "type": "原初配对",
+        "note": "某些八元神名单",
+        "source": "eg-legends",
+        "from": "eg-amun"
+      }
+    ],
+    "events": [
+      {
+        "id": "eg-event-emergence",
+        "title": "原初丘与太阳初现",
+        "tier": 1,
+        "era": "创世神话时间",
+        "summary": "水域中出现最初的土地与光。",
+        "detail": "不同文本用初丘、莲花、卵或创造者自行显现说明起源；这些是相互叠加的图像和神学隐喻，不是一份按日排列的科学报告。",
+        "actors": [
+          "eg-nun",
+          "eg-atum",
+          "eg-ra"
+        ],
+        "source": "eg-creation"
+      },
+      {
+        "id": "eg-event-separation",
+        "title": "舒分开天地",
+        "tier": 1,
+        "era": "创世神话时间",
+        "summary": "天空努特与大地盖布分离，空间展开。",
+        "detail": "拱形的努特、横卧的盖布和托举的舒把宇宙画成可观看的身体结构。墓葬图像又将亡者置于这一恢复生命的空间中。",
+        "actors": [
+          "eg-shu",
+          "eg-nut",
+          "eg-geb"
+        ],
+        "source": "eg-creation"
+      },
+      {
+        "id": "eg-event-murder",
+        "title": "奥西里斯遭害",
+        "tier": 1,
+        "era": "神王时代",
+        "summary": "赛特的暴力打断合法统治。",
+        "detail": "完整棺材与肢解故事主要见于较晚叙述；早期埃及资料常使用简短暗示。比较时应区分古老葬仪母题与后世整理出的连续故事。",
+        "actors": [
+          "eg-osiris",
+          "eg-seth"
+        ],
+        "source": "eg-legends"
+      },
+      {
+        "id": "eg-event-recovery",
+        "title": "伊西斯寻找与重聚",
+        "tier": 1,
+        "era": "神王时代",
+        "summary": "哀悼、魔法和照料促成死后再生。",
+        "detail": "奥西里斯获得冥界生命，荷鲁斯作为继承者出现。葬仪中的包裹、保护、诵咒可理解为对这一成功恢复的反复参与。",
+        "actors": [
+          "eg-isis",
+          "eg-nephthys",
+          "eg-osiris",
+          "eg-anubis"
+        ],
+        "source": "eg-legends"
+      },
+      {
+        "id": "eg-event-contest",
+        "title": "荷鲁斯与赛特争位",
+        "tier": 1,
+        "era": "神王继承时代",
+        "summary": "王位归属通过争辩、试验和神的裁决决定。",
+        "detail": "故事并不只是善恶决战，也涉及血缘、男性权力、法庭程序和王权合法性。赛特的角色在不同地区与时代不同，裁决并未永久消除其所有神圣地位。",
+        "actors": [
+          "eg-horus",
+          "eg-seth",
+          "eg-isis",
+          "eg-thoth"
+        ],
+        "source": "eg-legends"
+      },
+      {
+        "id": "eg-event-eye",
+        "title": "荷鲁斯之眼恢复",
+        "tier": 2,
+        "era": "荷鲁斯—赛特叙事",
+        "summary": "受损的眼睛被修复，成为完整与保护的标志。",
+        "detail": "修复者及受伤细节随文本而变；完好的乌加特眼随后广泛用于护符与供献。神话的身体修复转化为可以佩戴或祭献的物质象征。",
+        "actors": [
+          "eg-horus",
+          "eg-thoth",
+          "eg-seth"
+        ],
+        "source": "eg-legends"
+      },
+      {
+        "id": "eg-event-night",
+        "title": "太阳舟穿越冥界",
+        "tier": 1,
+        "era": "每日循环",
+        "summary": "拉在夜间遭遇危险，黎明重新出现。",
+        "detail": "冥界地理、守门者和时间段在不同葬仪作品中分别展开；不能把所有冥界书的地图硬合成一张。太阳与奥西里斯的联系使死后世界也具有生成性。",
+        "actors": [
+          "eg-ra",
+          "eg-apep",
+          "eg-seth",
+          "eg-osiris"
+        ],
+        "source": "eg-legends"
+      },
+      {
+        "id": "eg-event-humanity",
+        "title": "毁灭人类与红色啤酒",
+        "tier": 2,
+        "era": "《天牛之书》的神话时代",
+        "summary": "太阳之眼惩罚人类，血色饮料使暴怒平息。",
+        "detail": "故事以毁灭与节制说明人与神的距离，也引出太阳远离人间的宇宙结构。女神在叙事中可称哈托尔并具有塞赫美特般的凶猛性，名称变化要随版本阅读。",
+        "actors": [
+          "eg-ra",
+          "eg-hathor",
+          "eg-sekhmet"
+        ],
+        "source": "eg-legends"
+      },
+      {
+        "id": "eg-event-name",
+        "title": "伊西斯取得拉的秘密名",
+        "tier": 2,
+        "era": "魔法叙事时间",
+        "summary": "蛇毒迫使拉以秘密知识换取治愈。",
+        "detail": "名字不是随意标签，而是可触及存在与权力的关键。伊西斯由魔法知识取得优势，故事也为实际治疗咒语提供叙事范型。",
+        "actors": [
+          "eg-isis",
+          "eg-ra"
+        ],
+        "source": "eg-legends"
+      },
+      {
+        "id": "eg-event-judgment",
+        "title": "称量心脏",
+        "tier": 1,
+        "era": "亡者的死后历程",
+        "summary": "死者面对秩序、告白、衡器和奥西里斯。",
+        "detail": "阿努比斯照管衡器，托特记录，阿米特等待；死者以否定告白宣称没有犯下诸般过错。图像和咒文共同帮助亡者获得正当身份，不只是现代意义的道德考试插图。",
+        "actors": [
+          "eg-anubis",
+          "eg-thoth",
+          "eg-maat",
+          "eg-ammit",
+          "eg-osiris"
+        ],
+        "source": "eg-bookdead"
+      },
+      {
+        "id": "eg-event-word",
+        "title": "卜塔以心与舌创造",
+        "tier": 2,
+        "era": "孟菲斯神学的创世时间",
+        "summary": "构想与言说被赋予生成世界的力量。",
+        "detail": "“心”在古埃及关联思想和意志，舌使构想成为命令与名称。可以与其他言语创世母题比较，但相似不自动证明文本之间直接借用。",
+        "actors": [
+          "eg-ptah",
+          "eg-atum"
+        ],
+        "source": "eg-creation"
+      },
+      {
+        "id": "eg-event-amarna",
+        "title": "阿玛尔纳宗教改革",
+        "tier": 2,
+        "era": "历史：约前14世纪",
+        "summary": "阿肯那顿提升阿顿并改变国家祭祀中心。",
+        "detail": "这一事件属于可用考古、铭文研究的历史，而非神话年代。改革与其后恢复显示神祇地位和王室权力相互作用，不宜用单线的“多神到一神进步史”概括。",
+        "actors": [
+          "eg-aten",
+          "eg-amun"
+        ],
+        "source": "eg-gods"
+      }
+    ],
+    "sources": [
+      {
+        "id": "eg-creation",
+        "title": "Gods and goddesses in Ancient Egypt: creation",
+        "author": "伦敦大学学院 Digital Egypt",
+        "kind": "学术",
+        "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html",
+        "note": "九柱神、八元神及多重创世隐喻；同时提醒地方神学标签的局限。"
+      },
+      {
+        "id": "eg-gods",
+        "title": "Ancient Egyptian gods and goddesses",
+        "author": "大英博物馆",
+        "kind": "博物馆",
+        "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/ancient-egyptian-gods-and-goddesses",
+        "note": "主要神祇身份、动物形象与基本亲属关系。"
+      },
+      {
+        "id": "eg-legends",
+        "title": "Legends of the Gods",
+        "author": "E. A. Wallis Budge 译，1912",
+        "kind": "原典",
+        "url": "https://sacred-texts.com/egy/leg/index.htm",
+        "note": "含创世、毁灭人类、拉的秘密名、荷鲁斯等文本的旧译；译名与部分解释已过时。"
+      },
+      {
+        "id": "eg-osiris-source",
+        "title": "Osiris",
+        "author": "Rosicrucian Egyptian Museum",
+        "kind": "博物馆",
+        "url": "https://egyptianmuseum.org/deities-osiris",
+        "note": "奥西里斯的王权、农业及死者之神身份。"
+      },
+      {
+        "id": "eg-bookdead",
+        "title": "The Book of the Dead: Plates XXXI–XXXII",
+        "author": "Budge 译，1895",
+        "kind": "原典",
+        "url": "https://original.sacred-texts.com/egy/ebod/ebod36.htm",
+        "note": "阿尼纸草《亡灵书》125章的否定告白旧译；并非所有抄本顺序相同。"
+      },
+      {
+        "id": "eg-hunefer",
+        "title": "Book of the Dead of Hunefer, frame 7",
+        "author": "大英博物馆，EA9901/7",
+        "kind": "博物馆",
+        "url": "https://www.britishmuseum.org/collection/object/Y_EA9901-7",
+        "note": "胡内弗《亡灵书》馆藏记录，可追索同套纸草不同画面。"
+      },
+      {
+        "id": "eg-oldkingdom",
+        "title": "Egypt in the Old Kingdom",
+        "author": "大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c",
+        "note": "第三至第六王朝与金字塔文；吉萨大金字塔属于第四王朝，绝非托勒密时代。"
+      },
+      {
+        "id": "eg-divine",
+        "title": "Divine Egypt: Inside the exhibition",
+        "author": "大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/exhibitions/divine-egypt/inside-the-exhibition",
+        "note": "图像、地方崇拜、神格融合与神人互动。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "I have not stolen.",
+        "source": "eg-bookdead",
+        "locator": "《亡灵书》125章，否定告白第三项（本译本）",
+        "note": "本句意为“我未曾偷盗”。不同纸草告白次序有差异；可与现实伦理规范比较，但不能仅凭相似推断《十诫》直接抄自此文。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "先看一幅称心图",
+        "text": "依次找出引导者、衡器、书记神、吞噬者与王座，再读125章；把图像角色和文字功能对应起来。"
+      },
+      {
+        "title": "比较四种创造语言",
+        "text": "以“从水出现、家族生育、工匠塑造、心与言语”作比较轴，保留不同文本的年代与地方。"
+      }
+    ],
+    "cautions": [
+      "标准九柱神通常是阿图姆、舒、泰芙努特、盖布、努特、奥西里斯、伊西斯、赛特、奈芙蒂斯；阿努比斯与幼年荷鲁斯通常不在这份九神名单。",
+      "“斯芬克斯出谜”主要属于希腊俄狄浦斯故事；吉萨狮身人面像有另一套王权与太阳语境。",
+      "出埃及是希伯来传统的重要叙事，不能直接列为埃及神话的原典故事，也不能把故事中法老身份视为已经考古确认。"
+    ]
+  },
+  {
+    "id": "norse",
+    "name": "北欧",
+    "en": "NORSE WORLDS",
+    "region": "斯堪的纳维亚与冰岛",
+    "coords": [
+      13,
+      62
+    ],
+    "color": "#8bb7bf",
+    "depth": 3,
+    "tagline": "世界树之下，命运仍在编织",
+    "period": "口传层次早于现存写本；《诗体埃达》与斯诺里《埃达》主要保存于13世纪冰岛",
+    "summary": "北欧神话把众神、人、巨人、矮人及死者安置于相互连通却充满边界的世界。阿萨与华纳神族的战争和交换、神与巨人的婚姻、宝物的制造及诸神黄昏构成主要叙事线。它既有奥丁追求知识的阴暗代价，也有索尔的粗豪幽默和生活智慧。现存书面资料多由基督教时代的冰岛人保存，不能把整理后的神话全景当作所有维京人曾一致信奉的教义。",
+    "worldview": [
+      {
+        "title": "世界树与多重空间",
+        "text": "尤克特拉希尔的根、泉水与枝叶联结神、人和其他存在。古诗确实提到九个世界，但没有在所有文献中给出同一份完整九界清单；现代九宫格地图应当标成教学重构。阿斯加德、中庭与巨人之域首先是关系性的空间。",
+        "source": "no-gylfi"
+      },
+      {
+        "title": "神与巨人：边界中的亲属",
+        "text": "巨人不是统一邪恶种族。奥丁有巨人祖系，斯卡蒂与尼约德成婚，弗雷追求格尔德，神也向巨人索取知识。冲突、婚配和交换一起构成秩序，血缘关系比简单阵营分类更能解释故事。",
+        "source": "no-gylfi"
+      },
+      {
+        "title": "命运、知识与代价",
+        "text": "诺恩施定生命的命运，奥丁通过牺牲眼睛、悬树与冒险取得知识。诸神并非全知全能，也不能轻易取消死亡。名誉与行为因此具有重量，但北欧文本还有幽默、智慧和和平丰饶，不能仅概括为悲壮。",
+        "source": "no-havamal"
+      },
+      {
+        "title": "死后世界并不只有英灵殿",
+        "text": "奥丁接纳部分战死者，弗蕾亚也分得其中一半；海尔之域容纳许多死者，其他诗篇与地方传统还有不同归宿。不能把“所有英雄都去英灵殿，所有普通人都被惩罚”当成原典规则。",
+        "source": "no-gylfi"
+      },
+      {
+        "title": "毁灭之后还有世界",
+        "text": "芬里尔、耶梦加得、苏尔特等在诸神黄昏中越过边界，许多大神死去；随后大地再现、幸存者相聚。不同结尾对恢复的图景并不完全相同，也有基督教影响的讨论，宜并读《女先知预言》与斯诺里。",
+        "source": "no-voluspa"
+      }
+    ],
+    "history": [
+      {
+        "title": "口传与中世纪写本",
+        "text": "现存埃达不是维京时代的统一圣经。《散文埃达》兼具诗学教材性质，保存神话是为了让读者理解古诗的代称；诗体材料也经过选择、传写与重新组织。",
+        "source": "no-sources"
+      },
+      {
+        "title": "器物补足文本",
+        "text": "雷神锤护符、图像石和祭祀遗址给出文学之外的证据。图像是否描绘某一特定故事有时仍有争议，因此器物解释应保留“可能”而不是把研究者识读当作铭文自述。",
+        "source": "no-sources"
+      },
+      {
+        "title": "基督教化是渐变过程",
+        "text": "贸易、政治联盟、王室选择和传教共同促成信仰变化；旧习与新信仰曾共存。十世纪丹麦王权与基督教的关系可考，但不能把所有地区转换都压缩成同一个年份。",
+        "source": "no-religion"
+      },
+      {
+        "title": "语言中的遗产",
+        "text": "部分欧洲语言的星期名与奥丁、提尔、索尔等神名有关；北欧地名也保存崇拜痕迹。它们能提示传统传播，却无法单凭一个地名重建完整祭仪或神话。",
+        "source": "no-names"
+      },
+      {
+        "title": "现代改写与古代边界",
+        "text": "歌剧、小说、漫画和电子游戏发展出新的家族关系与性格。尤其洛基不是原典中的“索尔养弟”；当代信仰实践也有自己的历史，应和中世纪文献各自说明。",
+        "source": "no-gylfi"
+      }
+    ],
+    "entities": [
+      {
+        "id": "no-odin",
+        "name": "奥丁",
+        "alias": "Óðinn / Odin",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "知识／诗歌／战争／死者",
+        "summary": "以牺牲和谋略追求知识的阿萨神。",
+        "detail": "他以独眼、长矛、乌鸦与八足马为常见标志；把部分战死者聚于英灵殿，为终末冲突做准备。他既赐胜也可能背弃英雄，既寻智慧也使用欺骗。奥丁与洛基的古老盟约不同于现代作品的父子关系，诸神黄昏中他将被芬里尔吞噬。",
+        "sources": [
+          "no-gylfi",
+          "no-havamal"
+        ]
+      },
+      {
+        "id": "no-thor",
+        "name": "索尔",
+        "alias": "Þórr / Thor",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "雷／守护／巨人冲突",
+        "summary": "执雷神锤妙尔尼尔的强大神。",
+        "detail": "索尔常保卫神界与人间边界，与巨人较量，也出现在喜剧性的欺骗故事中。他的锤可杀敌、祝圣并再生山羊，因此不只是兵器。打捞世界蛇的故事把保护者和终末敌手提前相接；诸神黄昏时他杀蛇却因毒而死。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-loki",
+        "name": "洛基",
+        "alias": "Loki",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "变形／越界／诡计",
+        "summary": "时而制造危机、时而解决危机的复杂角色。",
+        "detail": "洛基与众神同行，但其父法尔包蒂属巨人。他帮助取得宝物，也推动巴德尔之死并受惩罚；终末时转向与众神敌对的一方。芬里尔、世界蛇、海尔是其子女，斯莱普尼尔则由他化为母马后生下；性别变化是叙事的一部分。",
+        "sources": [
+          "no-gylfi",
+          "no-skald"
+        ]
+      },
+      {
+        "id": "no-frigg",
+        "name": "弗丽嘉",
+        "alias": "Frigg",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "婚姻／母亲／预知",
+        "summary": "奥丁的配偶、巴德尔之母。",
+        "detail": "她为保护巴德尔向世间万物索取不伤害他的誓言，却遗漏槲寄生。她的知识与沉默构成一种不同于奥丁冒险求知的力量。弗丽嘉和弗蕾亚在个别研究中被比较，但在主要传世叙述中应先作为不同角色阅读。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-freyr",
+        "name": "弗雷",
+        "alias": "Freyr",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "丰饶／和平／王权",
+        "summary": "华纳神族成员，尼约德之子。",
+        "detail": "他与妹妹弗蕾亚来到阿萨神群体；拥有船斯基德普拉特尼和金鬃野猪。追求巨人女子格尔德的故事使他交出宝剑，末日面对苏尔特时因此处于不利地位。丰饶愿望、婚姻交换和王权祖系是理解他的主要线索。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-freyja",
+        "name": "弗蕾亚",
+        "alias": "Freyja",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "爱／丰饶／魔法／战死者",
+        "summary": "华纳女神，与战争和魔法同样有关。",
+        "detail": "猫车、羽衣和项链布里希嘉曼是著名标志；她在弗尔克范格接纳一部分战死者。“北欧爱神”只概括其一面。与奥丁相关的赛德魔法传统以及被巨人索婚的故事，表现神族边界、欲望与知识的交换。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-tyr",
+        "name": "提尔",
+        "alias": "Týr",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "勇武／誓约",
+        "summary": "把手放入芬里尔口中作担保的神。",
+        "detail": "众神欺骗巨狼时，提尔独自承担失去右手的代价。把他仅称战神会漏掉故事中的信任与担保问题；其父系在不同诗篇与斯诺里叙述间存在差异。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-heimdall",
+        "name": "海姆达尔",
+        "alias": "Heimdallr",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "守卫／边界／警报",
+        "summary": "看守彩虹桥、持加拉尔号角的神。",
+        "detail": "他感官敏锐，诸神黄昏时吹响警报，最后与洛基互相杀死。九位母亲等神秘出生细节在传世材料中未形成一套完全清晰的连续故事。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-baldr",
+        "name": "巴德尔",
+        "alias": "Baldr",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "光辉／无辜／终末转折",
+        "summary": "他的死成为众神世界失衡的重要节点。",
+        "detail": "在斯诺里叙述中，洛基利用失明的霍德尔投出槲寄生杀死巴德尔；赫尔莫德赴海尔之域求其归还，因万物未全部哭泣而失败。他将在世界更新后返回。其他作者的巴德尔故事有明显不同，不能混作一份原始版本。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-hodr",
+        "name": "霍德尔",
+        "alias": "Höðr",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "巴德尔之死",
+        "summary": "在斯诺里叙述中是失明的巴德尔兄弟。",
+        "detail": "他在洛基指引下投掷槲寄生，成为谋害实施者。不同版本中他的行动能力和道德地位变化很大；关系图此处明确采用《欺骗古鲁菲》的叙述。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-njord",
+        "name": "尼约德",
+        "alias": "Njörðr",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "海／财富／航行",
+        "summary": "华纳神，弗雷与弗蕾亚之父。",
+        "detail": "与斯卡蒂的婚姻因海边与山地的居住偏好难以调和。故事将地景差异编入亲密关系，也体现两大神群在战争后的交换与结合。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-skadi",
+        "name": "斯卡蒂",
+        "alias": "Skaði",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "山地／滑雪／狩猎",
+        "summary": "巨人之女进入神族的代表。",
+        "detail": "父亲提亚兹被杀后，她前来索取补偿，并以只看脚的方式选到尼约德为夫。她不是简单敌方角色，赔偿、婚配与谈判让冲突重新纳入秩序。",
+        "sources": [
+          "no-skald"
+        ]
+      },
+      {
+        "id": "no-idunn",
+        "name": "伊登",
+        "alias": "Iðunn",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "青春／苹果",
+        "summary": "保管众神维持青春之物的女神。",
+        "detail": "提亚兹借洛基诱使伊登离开，众神随即衰老；洛基又负责救回她。故事显示众神的寿命需要外部维持，并非不附条件的绝对不朽。",
+        "sources": [
+          "no-skald"
+        ]
+      },
+      {
+        "id": "no-bragi",
+        "name": "布拉吉",
+        "alias": "Bragi",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "诗歌／语言",
+        "summary": "与伊登配对的诗神。",
+        "detail": "他的雄辩和诗歌知识体现宫廷诗人的社会价值。文学材料中的神和同名历史诗人之间有研究讨论，不宜把二者直接合并。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-sif",
+        "name": "希芙",
+        "alias": "Sif",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "金发／索尔家庭",
+        "summary": "因金发被洛基剪去而引出宝物制造。",
+        "detail": "洛基为补偿她的损失求助矮人工匠，最终带回多件神物。其金发常被后世解释为麦穗，但不能把这一解释当作所有古文本明确陈述。",
+        "sources": [
+          "no-skald"
+        ]
+      },
+      {
+        "id": "no-hel",
+        "name": "海尔",
+        "alias": "Hel",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "死者之域",
+        "summary": "洛基与安格尔博达之女。",
+        "detail": "她被安排统治一定范围的死者，在巴德尔归还谈判中提出条件。她的国度不能直接等于基督教惩罚性的地狱；地名与神名又经常重合。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-fenrir",
+        "name": "芬里尔",
+        "alias": "Fenrir",
+        "kind": "异兽",
+        "tier": 1,
+        "domain": "束缚／终末巨狼",
+        "summary": "众神越恐惧它，越推动难以挽回的对立。",
+        "detail": "巨狼识破魔索的可疑之处，要求一位神以手担保，提尔因而失手。终末时它挣脱束缚并吞噬奥丁，再被维达尔报仇杀死。它既是灾难形象，也让读者面对众神破坏誓约所带来的道德张力。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-jormungandr",
+        "name": "耶梦加得",
+        "alias": "Jörmungandr",
+        "kind": "异兽",
+        "tier": 1,
+        "domain": "环世海蛇",
+        "summary": "在海中环绕中庭的洛基之子。",
+        "detail": "索尔垂钓时把它拉出海面，提前展现最终敌对。诸神黄昏它离海喷毒，索尔将其杀死后只走几步便倒下。环绕世界的图像既表示边界，也预示边界终将崩溃。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-ymir",
+        "name": "尤弥尔",
+        "alias": "Ymir",
+        "kind": "巨人",
+        "tier": 1,
+        "domain": "原初巨人／身体创世",
+        "summary": "冰与热相遇之后出现的原初存在。",
+        "detail": "奥丁与兄弟杀死尤弥尔，以其血肉、骨骼和头骨组织海洋、大地与天空。身体成为宇宙的母题可与盘古等故事比较，但两者文本时代与文化背景不同；相似结构不证明直接传播。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-audhumla",
+        "name": "奥德姆布拉",
+        "alias": "Auðhumla",
+        "kind": "神兽",
+        "tier": 2,
+        "domain": "原初母牛",
+        "summary": "以乳汁养育尤弥尔，舔冰显出布利。",
+        "detail": "母牛使原初世界不仅靠冲突而生，也靠养育和持续动作展开。她在后续故事中出现很少，不宜根据现代图像补写更多家族情节。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-buri",
+        "name": "布利",
+        "alias": "Búri",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "神族始祖",
+        "summary": "从盐霜冰块中被舔出的祖神。",
+        "detail": "他的儿子博尔与巨人女子贝斯特拉结合，生出奥丁等。这个谱系让神族和巨人从起点就血缘相连，而不是绝对分离的物种。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-borr",
+        "name": "博尔",
+        "alias": "Borr",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "奥丁父亲",
+        "summary": "布利之子，贝斯特拉的配偶。",
+        "detail": "他在主要创世谱系中是奥丁、维利和维的父亲，但传世资料给他的独立叙事很少。重要性主要是联结神族祖系。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-bestla",
+        "name": "贝斯特拉",
+        "alias": "Bestla",
+        "kind": "巨人",
+        "tier": 3,
+        "domain": "巨人祖系",
+        "summary": "奥丁及其兄弟的母亲。",
+        "detail": "她属于巨人谱系，却成为神族核心人物的母亲。这个关系足以说明“神对抗巨人”无法还原成没有交叉的纯粹善恶战争。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-vili",
+        "name": "维利",
+        "alias": "Vili",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "创世／赐生",
+        "summary": "斯诺里叙述中的奥丁兄弟。",
+        "detail": "他与奥丁、维共同杀死尤弥尔并给最初人类以能力。《女先知预言》赐生三神名单与此不同，关系图不把两个名单强行等同。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-ve",
+        "name": "维",
+        "alias": "Vé",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "创世／赐生",
+        "summary": "斯诺里创世三兄弟之一。",
+        "detail": "与维利一样，他的独立传说不多，主要在创世和最初人类故事中发挥作用。不同文献的名称分配不应由现代想象补成明确化身关系。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-mimir",
+        "name": "密米尔",
+        "alias": "Mímir",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "泉水／智慧",
+        "summary": "奥丁以一只眼睛换取泉水智慧的对象。",
+        "detail": "密米尔泉位于世界树相关空间，他也与被保存的智慧头颅传统相连。知识可以通过损失、交换与对死者的接近获得，是北欧叙事反复出现的逻辑。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-norns",
+        "name": "诺恩",
+        "alias": "Norns",
+        "kind": "神灵群体",
+        "tier": 2,
+        "domain": "命运",
+        "summary": "以乌尔德、薇尔丹蒂、诗蔻蒂最著名。",
+        "detail": "三位在世界树下与命运相关，但文献也谈到更多不同出身的诺恩。把三名机械翻译为过去、现在、未来可以辅助理解，却不等于一套严格时间哲学。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-nidhogg",
+        "name": "尼德霍格",
+        "alias": "Níðhöggr",
+        "kind": "异兽",
+        "tier": 3,
+        "domain": "树根／死亡",
+        "summary": "啮咬世界树根部的龙蛇。",
+        "detail": "它与树上的其他动物共同构成会受损、需要维持的宇宙；《女先知预言》结尾又出现携尸飞行形象，其含义并非完全一致。",
+        "sources": [
+          "no-voluspa"
+        ]
+      },
+      {
+        "id": "no-ratatoskr",
+        "name": "拉塔托斯克",
+        "alias": "Ratatoskr",
+        "kind": "动物",
+        "tier": 3,
+        "domain": "世界树信使",
+        "summary": "在树上下奔跑、传递敌意话语的松鼠。",
+        "detail": "它连接树顶鹰与树根龙蛇，使世界树呈现持续互动而非静止建筑图。角色常被现代作品扩写，原典叙事范围则较有限。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-sleipnir",
+        "name": "斯莱普尼尔",
+        "alias": "Sleipnir",
+        "kind": "神兽",
+        "tier": 2,
+        "domain": "旅行／八足神驹",
+        "summary": "洛基所生、归奥丁骑乘的八足马。",
+        "detail": "神界筑墙故事中，洛基化母马引走工匠的公马，后来生下它。它还能载赫尔莫德前往死者世界，表现越界旅行能力。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-surt",
+        "name": "苏尔特",
+        "alias": "Surtr",
+        "kind": "巨人",
+        "tier": 2,
+        "domain": "火／终末",
+        "summary": "从穆斯佩尔一方到来的持火剑巨人。",
+        "detail": "诸神黄昏时与弗雷相战，随后火焰吞没世界。火既在创世中参与冰的融化，也在终末中带来毁灭，构成首尾呼应。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-angrboda",
+        "name": "安格尔博达",
+        "alias": "Angrboða",
+        "kind": "巨人",
+        "tier": 3,
+        "domain": "洛基子女的母亲",
+        "summary": "巨狼、世界蛇和海尔的母亲。",
+        "detail": "她在巨人之域与洛基生下三位让众神恐惧的存在。原典关于她本人的叙事很少，不能把现代完整身世设定当作古代记载。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-sigyn",
+        "name": "西格恩",
+        "alias": "Sigyn",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "忠伴／承受",
+        "summary": "在洛基受刑时为其接住蛇毒的配偶。",
+        "detail": "当她离开倒掉容器中的毒液，毒落在洛基脸上使其挣扎。这一情节将家庭照料、惩罚和大地震动联系起来。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-vidar",
+        "name": "维达尔",
+        "alias": "Víðarr",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "复仇／幸存",
+        "summary": "在诸神黄昏为奥丁报仇。",
+        "detail": "他杀死芬里尔，且属于灾后幸存的神。具体杀狼动作在不同叙述中有差别；厚鞋等细节使他适合与其他神的标志性器物比较。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-vali",
+        "name": "瓦利",
+        "alias": "Váli",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "巴德尔复仇",
+        "summary": "奥丁之子，为巴德尔之死向霍德尔复仇。",
+        "detail": "他出生后迅速完成复仇，是特殊的复仇性神格。需与洛基子女故事中的同名或近似名人物区分，译名相同不等于同一角色。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-hermod",
+        "name": "赫尔莫德",
+        "alias": "Hermóðr",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "冥界使者",
+        "summary": "骑斯莱普尼尔赴海尔之域求还巴德尔。",
+        "detail": "他的旅途说明死者空间虽可抵达，却有无法轻易解除的条件。海尔要求万物同哭，谈判失败使巴德尔继续留在死者中。",
+        "sources": [
+          "no-gylfi"
+        ]
+      },
+      {
+        "id": "no-thjazi",
+        "name": "提亚兹",
+        "alias": "Þjazi",
+        "kind": "巨人",
+        "tier": 3,
+        "domain": "劫持伊登",
+        "summary": "变成鹰并迫使洛基协助自己的巨人。",
+        "detail": "伊登被夺令众神衰老，他最终在追逐中被杀；女儿斯卡蒂随后前来索赔。两段故事把神的暴力及其社会后果串联起来。",
+        "sources": [
+          "no-skald"
+        ]
+      },
+      {
+        "id": "no-brokkr",
+        "name": "布洛克与辛德里",
+        "alias": "Brokkr & Sindri",
+        "kind": "工匠／矮人",
+        "tier": 2,
+        "domain": "锻造宝物",
+        "summary": "制造雷神锤等神物的矮人工匠组合。",
+        "detail": "与洛基赌赛的制造过程包含干扰、缺陷和价值判断。妙尔尼尔柄短仍被评为重要宝物，说明工匠世界是神力的实际来源之一。",
+        "sources": [
+          "no-skald"
+        ]
+      },
+      {
+        "id": "no-askembla",
+        "name": "阿斯克与恩布拉",
+        "alias": "Askr & Embla",
+        "kind": "人类",
+        "tier": 2,
+        "domain": "最初人类",
+        "summary": "由木材获得生命与能力的第一对人。",
+        "detail": "赐生者名单在《女先知预言》和斯诺里叙述间不同；两者都把人类出现描绘成材料经神赋能。不能由译名推定他们就是希伯来亚当夏娃的翻版。",
+        "sources": [
+          "no-gylfi",
+          "no-voluspa"
+        ]
+      },
+      {
+        "id": "no-huginn",
+        "name": "胡金与穆宁",
+        "alias": "Huginn & Muninn",
+        "kind": "神鸟",
+        "tier": 3,
+        "domain": "思维／记忆／侦察",
+        "summary": "往返世界、向奥丁报告消息的双鸦。",
+        "detail": "名字通常联系思想与记忆。它们体现奥丁的知识需要收集，而非无限地自动拥有；也成为辨认奥丁形象的重要图像线索。",
+        "sources": [
+          "no-gylfi"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "to": "no-ymir",
+        "type": "养育",
+        "note": "乳汁供养原初巨人",
+        "source": "no-gylfi",
+        "from": "no-audhumla"
+      },
+      {
+        "to": "no-buri",
+        "type": "显露",
+        "note": "舔盐霜冰块",
+        "source": "no-gylfi",
+        "from": "no-audhumla"
+      },
+      {
+        "to": "no-borr",
+        "type": "父亲",
+        "note": "斯诺里谱系",
+        "source": "no-gylfi",
+        "from": "no-buri"
+      },
+      {
+        "to": "no-bestla",
+        "type": "配偶",
+        "note": "神与巨人祖系结合",
+        "source": "no-gylfi",
+        "from": "no-borr"
+      },
+      {
+        "to": "no-odin",
+        "type": "父亲",
+        "note": "斯诺里谱系",
+        "source": "no-gylfi",
+        "from": "no-borr"
+      },
+      {
+        "to": "no-odin",
+        "type": "母亲",
+        "note": "巨人母系",
+        "source": "no-gylfi",
+        "from": "no-bestla"
+      },
+      {
+        "to": "no-vili",
+        "type": "兄弟",
+        "note": "创世三兄弟",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-ve",
+        "type": "兄弟",
+        "note": "创世三兄弟",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-ymir",
+        "type": "杀死并创世",
+        "note": "以身体构成世界",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-askembla",
+        "type": "赐生",
+        "note": "斯诺里三兄弟版本",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-frigg",
+        "type": "配偶",
+        "note": "阿萨神族",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-thor",
+        "type": "父亲",
+        "note": "索尔之母为大地约尔德",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-baldr",
+        "type": "父亲",
+        "note": "与弗丽嘉所生",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-baldr",
+        "type": "母亲",
+        "note": "保护其免受伤害",
+        "source": "no-gylfi",
+        "from": "no-frigg"
+      },
+      {
+        "to": "no-hodr",
+        "type": "兄弟",
+        "note": "采用斯诺里叙事",
+        "source": "no-gylfi",
+        "from": "no-baldr"
+      },
+      {
+        "to": "no-hodr",
+        "type": "诱导",
+        "note": "利用槲寄生射杀巴德尔",
+        "source": "no-gylfi",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-baldr",
+        "type": "杀死",
+        "note": "并非所有版本均为失明者",
+        "source": "no-gylfi",
+        "from": "no-hodr"
+      },
+      {
+        "to": "no-hodr",
+        "type": "复仇",
+        "note": "为巴德尔复仇",
+        "source": "no-gylfi",
+        "from": "no-vali"
+      },
+      {
+        "to": "no-baldr",
+        "type": "请求归还",
+        "note": "前往海尔之域",
+        "source": "no-gylfi",
+        "from": "no-hermod"
+      },
+      {
+        "to": "no-baldr",
+        "type": "留置死者",
+        "note": "要求万物哭泣未达成",
+        "source": "no-gylfi",
+        "from": "no-hel"
+      },
+      {
+        "to": "no-mimir",
+        "type": "智慧交换",
+        "note": "以眼换取饮泉",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-odin",
+        "type": "盟约",
+        "note": "古诗中的血盟，非父子",
+        "source": "no-gylfi",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-angrboda",
+        "type": "生育配对",
+        "note": "巨狼、蛇和海尔之父母",
+        "source": "no-gylfi",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-fenrir",
+        "type": "父亲",
+        "note": "与安格尔博达所生",
+        "source": "no-gylfi",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-jormungandr",
+        "type": "父亲",
+        "note": "与安格尔博达所生",
+        "source": "no-gylfi",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-hel",
+        "type": "父亲",
+        "note": "与安格尔博达所生",
+        "source": "no-gylfi",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-sleipnir",
+        "type": "生育母亲",
+        "note": "化母马后生下八足马",
+        "source": "no-gylfi",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-sleipnir",
+        "type": "骑乘",
+        "note": "八足神驹",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      },
+      {
+        "to": "no-sigyn",
+        "type": "配偶",
+        "note": "受刑时接毒",
+        "source": "no-gylfi",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-fenrir",
+        "type": "担保与失手",
+        "note": "魔索束缚骗局",
+        "source": "no-gylfi",
+        "from": "no-tyr"
+      },
+      {
+        "to": "no-odin",
+        "type": "吞噬",
+        "note": "诸神黄昏",
+        "source": "no-gylfi",
+        "from": "no-fenrir"
+      },
+      {
+        "to": "no-fenrir",
+        "type": "杀死",
+        "note": "替父报仇",
+        "source": "no-gylfi",
+        "from": "no-vidar"
+      },
+      {
+        "to": "no-jormungandr",
+        "type": "终末敌手",
+        "note": "杀蛇后中毒而死",
+        "source": "no-gylfi",
+        "from": "no-thor"
+      },
+      {
+        "to": "no-loki",
+        "type": "互相杀死",
+        "note": "诸神黄昏",
+        "source": "no-gylfi",
+        "from": "no-heimdall"
+      },
+      {
+        "to": "no-freyr",
+        "type": "父亲",
+        "note": "华纳神谱系",
+        "source": "no-gylfi",
+        "from": "no-njord"
+      },
+      {
+        "to": "no-freyja",
+        "type": "父亲",
+        "note": "华纳神谱系",
+        "source": "no-gylfi",
+        "from": "no-njord"
+      },
+      {
+        "to": "no-freyja",
+        "type": "兄妹",
+        "note": "华纳神",
+        "source": "no-gylfi",
+        "from": "no-freyr"
+      },
+      {
+        "to": "no-skadi",
+        "type": "婚姻",
+        "note": "山与海的居住分歧",
+        "source": "no-gylfi",
+        "from": "no-njord"
+      },
+      {
+        "to": "no-thjazi",
+        "type": "父女",
+        "note": "斯卡蒂为父索赔",
+        "source": "no-gylfi",
+        "from": "no-skadi"
+      },
+      {
+        "to": "no-idunn",
+        "type": "劫持",
+        "note": "经洛基引诱",
+        "source": "no-skald",
+        "from": "no-thjazi"
+      },
+      {
+        "to": "no-idunn",
+        "type": "救回",
+        "note": "解除众神衰老危机",
+        "source": "no-skald",
+        "from": "no-loki"
+      },
+      {
+        "to": "no-idunn",
+        "type": "配偶",
+        "note": "诗神与青春守护者",
+        "source": "no-skald",
+        "from": "no-bragi"
+      },
+      {
+        "to": "no-sif",
+        "type": "配偶",
+        "note": "金发故事",
+        "source": "no-skald",
+        "from": "no-thor"
+      },
+      {
+        "to": "no-thor",
+        "type": "制造雷神锤",
+        "note": "矮人工匠与神的依赖",
+        "source": "no-skald",
+        "from": "no-brokkr"
+      },
+      {
+        "to": "no-freyr",
+        "type": "终末敌手",
+        "note": "弗雷已失去宝剑",
+        "source": "no-gylfi",
+        "from": "no-surt"
+      },
+      {
+        "to": "no-huginn",
+        "type": "消息往返",
+        "note": "双鸦巡视世界",
+        "source": "no-gylfi",
+        "from": "no-odin"
+      }
+    ],
+    "events": [
+      {
+        "id": "no-event-creation",
+        "title": "冰火相遇与尤弥尔之死",
+        "tier": 1,
+        "era": "创世神话时间",
+        "summary": "原初生命被改造成宇宙。",
+        "detail": "冰霜融化、母牛养育、神祖出现与巨人肢体创世串起不同生成方式。血化海洋、骨化山石等身体映射应作为诗性宇宙图景阅读。",
+        "actors": [
+          "no-ymir",
+          "no-audhumla",
+          "no-odin",
+          "no-vili",
+          "no-ve"
+        ],
+        "source": "no-gylfi"
+      },
+      {
+        "id": "no-event-humans",
+        "title": "阿斯克与恩布拉获得生命",
+        "tier": 1,
+        "era": "创世后",
+        "summary": "神赋予木材生命、意识与感官。",
+        "detail": "《女先知预言》与斯诺里使用不同赐生者名单；本条并置两种传承而不判定哪一个是唯一原版。",
+        "actors": [
+          "no-askembla",
+          "no-odin",
+          "no-vili",
+          "no-ve"
+        ],
+        "source": "no-voluspa"
+      },
+      {
+        "id": "no-event-war",
+        "title": "阿萨与华纳之战及和解",
+        "tier": 1,
+        "era": "神话早期",
+        "summary": "神族战争之后通过交换与协定建立共处。",
+        "detail": "尼约德、弗雷和弗蕾亚进入阿萨群体，诗蜜故事又将双方和解连到智慧者克瓦希尔。神的社会也通过协议、补偿和交换来维持。",
+        "actors": [
+          "no-odin",
+          "no-njord",
+          "no-freyr",
+          "no-freyja"
+        ],
+        "source": "no-skald"
+      },
+      {
+        "id": "no-event-runes",
+        "title": "奥丁悬树求符文",
+        "tier": 1,
+        "era": "智慧求索的神话时间",
+        "summary": "奥丁自献于自身，以痛苦换取知识。",
+        "detail": "《高人之言》138—139节叙述被矛伤、悬树九夜及取得符文。诗并未在此直接命名所悬之树；教学中与世界树关联时应保留这一文本差别。",
+        "actors": [
+          "no-odin"
+        ],
+        "source": "no-havamal"
+      },
+      {
+        "id": "no-event-mead",
+        "title": "诗蜜被夺取",
+        "tier": 2,
+        "era": "诗歌起源叙事",
+        "summary": "智慧者之血成为使饮者获得诗才的蜜酒。",
+        "detail": "矮人、巨人和奥丁先后参与这一流转，奥丁以诡计与变形把诗蜜带回。神话服务于诗语代称，讲述的既是宇宙历史，也是诗人解释自身技艺的方式。",
+        "actors": [
+          "no-odin"
+        ],
+        "source": "no-skald"
+      },
+      {
+        "id": "no-event-wall",
+        "title": "阿斯加德筑墙与神驹出生",
+        "tier": 2,
+        "era": "神界建设期",
+        "summary": "众神的危险契约由洛基变形破解。",
+        "detail": "工匠借神力公马几乎达成报酬条件，洛基化母马引走公马；索尔杀工匠，洛基后来生下斯莱普尼尔。胜利同时暴露众神在契约中的道德问题。",
+        "actors": [
+          "no-loki",
+          "no-thor",
+          "no-sleipnir"
+        ],
+        "source": "no-gylfi"
+      },
+      {
+        "id": "no-event-gifts",
+        "title": "金发赔偿与矮人宝物",
+        "tier": 2,
+        "era": "神话叙事时间",
+        "summary": "洛基的恶作剧引发神物锻造竞赛。",
+        "detail": "希芙金发、神枪、神船、金猪、金环和雷神锤等宝物来自矮人工艺。故事可用来理解诗歌中器物代称，以及神力与工匠的依赖关系。",
+        "actors": [
+          "no-loki",
+          "no-sif",
+          "no-brokkr",
+          "no-thor",
+          "no-freyr",
+          "no-odin"
+        ],
+        "source": "no-skald"
+      },
+      {
+        "id": "no-event-idunn",
+        "title": "伊登被劫与众神衰老",
+        "tier": 2,
+        "era": "神话叙事时间",
+        "summary": "青春守护者离开使众神迅速失去活力。",
+        "detail": "洛基既为危机制造者又是被迫解决危机者，营救导致提亚兹之死，进一步引出斯卡蒂索赔。把两段连续阅读能看见一场冒险如何留下后续责任。",
+        "actors": [
+          "no-idunn",
+          "no-loki",
+          "no-thjazi",
+          "no-skadi"
+        ],
+        "source": "no-skald"
+      },
+      {
+        "id": "no-event-binding",
+        "title": "芬里尔被缚",
+        "tier": 1,
+        "era": "终末之前",
+        "summary": "柔软魔索比铁链更强，提尔以手承担代价。",
+        "detail": "巨狼要求真实担保，神群却无意解除束缚。预知灾难后的先发行动是否反而加深敌意，是这一故事值得讨论的伦理问题。",
+        "actors": [
+          "no-fenrir",
+          "no-tyr"
+        ],
+        "source": "no-gylfi"
+      },
+      {
+        "id": "no-event-fishing",
+        "title": "索尔垂钓世界蛇",
+        "tier": 2,
+        "era": "终末之前",
+        "summary": "保护者与环世巨蛇提前相遇。",
+        "detail": "索尔用牛头作饵将蛇拉起，结局细节在诗歌与斯诺里间有差别。石刻图像提供文字之外的传统证据，但具体识读仍要核对器物背景。",
+        "actors": [
+          "no-thor",
+          "no-jormungandr"
+        ],
+        "source": "no-gylfi"
+      },
+      {
+        "id": "no-event-baldr",
+        "title": "巴德尔之死与归还失败",
+        "tier": 1,
+        "era": "诸神黄昏的前奏",
+        "summary": "誓言中的漏洞引发不可逆的失落。",
+        "detail": "弗丽嘉的保护、洛基的谋划、霍德尔的投掷、赫尔莫德的冥界交涉连续构成事件。万物同哭的条件因一个拒哭者而破灭；末日之后的回归保留了希望。",
+        "actors": [
+          "no-baldr",
+          "no-frigg",
+          "no-loki",
+          "no-hodr",
+          "no-hermod",
+          "no-hel"
+        ],
+        "source": "no-gylfi"
+      },
+      {
+        "id": "no-event-ragnarok",
+        "title": "诸神黄昏与新世界",
+        "tier": 1,
+        "era": "预言中的未来",
+        "summary": "边界崩裂、众神死战，随后大地再现。",
+        "detail": "奥丁与芬里尔、索尔与世界蛇、弗雷与苏尔特、洛基与海姆达尔的对决体现不同关系的终结。幸存神、人类和回归的巴德尔又延续世界；“完全虚无”并不是全部结局。",
+        "actors": [
+          "no-odin",
+          "no-fenrir",
+          "no-thor",
+          "no-jormungandr",
+          "no-surt",
+          "no-freyr",
+          "no-heimdall",
+          "no-loki",
+          "no-vidar",
+          "no-baldr"
+        ],
+        "source": "no-voluspa"
+      }
+    ],
+    "sources": [
+      {
+        "id": "no-gylfi",
+        "title": "《散文埃达》：欺骗古鲁菲",
+        "author": "斯诺里；Arthur G. Brodeur 译，1916",
+        "kind": "原典",
+        "url": "https://sacred-texts.com/neu/pre/pre04.htm",
+        "note": "创世、众神名录、巴德尔之死和诸神黄昏；需要考虑13世纪编写语境。"
+      },
+      {
+        "id": "no-skald",
+        "title": "《散文埃达》：诗语法",
+        "author": "斯诺里；Brodeur 译，1916",
+        "kind": "原典",
+        "url": "https://sacred-texts.com/neu/pre/pre05.htm",
+        "note": "诗蜜、伊登、矮人宝物等；故事服务于解释诗歌代称。"
+      },
+      {
+        "id": "no-voluspa",
+        "title": "《诗体埃达》：女先知预言",
+        "author": "Henry Adams Bellows 译，1923",
+        "kind": "原典",
+        "url": "https://sacred-texts.com/neu/poe/poe03.htm",
+        "note": "创世、诸神战争、末日与重生；不同写本与诗节编排有差异。"
+      },
+      {
+        "id": "no-havamal",
+        "title": "《诗体埃达》：高人之言",
+        "author": "Bellows 译，1923",
+        "kind": "原典",
+        "url": "https://sacred-texts.com/neu/poe/poe04.htm",
+        "note": "待客智慧、名誉、诗蜜与奥丁悬树求符文。"
+      },
+      {
+        "id": "no-sources",
+        "title": "Sources for Norse mythology",
+        "author": "瑞典历史博物馆",
+        "kind": "博物馆",
+        "url": "https://historiska.se/en/explore-history/history-hub/sources-for-norse-mythology/",
+        "note": "文本晚出性、图像石、护符、地名；附开放许可馆藏图像。"
+      },
+      {
+        "id": "no-religion",
+        "title": "The old religion",
+        "author": "丹麦国家博物馆",
+        "kind": "博物馆",
+        "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/the-old-religion/",
+        "note": "旧信仰、仪式与基督教化的历史背景。"
+      },
+      {
+        "id": "no-names",
+        "title": "Odin, Tor and the other Norse Gods",
+        "author": "丹麦国家博物馆",
+        "kind": "博物馆",
+        "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-late-iron-age/iron-age-gods/odin-tor-and-the-other-norse-gods/",
+        "note": "神名与星期、地名及铁器时代信仰的关联。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Cattle die, and kinsmen die,",
+        "source": "no-havamal",
+        "locator": "《高人之言》Bellows 编号77—78节；常见其他编次为76—77节",
+        "note": "意为“牲畜会死，亲族会死”。后文讨论名声及对亡者的评价如何延续，应与生活智慧而不只与战斗荣耀一起阅读。"
+      },
+      {
+        "text": "I ween that I hung on the windy tree,",
+        "source": "no-havamal",
+        "locator": "《高人之言》Bellows 编号139节；常见其他编次为138节",
+        "note": "意为“我想，我曾悬在风吹的树上”。本节是第一人称自述，树名在这一处没有直接写出；引文省去排版用分隔符。"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://historiska.se/wp-content/uploads/2025/09/ef8f5d0c-faae-4f86-b335-fa09da8eac3a.webp",
+        "pageUrl": "https://historiska.se/en/explore-history/history-hub/sources-for-norse-mythology/",
+        "title": "带雷神锤挂件的银环",
+        "credit": "Ola Myrin／Historiska museet；107871_HST",
+        "license": "CC BY 4.0",
+        "caption": "厄兰岛出土，约800—1100年。护符是信仰实践的物证；它与13世纪整理的神话文本来自不同证据层。",
+        "local": "assets/images/d48f39f22c48fa6c.jpg"
+      }
+    ],
+    "reading": [
+      {
+        "title": "从巴德尔连到末日",
+        "text": "沿弗丽嘉→洛基→霍德尔→海尔→诸神黄昏逐步浏览，留意保护、欺骗、死者条件与恢复。"
+      },
+      {
+        "title": "把神话和考古分两栏",
+        "text": "一栏记录埃达写了什么，一栏记录护符、地名、图像石能够证明什么；不要让后一栏替前一栏验证全部情节。"
+      }
+    ],
+    "cautions": [
+      "洛基是常见的越界与诡计角色；奥丁也会行诡计，但不能把笔记中的“诡计之神奥丁”当作洛基的名字。",
+      "九界清单与空间排列是现代整理；原典没有一份对所有文本都适用的固定总地图。",
+      "关系图以埃达传统为主，萨克索等其他作者的异文需要另作对照；洛基不是索尔的养弟。"
+    ]
+  },
+  {
+    "id": "greco-roman",
+    "name": "希腊—罗马",
+    "en": "GREECE & ROME",
+    "region": "爱琴海与意大利",
+    "coords": [
+      23,
+      38
+    ],
+    "color": "#b9abc7",
+    "depth": 3,
+    "tagline": "从诸神家谱，走入人的命运",
+    "period": "荷马、赫西俄德约前8—7世纪；悲剧盛于前5世纪；罗马史诗延续并重写希腊传统",
+    "summary": "希腊神话以神族更替、城邦英雄谱系、战争与归乡讲述秩序、欲望和人的有限性。神话没有一部统一圣经，同一人物的出身和结局在诗歌、戏剧、地方祭仪间往往不同。罗马吸收希腊故事，却也有自身的祭司制度、家宅神、建城叙事与国家使命。学习这一区域，宜先辨认宇宙三代神权，再读英雄与城邦的联系，最后观察罗马如何把特洛伊的败亡转化为建国远景。",
+    "worldview": [
+      {
+        "title": "宇宙是谱系，也是权力更替",
+        "text": "《神谱》从卡俄斯、盖亚、塔尔塔罗斯和厄洛斯展开，以乌拉诺斯、克洛诺斯、宙斯三代统治的替换组织世界。血缘生育、暴力与分配荣誉共同建立秩序；“卡俄斯”首先指裂隙或空隙，不等于现代混乱无序的全部含义。",
+        "source": "gr-theogony"
+      },
+      {
+        "title": "奥林匹斯、人间与死者之域",
+        "text": "宙斯、波塞冬和哈德斯分别拥有天空、海洋与死者领域，地面与奥林匹斯的关系更复杂。塔尔塔罗斯是极深处和囚禁空间，不能与整个冥府画等号。亡者命运在荷马、秘仪、哲学和罗马史诗中各有差异。",
+        "source": "gr-library1"
+      },
+      {
+        "title": "不朽之神与有死之人",
+        "text": "神可以受伤、争吵、结盟和违背人间道德期待，但人类仍受年龄与死亡限制。英雄的荣耀常伴随短命、家族灾难或越界惩罚。讨论“神像不像好人”不如问故事怎样安排权力、限度、荣誉与责任。",
+        "source": "gr-iliad"
+      },
+      {
+        "title": "神职重叠与地方差异",
+        "text": "雅典娜的战争、工艺与城市保护同时存在，阿波罗既治疗又降疫。不同城市有不同称号、神话和节庆；“十二主神”也不是跨所有时期毫无变化的固定名单。灶神赫斯提亚和酒神狄俄尼索斯的席位尤其常见差异。",
+        "source": "gr-practice"
+      },
+      {
+        "title": "罗马对应不是简单改名",
+        "text": "朱庇特可对应宙斯、朱诺对应赫拉，但罗马玛尔斯具有公民共同体与建国祖先的地位，不能完全套入希腊阿瑞斯形象。雅努斯、维斯塔、拉尔等传统和埃涅阿斯—罗慕路斯的叙事使罗马保有自己的重心。",
+        "source": "gr-aeneid"
+      }
+    ],
+    "history": [
+      {
+        "title": "城邦与祭仪",
+        "text": "神庙、献祭、竞赛和节庆把公民身份与神圣秩序结合。雅典娜与雅典、阿波罗与德尔斐、德墨忒尔与厄琉息斯都是理解地方神话的入口；故事并不是古代宗教生活的全部。",
+        "source": "gr-practice"
+      },
+      {
+        "title": "诗歌是表演传统",
+        "text": "荷马史诗经长期口头诗歌传统形成，赫西俄德以谱系与训诫组织材料。写定文本可保存早期记忆，却不能因此把特洛伊战争每个英雄和动作直接等同于考古事实。",
+        "source": "gr-iliad"
+      },
+      {
+        "title": "同一人物在不同文类中改变",
+        "text": "悲剧可以重新分配人物责任、展示冲突视角；晚期《书库》则倾向压缩并并列异说。学习时记录“作者—作品—篇章”，比寻找唯一正确故事更可靠。",
+        "source": "gr-library3"
+      },
+      {
+        "title": "罗马帝国的史诗想象",
+        "text": "奥古斯都时代的《埃涅阿斯纪》把流亡、虔敬与未来罗马连接，同时保留狄多和图尔努斯的痛苦。它既能赞颂使命，也让读者看见建国代价，不宜只读成单一政治口号。",
+        "source": "gr-aeneid"
+      },
+      {
+        "title": "图像改变阅读方式",
+        "text": "陶瓶画的服饰、姿态、神物和铭文有助识别角色，但图像未必逐字描绘现存某一本书。文艺复兴及现代重绘又带来新的身体观与道德判断，应将创作年代纳入图注。",
+        "source": "gr-practice"
+      }
+    ],
+    "entities": [
+      {
+        "id": "gr-chaos",
+        "name": "卡俄斯",
+        "alias": "Chaos",
+        "kind": "原初存在",
+        "tier": 1,
+        "domain": "原初裂隙",
+        "summary": "《神谱》最先出现的宇宙状态或存在。",
+        "detail": "它与盖亚、塔尔塔罗斯、厄洛斯相继出现，而不是一位计划一切的最高造物主。夜与幽冥由其而生；后世把Chaos理解为无序物质的方式与赫西俄德未必相同。比较创世时应先保留这一语义差别。",
+        "sources": [
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-gaia",
+        "name": "盖亚",
+        "alias": "Gaia / Terra",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "大地／诸神母系",
+        "summary": "生出天空并参与神权更替的大地。",
+        "detail": "盖亚帮助克洛诺斯反抗乌拉诺斯，又在后续神权斗争中发挥作用。她既是可以行走的大地，也是具有意志的神；谱系关系把地形、宇宙层次和政治冲突连接起来。不能把她只简化为温柔母亲的现代原型。",
+        "sources": [
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-uranus",
+        "name": "乌拉诺斯",
+        "alias": "Ouranos / Caelus",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "天空",
+        "summary": "盖亚所生又与其结合的天空神。",
+        "detail": "他压制子女而引发盖亚与克洛诺斯的反抗。被阉割的故事不仅是家庭暴力，也象征前一代统治的终结，并引出阿佛洛狄忒等不同生成支线。",
+        "sources": [
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-cronus",
+        "name": "克洛诺斯",
+        "alias": "Kronos / Saturnus",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "泰坦统治／代际冲突",
+        "summary": "推翻父亲后又吞食自己孩子的统治者。",
+        "detail": "他因害怕被儿子推翻而吞下瑞亚的孩子，宙斯则被替换成石头而逃过。其失败建立奥林匹斯新秩序。克洛诺斯与时间人格神Chronos不是原本完全同一角色，后世混同需要单独标明。",
+        "sources": [
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-rhea",
+        "name": "瑞亚",
+        "alias": "Rhea",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "母亲／神权继承",
+        "summary": "设法保全宙斯的泰坦女神。",
+        "detail": "她把石头裹入襁褓给克洛诺斯吞下，使最小的孩子得以长大。母亲的谋略推动代际更替，克里特出生与养育传统也提供地方认同。",
+        "sources": [
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-zeus",
+        "name": "宙斯",
+        "alias": "Zeus / Jupiter 朱庇特",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "天空／雷霆／秩序",
+        "summary": "取得至高地位并分配众神荣誉的统治者。",
+        "detail": "宙斯击败泰坦与提丰，却仍处于预言、誓言和神间谈判的关系网。他广泛的子女谱系把城市、英雄与神界相连。朱庇特在罗马国家宗教中的地位与希腊故事可互相对应，但具体祭仪和政治功能需要分别理解。",
+        "sources": [
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-hera",
+        "name": "赫拉",
+        "alias": "Hera / Juno 朱诺",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "婚姻／王后／城邦",
+        "summary": "神后，也是阿尔戈斯等地的重要保护神。",
+        "detail": "史诗中的嫉妒和冲突只是其文学面相，婚姻秩序、女性生命阶段与地方祭仪同样重要。她对宙斯私生英雄的敌意推动赫拉克勒斯等叙事，不宜把一位具有广泛崇拜的女神仅概括为“善妒妻子”。",
+        "sources": [
+          "gr-library1",
+          "gr-practice"
+        ]
+      },
+      {
+        "id": "gr-poseidon",
+        "name": "波塞冬",
+        "alias": "Poseidon / Neptune 尼普顿",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "海洋／地震／马",
+        "summary": "可供航行也可摧毁航行的强大神。",
+        "detail": "他的三叉戟是典型标识，对奥德修斯的愤怒使归乡困难，与雅典娜争夺城市保护权又连接地方政治。海洋、地震与马的组合显示神职不必遵循现代学科分类。",
+        "sources": [
+          "gr-odyssey",
+          "gr-library3"
+        ]
+      },
+      {
+        "id": "gr-hades",
+        "name": "哈德斯",
+        "alias": "Hades / Pluto 普路托",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "亡者／地下财富",
+        "summary": "统治死者领域的神，不是魔鬼的对应物。",
+        "detail": "他与珀耳塞福涅的关系连接死亡、婚姻与大地生产力。哈德斯通常不列为住在奥林匹斯的十二神之一，却是核心宇宙权力。其国度和深渊塔尔塔罗斯有关但不等同，也不能用“全是惩罚地狱”来理解。",
+        "sources": [
+          "gr-hymn"
+        ]
+      },
+      {
+        "id": "gr-demeter",
+        "name": "德墨忒尔",
+        "alias": "Demeter / Ceres 刻瑞斯",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "谷物／母女／秘仪",
+        "summary": "因失去女儿而让大地停止生产的女神。",
+        "detail": "《致德墨忒尔》以母亲寻找、愤怒和条件谈判组织故事，并将厄琉息斯仪式连接其中。珀耳塞福涅的往返解释季节性生产，但不同版本停留比例不同，不宜统一写成每年固定六个月。",
+        "sources": [
+          "gr-hymn"
+        ]
+      },
+      {
+        "id": "gr-persephone",
+        "name": "珀耳塞福涅",
+        "alias": "Persephone / Proserpina",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "冥后／重返／谷物周期",
+        "summary": "既是被夺走的女儿，也是死者世界的女王。",
+        "detail": "石榴籽使她不能永久返回母亲身边。母女叙事可从婚姻转移、母亲的抗议和生命循环等角度学习；成年冥后的权力不应被现代单一恋爱改编遮蔽。具体自愿与强制情节应尊重所读版本。",
+        "sources": [
+          "gr-hymn"
+        ]
+      },
+      {
+        "id": "gr-athena",
+        "name": "雅典娜",
+        "alias": "Athena / Minerva 密涅瓦",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "智慧／工艺／战略战争",
+        "summary": "保护城市和英雄的女神。",
+        "detail": "她的诞生与宙斯吞下墨提斯后的头部生产有关，猫头鹰、盾和橄榄树是常见标识。她帮助奥德修斯、珀耳修斯等英雄，也体现城市自我形象。战争方面与阿瑞斯的侧重点不同，但不宜用完全理性与完全暴力把二者机械对立。",
+        "sources": [
+          "gr-theogony",
+          "gr-odyssey"
+        ]
+      },
+      {
+        "id": "gr-apollo",
+        "name": "阿波罗",
+        "alias": "Apollon / Apollo",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "预言／音乐／医治与瘟疫",
+        "summary": "德尔斐神谕的重要神。",
+        "detail": "阿波罗可降疫又可医治，弓与琴把远击和秩序化声音联结。他与太阳神赫利俄斯在早期材料中并非同一位，虽然后来关联加深；因此“阿波罗就是太阳本身”需带时代说明。",
+        "sources": [
+          "gr-library1"
+        ]
+      },
+      {
+        "id": "gr-artemis",
+        "name": "阿尔忒弥斯",
+        "alias": "Artemis / Diana 狄安娜",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "狩猎／荒野／生命过渡",
+        "summary": "阿波罗的孪生姐妹，保护与危险同在。",
+        "detail": "她的处女身份并不意味着与生育无关，少女成长、分娩和野生动物都可纳入其领域。与月亮女神塞勒涅的融合有历史层次，不能把晚出的三月神体系直接投射到荷马时代。",
+        "sources": [
+          "gr-library1"
+        ]
+      },
+      {
+        "id": "gr-aphrodite",
+        "name": "阿佛洛狄忒",
+        "alias": "Aphrodite / Venus 维纳斯",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "欲望／美／结合",
+        "summary": "爱欲的力量可动摇神与人的秩序。",
+        "detail": "赫西俄德让她从乌拉诺斯断肢落海的泡沫中诞生，荷马传统则有宙斯与狄俄涅之女的版本。作为埃涅阿斯之母，她又进入罗马祖系政治。两种出生说应并列，而非把其中一种删作错误。",
+        "sources": [
+          "gr-theogony",
+          "gr-aeneid"
+        ]
+      },
+      {
+        "id": "gr-ares",
+        "name": "阿瑞斯",
+        "alias": "Ares / Mars 玛尔斯",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "战争",
+        "summary": "表现战斗的暴烈与冲突性。",
+        "detail": "希腊诗歌常对他颇有批判，但罗马玛尔斯有更显著的国家、农事与祖先角色。对应关系可帮助记忆，却不意味着罗马只是把希腊神重新命名。",
+        "sources": [
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-hephaestus",
+        "name": "赫菲斯托斯",
+        "alias": "Hephaistos / Vulcan 伏尔甘",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "火／锻造／技艺",
+        "summary": "以卓越工艺补偿身体与社会处境的工匠神。",
+        "detail": "他为众神和英雄制造器物，阿喀琉斯之盾把一整套人间生活刻入战争装备。其出生、被抛下与婚姻故事有异说，应避免拼成无矛盾生平。",
+        "sources": [
+          "gr-iliad",
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-hermes",
+        "name": "赫尔墨斯",
+        "alias": "Hermes / Mercury 墨丘利",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "边界／使者／交易／引魂",
+        "summary": "跨越地点、身份和生死界限的神。",
+        "detail": "他兼有商旅、盗窃、谈判和引导死者的职能；这些关联都围绕边界移动。双蛇杖是使者象征，应与阿斯克勒庇俄斯的单蛇医疗杖区分。",
+        "sources": [
+          "gr-odyssey"
+        ]
+      },
+      {
+        "id": "gr-hestia",
+        "name": "赫斯提亚",
+        "alias": "Hestia / Vesta 维斯塔",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "炉火／家宅与公共中心",
+        "summary": "稳定的炉火使家庭和城市形成中心。",
+        "detail": "她在冒险故事中不突出，却在祭仪生活中有重要位置。由此可见故事出场频率不等于古代宗教地位；罗马维斯塔的国家炉火与女祭司制度有其本地背景。",
+        "sources": [
+          "gr-library1",
+          "gr-practice"
+        ]
+      },
+      {
+        "id": "gr-dionysus",
+        "name": "狄俄尼索斯",
+        "alias": "Dionysos / Bacchus 巴克斯",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "葡萄酒／戏剧／变形",
+        "summary": "带来欢乐、失控和身份转变的神。",
+        "detail": "塞墨勒之死与宙斯完成其孕育构成著名二次出生故事；另有俄耳甫斯传统的不同谱系。城邦节庆和剧场表演把他连接公共生活，他不是单纯与“理性”对立的醉酒符号。",
+        "sources": [
+          "gr-library3"
+        ]
+      },
+      {
+        "id": "gr-prometheus",
+        "name": "普罗米修斯",
+        "alias": "Prometheus",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "火／技艺／神人分界",
+        "summary": "在祭肉分配和盗火中帮助人类的泰坦后裔。",
+        "detail": "赫西俄德强调欺骗与惩罚链条，悲剧及后世文学则常突出文明恩人和反抗。鹰啄肝脏与赫拉克勒斯解救是著名后续。不同作品的价值立场应比较阅读，不能以现代英雄版本覆盖所有古代文本。",
+        "sources": [
+          "gr-theogony",
+          "gr-library2"
+        ]
+      },
+      {
+        "id": "gr-pandora",
+        "name": "潘多拉",
+        "alias": "Pandora",
+        "kind": "人类",
+        "tier": 2,
+        "domain": "人类处境／灾苦",
+        "summary": "被诸神赋予礼物并送入人间的女子。",
+        "detail": "古代关键容器是大罐而非现代常说的盒子；灾苦与希望的关系在解释史中争论很多。她应与伊甸园夏娃比较但不等同，尤其不能把文本中的性别偏见直接当成网站价值判断。",
+        "sources": [
+          "gr-works",
+          "gr-library1"
+        ]
+      },
+      {
+        "id": "gr-atlas",
+        "name": "阿特拉斯",
+        "alias": "Atlas",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "承天／泰坦惩罚",
+        "summary": "在世界边缘承担天空。",
+        "detail": "常见现代图像让他托地球，但古典叙事的负担是天穹。赫拉克勒斯获取金苹果时与他暂时交换负担，是理解空间边缘和英雄谋略的故事。",
+        "sources": [
+          "gr-theogony",
+          "gr-library2"
+        ]
+      },
+      {
+        "id": "gr-eros",
+        "name": "厄洛斯",
+        "alias": "Eros / Cupid 丘比特",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "欲望／生殖动力",
+        "summary": "既可为原初力量，也可为后世带翼爱神。",
+        "detail": "《神谱》的原初厄洛斯与常见“阿佛洛狄忒之子”的少年爱神并非同一层次的谱系。图像随时代变化，不能拿一幅丘比特画像说明所有古希腊创世观。",
+        "sources": [
+          "gr-theogony"
+        ]
+      },
+      {
+        "id": "gr-hekate",
+        "name": "赫卡忒",
+        "alias": "Hekate",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "边界／火炬／夜间力量",
+        "summary": "在不同场景跨越多种领域的女神。",
+        "detail": "赫西俄德给予她广泛尊荣，《致德墨忒尔》让她参与寻女；后世魔法、十字路口与三重形象更突出。她不是从一开始就只有女巫女神身份。",
+        "sources": [
+          "gr-theogony",
+          "gr-hymn"
+        ]
+      },
+      {
+        "id": "gr-helios",
+        "name": "赫利俄斯",
+        "alias": "Helios / Sol",
+        "kind": "神祇",
+        "tier": 3,
+        "domain": "太阳",
+        "summary": "看见广阔世界的太阳神。",
+        "detail": "在《致德墨忒尔》中提供女儿被劫的信息，在奥德修斯故事中拥有不可侵犯的牛群。应先与阿波罗分开，再学习后期太阳化解释。",
+        "sources": [
+          "gr-hymn",
+          "gr-odyssey"
+        ]
+      },
+      {
+        "id": "gr-heracles",
+        "name": "赫拉克勒斯",
+        "alias": "Herakles / Hercules",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "功业／苦难／神化",
+        "summary": "宙斯与阿尔克墨涅之子，完成十二功业。",
+        "detail": "他并非从不犯错的超人，疯狂、杀戮、服役、补偿与受难构成英雄生命。狮皮和棍棒是辨认图像的标志；最后火葬与神化叙事让他成为有死人与神之间的特殊桥梁。",
+        "sources": [
+          "gr-library2"
+        ]
+      },
+      {
+        "id": "gr-perseus",
+        "name": "珀耳修斯",
+        "alias": "Perseus",
+        "kind": "英雄",
+        "tier": 2,
+        "domain": "屠怪／拯救",
+        "summary": "斩下美杜莎头颅并解救安德洛墨达。",
+        "detail": "神赐器物、避免正视怪物、返回途中救人构成冒险链。其家族后来连接赫拉克勒斯，英雄谱系常用于把不同地区故事组织到同一祖系。",
+        "sources": [
+          "gr-library2"
+        ]
+      },
+      {
+        "id": "gr-theseus",
+        "name": "忒修斯",
+        "alias": "Theseus",
+        "kind": "英雄",
+        "tier": 2,
+        "domain": "雅典／迷宫",
+        "summary": "雅典英雄，与克里特米诺陶洛斯故事相连。",
+        "detail": "阿里阿德涅的帮助使他走出迷宫，而弃置她的结局存在不同解释；他的政治性身份又联到雅典共同体。英雄之名不保证所有行为都符合现代道德。",
+        "sources": [
+          "gr-epitome"
+        ]
+      },
+      {
+        "id": "gr-jason",
+        "name": "伊阿宋",
+        "alias": "Jason",
+        "kind": "英雄",
+        "tier": 2,
+        "domain": "金羊毛／航行",
+        "summary": "率阿尔戈英雄远征的首领。",
+        "detail": "金羊毛任务离不开美狄亚的知识与帮助；回国后的背叛及家庭毁灭常成为悲剧主题。远航网络也把多位地域英雄汇入一场集体冒险。",
+        "sources": [
+          "gr-library1"
+        ]
+      },
+      {
+        "id": "gr-medea",
+        "name": "美狄亚",
+        "alias": "Medea",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "魔法／异乡／复仇",
+        "summary": "科尔喀斯王女，帮助伊阿宋完成任务。",
+        "detail": "她兼具王族、异乡者、施术者和被背叛妻子的多重身份。杀子等情节须注明作品版本，不能把所有地域传统视为欧里庇得斯悲剧的复制。",
+        "sources": [
+          "gr-library1"
+        ]
+      },
+      {
+        "id": "gr-achilles",
+        "name": "阿喀琉斯",
+        "alias": "Achilles",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "荣耀／愤怒／短命",
+        "summary": "《伊利亚特》以其愤怒和失落为中心。",
+        "detail": "他与阿伽门农争执退出战争，挚友帕特罗克洛斯之死又将他推回战场。杀死赫克托尔后，与普里阿摩斯共同哀悼使敌人重新显出人的面目。脚踵唯一弱点不是荷马史诗叙述的核心设定。",
+        "sources": [
+          "gr-iliad"
+        ]
+      },
+      {
+        "id": "gr-odysseus",
+        "name": "奥德修斯",
+        "alias": "Odysseus / Ulysses",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "谋略／归乡／身份",
+        "summary": "历经漂泊后重返伊萨卡。",
+        "detail": "他靠言语、伪装和耐心渡过困境，却也因自负和行为承担代价。《奥德赛》反复测试待客规则、记忆与身份辨认；佩涅洛佩与忒勒马科斯的等待和行动同样重要。",
+        "sources": [
+          "gr-odyssey"
+        ]
+      },
+      {
+        "id": "gr-hector",
+        "name": "赫克托尔",
+        "alias": "Hector",
+        "kind": "英雄",
+        "tier": 2,
+        "domain": "守城／家庭／责任",
+        "summary": "特洛伊最重要的守卫者。",
+        "detail": "他在城邦责任、战士荣誉与对妻儿的牵挂间挣扎，被阿喀琉斯杀死。《伊利亚特》以其葬礼结束，让敌方的哀悼成为史诗终点。",
+        "sources": [
+          "gr-iliad"
+        ]
+      },
+      {
+        "id": "gr-helen",
+        "name": "海伦",
+        "alias": "Helen",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "战争缘起／美与责任",
+        "summary": "其婚姻与被带往特洛伊牵连希腊诸王。",
+        "detail": "她的自愿、强迫与责任在古代作品中反复被争辩；有些文本甚至让真正海伦未曾到特洛伊。不要把一场战争简单归罪于一位美丽女子。",
+        "sources": [
+          "gr-epitome"
+        ]
+      },
+      {
+        "id": "gr-paris",
+        "name": "帕里斯",
+        "alias": "Paris / Alexandros",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "裁决／欲望／特洛伊",
+        "summary": "以女神比美裁判进入战争前史。",
+        "detail": "他选择阿佛洛狄忒的许诺，后来带海伦前往特洛伊。比美故事主要属于史诗环和后期汇编背景，并非《伊利亚特》逐幕讲出的开篇。",
+        "sources": [
+          "gr-epitome"
+        ]
+      },
+      {
+        "id": "gr-agamemnon",
+        "name": "阿伽门农",
+        "alias": "Agamemnon",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "联军统帅／家族灾难",
+        "summary": "希腊联军中地位突出的王。",
+        "detail": "与阿喀琉斯的荣誉争执触发《伊利亚特》主线，归国后被害又延展到俄瑞斯忒斯复仇。战争胜利无法保证家庭与王权秩序安全。",
+        "sources": [
+          "gr-iliad",
+          "gr-epitome"
+        ]
+      },
+      {
+        "id": "gr-penelope",
+        "name": "佩涅洛佩",
+        "alias": "Penelope",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "等待／计谋／辨认",
+        "summary": "以织布计延缓再婚的伊萨卡王后。",
+        "detail": "她并非单纯被动等待者，持续在求婚者压力与儿子成长间行动。与奥德修斯互相辨认的婚床细节，把真实身份落在两人共同的记忆与知识上。",
+        "sources": [
+          "gr-odyssey"
+        ]
+      },
+      {
+        "id": "gr-aeneas",
+        "name": "埃涅阿斯",
+        "alias": "Aeneas",
+        "kind": "英雄",
+        "tier": 1,
+        "domain": "流亡／虔敬／罗马祖系",
+        "summary": "从特洛伊火海走向意大利的英雄。",
+        "detail": "他带父亲、儿子和家神离开毁城，在私人情感与神命之间抉择；告别狄多和击杀图尔努斯保留了使命的道德代价。他不是罗马城的直接建城者，而是被安排为较早的祖先。",
+        "sources": [
+          "gr-aeneid"
+        ]
+      },
+      {
+        "id": "gr-dido",
+        "name": "狄多",
+        "alias": "Dido / Elissa",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "迦太基／王权／离别",
+        "summary": "在罗马史诗中接纳流亡者的建城女王。",
+        "detail": "她与埃涅阿斯的悲剧把个人关系和罗马—迦太基敌对的回溯性叙事相连。《埃涅阿斯纪》的时间编排属于神话文学，不能直接用作两位历史人物相遇的证据。",
+        "sources": [
+          "gr-aeneid"
+        ]
+      },
+      {
+        "id": "gr-romulus",
+        "name": "罗慕路斯",
+        "alias": "Romulus",
+        "kind": "建城英雄",
+        "tier": 2,
+        "domain": "罗马建城",
+        "summary": "与双生兄弟雷穆斯构成著名建城传说。",
+        "detail": "被母狼哺育、兄弟冲突和城市边界是常见母题；传统建城年份前753年是后世纪年方案，不能直接当作考古证明。其祖系与埃涅阿斯传统经过连接。",
+        "sources": [
+          "gr-aeneid"
+        ]
+      },
+      {
+        "id": "gr-janus",
+        "name": "雅努斯",
+        "alias": "Janus",
+        "kind": "神祇",
+        "tier": 2,
+        "domain": "门户／开始／转换",
+        "summary": "具有鲜明罗马本土特征的双面神。",
+        "detail": "门与开始使他连接公共和平战争、时间与仪式顺序。他没有一个能完全对等的主要希腊神，正好提醒希腊—罗马对照表并不覆盖罗马宗教全部。",
+        "sources": [
+          "gr-fasti"
+        ]
+      },
+      {
+        "id": "gr-medusa",
+        "name": "美杜莎",
+        "alias": "Medusa",
+        "kind": "异兽",
+        "tier": 2,
+        "domain": "凝视／石化",
+        "summary": "戈耳工姐妹中有死的一位。",
+        "detail": "珀耳修斯利用器物与策略将其斩首；其头颅随后成为盾与建筑上的威慑图像。美杜莎如何成为怪物的解释有时代差别，现代流行的完整身世不能直接标为赫西俄德版本。",
+        "sources": [
+          "gr-library2"
+        ]
+      },
+      {
+        "id": "gr-minotaur",
+        "name": "米诺陶洛斯",
+        "alias": "Minotauros",
+        "kind": "异兽",
+        "tier": 2,
+        "domain": "克里特／迷宫",
+        "summary": "人牛混合的迷宫存在。",
+        "detail": "与米诺斯、帕西淮、代达罗斯及雅典贡奉青年的故事相连。米诺斯王权与克里特考古可相互启发，但迷宫怪物的情节不是青铜时代历史记录。",
+        "sources": [
+          "gr-library3",
+          "gr-epitome"
+        ]
+      },
+      {
+        "id": "gr-cerberus",
+        "name": "刻耳柏洛斯",
+        "alias": "Kerberos / Cerberus",
+        "kind": "异兽",
+        "tier": 2,
+        "domain": "冥府守门",
+        "summary": "守护亡者边界的犬形怪物。",
+        "detail": "三头形象最为通行，但古文献数量描述并不总一致。赫拉克勒斯最后功业将其带到地上，表现活人触及死者领域后返回的极端试炼。",
+        "sources": [
+          "gr-library2"
+        ]
+      },
+      {
+        "id": "gr-polyphemus",
+        "name": "波吕斐摩斯",
+        "alias": "Polyphemos",
+        "kind": "巨人",
+        "tier": 2,
+        "domain": "独眼巨人／待客反例",
+        "summary": "困住奥德修斯一行的独眼牧者。",
+        "detail": "英雄用“无人”之名和羊群逃离，随后炫耀真名又引出波塞冬的追责。荷马这一类独眼巨人与《神谱》中锻造雷霆的独眼神匠并非同一叙事群体。",
+        "sources": [
+          "gr-odyssey"
+        ]
+      },
+      {
+        "id": "gr-sirens",
+        "name": "塞壬",
+        "alias": "Sirens",
+        "kind": "异兽",
+        "tier": 3,
+        "domain": "歌声／危险知识",
+        "summary": "以歌声诱惑航海者的存在。",
+        "detail": "古希腊艺术常见人首鸟身形象，现代鱼尾美人鱼印象不能直接代替。奥德修斯绑在桅杆聆听，船员封耳前行，把知识欲望和自我约束并置。",
+        "sources": [
+          "gr-odyssey"
+        ]
+      },
+      {
+        "id": "gr-pegasus",
+        "name": "珀伽索斯",
+        "alias": "Pegasos / Pegasus",
+        "kind": "神兽",
+        "tier": 3,
+        "domain": "飞马／英雄坐骑",
+        "summary": "与美杜莎被斩首及柏勒洛丰故事相关。",
+        "detail": "飞马连接天空与英雄对怪物的胜利，其出生和骑乘在不同故事中各有位置。现代把所有飞马都称“独角兽”会混淆两种不同图像传统。",
+        "sources": [
+          "gr-library2"
+        ]
+      },
+      {
+        "id": "gr-typhon",
+        "name": "提丰",
+        "alias": "Typhon",
+        "kind": "神怪",
+        "tier": 2,
+        "domain": "灾变／宙斯敌手",
+        "summary": "挑战宙斯统治的巨大神怪。",
+        "detail": "与宙斯大战属于新秩序最后受考验的一环；后代怪物谱系又连接英雄的试炼。不要把泰坦战争、巨人战争和提丰之战压成同一场。",
+        "sources": [
+          "gr-theogony",
+          "gr-library1"
+        ]
+      },
+      {
+        "id": "gr-moirai",
+        "name": "摩伊赖",
+        "alias": "Moirai / Parcae",
+        "kind": "神灵群体",
+        "tier": 2,
+        "domain": "命运",
+        "summary": "纺织生命的命运女神群体。",
+        "detail": "克洛托、拉刻西斯、阿特洛波斯是著名三名。她们与宙斯权威的关系在作品中并非一条简单规则，不能断言所有古希腊人都相信命运绝对高于诸神。",
+        "sources": [
+          "gr-theogony"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "to": "gr-uranus",
+        "type": "产生",
+        "note": "盖亚生出天空",
+        "source": "gr-theogony",
+        "from": "gr-gaia"
+      },
+      {
+        "to": "gr-cronus",
+        "type": "母亲",
+        "note": "与乌拉诺斯的泰坦后裔",
+        "source": "gr-theogony",
+        "from": "gr-gaia"
+      },
+      {
+        "to": "gr-cronus",
+        "type": "父亲",
+        "note": "被儿子推翻",
+        "source": "gr-theogony",
+        "from": "gr-uranus"
+      },
+      {
+        "to": "gr-rhea",
+        "type": "配偶",
+        "note": "泰坦兄妹",
+        "source": "gr-theogony",
+        "from": "gr-cronus"
+      },
+      {
+        "to": "gr-zeus",
+        "type": "父亲",
+        "note": "宙斯推翻其统治",
+        "source": "gr-theogony",
+        "from": "gr-cronus"
+      },
+      {
+        "to": "gr-zeus",
+        "type": "母亲",
+        "note": "用石头替代婴儿",
+        "source": "gr-theogony",
+        "from": "gr-rhea"
+      },
+      {
+        "to": "gr-hera",
+        "type": "父亲",
+        "note": "吞食并后被迫吐出",
+        "source": "gr-theogony",
+        "from": "gr-cronus"
+      },
+      {
+        "to": "gr-poseidon",
+        "type": "父亲",
+        "note": "奥林匹斯上一代谱系",
+        "source": "gr-theogony",
+        "from": "gr-cronus"
+      },
+      {
+        "to": "gr-hades",
+        "type": "父亲",
+        "note": "奥林匹斯上一代谱系",
+        "source": "gr-theogony",
+        "from": "gr-cronus"
+      },
+      {
+        "to": "gr-demeter",
+        "type": "父亲",
+        "note": "奥林匹斯上一代谱系",
+        "source": "gr-theogony",
+        "from": "gr-cronus"
+      },
+      {
+        "to": "gr-hestia",
+        "type": "父亲",
+        "note": "奥林匹斯上一代谱系",
+        "source": "gr-theogony",
+        "from": "gr-cronus"
+      },
+      {
+        "to": "gr-hera",
+        "type": "配偶",
+        "note": "神王与神后",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-athena",
+        "type": "父亲",
+        "note": "墨提斯与头部诞生叙事",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-apollo",
+        "type": "父亲",
+        "note": "母亲为勒托",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-artemis",
+        "type": "父亲",
+        "note": "母亲为勒托",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-artemis",
+        "type": "孪生",
+        "note": "勒托的子女",
+        "source": "gr-theogony",
+        "from": "gr-apollo"
+      },
+      {
+        "to": "gr-ares",
+        "type": "父亲",
+        "note": "母亲为赫拉",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-hermes",
+        "type": "父亲",
+        "note": "母亲为迈亚",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-dionysus",
+        "type": "父亲",
+        "note": "本区主线为塞墨勒之子",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-persephone",
+        "type": "父亲",
+        "note": "德墨忒尔之女",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-persephone",
+        "type": "母亲",
+        "note": "《致德墨忒尔》主线",
+        "source": "gr-theogony",
+        "from": "gr-demeter"
+      },
+      {
+        "to": "gr-persephone",
+        "type": "劫夺与婚姻",
+        "note": "需保留原典的强制语境",
+        "source": "gr-epitome",
+        "from": "gr-hades"
+      },
+      {
+        "to": "gr-heracles",
+        "type": "父亲",
+        "note": "母亲阿尔克墨涅",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-perseus",
+        "type": "父亲",
+        "note": "母亲达娜厄",
+        "source": "gr-theogony",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-aeneas",
+        "type": "母亲",
+        "note": "父亲安喀塞斯",
+        "source": "gr-theogony",
+        "from": "gr-aphrodite"
+      },
+      {
+        "to": "gr-ares",
+        "type": "情人",
+        "note": "史诗与后世图像传统",
+        "source": "gr-epitome",
+        "from": "gr-aphrodite"
+      },
+      {
+        "to": "gr-hephaestus",
+        "type": "婚姻",
+        "note": "并非所有文本都采用同一配偶",
+        "source": "gr-epitome",
+        "from": "gr-aphrodite"
+      },
+      {
+        "to": "gr-zeus",
+        "type": "对抗",
+        "note": "祭肉欺骗与盗火",
+        "source": "gr-library1",
+        "from": "gr-prometheus"
+      },
+      {
+        "to": "gr-prometheus",
+        "type": "解救",
+        "note": "杀死啄肝之鹰",
+        "source": "gr-library2",
+        "from": "gr-heracles"
+      },
+      {
+        "to": "gr-heracles",
+        "type": "交换负担",
+        "note": "获取金苹果功业",
+        "source": "gr-library2",
+        "from": "gr-atlas"
+      },
+      {
+        "to": "gr-cerberus",
+        "type": "捕获",
+        "note": "最后功业",
+        "source": "gr-library2",
+        "from": "gr-heracles"
+      },
+      {
+        "to": "gr-medusa",
+        "type": "斩首",
+        "note": "借助神赐器物",
+        "source": "gr-library2",
+        "from": "gr-perseus"
+      },
+      {
+        "to": "gr-pegasus",
+        "type": "诞生关联",
+        "note": "斩首时飞马出现",
+        "source": "gr-library2",
+        "from": "gr-medusa"
+      },
+      {
+        "to": "gr-minotaur",
+        "type": "杀死",
+        "note": "阿里阿德涅帮助进入并离开迷宫",
+        "source": "gr-epitome",
+        "from": "gr-theseus"
+      },
+      {
+        "to": "gr-medea",
+        "type": "协作与婚姻",
+        "note": "帮助取得金羊毛，后遭背弃",
+        "source": "gr-library1",
+        "from": "gr-jason"
+      },
+      {
+        "to": "gr-agamemnon",
+        "type": "荣誉冲突",
+        "note": "《伊利亚特》开端",
+        "source": "gr-epitome",
+        "from": "gr-achilles"
+      },
+      {
+        "to": "gr-hector",
+        "type": "杀死",
+        "note": "为帕特罗克洛斯报仇",
+        "source": "gr-epitome",
+        "from": "gr-achilles"
+      },
+      {
+        "to": "gr-helen",
+        "type": "婚姻与战争缘起",
+        "note": "版本中的自愿与强制程度不同",
+        "source": "gr-epitome",
+        "from": "gr-paris"
+      },
+      {
+        "to": "gr-aphrodite",
+        "type": "裁决与奖赏",
+        "note": "女神比美前史",
+        "source": "gr-epitome",
+        "from": "gr-paris"
+      },
+      {
+        "to": "gr-penelope",
+        "type": "配偶",
+        "note": "归乡与辨认",
+        "source": "gr-theogony",
+        "from": "gr-odysseus"
+      },
+      {
+        "to": "gr-odysseus",
+        "type": "保护",
+        "note": "指导谋略与返乡",
+        "source": "gr-odyssey",
+        "from": "gr-athena"
+      },
+      {
+        "to": "gr-odysseus",
+        "type": "敌对",
+        "note": "为波吕斐摩斯受伤追责",
+        "source": "gr-odyssey",
+        "from": "gr-poseidon"
+      },
+      {
+        "to": "gr-polyphemus",
+        "type": "父亲",
+        "note": "《奥德赛》谱系",
+        "source": "gr-theogony",
+        "from": "gr-poseidon"
+      },
+      {
+        "to": "gr-polyphemus",
+        "type": "刺瞎",
+        "note": "逃离洞穴",
+        "source": "gr-odyssey",
+        "from": "gr-odysseus"
+      },
+      {
+        "to": "gr-sirens",
+        "type": "抵抗诱惑",
+        "note": "桅杆束缚与船员封耳",
+        "source": "gr-odyssey",
+        "from": "gr-odysseus"
+      },
+      {
+        "to": "gr-dido",
+        "type": "情感与离别",
+        "note": "《埃涅阿斯纪》文学叙事",
+        "source": "gr-aeneid",
+        "from": "gr-aeneas"
+      },
+      {
+        "to": "gr-romulus",
+        "type": "远祖",
+        "note": "后世罗马祖系连接",
+        "source": "gr-aeneid",
+        "from": "gr-aeneas"
+      },
+      {
+        "to": "gr-typhon",
+        "type": "击败",
+        "note": "新统治的最后威胁",
+        "source": "gr-library1",
+        "from": "gr-zeus"
+      },
+      {
+        "to": "gr-demeter",
+        "type": "提供信息",
+        "note": "告诉女儿遭夺之事",
+        "source": "gr-epitome",
+        "from": "gr-helios"
+      },
+      {
+        "to": "gr-persephone",
+        "type": "相伴",
+        "note": "《致德墨忒尔》结尾",
+        "source": "gr-epitome",
+        "from": "gr-hekate"
+      }
+    ],
+    "events": [
+      {
+        "id": "gr-event-succession",
+        "title": "三代神权与泰坦之战",
+        "tier": 1,
+        "era": "宇宙早期",
+        "summary": "宙斯取代克洛诺斯并重建荣誉分配。",
+        "detail": "不要把泰坦神族整体等同反派：有的协助宙斯。独眼神匠、百臂巨人及母神的帮助显示胜利来自结盟，而不只是最强者单打独斗。",
+        "actors": [
+          "gr-gaia",
+          "gr-uranus",
+          "gr-cronus",
+          "gr-rhea",
+          "gr-zeus"
+        ],
+        "source": "gr-theogony"
+      },
+      {
+        "id": "gr-event-fire",
+        "title": "祭肉分配、盗火与潘多拉",
+        "tier": 1,
+        "era": "神与人分界的神话时间",
+        "summary": "人的文明能力与灾苦一起被解释。",
+        "detail": "普罗米修斯的欺骗、宙斯的惩罚和人类生活条件互相关联。赫西俄德及后世悲剧对恩惠与过错的评价不同，适合做文本立场对读。",
+        "actors": [
+          "gr-prometheus",
+          "gr-zeus",
+          "gr-pandora"
+        ],
+        "source": "gr-works"
+      },
+      {
+        "id": "gr-event-persephone",
+        "title": "珀耳塞福涅被夺与季节性归返",
+        "tier": 1,
+        "era": "神话时间／厄琉息斯起源",
+        "summary": "德墨忒尔以大地不产来要求女儿回归。",
+        "detail": "《颂歌》中女儿一年三分之一留在地下，其余返回；其他版本分配不同。故事同时涉及母女、婚姻、粮食与秘仪，不能只缩成四季科普。",
+        "actors": [
+          "gr-demeter",
+          "gr-persephone",
+          "gr-hades",
+          "gr-helios",
+          "gr-hekate"
+        ],
+        "source": "gr-hymn"
+      },
+      {
+        "id": "gr-event-flood",
+        "title": "丢卡利翁与皮拉洪水",
+        "tier": 2,
+        "era": "人类世代更替",
+        "summary": "一对幸存者在灾后以石头重建人群。",
+        "detail": "把石块解释为“大地母亲的骨头”使隐语转化为新的生命。与近东、希伯来洪水叙事可比较，传播关系则需要额外语言和历史证据。",
+        "actors": [
+          "gr-zeus",
+          "gr-prometheus"
+        ],
+        "source": "gr-library1"
+      },
+      {
+        "id": "gr-event-perseus",
+        "title": "珀耳修斯斩美杜莎",
+        "tier": 2,
+        "era": "英雄时代",
+        "summary": "危险凝视被镜面、器物与谋略克服。",
+        "detail": "怪物头颅随后成为有保护性的标记，显示同一可怖力量可被转用。后世关于美杜莎受害身世的版本应与早期怪物谱系分别阅读。",
+        "actors": [
+          "gr-perseus",
+          "gr-medusa",
+          "gr-athena",
+          "gr-pegasus"
+        ],
+        "source": "gr-library2"
+      },
+      {
+        "id": "gr-event-labours",
+        "title": "赫拉克勒斯十二功业",
+        "tier": 1,
+        "era": "英雄时代",
+        "summary": "服役与极端任务把英雄推向世界边缘。",
+        "detail": "从涅墨亚狮、九头蛇、刻律涅牝鹿、厄律曼托斯野猪，到奥革阿斯牛圈、斯廷法洛斯鸟、克里特牛、狄俄墨得斯马、希波吕忒腰带、革律翁牛群、金苹果与刻耳柏洛斯，文本顺序可有差异。",
+        "actors": [
+          "gr-heracles",
+          "gr-hera",
+          "gr-atlas",
+          "gr-cerberus"
+        ],
+        "source": "gr-library2"
+      },
+      {
+        "id": "gr-event-argos",
+        "title": "阿尔戈船与金羊毛",
+        "tier": 2,
+        "era": "特洛伊战争之前的英雄世代",
+        "summary": "多地英雄汇聚为一场远航。",
+        "detail": "伊阿宋面对难题，美狄亚的帮助成为成功条件；返乡后承诺与背叛继续产生后果。航行地图可视为故事空间，不能直接当作一次可证实的古代航海日志。",
+        "actors": [
+          "gr-jason",
+          "gr-medea",
+          "gr-heracles"
+        ],
+        "source": "gr-library1"
+      },
+      {
+        "id": "gr-event-labyrinth",
+        "title": "克里特迷宫与米诺陶洛斯",
+        "tier": 2,
+        "era": "英雄时代",
+        "summary": "雅典的贡奉危机由忒修斯行动解除。",
+        "detail": "胜利依赖阿里阿德涅提供的线索和帮助，返程与弃置故事又破坏简单英雄叙事。克里特宫殿考古可作背景比较，不能证明怪物真实存在。",
+        "actors": [
+          "gr-theseus",
+          "gr-minotaur"
+        ],
+        "source": "gr-epitome"
+      },
+      {
+        "id": "gr-event-trojan",
+        "title": "特洛伊战争",
+        "tier": 1,
+        "era": "神话中的英雄时代",
+        "summary": "神间选择、王室婚姻与英雄荣誉引发漫长战争。",
+        "detail": "《伊利亚特》只写战争末期一段，止于赫克托尔葬礼；木马、阿喀琉斯之死和毁城等主要来自其他史诗传统及后世叙述。将不同作品分层比一条无来源年表更有学习价值。",
+        "actors": [
+          "gr-helen",
+          "gr-paris",
+          "gr-agamemnon",
+          "gr-achilles",
+          "gr-hector",
+          "gr-odysseus"
+        ],
+        "source": "gr-iliad"
+      },
+      {
+        "id": "gr-event-return",
+        "title": "奥德修斯归乡",
+        "tier": 1,
+        "era": "特洛伊战争之后",
+        "summary": "归返必须重新取得名字、家庭和政治位置。",
+        "detail": "独眼巨人、喀耳刻、亡者、塞壬和卡吕普索等段落测试自制、待客与记忆。伊萨卡的求婚者冲突并非旅行结束后的附录，而是归乡是否完成的核心。",
+        "actors": [
+          "gr-odysseus",
+          "gr-penelope",
+          "gr-athena",
+          "gr-poseidon",
+          "gr-polyphemus",
+          "gr-sirens"
+        ],
+        "source": "gr-odyssey"
+      },
+      {
+        "id": "gr-event-aeneas",
+        "title": "埃涅阿斯离开特洛伊与狄多",
+        "tier": 1,
+        "era": "罗马祖先的传说时间",
+        "summary": "私人愿望与未来共同体使命产生冲突。",
+        "detail": "英雄背父携子出逃，后来离开迦太基女王前往意大利。维吉尔让建国使命和被抛下者的痛苦同时可见，历史背景是奥古斯都时代，而非作者亲历的青铜时代。",
+        "actors": [
+          "gr-aeneas",
+          "gr-dido",
+          "gr-aphrodite"
+        ],
+        "source": "gr-aeneid"
+      },
+      {
+        "id": "gr-event-underworld",
+        "title": "埃涅阿斯下冥府",
+        "tier": 2,
+        "era": "《埃涅阿斯纪》第六卷",
+        "summary": "亡父展示未来罗马的队列。",
+        "detail": "冥界旅行为个人祖系提供国家历史的远景。这里的灵魂归宿、净化和再生安排与荷马《奥德赛》第十一卷不同，适合并排比较。",
+        "actors": [
+          "gr-aeneas",
+          "gr-hades"
+        ],
+        "source": "gr-aeneid"
+      }
+    ],
+    "sources": [
+      {
+        "id": "gr-theogony",
+        "title": "《神谱》",
+        "author": "赫西俄德；Evelyn-White 译，1914",
+        "kind": "原典",
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html",
+        "note": "神族起源与宙斯统治；注意与荷马的异文。"
+      },
+      {
+        "id": "gr-library1",
+        "title": "《书库》卷一",
+        "author": "伪阿波罗多洛斯；Frazer 译，1921",
+        "kind": "原典",
+        "url": "https://www.theoi.com/Text/Apollodorus1.html",
+        "note": "神谱、巨人战争、洪水、阿尔戈英雄；较晚汇编。"
+      },
+      {
+        "id": "gr-library2",
+        "title": "《书库》卷二",
+        "author": "伪阿波罗多洛斯；Frazer 译，1921",
+        "kind": "原典",
+        "url": "https://www.theoi.com/Text/Apollodorus2.html",
+        "note": "珀耳修斯与赫拉克勒斯及十二功业。"
+      },
+      {
+        "id": "gr-library3",
+        "title": "《书库》卷三",
+        "author": "伪阿波罗多洛斯；Frazer 译，1921",
+        "kind": "原典",
+        "url": "https://www.theoi.com/Text/Apollodorus3.html",
+        "note": "忒拜、克里特、特洛伊与英雄家族。"
+      },
+      {
+        "id": "gr-epitome",
+        "title": "《书库》摘要",
+        "author": "伪阿波罗多洛斯；Frazer 译，1921",
+        "kind": "原典",
+        "url": "https://www.theoi.com/Text/ApollodorusE.html",
+        "note": "忒修斯、特洛伊战争与归返；适合检查人物事件的联结。"
+      },
+      {
+        "id": "gr-hymn",
+        "title": "《荷马颂歌》1—3",
+        "author": "匿名；Evelyn-White 译，1914",
+        "kind": "原典",
+        "url": "https://www.theoi.com/Text/HomericHymns1.html",
+        "note": "尤其第二首《致德墨忒尔》；母女分离与厄琉息斯。"
+      },
+      {
+        "id": "gr-odyssey",
+        "title": "《奥德赛》",
+        "author": "荷马；Samuel Butler 译，1900",
+        "kind": "原典",
+        "url": "https://www.gutenberg.org/ebooks/1727",
+        "note": "归乡、待客、身份辨认与亡者世界。"
+      },
+      {
+        "id": "gr-iliad",
+        "title": "《伊利亚特》",
+        "author": "荷马；Samuel Butler 译，1898",
+        "kind": "原典",
+        "url": "https://www.gutenberg.org/ebooks/2199",
+        "note": "阿喀琉斯之怒；叙事止于赫克托尔葬礼，并不写木马攻城。"
+      },
+      {
+        "id": "gr-aeneid",
+        "title": "《埃涅阿斯纪》",
+        "author": "维吉尔；John Dryden 译，1697",
+        "kind": "原典",
+        "url": "https://www.gutenberg.org/ebooks/228",
+        "note": "罗马使命、特洛伊流亡者、狄多与意大利战争。"
+      },
+      {
+        "id": "gr-practice",
+        "title": "Greek Gods and Religious Practices",
+        "author": "大都会艺术博物馆",
+        "kind": "博物馆",
+        "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "note": "神庙、祭祀、城邦、神像属性与馆藏图像。"
+      },
+      {
+        "id": "gr-works",
+        "title": "《工作与时日》",
+        "author": "赫西俄德；Evelyn-White 译，1914",
+        "kind": "原典",
+        "url": "https://www.theoi.com/Text/HesiodWorksDays.html",
+        "note": "潘多拉与罐、人类五世代、正义与劳作。"
+      },
+      {
+        "id": "gr-fasti",
+        "title": "《岁时记》第一卷",
+        "author": "奥维德；Frazer 译，1931",
+        "kind": "原典",
+        "url": "https://www.theoi.com/Text/OvidFasti1.html",
+        "note": "雅努斯、一月和罗马仪式的诗性解释；可由目录继续其他月份。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Verily at the first Chaos came to be,",
+        "source": "gr-theogony",
+        "locator": "《神谱》116行，Evelyn-White 旧译",
+        "note": "意为“最先，卡俄斯出现了”。此处不是说所有后来之物都由混乱物质直接制成。"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/248902/541985/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/248902",
+        "title": "泛雅典娜竞技奖赏双耳瓶：雅典娜",
+        "credit": "大都会艺术博物馆；Euphiletos Painter，约前530年",
+        "license": "Public Domain（作品页已核对）",
+        "caption": "武装雅典娜与城邦竞赛相连。它呈现古代祭仪和奖赏制度，不是现代影视角色设计。",
+        "local": "assets/images/c63c5b792d3d408b.jpg"
+      }
+    ],
+    "reading": [
+      {
+        "title": "不要一次读完整场战争",
+        "text": "先读《伊利亚特》第一、六、二十二、二十四卷，再用《书库》摘要补战争前史与后续；记录每段来自哪里。"
+      },
+      {
+        "title": "用两次冥界旅行作对照",
+        "text": "比较《奥德赛》十一卷与《埃涅阿斯纪》六卷：死者如何存在？英雄为何进入？叙事怎样服务家庭或国家？"
+      }
+    ],
+    "cautions": [
+      "阿波罗不应在所有时代都与赫利俄斯完全等同，阿尔忒弥斯也不总等同塞勒涅。",
+      "克洛诺斯（Kronos）与时间神克罗诺斯（Chronos）本来不是同一名字；后世混同另有历史。",
+      "罗马诸神与希腊对应只是入口；玛尔斯、维斯塔、雅努斯等仍需要本土祭仪语境。",
+      "本区用主线与版本提示覆盖人物网络，无法穷尽地方异说、全部悲剧人物或后期秘教谱系。"
+    ]
+  },
+  {
+    "id": "hebrew",
+    "name": "希伯来与亚伯拉罕传统",
+    "en": "HEBREW & ABRAHAMIC",
+    "region": "黎凡特；向地中海与阿拉伯扩展",
+    "coords": [
+      35,
+      32
+    ],
+    "color": "#a8bda5",
+    "depth": 3,
+    "tagline": "创世、立约、流亡与希望",
+    "period": "希伯来圣经文本跨越多个时代；基督教新约主要为公元1世纪；《古兰经》属7世纪阿拉伯语启示传统",
+    "summary": "以希伯来圣经为主轴，本区学习创造、人与神的关系、立约、出埃及、王国兴亡和先知异象；再分别比较基督教与伊斯兰的承接和分歧。“神话”在这里是研究神圣叙事的用语，不等于判定现存宗教信仰虚假。犹太教、基督教、伊斯兰各有经典、解释共同体和历史，天使与恶魔也不能像奥林匹斯神谱那样合并成一套稳定诸神名单。中世纪文学与近代魔法书另作扩展层。",
+    "worldview": [
+      {
+        "title": "创造者与受造物",
+        "text": "《创世记》把世界置于神的言说、区分、命名与祝福之中。1章与2—3章在结构和关注点上不同，不宜强拼为摄影式日程。“从无创造”是重要后世神学表述，不能假设古希伯来每一处水、渊和创造意象都已用同一种哲学定义。",
+        "source": "hb-genesis"
+      },
+      {
+        "title": "立约组织共同体",
+        "text": "诺亚、亚伯拉罕、西奈和大卫传统各自涉及不同承诺、对象与责任；“约”不是简单交换利益。族群身份、法律、土地、记忆与伦理因之互相连接。不同宗教对约的持续性与实现方式有各自解释。",
+        "source": "hb-covenant"
+      },
+      {
+        "title": "人的有限与伦理责任",
+        "text": "尘土、气息、生命树与智慧树的叙事讨论边界、劳动、痛苦和死亡。神圣叙事并不总奖善惩恶得整齐：《约伯记》反驳把一切苦难都归罪于受苦者的简易解释。",
+        "source": "hb-bible"
+      },
+      {
+        "title": "天庭、使者与异象",
+        "text": "基路伯、撒拉弗与天使承担不同文本功能；米迦勒、加百列在较晚书卷中获得名字。后世九级天使体系、七大天使名单与所罗门魔法书属于不同接受史层次，不能从任何一卷经书直接读出全部。",
+        "source": "hb-bible"
+      },
+      {
+        "title": "末世观有历史层次",
+        "text": "《但以理书》以帝国兽象、审判和复活谈苦难中的希望；基督教《启示录》以羔羊、新耶路撒冷与新创造重述。希伯来圣经对死后世界并非始终只有同一图景，犹太教也不能用基督教末世时间表代替。",
+        "source": "hb-revelation"
+      },
+      {
+        "title": "三种传统的关键分岔",
+        "text": "犹太教不把耶稣视为神圣弥赛亚；基督教以耶稣为基督，并在主流传统中形成三位一体教义；伊斯兰尊耶稣为使者且否定三位一体。共同人物提供比较入口，但差异不能被“同一故事换名字”抹平。",
+        "source": "hb-quran"
+      }
+    ],
+    "history": [
+      {
+        "title": "古代近东的共同语境",
+        "text": "洪水、园林、神圣山与混沌海兽可与美索不达米亚及黎凡特文本比较。共同母题提示交流环境；具体文学依赖需要年代、措辞与传播路径证据，不能仅凭相像宣布抄袭。",
+        "source": "hb-genesis"
+      },
+      {
+        "title": "王国、帝国与流亡",
+        "text": "以色列和犹大的历史受到亚述、巴比伦、波斯等帝国影响。耶路撒冷和第一圣殿在前587/586年前后被毁、部分人口被迁徙，成为解释惩戒、记忆和归回希望的重要背景；并非所有人都被带走。",
+        "source": "hb-exile"
+      },
+      {
+        "title": "第二圣殿时期的多样性",
+        "text": "死海古卷保留经书、解释、规则及其他作品，说明当时犹太思想和文本并非只有一种形态。古卷是具体时代的抄本证据，不能由发现抄本推断其中每一神迹都已获历史验证。",
+        "source": "hb-scrolls"
+      },
+      {
+        "title": "节日把故事带进现实",
+        "text": "逾越节重述出埃及，安息日与创造和解放记忆相连；基督教复活节、圣诞节，以及伊斯兰节庆各有不同经典解释。活的仪式不是古代故事的静态残余，而是在家庭和共同体中持续实践。",
+        "source": "hb-exodus"
+      },
+      {
+        "title": "艺术与文学是解释史",
+        "text": "但丁、弥尔顿、教堂壁画和现代影视塑造了熟悉的天堂、地狱与魔鬼形象。它们可以是重要文化史资料，却不应倒过来冒充《创世记》的完整背景设定。",
+        "source": "hb-milton"
+      },
+      {
+        "title": "地域不是现代政治凭证",
+        "text": "地图点位代表文本与历史传统的重要区域，不表示现代国家边界或排他归属。阅读古代土地承诺与流亡叙事时，应避免直接把神圣文本当作当代政治问题的唯一证据。",
+        "source": "hb-covenant"
+      }
+    ],
+    "entities": [
+      {
+        "id": "hb-god",
+        "name": "上帝／耶和华",
+        "alias": "YHWH / God",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "创造／立约／公义",
+        "summary": "希伯来圣经的神，四字神名通常以尊称代读。",
+        "detail": "神在不同书卷中以创造、拯救、审判、怜悯和隐蔽等方式被理解；其形象与称谓不能等同于一位拥有父母配偶的多神神祇。“耶和华”是特定转写历史的产物，犹太传统通常读作“主”或使用尊称。基督教与伊斯兰的神学解释应分别标注。",
+        "sources": [
+          "hb-genesis",
+          "hb-exodus"
+        ]
+      },
+      {
+        "id": "hb-adam",
+        "name": "亚当",
+        "alias": "Adam",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "尘土／人类／边界",
+        "summary": "伊甸园叙事中的人类始祖。",
+        "detail": "亚当与土地的语言关联强调人的受造性和劳动处境；在第一创世叙事中“人”又可涵盖整个人类。后世犹太、基督教与伊斯兰对其过失后果的解释不同，不能把基督教某一原罪理论自动归给全部传统。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-eve",
+        "name": "夏娃",
+        "alias": "Eve / Hawwah",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "生命／关系／选择",
+        "summary": "与亚当共同构成伊甸园叙事。",
+        "detail": "她与蛇的对话、取食和给亚当食物常被后世性别观反复解释。原文未称果实为苹果，也没有在《创世记》3章直接把蛇命名为撒旦；这些熟悉关联有自己的接受史。她的形象不应成为贬低现实女性的依据。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-serpent",
+        "name": "伊甸园之蛇",
+        "alias": "Serpent",
+        "kind": "动物／象征",
+        "tier": 2,
+        "domain": "试探／知识边界",
+        "summary": "《创世记》3章中与女人对话的动物。",
+        "detail": "在这一章它被描写为狡猾，故事自身没有提供一部天堂叛乱前传。基督教后世及《启示录》的古蛇与撒旦联系可另作对照，而非删去原文本的叙事区别。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-cain",
+        "name": "该隐",
+        "alias": "Cain",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "手足暴力／流离",
+        "summary": "杀死兄弟亚伯的耕作者。",
+        "detail": "献祭不获悦纳后，他在愤怒中杀人，随后被判流离但又获得保护标记。故事把责任、报复限制与文明起源放在一起，而非只是一条简单恶人标签。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-abel",
+        "name": "亚伯",
+        "alias": "Abel",
+        "kind": "人物",
+        "tier": 3,
+        "domain": "受害／牧养",
+        "summary": "该隐之弟，牧羊者。",
+        "detail": "他的死亡使土地与血的呼声进入叙事，并使“兄弟的看守者”成为伦理问题。后世把他作为义人典范，但《创世记》给出的个人言语极少。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-noah",
+        "name": "诺亚",
+        "alias": "Noah / Nuh",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "洪水／新起点／约",
+        "summary": "方舟幸存者及洪水后立约的对象。",
+        "detail": "洪水前的暴力引出灾难，幸存者、动物与彩虹又指向对生命的承诺。各动物数目等细节可观察文本的复合性；不同传统的诺亚故事还有变化。它可与吉尔伽美什洪水对照，但不必强行裁定为同一场可考灾害。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-abraham",
+        "name": "亚伯拉罕",
+        "alias": "Abraham / Ibrahim",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "蒙召／应许／信任",
+        "summary": "三大亚伯拉罕传统共同尊重的族长。",
+        "detail": "迁徙、土地与后裔应许、与神辩论、献子试验构成主要叙事。他在各传统中并不承担完全相同的神学意义；《创世记》献子明确为以撒，而《古兰经》相关段落未直接写出儿子姓名，后世解释需另标。",
+        "sources": [
+          "hb-covenant"
+        ]
+      },
+      {
+        "id": "hb-sarah",
+        "name": "撒拉",
+        "alias": "Sarah",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "应许／母亲",
+        "summary": "亚伯拉罕的妻子、以撒之母。",
+        "detail": "高龄生子与她的笑声连接不可能的应许；她与夏甲的冲突又显示家族叙事的权力与痛苦。不要用后世群体对立去简化经文中复杂的人际处境。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-hagar",
+        "name": "夏甲",
+        "alias": "Hagar",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "旷野／受苦者被看见",
+        "summary": "以实玛利之母，被迫离开家庭。",
+        "detail": "她在旷野得到神的看顾与应许，和撒拉家族的张力并未取消她的主体性。伊斯兰后世传统又将她与麦加相关仪式连接，应与《创世记》文本区分说明。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-isaac",
+        "name": "以撒",
+        "alias": "Isaac / Ishaq",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "应许继承／献子",
+        "summary": "亚伯拉罕与撒拉之子。",
+        "detail": "被献于山上的试验最终由替代祭牲结束；成年后又成为雅各与以扫家族冲突的中心人物。叙事的神学和伦理解读众多，不宜把献子故事概括成现实伤害儿童的许可。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-ishmael",
+        "name": "以实玛利",
+        "alias": "Ishmael / Ismail",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "旁支应许／旷野",
+        "summary": "亚伯拉罕与夏甲之子。",
+        "detail": "《创世记》给予他自己的生存与后裔应许；伊斯兰传统给予他更显著的先知与圣地关联角色。共同人物不是同一部传记，不同文本应并列阅读。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-jacob",
+        "name": "雅各／以色列",
+        "alias": "Jacob / Israel",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "改名／家族／争夺",
+        "summary": "其十二子构成以色列支派祖系叙事。",
+        "detail": "出生竞争、祝福争夺、梦见天梯、与神秘存在摔跤和改名形成充满张力的生平。人物并不总按道德模范书写；欺骗与被欺骗相互映照，使恩典、责任及家族和解成为阅读重点。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-esau",
+        "name": "以扫",
+        "alias": "Esau",
+        "kind": "人物",
+        "tier": 3,
+        "domain": "长子权／兄弟关系",
+        "summary": "雅各的孪生哥哥。",
+        "detail": "长子权和父亲祝福的争夺使两兄弟分离，后来相见又包含出乎预期的和解。族长故事同时解释后世群体祖系，不能直接套成对现实民族的评价。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-joseph",
+        "name": "约瑟（族长）",
+        "alias": "Joseph",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "梦／流亡／和解",
+        "summary": "被兄长卖往埃及、后来拯救家人的雅各之子。",
+        "detail": "梦的解释、监禁、饥荒与政治管理让私人家族故事进入埃及舞台。与兄长重逢后，他重新解释受害经历，但并不抹去他们的责任。这里的约瑟须与新约马利亚的丈夫同名者区分。",
+        "sources": [
+          "hb-genesis"
+        ]
+      },
+      {
+        "id": "hb-moses",
+        "name": "摩西",
+        "alias": "Moses / Musa",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "解放／律法／中介",
+        "summary": "出埃及与西奈立约的核心人物。",
+        "detail": "从河边婴儿到蒙召者，摩西不断在神、法老与百姓之间调停。他并非无所不知的王者，也会犹疑、愤怒和受限制。出埃及规模、路线与具体法老身份仍属研究争议，不能从故事直接推出确切历史年表。",
+        "sources": [
+          "hb-exodus"
+        ]
+      },
+      {
+        "id": "hb-aaron",
+        "name": "亚伦",
+        "alias": "Aaron / Harun",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "祭司／代言",
+        "summary": "摩西之兄及重要祭司祖先。",
+        "detail": "亚伦协助与法老交涉，却也参与金牛犊危机。祭司身份与叙事中的过失并存，说明经典常会保留共同体核心人物的复杂性。",
+        "sources": [
+          "hb-exodus"
+        ]
+      },
+      {
+        "id": "hb-miriam",
+        "name": "米利暗",
+        "alias": "Miriam",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "先知／歌唱／群体",
+        "summary": "摩西、亚伦之姊，领妇女歌唱。",
+        "detail": "过海后的歌颂使她在共同体记忆中占重要位置；另有与摩西权威冲突的叙事。不同章节展示女性领导力及对权威的争辩。",
+        "sources": [
+          "hb-exodus"
+        ]
+      },
+      {
+        "id": "hb-pharaoh",
+        "name": "出埃及叙事中的法老",
+        "alias": "Pharaoh",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "压迫／王权抗争",
+        "summary": "《出埃及记》没有给出的专名统治者。",
+        "detail": "法老的顽梗和灾难构成故事推进机制。现代常以拉美西斯二世等人代入，属于有争议的历史假说或影视选择，网站应保留匿名文本事实。",
+        "sources": [
+          "hb-exodus"
+        ]
+      },
+      {
+        "id": "hb-joshua",
+        "name": "约书亚",
+        "alias": "Joshua",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "继承／进入土地",
+        "summary": "摩西之后的领袖。",
+        "detail": "渡河与征服故事使他承担共同体进入应许之地的叙事角色。考古材料与经书征服图景之间关系复杂，不能把所有战役细节当作已证实的编年史。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-samuel",
+        "name": "撒母耳",
+        "alias": "Samuel",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "先知／王权建立",
+        "summary": "位于士师传统与君主制之间的关键人物。",
+        "detail": "他膏立扫罗和大卫，同时警告王权对百姓的索取。《撒母耳记》保留支持与怀疑君主制的声音，适合学习经典内部的政治张力。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-saul",
+        "name": "扫罗",
+        "alias": "Saul",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "王权／失落",
+        "summary": "以色列第一位王的叙事形象。",
+        "detail": "被拣选、违命、与大卫冲突和最终战死构成悲剧轨迹。文本中的政治合法性评价不等同现代临床诊断，避免把人物简化为一种病名。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-david",
+        "name": "大卫",
+        "alias": "David / Dawud",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "王权／诗歌／过失",
+        "summary": "从牧者成为国王，也是后世弥赛亚希望的重要祖系。",
+        "detail": "战胜歌利亚、逃避扫罗、建立王权之外，拔示巴与乌利亚事件揭露他的滥权；先知拿单的责备表明国王也在伦理审判之下。传统诗篇归属与现代作者研究是不同问题，应分别陈述。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-solomon",
+        "name": "所罗门",
+        "alias": "Solomon / Sulayman",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "智慧／圣殿／后世魔法传统",
+        "summary": "大卫之子，以智慧审判和建殿著称。",
+        "detail": "《列王纪》同时叙述奢华、劳役与晚年信仰问题，王国繁荣并非无代价。后世所罗门使役精灵、封印恶魔的故事形成多条传统；七十二魔神体系主要属于近代魔法书编纂，不能当作圣经人物原本的完整能力表。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-elijah",
+        "name": "以利亚",
+        "alias": "Elijah / Ilyas",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "先知／争辩／升天",
+        "summary": "以对巴力崇拜的挑战和旋风升天著名。",
+        "detail": "迦密山的冲突、旷野软弱和传职以利沙构成多面人物。其回归期待影响后世传统，不能将所有以利亚故事混作同一次历史记录。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-job",
+        "name": "约伯",
+        "alias": "Job / Ayyub",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "苦难／智慧／质问",
+        "summary": "义人受难使简单报应理论受到挑战。",
+        "detail": "朋友坚持苦难必源于罪，约伯则拒绝承认不存在的过错。天庭序幕中的“控告者”与后世独立邪恶君王并不完全一样。全书以诗性争辩与神的回应探问人的知识限度，并未给出机械的万能苦难公式。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-daniel",
+        "name": "但以理",
+        "alias": "Daniel",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "异象／帝国／忠诚",
+        "summary": "宫廷故事和启示异象中的智慧人物。",
+        "detail": "狮子坑等故事与四兽、审判和复活异象相接。学术研究通常区分故事设定的巴比伦时代与书卷最终形态的较晚历史环境；二者不宜直接画成同一时间。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-michael",
+        "name": "米迦勒",
+        "alias": "Michael / Mikail",
+        "kind": "天使",
+        "tier": 2,
+        "domain": "保护／天上争战",
+        "summary": "《但以理书》与《启示录》中的具名天使。",
+        "detail": "前者与以色列的保护者相关，后者参与与龙的争战。不同宗教赋予的角色和天使等级不同；不存在跨犹太、基督教和伊斯兰完全相同的七大天使标准名单。",
+        "sources": [
+          "hb-bible",
+          "hb-revelation"
+        ]
+      },
+      {
+        "id": "hb-gabriel",
+        "name": "加百列",
+        "alias": "Gabriel / Jibril",
+        "kind": "天使",
+        "tier": 2,
+        "domain": "解释异象／传达启示",
+        "summary": "在但以理书及路加福音中传递神的信息。",
+        "detail": "在伊斯兰传统中吉卜利勒与启示传达尤其紧密相连。读图时可对照报喜画中的百合等后世艺术象征，但这些不是每一段经文都明确规定的属性。",
+        "sources": [
+          "hb-luke",
+          "hb-quran"
+        ]
+      },
+      {
+        "id": "hb-cherubim",
+        "name": "基路伯",
+        "alias": "Cherubim",
+        "kind": "天使类存在",
+        "tier": 3,
+        "domain": "圣所／边界／神临在",
+        "summary": "守卫伊甸、约柜与异象中的神圣存在。",
+        "detail": "基路伯不等同文艺复兴常见的胖婴儿爱神图像。《以西结书》等的复合形态与圣所图像各有语境，应据具体书卷解读。",
+        "sources": [
+          "hb-genesis",
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-seraphim",
+        "name": "撒拉弗",
+        "alias": "Seraphim",
+        "kind": "天使类存在",
+        "tier": 3,
+        "domain": "圣洁／异象",
+        "summary": "以赛亚异象中六翼的存在。",
+        "detail": "在《以赛亚书》6章围绕神的圣洁呼喊，并用炭触净先知嘴唇。后世天使阶层学把它安排最高等级，属于解释史发展。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-satan",
+        "name": "撒旦／控告者",
+        "alias": "Satan / ha-satan",
+        "kind": "灵体／解释史",
+        "tier": 1,
+        "domain": "控告／试探／敌对",
+        "summary": "跨文本变化显著，不能套用一个固定生平。",
+        "detail": "《约伯记》的控告者在神的天庭中活动；新约与后世基督教中敌对和邪恶首领特征更鲜明。伊甸之蛇、以赛亚晨星、启示录的龙及弥尔顿反叛者经历了长久的解释连接，网站用关系说明而不是合并为无年代的人物传。",
+        "sources": [
+          "hb-bible",
+          "hb-revelation",
+          "hb-milton"
+        ]
+      },
+      {
+        "id": "hb-leviathan",
+        "name": "利维坦",
+        "alias": "Leviathan",
+        "kind": "异兽／象征",
+        "tier": 2,
+        "domain": "海兽／混沌／神的力量",
+        "summary": "诗篇、约伯记及以赛亚书中的海兽意象。",
+        "detail": "不同书卷可将其写成神所胜过的敌手、受造游戏者或不可驯服的巨兽。近代七宗罪恶魔名单中的归类不是这些经文的统一设定。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-behemoth",
+        "name": "贝希摩斯",
+        "alias": "Behemoth",
+        "kind": "异兽",
+        "tier": 3,
+        "domain": "巨大陆兽",
+        "summary": "《约伯记》40章中的强大受造物。",
+        "detail": "具体与何种现实动物相联有争论；叙事重点在于约伯无法支配的受造力量。后世与利维坦配对发展出更多末世想象，需注明来源。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-jesus",
+        "name": "耶稣／尔撒",
+        "alias": "Jesus / Isa",
+        "kind": "人物／基督教神圣主体",
+        "tier": 1,
+        "domain": "基督教核心／伊斯兰先知",
+        "summary": "历史人物与不同宗教信仰解释交叠的中心。",
+        "detail": "基督教把其受难与复活理解为救赎核心，主流教义承认其神人身份；伊斯兰尊其为弥赛亚和使者而否认其神性及三位一体。犹太教不接受基督教的弥赛亚认定。网站以传统归属描述各主张，不能把彼此差异当作细枝末节。",
+        "sources": [
+          "hb-luke",
+          "hb-quran"
+        ]
+      },
+      {
+        "id": "hb-mary",
+        "name": "马利亚／麦尔彦",
+        "alias": "Mary / Maryam",
+        "kind": "人物",
+        "tier": 1,
+        "domain": "母亲／信仰典范",
+        "summary": "耶稣之母，在基督教和伊斯兰均受尊崇。",
+        "detail": "《路加福音》中的报喜和颂歌展示回应呼召的主体性；基督教不同教派对其地位和教义有差异，伊斯兰也有自身叙述。她不是基督教三位一体的一员，也不能把天主教敬礼直接称作把她当另一位神。",
+        "sources": [
+          "hb-luke",
+          "hb-quran"
+        ]
+      },
+      {
+        "id": "hb-baptist",
+        "name": "施洗约翰",
+        "alias": "John the Baptist / Yahya",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "悔改／预备",
+        "summary": "福音书中为耶稣预备道路的先知性人物。",
+        "detail": "其洗礼活动与旷野形象连接悔改及即将来临的神国期待。应与使徒约翰、启示录署名约翰及其他同名人物区分，作者归属不能只靠同名。",
+        "sources": [
+          "hb-luke"
+        ]
+      },
+      {
+        "id": "hb-peter",
+        "name": "彼得",
+        "alias": "Peter",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "门徒／失误与恢复",
+        "summary": "耶稣门徒，早期基督教记忆中的重要领袖。",
+        "detail": "承认耶稣身份、三次否认和复活后的领导角色呈现信心与失败并存。后世关于教会权威的解释因教派不同而异，不能用一套教会论代表全部基督徒。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-judas",
+        "name": "加略人犹大",
+        "alias": "Judas Iscariot",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "交付／背叛",
+        "summary": "福音叙事中把耶稣交给逮捕者的门徒。",
+        "detail": "他的动机和死亡叙述在书卷间有不同侧重。人物行为不能被用来把集体罪责加给犹太人；耶稣、其门徒和最初信众本就处于犹太社会。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-paul",
+        "name": "保罗",
+        "alias": "Paul",
+        "kind": "人物",
+        "tier": 2,
+        "domain": "外邦传播／书信",
+        "summary": "早期基督教向非犹太群体传播的重要使徒。",
+        "detail": "其书信讨论律法、信、复活与共同体生活，并非只是把希伯来神话翻成希腊语。书信先后、署名与历史环境是学习基督教形成的重要入口。",
+        "sources": [
+          "hb-bible"
+        ]
+      },
+      {
+        "id": "hb-iblis",
+        "name": "易卜劣斯",
+        "alias": "Iblis",
+        "kind": "精灵／伊斯兰",
+        "tier": 2,
+        "domain": "伊斯兰：拒命／诱惑",
+        "summary": "拒绝向阿丹俯伏的角色。",
+        "detail": "《古兰经》18:50称其属于精灵；其他叙述与解释传统还讨论其所处位置。不能不加限定将其当成基督教路西法的阿拉伯语别名；可比较傲慢与试探母题，但保留本传统身份。",
+        "sources": [
+          "hb-iblis-source"
+        ]
+      },
+      {
+        "id": "hb-lucifer",
+        "name": "路西法意象",
+        "alias": "Lucifer",
+        "kind": "后世解释意象",
+        "tier": 3,
+        "domain": "后世：晨星与堕落",
+        "summary": "拉丁语“带光者”在解释史中成为著名恶魔名。",
+        "detail": "《以赛亚书》14章原有讽喻巴比伦王的语境；后世将晨星坠落与撒旦连读。完整天堂叛乱史尤其受文学影响，不能标为希伯来圣经直接叙述的具名天使传。",
+        "sources": [
+          "hb-isaiah",
+          "hb-milton"
+        ]
+      },
+      {
+        "id": "hb-raphael",
+        "name": "拉斐尔",
+        "alias": "Raphael",
+        "kind": "天使",
+        "tier": 2,
+        "domain": "护行／治愈",
+        "summary": "《多俾亚传》中同行、治疗并揭示身份的天使。",
+        "detail": "此书把他称为侍立神前的七位天使之一，但没有因此给出跨宗教通用的完整七名表。拉斐尔的经典地位须与各宗派正典范围一起说明，不能声称希伯来圣经各本均有他。",
+        "sources": [
+          "hb-tobit"
+        ]
+      },
+      {
+        "id": "hb-asmodeus",
+        "name": "阿斯摩太",
+        "alias": "Asmodeus",
+        "kind": "恶魔／后世扩展",
+        "tier": 3,
+        "domain": "《多俾亚传》／后世恶魔学",
+        "summary": "在多俾亚故事中威胁撒辣婚姻的恶魔。",
+        "detail": "拉斐尔指导多俾亚解除其威胁。后世魔法与恶魔学又给他更多名称、等级和罪类，不能把这些名单倒灌进早期故事；此处只保留原故事的角色入口。",
+        "sources": [
+          "hb-tobit"
+        ]
+      },
+      {
+        "id": "hb-beelzebul",
+        "name": "别西卜／别西卜勒",
+        "alias": "Beelzebul",
+        "kind": "恶魔称谓",
+        "tier": 3,
+        "domain": "新约：鬼王指控",
+        "summary": "福音书驱魔争论中出现的名字。",
+        "detail": "有人指控耶稣靠鬼王赶鬼，他以一国若自相纷争不能站立回应。后世将此名纳入七宗罪恶魔谱系，是另一层接受史，并非经文直接给出的统一官职。",
+        "sources": [
+          "hb-bible"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "to": "hb-adam",
+        "type": "创造",
+        "note": "《创世记》2章的尘土与气息",
+        "source": "hb-genesis",
+        "from": "hb-god"
+      },
+      {
+        "to": "hb-eve",
+        "type": "创造",
+        "note": "《创世记》2章的关系叙事",
+        "source": "hb-genesis",
+        "from": "hb-god"
+      },
+      {
+        "to": "hb-eve",
+        "type": "配偶",
+        "note": "伊甸园叙事",
+        "source": "hb-genesis",
+        "from": "hb-adam"
+      },
+      {
+        "to": "hb-eve",
+        "type": "劝诱",
+        "note": "《创世记》3章未把蛇直接具名为撒旦",
+        "source": "hb-genesis",
+        "from": "hb-serpent"
+      },
+      {
+        "to": "hb-cain",
+        "type": "父亲",
+        "note": "始祖家庭",
+        "source": "hb-genesis",
+        "from": "hb-adam"
+      },
+      {
+        "to": "hb-abel",
+        "type": "父亲",
+        "note": "始祖家庭",
+        "source": "hb-genesis",
+        "from": "hb-adam"
+      },
+      {
+        "to": "hb-abel",
+        "type": "杀死",
+        "note": "兄弟暴力",
+        "source": "hb-genesis",
+        "from": "hb-cain"
+      },
+      {
+        "to": "hb-noah",
+        "type": "立约",
+        "note": "洪水后与生命相关的承诺",
+        "source": "hb-genesis",
+        "from": "hb-god"
+      },
+      {
+        "to": "hb-abraham",
+        "type": "呼召与约",
+        "note": "创12、15、17章",
+        "source": "hb-covenant",
+        "from": "hb-god"
+      },
+      {
+        "to": "hb-sarah",
+        "type": "配偶",
+        "note": "族长叙事",
+        "source": "hb-genesis",
+        "from": "hb-abraham"
+      },
+      {
+        "to": "hb-hagar",
+        "type": "生育关系",
+        "note": "含奴仆与家内权力语境",
+        "source": "hb-genesis",
+        "from": "hb-abraham"
+      },
+      {
+        "to": "hb-isaac",
+        "type": "父亲",
+        "note": "撒拉之子",
+        "source": "hb-genesis",
+        "from": "hb-abraham"
+      },
+      {
+        "to": "hb-ishmael",
+        "type": "父亲",
+        "note": "夏甲之子",
+        "source": "hb-genesis",
+        "from": "hb-abraham"
+      },
+      {
+        "to": "hb-isaac",
+        "type": "母亲",
+        "note": "应许之子",
+        "source": "hb-genesis",
+        "from": "hb-sarah"
+      },
+      {
+        "to": "hb-ishmael",
+        "type": "母亲",
+        "note": "旷野获救",
+        "source": "hb-genesis",
+        "from": "hb-hagar"
+      },
+      {
+        "to": "hb-jacob",
+        "type": "父亲",
+        "note": "利百加所生",
+        "source": "hb-genesis",
+        "from": "hb-isaac"
+      },
+      {
+        "to": "hb-esau",
+        "type": "父亲",
+        "note": "利百加所生",
+        "source": "hb-genesis",
+        "from": "hb-isaac"
+      },
+      {
+        "to": "hb-esau",
+        "type": "孪生兄弟",
+        "note": "争夺与和解",
+        "source": "hb-genesis",
+        "from": "hb-jacob"
+      },
+      {
+        "to": "hb-joseph",
+        "type": "父亲",
+        "note": "拉结之子",
+        "source": "hb-genesis",
+        "from": "hb-jacob"
+      },
+      {
+        "to": "hb-moses",
+        "type": "呼召",
+        "note": "燃烧荆棘与解放任务",
+        "source": "hb-exodus",
+        "from": "hb-god"
+      },
+      {
+        "to": "hb-aaron",
+        "type": "兄弟",
+        "note": "亚伦年长",
+        "source": "hb-exodus",
+        "from": "hb-moses"
+      },
+      {
+        "to": "hb-miriam",
+        "type": "姊弟",
+        "note": "米利暗为姊",
+        "source": "hb-exodus",
+        "from": "hb-moses"
+      },
+      {
+        "to": "hb-pharaoh",
+        "type": "对抗",
+        "note": "要求释放百姓",
+        "source": "hb-exodus",
+        "from": "hb-moses"
+      },
+      {
+        "to": "hb-joshua",
+        "type": "继任",
+        "note": "领导权交接",
+        "source": "hb-bible",
+        "from": "hb-moses"
+      },
+      {
+        "to": "hb-saul",
+        "type": "膏立",
+        "note": "君主制开始",
+        "source": "hb-bible",
+        "from": "hb-samuel"
+      },
+      {
+        "to": "hb-david",
+        "type": "膏立",
+        "note": "新王合法性叙事",
+        "source": "hb-bible",
+        "from": "hb-samuel"
+      },
+      {
+        "to": "hb-david",
+        "type": "冲突",
+        "note": "亲近后转为追逐",
+        "source": "hb-bible",
+        "from": "hb-saul"
+      },
+      {
+        "to": "hb-solomon",
+        "type": "父亲",
+        "note": "拔示巴之子",
+        "source": "hb-bible",
+        "from": "hb-david"
+      },
+      {
+        "to": "hb-job",
+        "type": "回应",
+        "note": "智慧诗中的创造与限度",
+        "source": "hb-bible",
+        "from": "hb-god"
+      },
+      {
+        "to": "hb-job",
+        "type": "控告与试验",
+        "note": "约伯记的天庭语境",
+        "source": "hb-bible",
+        "from": "hb-satan"
+      },
+      {
+        "to": "hb-daniel",
+        "type": "解释异象",
+        "note": "但8—9章",
+        "source": "hb-bible",
+        "from": "hb-gabriel"
+      },
+      {
+        "to": "hb-daniel",
+        "type": "异象关联",
+        "note": "但10—12章",
+        "source": "hb-bible",
+        "from": "hb-michael"
+      },
+      {
+        "to": "hb-mary",
+        "type": "报信",
+        "note": "路1章",
+        "source": "hb-luke",
+        "from": "hb-gabriel"
+      },
+      {
+        "to": "hb-jesus",
+        "type": "母亲",
+        "note": "基督教与伊斯兰各有叙述",
+        "source": "hb-luke",
+        "from": "hb-mary"
+      },
+      {
+        "to": "hb-jesus",
+        "type": "施洗与预备",
+        "note": "福音传统",
+        "source": "hb-bible",
+        "from": "hb-baptist"
+      },
+      {
+        "to": "hb-peter",
+        "type": "师徒",
+        "note": "福音传统",
+        "source": "hb-bible",
+        "from": "hb-jesus"
+      },
+      {
+        "to": "hb-judas",
+        "type": "师徒与交付",
+        "note": "福音传统",
+        "source": "hb-bible",
+        "from": "hb-jesus"
+      },
+      {
+        "to": "hb-paul",
+        "type": "启示与使徒身份",
+        "note": "基督教书信与使徒行传传统",
+        "source": "hb-bible",
+        "from": "hb-jesus"
+      },
+      {
+        "to": "hb-satan",
+        "type": "天上争战",
+        "note": "启示录12章的龙与撒旦",
+        "source": "hb-revelation",
+        "from": "hb-michael"
+      },
+      {
+        "to": "hb-satan",
+        "type": "后世连读",
+        "note": "启示录的古蛇称谓，非创3章直接具名",
+        "source": "hb-revelation",
+        "from": "hb-serpent"
+      },
+      {
+        "to": "hb-satan",
+        "type": "后世解释关联",
+        "note": "以赛亚晨星被连到堕落天使",
+        "source": "hb-milton",
+        "from": "hb-lucifer"
+      },
+      {
+        "to": "hb-adam",
+        "type": "拒绝俯伏",
+        "note": "古兰经18:50；阿丹对应人物",
+        "source": "hb-iblis-source",
+        "from": "hb-iblis"
+      },
+      {
+        "to": "hb-leviathan",
+        "type": "创造／制伏意象",
+        "note": "各诗篇与约伯记的不同用法",
+        "source": "hb-bible",
+        "from": "hb-god"
+      },
+      {
+        "to": "hb-asmodeus",
+        "type": "制伏",
+        "note": "《多俾亚传》第8章的事件，12章回顾并揭示拉斐尔身份",
+        "source": "hb-tobit",
+        "from": "hb-raphael"
+      },
+      {
+        "to": "hb-beelzebul",
+        "type": "指控中的关联",
+        "note": "福音书记他被指控靠鬼王赶鬼；并非认同该指控",
+        "source": "hb-bible",
+        "from": "hb-jesus"
+      }
+    ],
+    "events": [
+      {
+        "id": "hb-event-creation",
+        "title": "创造、安息与伊甸园",
+        "tier": 1,
+        "era": "原初叙事时间",
+        "summary": "从宇宙秩序进入人的边界与责任。",
+        "detail": "《创世记》1章按区分和充满展开，2—3章转向园中关系、工作、命令与选择。并读两段可观察文本重点差异；后世解释不能被冒充为经文明说。",
+        "actors": [
+          "hb-god",
+          "hb-adam",
+          "hb-eve",
+          "hb-serpent"
+        ],
+        "source": "hb-genesis"
+      },
+      {
+        "id": "hb-event-cain",
+        "title": "该隐杀亚伯",
+        "tier": 2,
+        "era": "原初人类世代",
+        "summary": "最早家庭中的暴力提出责任问题。",
+        "detail": "“我岂是看守我兄弟的吗”与从地里呼喊的血把关系、土地和责任相连。神施行惩罚，同时限制无尽报复，不能只读成一则犯罪标签。",
+        "actors": [
+          "hb-cain",
+          "hb-abel",
+          "hb-god"
+        ],
+        "source": "hb-genesis"
+      },
+      {
+        "id": "hb-event-flood",
+        "title": "洪水、方舟与彩虹之约",
+        "tier": 1,
+        "era": "原初世代；创6—9章",
+        "summary": "毁灭之后建立对生命的承诺。",
+        "detail": "洪水叙事包含船、动物、放鸟、献祭和承诺等元素，可与美索不达米亚史诗对照；神学重点和人物伦理各不相同。这里的故事时间不等于已经测定的地质灾变日期。",
+        "actors": [
+          "hb-noah",
+          "hb-god"
+        ],
+        "source": "hb-genesis"
+      },
+      {
+        "id": "hb-event-babel",
+        "title": "巴别塔与语言分散",
+        "tier": 2,
+        "era": "原初叙事；创11章",
+        "summary": "集中建城与扬名受到打断。",
+        "detail": "塔、城、语言与分散的关联可在巴比伦历史背景中学习。叙事解释世界差异的方式不等于现代语言学的起源模型。",
+        "actors": [
+          "hb-god"
+        ],
+        "source": "hb-genesis"
+      },
+      {
+        "id": "hb-event-call",
+        "title": "亚伯拉罕蒙召与立约",
+        "tier": 1,
+        "era": "族长叙事；创12、15、17章",
+        "summary": "离开旧地，面向后裔、土地与祝福的应许。",
+        "detail": "不同立约段落分别强调仪式、割礼、后裔与万族得福。把这些区别保留在阅读笔记里，有助避免把所有约简化成同一个契约公式。",
+        "actors": [
+          "hb-abraham",
+          "hb-sarah",
+          "hb-god"
+        ],
+        "source": "hb-covenant"
+      },
+      {
+        "id": "hb-event-binding",
+        "title": "以撒被缚与替代祭牲",
+        "tier": 1,
+        "era": "族长叙事；创22章",
+        "summary": "极端试验在伤害发生前被阻止。",
+        "detail": "犹太传统称之为以撒被缚，基督教与伊斯兰又各有接受史。古兰经对应故事未在该段具名儿子，因此比较时需区分经文和注释传统。",
+        "actors": [
+          "hb-abraham",
+          "hb-isaac",
+          "hb-god"
+        ],
+        "source": "hb-genesis"
+      },
+      {
+        "id": "hb-event-joseph",
+        "title": "约瑟被卖、解梦与家族和解",
+        "tier": 2,
+        "era": "族长叙事末段；创37—50章",
+        "summary": "家庭暴力与流亡转成危机中的重逢。",
+        "detail": "约瑟经历被卖、被诬、监禁和掌权；饥荒让兄弟返回其面前。和解通过试探、认罪和情感展开，并不是一句“坏事都是好事”的简单公式。",
+        "actors": [
+          "hb-joseph",
+          "hb-jacob"
+        ],
+        "source": "hb-genesis"
+      },
+      {
+        "id": "hb-event-exodus",
+        "title": "出埃及、逾越与过海",
+        "tier": 1,
+        "era": "共同体起源叙事；出1—15章",
+        "summary": "压迫者的权力被挑战，奴役者离开埃及。",
+        "detail": "故事包括灾难、逾越节、追兵与过海，成为后世解放记忆。确切年代、人数和路线不能只靠叙事推定；逾越节的现实实践则是可研究的历史与宗教生活。",
+        "actors": [
+          "hb-moses",
+          "hb-aaron",
+          "hb-miriam",
+          "hb-pharaoh",
+          "hb-god"
+        ],
+        "source": "hb-exodus"
+      },
+      {
+        "id": "hb-event-sinai",
+        "title": "西奈立约与金牛犊危机",
+        "tier": 1,
+        "era": "出埃及之后；出19—34章",
+        "summary": "得到律法的共同体立刻面对违约问题。",
+        "detail": "十诫、圣所安排和金牛犊并置，说明解放后的责任并不自动完成。摩西的中介、亚伦的参与和重新立约使秩序恢复成为持续过程。",
+        "actors": [
+          "hb-moses",
+          "hb-aaron",
+          "hb-god"
+        ],
+        "source": "hb-exodus"
+      },
+      {
+        "id": "hb-event-monarchy",
+        "title": "从扫罗、大卫到所罗门",
+        "tier": 1,
+        "era": "王国传统；撒母耳记—列王纪",
+        "summary": "君主制度既被设立，也被先知批判。",
+        "detail": "胜利、圣殿与智慧之外，文本保留滥权、家族内斗、劳役和分裂。读者可用“合法性—责任—灾难解释”比较埃及荷鲁斯继承和希腊神权更替，但不要混淆文类。",
+        "actors": [
+          "hb-samuel",
+          "hb-saul",
+          "hb-david",
+          "hb-solomon"
+        ],
+        "source": "hb-bible"
+      },
+      {
+        "id": "hb-event-exile",
+        "title": "第一圣殿毁坏与流亡",
+        "tier": 1,
+        "era": "历史：前587/586年前后",
+        "summary": "国家与圣殿的失落促成新的记忆和希望。",
+        "detail": "巴比伦战争和迁徙有历史证据，先知解释其意义则属于神学论述。人口经历并不整齐一致：有人留在犹大，有人迁往别处，有人后代仍住在巴比伦。",
+        "actors": [
+          "hb-god"
+        ],
+        "source": "hb-exile"
+      },
+      {
+        "id": "hb-event-job",
+        "title": "约伯的受难与争辩",
+        "tier": 1,
+        "era": "智慧文学的叙事时间",
+        "summary": "义人质问苦难，朋友的因果公式受到挑战。",
+        "detail": "天庭序幕、长篇诗性争辩和结尾恢复并不是一种可直接复制到现实受苦者身上的诊断。学习重点是文本如何限制人的知识，以及如何拒绝轻率责怪受害者。",
+        "actors": [
+          "hb-job",
+          "hb-satan",
+          "hb-god"
+        ],
+        "source": "hb-bible"
+      },
+      {
+        "id": "hb-event-visions",
+        "title": "但以理的兽象与末日审判",
+        "tier": 2,
+        "era": "故事设定于帝国宫廷；文本有较晚成形层",
+        "summary": "世界帝国被转写为兽，公义被寄托于未来审判。",
+        "detail": "第7章兽象、第12章复活期待与具体帝国压迫经验有关。它们不是可任意套用所有现代新闻的密码表，历史语境应优先于猎奇预测。",
+        "actors": [
+          "hb-daniel",
+          "hb-michael",
+          "hb-gabriel"
+        ],
+        "source": "hb-bible"
+      },
+      {
+        "id": "hb-event-gospel",
+        "title": "耶稣受难与复活叙事",
+        "tier": 1,
+        "era": "福音叙事：公元1世纪罗马治下犹太地区",
+        "summary": "基督教以死亡与复活为救赎核心。",
+        "detail": "福音书各有叙事次序与神学重点；历史研究能讨论罗马处决及文本形成，复活的宗教意义则由信仰共同体解释。伊斯兰对受难有不同主张，须单独对照。",
+        "actors": [
+          "hb-jesus",
+          "hb-mary",
+          "hb-peter",
+          "hb-judas"
+        ],
+        "source": "hb-bible"
+      },
+      {
+        "id": "hb-event-newcreation",
+        "title": "新天新地与新耶路撒冷",
+        "tier": 1,
+        "era": "基督教启示文学中的未来",
+        "summary": "审判之后以更新、临在与终止死亡表现希望。",
+        "detail": "《启示录》不是整本希伯来圣经的统一结局，也不是所有基督徒一致使用的逐年时间表。羔羊、城、生命水和生命树把先前经文意象重新组合。",
+        "actors": [
+          "hb-jesus",
+          "hb-god",
+          "hb-michael",
+          "hb-satan"
+        ],
+        "source": "hb-revelation"
+      },
+      {
+        "id": "hb-event-iblis",
+        "title": "易卜劣斯拒绝向阿丹俯伏",
+        "tier": 2,
+        "era": "伊斯兰原初叙事",
+        "summary": "拒命与傲慢构成诱惑者形象。",
+        "detail": "《古兰经》18:50明确称其属于精灵；应与创世记的蛇、约伯记控告者及后世路西法分别比较。相似的角色功能不等于跨经典完全同一身份。",
+        "actors": [
+          "hb-iblis",
+          "hb-adam"
+        ],
+        "source": "hb-iblis-source"
+      }
+    ],
+    "sources": [
+      {
+        "id": "hb-genesis",
+        "title": "《创世记》",
+        "author": "希伯来圣经；和合本，1919",
+        "kind": "原典",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%201&version=CUVS",
+        "note": "创世、伊甸园、洪水、族长叙事；链接起于第1章，可按章阅读。"
+      },
+      {
+        "id": "hb-covenant",
+        "title": "《创世记》第12章",
+        "author": "和合本，1919",
+        "kind": "原典",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%2012&version=CUVS",
+        "note": "亚伯兰蒙召；后续立约见15、17章，献子见22章。"
+      },
+      {
+        "id": "hb-exodus",
+        "title": "《出埃及记》第20章",
+        "author": "和合本，1919",
+        "kind": "原典",
+        "url": "https://www.biblegateway.com/passage/?search=Exodus%2020&version=CUVS",
+        "note": "十诫和西奈立约；出埃及主线见1—19章。"
+      },
+      {
+        "id": "hb-bible",
+        "title": "The King James Bible",
+        "author": "1611年英译传统；Project Gutenberg",
+        "kind": "原典",
+        "url": "https://www.gutenberg.org/ebooks/10",
+        "note": "用于按书卷核对《撒母耳记》《列王纪》《约伯记》《但以理书》等；旧译应与现代校注本对读。"
+      },
+      {
+        "id": "hb-luke",
+        "title": "《路加福音》第1章",
+        "author": "新约；和合本，1919",
+        "kind": "原典",
+        "url": "https://www.biblegateway.com/passage/?search=Luke%201&version=CUVS",
+        "note": "加百列报信、马利亚与施洗约翰；后续章记耶稣生平、受难与复活。"
+      },
+      {
+        "id": "hb-revelation",
+        "title": "《启示录》第21章",
+        "author": "新约；和合本，1919",
+        "kind": "原典",
+        "url": "https://www.biblegateway.com/passage/?search=Revelation%2021&version=CUVS",
+        "note": "新天新地；12章天上争战、20章最后审判须分别阅读。"
+      },
+      {
+        "id": "hb-quran",
+        "title": "《古兰经》4:171，多译本对照",
+        "author": "Quranic Arabic Corpus",
+        "kind": "原典",
+        "url": "https://corpus.quran.com/translation.jsp?chapter=4&verse=171",
+        "note": "伊斯兰关于耶稣与神独一性的关键差异；不得据基督教预设替其解释。"
+      },
+      {
+        "id": "hb-iblis-source",
+        "title": "《古兰经》18:50，多译本对照",
+        "author": "Quranic Arabic Corpus",
+        "kind": "原典",
+        "url": "https://corpus.quran.com/translation.jsp?chapter=18&verse=50",
+        "note": "易卜劣斯被称为精灵之一；不可无条件改称基督教式堕落天使。"
+      },
+      {
+        "id": "hb-isaiah",
+        "title": "《以赛亚书》第14章",
+        "author": "Sefaria 希伯来原文与译本",
+        "kind": "原典",
+        "url": "https://www.sefaria.org/Isaiah.14?no_applink=1",
+        "note": "4节确定讽喻巴比伦王的语境；12节晨星意象与后世 Lucifer 解读应区分。"
+      },
+      {
+        "id": "hb-scrolls",
+        "title": "Scrolls from the Dead Sea: Introduction",
+        "author": "美国国会图书馆",
+        "kind": "博物馆",
+        "url": "https://www.loc.gov/exhibits/scrolls/intr.html",
+        "note": "第二圣殿时期写本、文本流传与考古语境；早期展览表述可与更新研究对照。"
+      },
+      {
+        "id": "hb-exile",
+        "title": "Babylonian Exile",
+        "author": "My Jewish Learning",
+        "kind": "参考",
+        "url": "https://www.myjewishlearning.com/article/babylonian-exile/",
+        "note": "前6世纪流亡与第一圣殿毁坏的历史背景。"
+      },
+      {
+        "id": "hb-milton",
+        "title": "《失乐园》",
+        "author": "约翰·弥尔顿，1667",
+        "kind": "文学",
+        "url": "https://www.gutenberg.org/ebooks/20",
+        "note": "后世文学塑造的撒旦、天堂战争与堕落叙事，不属于希伯来圣经。"
+      },
+      {
+        "id": "hb-tobit",
+        "title": "《多俾亚传／托比特书》第12章",
+        "author": "天主教 NRSVCE 英译；Bible Gateway",
+        "kind": "原典",
+        "url": "https://www.biblegateway.com/passage/?search=Tobit%2012&version=NRSVCE",
+        "note": "拉斐尔揭示身份；天主教与东正教正典包括此书，犹太教及多数新教正典不收。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "起初，神创造天地。",
+        "source": "hb-genesis",
+        "locator": "《创世记》1:1，和合本",
+        "note": "简短译句呈现创造主题；希伯来文句法与“起初／当……开始”存在译法讨论，可另查 Sefaria 对照。"
+      },
+      {
+        "text": "除了我以外，你不可有别的神。",
+        "source": "hb-exodus",
+        "locator": "《出埃及记》20:3，和合本",
+        "note": "置于出埃及后的盟约语境阅读；不可把后世全部哲学一神论定义直接塞入这一句。"
+      },
+      {
+        "text": "我又看见一个新天新地。",
+        "source": "hb-revelation",
+        "locator": "《启示录》21:1节起句，和合本",
+        "note": "这是基督教启示文学的异象话语，应与犹太传统及伊斯兰末世论分别比较。"
+      }
+    ],
+    "images": [],
+    "reading": [
+      {
+        "title": "先建文本层次，再读天使恶魔",
+        "text": "依次区分希伯来圣经→第二圣殿时期其他作品→新约→教父与中世纪神学→但丁、弥尔顿→近代魔法书。出现一个名字时先问它属于哪一层。"
+      },
+      {
+        "title": "比较三个共同人物",
+        "text": "选择亚伯拉罕、摩西、耶稣，分别记录犹太教、基督教、伊斯兰赋予的身份、故事重点与伦理意义。共享人名不能代替差异分析。"
+      },
+      {
+        "title": "“神话”与历史怎样同读",
+        "text": "把出埃及等共同体起源叙事、可考的帝国战争、信仰对事件的解释列成三栏；避免把其中任一栏吞并另外两栏。"
+      }
+    ],
+    "cautions": [
+      "基督教、犹太教、伊斯兰不是一套神谱的三个章节；本区是以希伯来文本为主轴的比较入口。",
+      "《创世记》没有把禁果称为苹果，也没有在第3章直接将蛇具名为撒旦。",
+      "“路西法—撒旦—伊甸之蛇—易卜劣斯”不能直接合为一个跨宗教完全一致的人物。",
+      "七宗罪和七位恶魔的对应名单属于不同后世作者方案；所罗门七十二魔神也不是《圣经》的标准人物清单。",
+      "《神曲》《失乐园》是重要文学和接受史材料，不属于犹太、基督教或伊斯兰共同承认的经典。"
+    ]
+  }
+]

@@ -1,0 +1,925 @@
+[
+  {
+    "id": "cthulhu",
+    "name": "克苏鲁 · 现代文学神话",
+    "en": "CTHULHU MYTHOS · MODERN FICTION",
+    "region": "美国新英格兰 · 代表性文学创作地",
+    "coords": [
+      -71.41,
+      41.82
+    ],
+    "color": "#a08dc0",
+    "depth": 2,
+    "nature": "modern-literary",
+    "tagline": "星海无言，人类并非中心",
+    "period": "20世纪文学创作；洛夫克拉夫特1890—1937；不同作品及后续扩写并存",
+    "summary": "克苏鲁神话是现代作家创作并由后继作者扩展的文学网络，与古代神话、地方口传及活态宗教的形成方式不同。本卷以洛夫克拉夫特的具体小说为主：宇宙不以人类为中心，深时间与异星文明冲击熟悉的知识秩序，调查者通过残缺记录接近难以承受的认识。它没有一本被所有作者承认的统一正典，后来的神祇分类、善恶阵营、游戏规则和网络设定须分别标注。地图点位是普罗维登斯及新英格兰创作语境，不是拉莱耶的真实地址。",
+    "worldview": [
+      {
+        "title": "非人类中心的宇宙",
+        "text": "恐怖经常来自人类意义与宇宙尺度之间的落差。陌生存在不必专为惩罚或拯救人类而行动；叙述者有限的认识也是文学效果的一部分。",
+        "source": "ct-src-call"
+      },
+      {
+        "title": "一组互相暗示的小说",
+        "text": "书名、地名和神名在不同篇章复现，制造巨大的共同背景。复现不等于每篇都服从一套封闭的创世—神谱—末世系统。",
+        "source": "ct-src-history"
+      },
+      {
+        "title": "深时间、异星文明与梦境",
+        "text": "《疯狂山脉》重写地球史，《超越时间之影》拆开心智与身体，《梦寻秘境卡达斯》组织梦境空间。这些路线既有交叉，也有独立的叙事逻辑。",
+        "source": "ct-src-mountains"
+      },
+      {
+        "title": "不可靠的文献拼图",
+        "text": "遗稿、日志、新闻、录音、书信和“古书”使虚构像档案。读者需要分清作者、叙述者、故事内证人及故事内书籍的不同层次。",
+        "source": "ct-src-whisper"
+      },
+      {
+        "title": "分类应注明作者与版本",
+        "text": "旧日支配者、外神、古老者等中文名称常掩盖原文不同用法。后继作者的旧神与元素体系、游戏的规则分类，不应无标记地倒灌回洛夫克拉夫特作品。",
+        "source": "ct-src-derleth"
+      }
+    ],
+    "history": [
+      {
+        "title": "美国新英格兰的文学地理",
+        "text": "普罗维登斯是作者生平的重要城市；阿卡姆、密斯卡托尼克大学与印斯茅斯则是虚构地名或机构。真实景观与虚构档案相混，增加了阅读的可信感。",
+        "source": "ct-src-life"
+      },
+      {
+        "title": "杂志发表与作家互文",
+        "text": "作品从业余出版和通俗杂志传播；写作年份、首刊年份与身后出版常不一致。共同使用虚构书名和存在，使作家之间形成扩写网络。",
+        "source": "ct-src-publish"
+      },
+      {
+        "title": "德雷斯与后续整理",
+        "text": "“克苏鲁神话”作为通行后设名称与德雷斯的整理密切相关。他保存、出版并扩展了作品，同时引入的善恶和元素解释引起研究争议。",
+        "source": "ct-src-derleth"
+      },
+      {
+        "title": "批判阅读时代偏见",
+        "text": "部分作品把族群、血统与“异类”恐惧结合，含有明显种族偏见。可以分析其如何制造恐怖，同时拒绝把叙述者的歧视当成现实民族、宗教或文化的知识。",
+        "source": "ct-src-innsmouth"
+      },
+      {
+        "title": "进入当代文化之后",
+        "text": "后续小说、插图、电影和角色扮演游戏不断重组这些名字。本站人物层级表示阅读重要性；它不沿用某一游戏的属性、能力或胜负排名。",
+        "source": "ct-src-history"
+      }
+    ],
+    "entities": [
+      {
+        "id": "ct-cthulhu",
+        "name": "克苏鲁",
+        "alias": "Cthulhu",
+        "tier": 1,
+        "kind": "文学中的存在",
+        "domain": "沉睡、梦境与深海",
+        "summary": "沉睡于拉莱耶的巨大存在，借梦境和崇拜网络进入人的认识。",
+        "detail": "《克苏鲁的呼唤》以遗稿、警察口述和水手记录拼合信息；克苏鲁并非持续正面出场的主角。“神话”以它命名，不意味着它在各作者体系中都是最高存在。原作中的“星辰归位”与城市浮沉，应放回叙述者的不完全知识中理解。",
+        "sources": [
+          "ct-src-call"
+        ]
+      },
+      {
+        "id": "ct-nyarl",
+        "name": "奈亚拉托提普",
+        "alias": "Nyarlathotep",
+        "tier": 1,
+        "kind": "文学中的存在",
+        "domain": "使者、欺骗与多重外表",
+        "summary": "能够与人交谈和操纵局面的存在，也被称为“蠕行之混沌”。",
+        "detail": "同名短篇中的神秘表演者与《梦寻秘境卡达斯》的使者形象并非一本系统神谱的统一条目。它的“埃及”表象属于现代小说的异域想象，不能反过来列为古埃及神祇。具体化身与关系需逐作核对。",
+        "sources": [
+          "ct-src-nyarl"
+        ]
+      },
+      {
+        "id": "ct-yog",
+        "name": "犹格·索托斯",
+        "alias": "Yog-Sothoth",
+        "tier": 1,
+        "kind": "文学中的存在",
+        "domain": "门、时空与边界",
+        "summary": "与跨越已知空间边界相关，在《敦威治恐怖事件》中尤其关键。",
+        "detail": "小说内的《死灵之书》把它写作门、钥匙与守门者；这些句子是嵌在虚构文献中的设定。惠特利家的怪异后代与它相连，但流行“全知全能排名”不是原文提供的可靠比较尺度。",
+        "sources": [
+          "ct-src-dunwich"
+        ]
+      },
+      {
+        "id": "ct-azathoth",
+        "name": "阿撒托斯",
+        "alias": "Azathoth",
+        "tier": 1,
+        "kind": "文学中的存在",
+        "domain": "宇宙中心的混沌",
+        "summary": "在卡特的梦境旅程中，以超出理性秩序的中心性恐怖被提及。",
+        "detail": "原文描绘盲目、无心智的魔神与鼓笛声。网络流行的“整个宇宙只是它的梦，一醒就毁灭”不是这些原文直接建立的统一法则；应与后继作者的宇宙解释分开。",
+        "sources": [
+          "ct-src-dream"
+        ]
+      },
+      {
+        "id": "ct-shub",
+        "name": "莎布·尼古拉丝",
+        "alias": "Shub-Niggurath",
+        "tier": 1,
+        "kind": "文学中的存在",
+        "domain": "森林与繁衍意象",
+        "summary": "主要通过仪式呼号和称号出现，而不是完整外貌描写。",
+        "detail": "《暗夜呢喃》的录音反复呼唤“孕育万千子嗣的森林黑山羊”。这个称号不等于原作确定它是一只普通山羊。与其他存在的固定家谱、族群外观，多属于后续系统化和美术诠释。",
+        "sources": [
+          "ct-src-whisper"
+        ]
+      },
+      {
+        "id": "ct-elder",
+        "name": "古老者",
+        "alias": "Elder Things / Old Ones",
+        "tier": 1,
+        "kind": "文学中的存在",
+        "domain": "远古外星文明",
+        "summary": "《疯狂山脉》中具有五辐特征、曾在地球建立文明的种族。",
+        "detail": "探险者从遗体与壁画推断其科学、艺术和漫长历史。原文中Old Ones的用法与其他故事不完全相同，不宜机械译成同一个宇宙等级。叙事最终让“怪物”也显出文明主体的一面。",
+        "sources": [
+          "ct-src-mountains"
+        ]
+      },
+      {
+        "id": "ct-shoggoth",
+        "name": "修格斯",
+        "alias": "Shoggoths",
+        "tier": 1,
+        "kind": "文学中的存在",
+        "domain": "造物、劳动与反抗",
+        "summary": "可塑形的原生质生命，被古老者创造并用于建造。",
+        "detail": "壁画叙事交代其受控劳动及逐渐获得自主性的过程；末尾的隧道遭遇把远古历史变成眼前危险。它并不是克苏鲁的专属仆从，也不宜把游戏中的数值设定直接当原典。",
+        "sources": [
+          "ct-src-mountains"
+        ]
+      },
+      {
+        "id": "ct-deep",
+        "name": "深潜者",
+        "alias": "Deep Ones",
+        "tier": 1,
+        "kind": "文学中的存在",
+        "domain": "海底社会与人类亲缘",
+        "summary": "与印斯茅斯居民订立交换关系、能够和人类繁衍的海中族群。",
+        "detail": "故事把经济衰落、海洋贸易、婚配和身份变化联结在一起。叙述者从恐惧外来族群转向发现自身的关联；必须批判地看待作品使用的血统与族群偏见。",
+        "sources": [
+          "ct-src-innsmouth"
+        ]
+      },
+      {
+        "id": "ct-migo",
+        "name": "米·戈",
+        "alias": "Mi-Go",
+        "tier": 2,
+        "kind": "文学中的存在",
+        "domain": "外星技术与意识转移",
+        "summary": "《暗夜呢喃》中的有翼真菌状外星生物，出没于佛蒙特山区。",
+        "detail": "书信和录音提供它们的技术与交流线索，脑罐使意识远行成为诱惑。故事最终暴露证据可能被伪造和操纵，读者应区分“有人声称”与作品真正证实的部分。",
+        "sources": [
+          "ct-src-whisper"
+        ]
+      },
+      {
+        "id": "ct-yith",
+        "name": "伊斯之伟大种族",
+        "alias": "Great Race of Yith",
+        "tier": 2,
+        "kind": "文学中的存在",
+        "domain": "跨时间的心智与档案",
+        "summary": "借心智交换研究不同时代，并建立巨大知识档案的种族。",
+        "detail": "它的身份并非固定等同于一具锥形身体；心智迁移使种族、身体与历史分离。佩斯利的考古发现令梦与回忆成为恐怖证据。",
+        "sources": [
+          "ct-src-time"
+        ]
+      },
+      {
+        "id": "ct-dagon",
+        "name": "达贡",
+        "alias": "Dagon",
+        "tier": 2,
+        "kind": "文学中的存在",
+        "domain": "海中巨物与崇拜名称",
+        "summary": "同名早期短篇与印斯茅斯的“达贡密教”都使用这一名称。",
+        "detail": "早期短篇没有提供后来的完整深潜者体系。这个现代虚构角色借用了古代达甘/达贡的名字，但不代表古代近东神祇实际具有小说中的经历和外形。",
+        "sources": [
+          "ct-src-dagon"
+        ]
+      },
+      {
+        "id": "ct-carter",
+        "name": "伦道夫·卡特",
+        "alias": "Randolph Carter",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "梦境探索",
+        "summary": "反复出现在梦境题材中的人类探索者。",
+        "detail": "在《梦寻秘境卡达斯》中追寻梦见的城市，借助猫、食尸鬼等存在行动。其旅程更接近梦境奇幻冒险，不应把洛夫克拉夫特所有作品都缩减成一种触手怪叙事。",
+        "sources": [
+          "ct-src-dream"
+        ]
+      },
+      {
+        "id": "ct-armitage",
+        "name": "亨利·阿米蒂奇",
+        "alias": "Henry Armitage",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "文献解读与阻止入侵",
+        "summary": "密斯卡托尼克大学图书馆员，识破并抵御敦威治的威胁。",
+        "detail": "他结合语言能力、书籍和威尔伯日记行动。与“知识只会导致失败”的刻板印象不同，本篇保留了研究者协作阻止灾难的情节。",
+        "sources": [
+          "ct-src-dunwich"
+        ]
+      },
+      {
+        "id": "ct-wilbur",
+        "name": "威尔伯·惠特利",
+        "alias": "Wilbur Whateley",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "异样成长与开启门户",
+        "summary": "惠特利家的后代，企图寻找完整的禁书咒文。",
+        "detail": "其异常成长和隐匿的身体逐步暴露身份；他与农舍中另一个更巨大的存在是兄弟。图书馆事件之后，威胁并没有随他的死亡结束。",
+        "sources": [
+          "ct-src-dunwich"
+        ]
+      },
+      {
+        "id": "ct-dyer",
+        "name": "威廉·戴尔",
+        "alias": "William Dyer",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "南极见证与警告",
+        "summary": "《疯狂山脉》的地质学教授叙述者。",
+        "detail": "通过报告式叙述反对新的探险，把地层、解剖和壁画解释结合起来。他并非全知史官；古老者文明史很大程度来自他对图像证据的推断。",
+        "sources": [
+          "ct-src-mountains"
+        ]
+      },
+      {
+        "id": "ct-danforth",
+        "name": "丹福斯",
+        "alias": "Danforth",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "知识与无法转述的发现",
+        "summary": "与戴尔同行的研究生，承担故事末尾未被清晰说出的恐怖。",
+        "detail": "他的阅读背景影响他对眼前景象的理解。最后一瞥刻意保留不可知性，读者不应把所有后世补充都当作原作已揭示的事实。",
+        "sources": [
+          "ct-src-mountains"
+        ]
+      },
+      {
+        "id": "ct-akeley",
+        "name": "亨利·温特沃斯·埃克利",
+        "alias": "Henry Wentworth Akeley",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "书信、录音与身份危机",
+        "summary": "住在佛蒙特、向威尔玛斯提供外星踪迹的通信者。",
+        "detail": "信件语气发生转折、声音和身体细节令人不安。真伪的变化本身就是叙事核心，不能把后段的全部说法都视为作者的可靠设定说明。",
+        "sources": [
+          "ct-src-whisper"
+        ]
+      },
+      {
+        "id": "ct-wilmarth",
+        "name": "阿尔伯特·威尔玛斯",
+        "alias": "Albert N. Wilmarth",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "调查与受骗",
+        "summary": "密斯卡托尼克大学的民俗研究者，也是《暗夜呢喃》的叙述者。",
+        "detail": "由报刊争论进入私人通信，再到实地探访，展示研究资料如何成为陷阱。其证词包含恐惧、失去的材料和事后推断。",
+        "sources": [
+          "ct-src-whisper"
+        ]
+      },
+      {
+        "id": "ct-peaslee",
+        "name": "纳撒尼尔·温盖特·佩斯利",
+        "alias": "Nathaniel Wingate Peaslee",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "失忆与跨时间身份",
+        "summary": "在多年异常行为后恢复意识的大学教师。",
+        "detail": "梦境与调查使他怀疑心智曾被交换，澳大利亚地底发现的本人笔迹把这一假说推向高潮。故事不是“肉身穿越”的简单模型。",
+        "sources": [
+          "ct-src-time"
+        ]
+      },
+      {
+        "id": "ct-johansen",
+        "name": "古斯塔夫·约翰森",
+        "alias": "Gustaf Johansen",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "航海见证",
+        "summary": "在拉莱耶遭遇后留下手稿的挪威水手。",
+        "detail": "他的记录经由瑟斯顿转述，是层层文献框架的一部分。撞船一幕是短暂逃脱而非证明克苏鲁已被永久杀死。",
+        "sources": [
+          "ct-src-call"
+        ]
+      },
+      {
+        "id": "ct-thurston",
+        "name": "弗朗西斯·韦兰德·瑟斯顿",
+        "alias": "Francis Wayland Thurston",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "碎片资料的拼合",
+        "summary": "整理安吉尔教授遗物、逐步认识克苏鲁崇拜的人类叙述者。",
+        "detail": "他把泥塑、笔记、新闻与水手手稿串接起来。作品的恐怖既来自所见，也来自联系那些原先彼此隔绝的知识。",
+        "sources": [
+          "ct-src-call"
+        ]
+      },
+      {
+        "id": "ct-alhazred",
+        "name": "阿卜杜尔·阿尔哈萨德",
+        "alias": "Abdul Alhazred",
+        "tier": 2,
+        "kind": "虚构人物",
+        "domain": "虚构作者",
+        "summary": "被小说设定为《死灵之书》的作者。",
+        "detail": "其生平、阿拉伯文书名和翻译链服务于拟真的文献游戏；不能当成真实的中古学者传记。现实出版的同名书也不是这一虚构原典的考古发现。",
+        "sources": [
+          "ct-src-book"
+        ]
+      },
+      {
+        "id": "ct-colour",
+        "name": "星之彩",
+        "alias": "The Colour out of Space",
+        "tier": 2,
+        "kind": "文学中的异常存在",
+        "domain": "无法归类的异质生命",
+        "summary": "以异常颜色、土地衰败与生命变形显现的外来存在。",
+        "detail": "原作没有把它整理成常规神祇家谱。不可分类的感官异常，比为它安排“战斗等级”更接近这篇小说的重点。",
+        "sources": [
+          "ct-src-colour"
+        ]
+      },
+      {
+        "id": "ct-blake",
+        "name": "罗伯特·布莱克",
+        "alias": "Robert Blake",
+        "tier": 3,
+        "kind": "虚构人物",
+        "domain": "艺术与禁忌研究",
+        "summary": "进入普罗维登斯旧教堂并研究神秘晶体的作家画家。",
+        "detail": "《夜魔》通过日记、报道与旁观者拼接结局。角色姓名与现实作家罗伯特·布洛克形成文学互文，但二者不能当作同一个人。",
+        "sources": [
+          "ct-src-haunter"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "to": "ct-cthulhu",
+        "type": "调查",
+        "note": "经由多层文献拼合出的联系，不是两者直接会面。",
+        "source": "ct-src-call",
+        "from": "ct-thurston"
+      },
+      {
+        "to": "ct-cthulhu",
+        "type": "遭遇",
+        "note": "拉莱耶出航、遇袭与驾船逃离。",
+        "source": "ct-src-call",
+        "from": "ct-johansen"
+      },
+      {
+        "to": "ct-johansen",
+        "type": "阅读遗稿",
+        "note": "第III部分取得水手的私人记录。",
+        "source": "ct-src-call",
+        "from": "ct-thurston"
+      },
+      {
+        "to": "ct-wilbur",
+        "type": "亲缘",
+        "note": "原文结尾给出惠特利兄弟与犹格·索托斯的关联。",
+        "source": "ct-src-dunwich",
+        "from": "ct-yog"
+      },
+      {
+        "to": "ct-wilbur",
+        "type": "阻止求书",
+        "note": "图书馆访问、失窃企图与后续调查。",
+        "source": "ct-src-dunwich",
+        "from": "ct-armitage"
+      },
+      {
+        "to": "ct-book",
+        "type": "核读",
+        "note": "通过文本与威尔伯日记破解威胁。",
+        "source": "ct-src-dunwich",
+        "from": "ct-armitage"
+      },
+      {
+        "to": "ct-book",
+        "type": "虚构作者",
+        "note": "小说的拟书目史，不是现实著作关系。",
+        "source": "ct-src-book",
+        "from": "ct-alhazred"
+      },
+      {
+        "to": "ct-yog",
+        "type": "记载",
+        "note": "《敦威治》中的禁书引文描述门与钥匙。",
+        "source": "ct-src-dunwich",
+        "from": "ct-book"
+      },
+      {
+        "to": "ct-shoggoth",
+        "type": "创造并役使",
+        "note": "《疯狂山脉》壁画史中受造劳动者逐步反抗。",
+        "source": "ct-src-mountains",
+        "from": "ct-elder"
+      },
+      {
+        "to": "ct-danforth",
+        "type": "同行",
+        "note": "共同进入远古城市并逃离。",
+        "source": "ct-src-mountains",
+        "from": "ct-dyer"
+      },
+      {
+        "to": "ct-elder",
+        "type": "研究",
+        "note": "从解剖与壁画解释远古文明。",
+        "source": "ct-src-mountains",
+        "from": "ct-dyer"
+      },
+      {
+        "to": "ct-shoggoth",
+        "type": "遭遇",
+        "note": "地底隧道追逐；不属于召唤关系。",
+        "source": "ct-src-mountains",
+        "from": "ct-danforth"
+      },
+      {
+        "to": "ct-cthulhu",
+        "type": "族群战争",
+        "note": "壁画记载古老者与来自宇宙的克苏鲁眷族交战；不是两名神祇单挑。",
+        "source": "ct-src-mountains",
+        "from": "ct-elder"
+      },
+      {
+        "to": "ct-akeley",
+        "type": "通信",
+        "note": "书信真假与后续冒名是关键。",
+        "source": "ct-src-whisper",
+        "from": "ct-wilmarth"
+      },
+      {
+        "to": "ct-migo",
+        "type": "受其威胁",
+        "note": "读者应区分前期证词与后来被操控的材料。",
+        "source": "ct-src-whisper",
+        "from": "ct-akeley"
+      },
+      {
+        "to": "ct-migo",
+        "type": "调查",
+        "note": "借信件、录音与现场探访接近外星活动。",
+        "source": "ct-src-whisper",
+        "from": "ct-wilmarth"
+      },
+      {
+        "to": "ct-shub",
+        "type": "仪式呼号",
+        "note": "记录中出现的赞颂，不能推定固定生物亲缘。",
+        "source": "ct-src-whisper",
+        "from": "ct-migo"
+      },
+      {
+        "to": "ct-yith",
+        "type": "心智交换",
+        "note": "身体与心智的所属在叙事中被分开。",
+        "source": "ct-src-time",
+        "from": "ct-peaslee"
+      },
+      {
+        "to": "ct-nyarl",
+        "type": "诱导与欺骗",
+        "note": "结尾对卡特的指引隐藏危险。",
+        "source": "ct-src-dream",
+        "from": "ct-carter"
+      },
+      {
+        "to": "ct-azathoth",
+        "type": "使者语境",
+        "note": "梦境叙述将奈亚拉托提普称作其他神的灵魂与使者，勿据此编造唯一家谱。",
+        "source": "ct-src-dream",
+        "from": "ct-nyarl"
+      },
+      {
+        "to": "ct-dagon",
+        "type": "崇拜关联",
+        "note": "印斯茅斯中的崇拜称谓；早期《达贡》仍须单独阅读。",
+        "source": "ct-src-innsmouth",
+        "from": "ct-deep"
+      }
+    ],
+    "events": [
+      {
+        "id": "ct-event-dreams",
+        "title": "梦境、泥塑与资料的拼合",
+        "tier": 1,
+        "era": "虚构1925年；作品1928年发表",
+        "summary": "瑟斯顿整理教授遗物，发现艺术家的噩梦与远方事件相呼应。",
+        "detail": "梦境并非独立的“魔法设定介绍”，而是通过笔记、展览、警方材料共同构成证据网。读者和调查者同时拼合碎片。",
+        "actors": [
+          "ct-thurston",
+          "ct-cthulhu"
+        ],
+        "source": "ct-src-call"
+      },
+      {
+        "id": "ct-event-rlyeh",
+        "title": "拉莱耶浮出与约翰森逃离",
+        "tier": 1,
+        "era": "虚构1925年3—4月；作品1928年发表",
+        "summary": "水手登上异样的浮现城市，遭遇克苏鲁。",
+        "detail": "空间的陌生性、错误判断和手稿转述制造恐怖。船只冲撞使逃生成为可能，结尾仍强调威胁未消失。",
+        "actors": [
+          "ct-johansen",
+          "ct-cthulhu",
+          "ct-thurston"
+        ],
+        "source": "ct-src-call"
+      },
+      {
+        "id": "ct-event-dunwich",
+        "title": "敦威治的隐形威胁",
+        "tier": 1,
+        "era": "虚构1913—1928年；作品1929年发表",
+        "summary": "惠特利家的秘密扩大成社区灾难，阿米蒂奇等人前去阻止。",
+        "detail": "威尔伯的死亡揭开另一存在。日记破译、图书馆研究与山顶行动，使知识在本篇既带来恐惧，也提供有限的抵抗。",
+        "actors": [
+          "ct-wilbur",
+          "ct-yog",
+          "ct-armitage"
+        ],
+        "source": "ct-src-dunwich"
+      },
+      {
+        "id": "ct-event-antarctic",
+        "title": "南极远古城市的发现",
+        "tier": 1,
+        "era": "虚构1930—1931年探险；1936年发表",
+        "summary": "戴尔与丹福斯通过遗体和壁画，认识到人类并非地球文明的起点。",
+        "detail": "从科学报告转入异星文明史；壁画中被称为怪物的主体也拥有艺术、社会和生存困境。需要区分看见的实物与叙述者推论。",
+        "actors": [
+          "ct-dyer",
+          "ct-danforth",
+          "ct-elder",
+          "ct-shoggoth"
+        ],
+        "source": "ct-src-mountains"
+      },
+      {
+        "id": "ct-event-revolt",
+        "title": "修格斯的反抗与隧道追逐",
+        "tier": 2,
+        "era": "远古壁画史与虚构1931年现场交错",
+        "summary": "受造劳动者的自主性改变古老者秩序，探险者遭遇其后果。",
+        "detail": "本事件包含两个时间层：壁画重建的社会历史，以及戴尔和丹福斯眼前的逃离。不能把它们都当作叙述者亲眼见证的连续年表。",
+        "actors": [
+          "ct-elder",
+          "ct-shoggoth",
+          "ct-dyer",
+          "ct-danforth"
+        ],
+        "source": "ct-src-mountains"
+      },
+      {
+        "id": "ct-event-innsmouth",
+        "title": "印斯茅斯调查与身份反转",
+        "tier": 1,
+        "era": "虚构1927年旅行及其后；1936年发表",
+        "summary": "旅行者调查衰败港镇，逐步发现深潜者与自己家族的联系。",
+        "detail": "小镇交易史、社区恐惧与追逐叙事最终转向自我认同。作品中的族群污名与血统观念应作为时代偏见来分析，而非接受为现实事实。",
+        "actors": [
+          "ct-deep",
+          "ct-dagon"
+        ],
+        "source": "ct-src-innsmouth"
+      },
+      {
+        "id": "ct-event-whisper",
+        "title": "佛蒙特书信与脑罐骗局",
+        "tier": 1,
+        "era": "虚构1927年洪灾后；1931年发表",
+        "summary": "威尔玛斯从报刊与信件进入埃克利的世界，却发现声音和身体都不可靠。",
+        "detail": "科技许诺与旅行邀请被用于诱导。保存下来的叙述同时强调证据遗失，提醒读者不能把任何一封信都当作全知设定。",
+        "actors": [
+          "ct-migo",
+          "ct-akeley",
+          "ct-wilmarth"
+        ],
+        "source": "ct-src-whisper"
+      },
+      {
+        "id": "ct-event-yith",
+        "title": "跨时间心智交换与档案发现",
+        "tier": 2,
+        "era": "虚构1908年起的异常经历；1936年发表",
+        "summary": "佩斯利逐渐在古老档案文明中认出自己的经历。",
+        "detail": "身体载体、记忆和身份被拆开；考古发现的书写构成反转。不是预言式宗教末世，而是通过非人尺度重新安排人类时间。",
+        "actors": [
+          "ct-peaslee",
+          "ct-yith"
+        ],
+        "source": "ct-src-time"
+      },
+      {
+        "id": "ct-event-kadath",
+        "title": "卡特寻找梦中城市",
+        "tier": 1,
+        "era": "梦境时间；1926—1927年写作，1943年发表",
+        "summary": "卡特穿越梦境地理，遭遇奈亚拉托提普的诡计。",
+        "detail": "旅程保留了奇幻冒险的帮助者、危险与返回；熟悉的人类记忆成为抵抗虚无诱惑的重要部分。",
+        "actors": [
+          "ct-carter",
+          "ct-nyarl",
+          "ct-azathoth"
+        ],
+        "source": "ct-src-dream"
+      },
+      {
+        "id": "ct-event-colour",
+        "title": "陨石之后的农场异变",
+        "tier": 2,
+        "era": "虚构19世纪末；作品1927年发表",
+        "summary": "落下的陨石带来无法归类的颜色，土地与生命逐渐衰败。",
+        "detail": "调查难以用既有物理和生物分类解释异常，结尾留下水库与余留之物的疑问。本篇不需要读者预先掌握一部众神族谱。",
+        "actors": [
+          "ct-colour"
+        ],
+        "source": "ct-src-colour"
+      }
+    ],
+    "sources": [
+      {
+        "id": "ct-src-call",
+        "title": "《克苏鲁的呼唤》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/cc.aspx",
+        "note": "1926年写作，1928年首次发表于《诡丽幻谭》。三部分：泥塑中的恐怖、勒格拉斯警官的故事、来自海上的疯狂。"
+      },
+      {
+        "id": "ct-src-mountains",
+        "title": "《疯狂山脉》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/mm.aspx",
+        "note": "1931年写作，1936年连载。按I—XII章阅读南极探险、壁画历史与修格斯。"
+      },
+      {
+        "id": "ct-src-dunwich",
+        "title": "《敦威治恐怖事件》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/dh.aspx",
+        "note": "1928年写作，1929年发表。第V章含小说内《死灵之书》引文，第X章揭示怪物身份。"
+      },
+      {
+        "id": "ct-src-dream",
+        "title": "《梦寻秘境卡达斯》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/dq.aspx",
+        "note": "1926—1927年写作，1943年身后发表。梦境地理、卡特与奈亚拉托提普。不同版本的分段不一。"
+      },
+      {
+        "id": "ct-src-innsmouth",
+        "title": "《印斯茅斯的阴影》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/soi.aspx",
+        "note": "1931年写作，1936年单行本发表。第III章萨多克叙述，第V章血统与梦境结尾。"
+      },
+      {
+        "id": "ct-src-whisper",
+        "title": "《暗夜呢喃》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/wid.aspx",
+        "note": "1930年写作，1931年发表。第III章留声机记录，第VI—VIII章脑罐、冒名与逃离。"
+      },
+      {
+        "id": "ct-src-time",
+        "title": "《超越时间之影》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/sot.aspx",
+        "note": "1934—1935年写作，1936年发表。心智交换、巨大档案馆与考古发现。"
+      },
+      {
+        "id": "ct-src-nyarl",
+        "title": "《奈亚拉托提普》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/n.aspx",
+        "note": "1920年散文诗式短篇。舞台表演、群众与宇宙失序；并非埃及古代神话记录。"
+      },
+      {
+        "id": "ct-src-book",
+        "title": "《死灵之书的历史》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/hn.aspx",
+        "note": "1927年写成的虚构书目史，1938年身后发表。书及阿卜杜尔·阿尔哈萨德均属小说构造。"
+      },
+      {
+        "id": "ct-src-colour",
+        "title": "《星之彩》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/cs.aspx",
+        "note": "1927年写作并发表。陨石、加德纳农场及井中异变。"
+      },
+      {
+        "id": "ct-src-haunter",
+        "title": "《夜魔》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/hd.aspx",
+        "note": "1935年写作，1936年发表。罗伯特·布莱克、闪耀的偏方三八面体与教堂事件。"
+      },
+      {
+        "id": "ct-src-dagon",
+        "title": "《达贡》",
+        "author": "H. P. Lovecraft；H. P. Lovecraft Archive",
+        "kind": "文学原典",
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/d.aspx",
+        "note": "1917年写作，1919年发表。未具名海中巨物；与后来深潜者设定应分别阅读。"
+      },
+      {
+        "id": "ct-src-history",
+        "title": "“克苏鲁神话”作为后设名称",
+        "author": "H. P. Lovecraft Archive / Donovan K. Loucks",
+        "kind": "文学研究",
+        "url": "https://www.hplovecraft.com/popcult/mythos.aspx",
+        "note": "名称、洛夫克拉夫特圈与后续作者扩展。区分洛夫克拉夫特作品与后设的Mythos。"
+      },
+      {
+        "id": "ct-src-derleth",
+        "title": "德雷斯与神话体系化的争议",
+        "author": "H. P. Lovecraft Archive / alt.horror.cthulhu FAQ",
+        "kind": "参考",
+        "url": "https://www.hplovecraft.com/study/ahcfaq/general.aspx",
+        "note": "General中August Derleth条：旧神/旧日支配者、善恶和元素解释的后续变化；参考性说明，宜结合各作者原作。"
+      },
+      {
+        "id": "ct-src-life",
+        "title": "H. P. Lovecraft：作者与主要作品",
+        "author": "Library of America",
+        "kind": "文学研究",
+        "url": "https://www.loa.org/writers/118-h-p-lovecraft/",
+        "note": "作者生卒1890—1937及主要作品；真实文学史与小说世界的区别。"
+      },
+      {
+        "id": "ct-src-publish",
+        "title": "作品发表年表",
+        "author": "H. P. Lovecraft Archive",
+        "kind": "参考",
+        "url": "https://www.hplovecraft.com/writings/fiction/publish.aspx",
+        "note": "区分写作时间与首次发表时间。"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Yog-Sothoth is the gate.",
+        "source": "ct-src-dunwich",
+        "locator": "《敦威治恐怖事件》第V章",
+        "note": "译意：犹格·索托斯就是门。这是小说内《死灵之书》的一句引文。"
+      },
+      {
+        "text": "In his house at R’lyeh dead Cthulhu waits dreaming.",
+        "source": "ct-src-call",
+        "locator": "《克苏鲁的呼唤》第II部分",
+        "note": "小说将其作为崇拜呼号的英译；中文译意见克苏鲁条目。"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cthulhu3.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cthulhu3.jpg",
+        "title": "洛夫克拉夫特手绘克苏鲁",
+        "credit": "H. P. Lovecraft，1934年；Brown University Library / Wikimedia Commons",
+        "license": "Public Domain / PD-Art",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "作者亲绘的克苏鲁小像侧视图，是现代文学创作档案，既非古代出土物，也不是现实生物照片。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-9815fcfbb7f2.jpg",
+        "crop": [
+          0.14,
+          0.1,
+          0.6,
+          0.48
+        ]
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nyarlathotep%20the%20Black%20Pharaoh%20by%20Katharsisdrill.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nyarlathotep_the_Black_Pharaoh_by_Katharsisdrill.jpg",
+        "title": "奈亚拉托提普：黑法老的当代诠释",
+        "credit": "Katharsisdrill 与分形艺术家 Nyarlathotep 合作；创作年未详，2019年上传Commons",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "caption": "当代数字绘画，表现奈亚拉托提普的黑法老形象；不是古埃及神像。网页头像仅作圆形显示裁切。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-5fba8668e45a.jpg"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yog-Sothoth.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Yog-Sothoth.jpg",
+        "title": "犹格·索托斯的艺术想象",
+        "credit": "Dominique Signoret；2006年上传Commons，VRT授权记录见原页",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "现代艺术家对不可见或难以界定存在的视觉化；不是洛夫克拉夫特亲绘。原图不改动，头像显示为圆形裁切，沿用同一许可。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-0ae6b6200d24.jpg"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Azathoth.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Azathoth.jpg",
+        "title": "阿撒托斯的艺术想象",
+        "credit": "Dominique Signoret；2006年上传Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "艺术家的主观形象，不能用于证明原文存在固定的生物学外形。原图不改动，头像圆形显示沿用同一许可。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-4a43dde7eb59.jpg"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoggoth%20by%20Nottsuo.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shoggoth_by_Nottsuo.jpg",
+        "title": "修格斯：当代数字绘画",
+        "credit": "Nottsuo；创作年未详，2017年上传Commons并完成许可复核",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "caption": "以《疯狂山脉》为灵感的当代作品，展现可变形团块的视觉想象；与原作文字对照阅读。头像采用显示裁切。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-4fb70c2f354d.jpg"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Call%20of%20Cthulhu.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Call_of_Cthulhu.jpg",
+        "title": "《克苏鲁的呼唤》手稿首页",
+        "credit": "H. P. Lovecraft，1926；Brown University Library / Wikimedia Commons",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "真实存在的是这份小说手稿。它证明作品的创作与修订过程，不证明小说叙述的崇拜或事件真实发生。",
+        "role": "document",
+        "avatar": false,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-e25f63558fcd.jpg"
+      }
+    ],
+    "reading": [
+      {
+        "title": "先读一篇完整故事",
+        "text": "从《克苏鲁的呼唤》开始，标出每条信息由谁提供；先理解叙事方式，再阅读名字和关系。"
+      },
+      {
+        "title": "比较三种宇宙恐怖",
+        "text": "对读《星之彩》《疯狂山脉》《超越时间之影》：感官、深时间与身份分别如何动摇熟悉世界？"
+      },
+      {
+        "title": "给后续设定注明版本",
+        "text": "遇到家谱、战力、化身列表时，追问它来自洛夫克拉夫特、哪位后继作者，还是某套游戏或网络再创作。"
+      }
+    ],
+    "cautions": [
+      "这是可追溯到现代作者的文学创作，不应与历史宗教的信仰共同体、仪式及传承方式混同。",
+      "《死灵之书》及其作者是虚构的；真实馆藏中的小说手稿不能证明故事发生。",
+      "古老者（Elder Things）不等于所有作品中Old Ones、Great Old Ones或Elder Gods的统一译名。",
+      "克苏鲁不是全体系最高神；阿撒托斯“梦见整个宇宙”的流行说法并非本卷所列原典确立的法则。",
+      "本卷的图像分作者手绘、真实小说手稿与当代艺术诠释；现代画作的外形并非唯一设定。"
+    ]
+  }
+]

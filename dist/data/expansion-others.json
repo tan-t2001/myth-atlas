@@ -1,0 +1,5343 @@
+{
+  "traditions": [
+    {
+      "id": "arthurian",
+      "entities": [
+        {
+          "id": "arthurian-balin",
+          "name": "巴林",
+          "alias": "Balin",
+          "kind": "骑士",
+          "tier": 2,
+          "domain": "双剑与灾祸",
+          "summary": "因拔出命定宝剑而被称为双剑骑士。",
+          "detail": "他的勇武与错误判断同时推动灾难；击出惨痛一击后又在不知情中与兄弟互相杀死，不能把持有神兵等同道德上的完美。",
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "arthurian-balan",
+          "name": "巴兰",
+          "alias": "Balan",
+          "kind": "骑士",
+          "tier": 3,
+          "domain": "兄弟相残",
+          "summary": "巴林的兄弟，在误认敌我的决斗中死去。",
+          "detail": "交换或遮蔽身份的盾与陌生战场，使亲属伦理失去识别条件；这不是巴林刻意追杀手足的故事。",
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "arthurian-pelles",
+          "name": "佩莱斯王",
+          "alias": "Pelles",
+          "kind": "国王",
+          "tier": 2,
+          "domain": "圣杯家族",
+          "summary": "与圣杯城堡及加拉哈德的家系相连。",
+          "detail": "马洛礼文本的佩莱斯、佩兰与受伤国王称谓容易混淆；不同圣杯文学也未提供一个完全统一的家谱。",
+          "sources": [
+            "ar-malory2"
+          ]
+        },
+        {
+          "id": "arthurian-pellam",
+          "name": "佩兰王",
+          "alias": "Pellam",
+          "kind": "国王",
+          "tier": 3,
+          "domain": "惨痛一击",
+          "summary": "巴林以神圣长矛击伤的国王。",
+          "detail": "伤口与荒芜国土连在一起，使个体暴力产生共同体后果；不应在没有版本说明时把佩兰直接写成所有作品中的渔王。",
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "arthurian-bertilak",
+          "name": "贝蒂拉克／绿骑士",
+          "alias": "Bertilak / Green Knight",
+          "kind": "骑士／变形者",
+          "tier": 2,
+          "domain": "誓约与试验",
+          "summary": "在《高文与绿骑士》中主持斩首与交换所得的试验。",
+          "detail": "两套游戏最终汇合，使高文的求生、诚信和礼貌相互冲突；此诗的绿骑士不等同整个亚瑟传统固定的恶魔。",
+          "sources": [
+            "ar-gawain"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "arthurian-dolorous",
+          "title": "惨痛一击与荒芜国土",
+          "tier": 2,
+          "era": "马洛礼《亚瑟之死》第二卷",
+          "summary": "巴林在冲突中取用神圣长矛，重伤佩兰。",
+          "detail": "一时求生的暴力越过禁忌，伤口和土地的灾祸持续到圣杯探求的救治；武器威力与使用者的资格由此分离。",
+          "actors": [
+            "arthurian-balin",
+            "arthurian-pellam"
+          ],
+          "source": "ar-malory1"
+        },
+        {
+          "id": "arthurian-green-challenge",
+          "title": "绿骑士的斩首与交换游戏",
+          "tier": 2,
+          "era": "14世纪末中古英语诗",
+          "summary": "高文接受一年后偿还斧击的约定。",
+          "detail": "城堡中交换每日所得的承诺与绿教堂斧击互为镜像；隐藏腰带保护生命，也暴露诚实理想在危险中的限度。",
+          "actors": [
+            "arthurian-gawain",
+            "arthurian-bertilak"
+          ],
+          "source": "ar-gawain"
+        },
+        {
+          "id": "arthurian-tristan-drink",
+          "title": "特里斯坦与伊索尔德误饮爱情药",
+          "tier": 2,
+          "era": "马洛礼第八卷",
+          "summary": "原为王室婚姻准备的饮料被同行两人喝下。",
+          "detail": "药物不消除人物此后的责任，却把私人情欲与封建忠诚之间的矛盾具象化；不同特里斯坦文本对药效时长处理不同。",
+          "actors": [
+            "arthurian-tristan",
+            "arthurian-isolde",
+            "arthurian-mark"
+          ],
+          "source": "ar-malory1"
+        }
+      ],
+      "relations": [
+        {
+          "to": "arthurian-balan",
+          "type": "兄弟／误杀",
+          "note": "陌生战场与遮蔽身份导致相残",
+          "source": "ar-malory1",
+          "from": "arthurian-balin"
+        },
+        {
+          "to": "arthurian-pellam",
+          "type": "击伤",
+          "note": "惨痛一击，伤口牵连土地",
+          "source": "ar-malory1",
+          "from": "arthurian-balin"
+        },
+        {
+          "to": "arthurian-galahad",
+          "type": "外祖家系",
+          "note": "圣杯家族，需与佩兰称谓区分",
+          "source": "ar-malory2",
+          "from": "arthurian-pelles"
+        },
+        {
+          "to": "arthurian-gawain",
+          "type": "试验与誓约",
+          "note": "仅限《高文与绿骑士》的斩首及交换游戏",
+          "source": "ar-gawain",
+          "from": "arthurian-bertilak"
+        },
+        {
+          "to": "arthurian-morgan",
+          "type": "变形背景",
+          "note": "该诗末尾交代的摩根法术背景",
+          "source": "ar-gawain",
+          "from": "arthurian-bertilak"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "ar-art-stone-sword",
+          "name": "石中剑",
+          "alias": "Sword in the stone",
+          "kind": "文学兵器",
+          "tier": 1,
+          "summary": "拔出石砧中之剑证明王位继承资格。",
+          "detail": "在马洛礼中，伦敦教堂墓园的剑与后来湖中获得的Excalibur属于不同情节。检验王权资格和战场杀伤也不是同一种功能。",
+          "owners": [
+            "arthurian-arthur",
+            "arthurian-kay"
+          ],
+          "events": [
+            "arthurian-sword"
+          ],
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "ar-art-excalibur",
+          "name": "湖中剑／Excalibur",
+          "alias": "Excalibur",
+          "kind": "文学兵器",
+          "tier": 1,
+          "summary": "由湖中神秘力量交付、最终还归水中的王剑。",
+          "detail": "马洛礼写亚瑟在梅林引导下获得剑与剑鞘；终局贝德维尔两次犹豫后才将剑归湖。现代作品常把这把剑与石中剑合并，阅读时应标清版本。",
+          "owners": [
+            "arthurian-arthur",
+            "arthurian-bedivere"
+          ],
+          "events": [
+            "arthurian-camlann",
+            "arthurian-avalon"
+          ],
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "ar-art-scabbard",
+          "name": "Excalibur剑鞘",
+          "alias": "Excalibur's scabbard",
+          "kind": "文学护具",
+          "tier": 2,
+          "summary": "佩戴者免于因伤流血的护身剑鞘。",
+          "detail": "梅林提醒亚瑟剑鞘比剑更珍贵；摩根的盗换与抛弃使保护丧失。刀刃和鞘是不同的物件，意义从攻击转向生命保存。",
+          "owners": [
+            "arthurian-arthur",
+            "arthurian-morgan"
+          ],
+          "events": [],
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "ar-art-roundtable",
+          "name": "圆桌",
+          "alias": "Round Table",
+          "kind": "文学器物／制度象征",
+          "tier": 1,
+          "summary": "用座席组织骑士共同体的桌子。",
+          "detail": "圆桌使誓约、名誉和协作成为空间秩序；它不是所有故事里完全平等政治的证据，国王、身份与宗教资格依然重要。",
+          "owners": [
+            "arthurian-arthur",
+            "arthurian-guinevere"
+          ],
+          "events": [
+            "arthurian-roundtable"
+          ],
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "ar-art-siege",
+          "name": "危险座席",
+          "alias": "Siege Perilous",
+          "kind": "文学器物",
+          "tier": 2,
+          "summary": "留给完成圣杯使命者的特殊座位。",
+          "detail": "加拉哈德的就座证明资格；“siege”在这里是座席，不是攻城。空位把尚待实现的使命固定在日常会议的中心。",
+          "owners": [
+            "arthurian-galahad",
+            "arthurian-arthur"
+          ],
+          "events": [
+            "arthurian-grail"
+          ],
+          "sources": [
+            "ar-malory2"
+          ]
+        },
+        {
+          "id": "ar-art-grail",
+          "name": "圣杯",
+          "alias": "Holy Grail / Sangreal",
+          "kind": "文学圣物",
+          "tier": 1,
+          "summary": "圣杯探求中显现恩典、供养与宗教资格的圣物。",
+          "detail": "马洛礼的圣杯故事具有鲜明基督教语境；早期法语作品的杯、盘与行列描写不完全相同。它不是已被现代考古确定的一只统一实物。",
+          "owners": [
+            "arthurian-galahad",
+            "arthurian-percival",
+            "arthurian-bors",
+            "arthurian-pelles"
+          ],
+          "events": [
+            "arthurian-grail"
+          ],
+          "sources": [
+            "ar-malory2"
+          ]
+        },
+        {
+          "id": "ar-art-bleeding-lance",
+          "name": "流血的圣矛",
+          "alias": "Bleeding lance",
+          "kind": "文学圣物／兵器",
+          "tier": 2,
+          "summary": "把受难记忆、王者伤口与医治连接的长矛。",
+          "detail": "巴林的惨痛一击与圣杯结局的治伤遥相呼应；亚瑟文本中长矛的认定不可直接套成所有中世纪圣矛遗物的真实履历。",
+          "owners": [
+            "arthurian-balin",
+            "arthurian-pellam",
+            "arthurian-galahad"
+          ],
+          "events": [
+            "arthurian-dolorous",
+            "arthurian-grail"
+          ],
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "ar-art-galahad-shield",
+          "name": "加拉哈德的白盾红十字",
+          "alias": "Galahad's shield",
+          "kind": "文学护具",
+          "tier": 2,
+          "summary": "以白底红十字标记圣杯骑士的资格。",
+          "detail": "叙事把盾的来历连接早期基督教人物与圣血记忆；它是一件有具体传承故事的盾，而非所有圆桌骑士统一的制服标志。",
+          "owners": [
+            "arthurian-galahad"
+          ],
+          "events": [
+            "arthurian-grail"
+          ],
+          "sources": [
+            "ar-malory2"
+          ]
+        },
+        {
+          "id": "ar-art-solomon-ship",
+          "name": "所罗门之船",
+          "alias": "Ship of Solomon",
+          "kind": "文学载具",
+          "tier": 2,
+          "summary": "圣杯旅途中跨越历史层次的神秘船。",
+          "detail": "船、床与带铭文的剑使《圣经》历史和骑士现在互相照应；应把文本里的所罗门之船与历史造船证据区分。",
+          "owners": [
+            "arthurian-galahad",
+            "arthurian-percival",
+            "arthurian-bors"
+          ],
+          "events": [
+            "arthurian-grail"
+          ],
+          "sources": [
+            "ar-malory2"
+          ]
+        },
+        {
+          "id": "ar-art-love-potion",
+          "name": "爱情药",
+          "alias": "Love drink",
+          "kind": "文学药剂",
+          "tier": 2,
+          "summary": "特里斯坦与伊索尔德在航程中误饮。",
+          "detail": "饮料原与婚姻安排相连，误饮让忠诚与爱情发生难以调停的冲突；药效是否终身取决于作品版本，不宜一律写死。",
+          "owners": [
+            "arthurian-tristan",
+            "arthurian-isolde",
+            "arthurian-mark"
+          ],
+          "events": [
+            "arthurian-tristan-drink"
+          ],
+          "sources": [
+            "ar-malory1"
+          ]
+        },
+        {
+          "id": "ar-art-green-girdle",
+          "name": "绿色腰带",
+          "alias": "Green girdle",
+          "kind": "文学护具／伦理象征",
+          "tier": 2,
+          "summary": "高文为避免死亡而接受并隐瞒的腰带。",
+          "detail": "其声称能护命的力量使交换誓约面临考验；高文最后把它当作自身失误的记号，宫廷又赋予不同意义。",
+          "owners": [
+            "arthurian-gawain",
+            "arthurian-bertilak"
+          ],
+          "events": [
+            "arthurian-green-challenge"
+          ],
+          "sources": [
+            "ar-gawain"
+          ]
+        },
+        {
+          "id": "ar-art-green-axe",
+          "name": "绿骑士之斧",
+          "alias": "Green Knight's axe",
+          "kind": "文学兵器",
+          "tier": 2,
+          "summary": "用于约定一年后偿还一击的大斧。",
+          "detail": "斧将礼节性挑战变成身体风险；砍下头后绿骑士仍能离去，危险来自誓约的持续约束而不仅是兵器锋利。",
+          "owners": [
+            "arthurian-gawain",
+            "arthurian-bertilak"
+          ],
+          "events": [
+            "arthurian-green-challenge"
+          ],
+          "sources": [
+            "ar-gawain"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "ar-group-court",
+          "title": "王权与圆桌",
+          "summary": "从亚瑟的合法性、宫廷婚姻和骑士忠诚进入王国兴衰。",
+          "members": [
+            "arthurian-arthur",
+            "arthurian-guinevere",
+            "arthurian-lancelot",
+            "arthurian-gawain",
+            "arthurian-mordred",
+            "arthurian-kay",
+            "arthurian-bedivere"
+          ],
+          "source": "ar-malory1"
+        },
+        {
+          "id": "ar-group-grail",
+          "title": "圣杯探求",
+          "summary": "圣杯把武力与宗教资格分开，加拉哈德、珀西瓦尔和鲍斯各有道路。",
+          "members": [
+            "arthurian-galahad",
+            "arthurian-percival",
+            "arthurian-bors",
+            "arthurian-pelles",
+            "arthurian-pellam",
+            "arthurian-balin"
+          ],
+          "source": "ar-malory2"
+        },
+        {
+          "id": "ar-group-other-texts",
+          "title": "爱情、变形与别本文学",
+          "summary": "特里斯坦传统和《高文与绿骑士》各有文本史，分组用于阅读而非宣称同一组织。",
+          "members": [
+            "arthurian-tristan",
+            "arthurian-isolde",
+            "arthurian-mark",
+            "arthurian-morgan",
+            "arthurian-bertilak"
+          ],
+          "source": "ar-gawain"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ar-gawain",
+          "title": "Sir Gawayne and the Green Knight",
+          "url": "https://www.gutenberg.org/files/14568/14568-h/14568-h.htm",
+          "author": "匿名中古诗；Richard Morris 编，1864",
+          "kind": "文学",
+          "note": "中古英语文本及编辑说明；与马洛礼《亚瑟之死》分属不同作品。"
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "entities": [
+        {
+          "id": "japan-takemikazuchi",
+          "name": "建御雷",
+          "alias": "Takemikazuchi",
+          "kind": "神祇",
+          "tier": 2,
+          "domain": "让国与威力",
+          "summary": "被派往葦原中国完成让国交涉的神。",
+          "detail": "他与地方神的交涉既含问答也含威力展示。鹿岛信仰及后世武神身份有自己的历史，不能只从一段神话推出全部制度。",
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "japan-hoderi",
+          "name": "火照命／海幸彦",
+          "alias": "Hoderi",
+          "kind": "神圣祖先",
+          "tier": 2,
+          "domain": "钓钩与手足冲突",
+          "summary": "与山幸彦交换生计器具，因遗失钓钩而产生冲突。",
+          "detail": "弟弟自海神宫带回钓钩与潮珠，双方地位随之改变；叙事同时解释王权谱系与隼人的服属关系。",
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "japan-watatsumi",
+          "name": "绵津见／海神",
+          "alias": "Watatsumi",
+          "kind": "神祇",
+          "tier": 2,
+          "domain": "海宫与潮汐",
+          "summary": "丰玉毗卖的父亲，帮助火远理找回钓钩。",
+          "detail": "海神名号可有不同组合与表现；这里限定为山幸彦故事中的海神，不把各类海神都归作单一人物。",
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "japan-wakahiko",
+          "name": "天若日子",
+          "alias": "Ame no Wakahiko",
+          "kind": "神祇",
+          "tier": 3,
+          "domain": "使者与返矢",
+          "summary": "被派到地上，却没有完成高天原所托使命。",
+          "detail": "射死探查的雉后，同一支箭被从天上投回并致其死亡。故事以器物返回表现使命、背离与裁决。",
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "japan-yamatotakeru",
+          "name": "倭建命／日本武尊",
+          "alias": "Yamato Takeru",
+          "kind": "英雄",
+          "tier": 2,
+          "domain": "远征与草薙剑",
+          "summary": "王室远征英雄，草薙剑帮助他逃离野火。",
+          "detail": "《古事记》与《日本书纪》对其名字、亲子关系和远征的安排各有重点；英雄化的王权扩张叙事不可直接当作逐日战争史。",
+          "sources": [
+            "jp-full"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "japan-rootland",
+          "title": "大国主进入根之坚州国",
+          "tier": 2,
+          "era": "《古事记》上卷",
+          "summary": "大国主经历须佐之男的考验，并携须势理毗卖逃离。",
+          "detail": "蛇、虫、火与寻找箭矢等试验在婚姻和王权形成中相连；生太刀、生弓矢与琴的带走，使权力交接成为叙事动作。",
+          "actors": [
+            "japan-okuninushi",
+            "japan-susanoo"
+          ],
+          "source": "jp-full"
+        },
+        {
+          "id": "japan-return-arrow",
+          "title": "天若日子的返矢之死",
+          "tier": 3,
+          "era": "《古事记》上卷",
+          "summary": "天上派出的箭最终返回射箭者身上。",
+          "detail": "箭穿越天地后带回裁决，天若日子的婚姻、使命与葬礼也反映天上权威和地上社会的张力。",
+          "actors": [
+            "japan-wakahiko"
+          ],
+          "source": "jp-full"
+        },
+        {
+          "id": "japan-burning-plain",
+          "title": "草薙剑脱离火围",
+          "tier": 2,
+          "era": "《古事记》中卷倭建命东征",
+          "summary": "倭建命被诱入燃烧的野地。",
+          "detail": "剑割草、燧具起反火，使敌方陷阱反转；后来将剑留在宫簀媛处再上伊服岐山的安排，又把护佑和失去护佑对照起来。",
+          "actors": [
+            "japan-yamatotakeru"
+          ],
+          "source": "jp-full"
+        }
+      ],
+      "relations": [
+        {
+          "to": "japan-okuninushi",
+          "type": "让国交涉",
+          "note": "葦原中国平定，含权威与问答",
+          "source": "jp-full",
+          "from": "japan-takemikazuchi"
+        },
+        {
+          "to": "japan-hoori",
+          "type": "兄弟／冲突",
+          "note": "交换器具与遗失钓钩",
+          "source": "jp-full",
+          "from": "japan-hoderi"
+        },
+        {
+          "to": "japan-toyotama",
+          "type": "父女",
+          "note": "山幸彦海宫故事中的海神家族",
+          "source": "jp-full",
+          "from": "japan-watatsumi"
+        },
+        {
+          "to": "japan-hoori",
+          "type": "援助／婚姻联结",
+          "note": "寻回钓钩、授予潮珠",
+          "source": "jp-full",
+          "from": "japan-watatsumi"
+        },
+        {
+          "to": "japan-amaterasu",
+          "type": "奉命／违命",
+          "note": "天上使者未完成使命",
+          "source": "jp-full",
+          "from": "japan-wakahiko"
+        },
+        {
+          "to": "japan-susanoo",
+          "type": "神剑传承线",
+          "note": "由草薙剑连接的跨代叙事，不是亲属关系",
+          "source": "jp-full",
+          "from": "japan-yamatotakeru"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "jp-art-nuboko",
+          "name": "天沼矛",
+          "alias": "Ame no nuboko",
+          "kind": "叙事神兵／创世器物",
+          "tier": 1,
+          "summary": "搅动未成形海面、使盐滴凝成岛的矛。",
+          "detail": "伊邪那岐与伊邪那美立于天浮桥，以矛使淤能碁吕岛显现。创世器物不是考古学上已找到并可归主人的兵器。",
+          "owners": [
+            "japan-izanagi",
+            "japan-izanami"
+          ],
+          "events": [
+            "japan-islands"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-kagami",
+          "name": "八咫镜",
+          "alias": "Yata no kagami",
+          "kind": "叙事神器／祭祀象征",
+          "tier": 1,
+          "summary": "天岩户故事中引出天照的镜，也是三种神器之一。",
+          "detail": "神话中的镜、后世皇位继承仪式与神社神体相互关联但证据层次不同；公开照片中的普通古镜不可冒充秘藏本体。",
+          "owners": [
+            "japan-amaterasu",
+            "japan-omoikane",
+            "japan-ninigi"
+          ],
+          "events": [
+            "japan-cave",
+            "japan-descent"
+          ],
+          "sources": [
+            "jp-mirror"
+          ]
+        },
+        {
+          "id": "jp-art-magatama",
+          "name": "八尺琼勾玉",
+          "alias": "Yasakani no magatama",
+          "kind": "叙事神器／礼仪珠饰",
+          "tier": 1,
+          "summary": "岩户仪式与天孙下降中的重要珠饰。",
+          "detail": "勾玉有真实考古遗存，也能承载王权和神圣临在；不能把任意一枚出土勾玉与神话记载的整串珠饰视为同一实物。",
+          "owners": [
+            "japan-amaterasu",
+            "japan-ninigi"
+          ],
+          "events": [
+            "japan-cave",
+            "japan-descent"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-kusanagi",
+          "name": "草薙剑／天丛云剑",
+          "alias": "Kusanagi no tsurugi",
+          "kind": "叙事神兵／王权象征",
+          "tier": 1,
+          "summary": "从八岐大蛇尾中发现，后来帮助倭建命脱困的剑。",
+          "detail": "斩蛇剑与在蛇尾中发现的草薙剑不是同一件；《古事记》中须佐之男将所得剑献给天照，后又进入王室英雄叙事。",
+          "owners": [
+            "japan-susanoo",
+            "japan-amaterasu",
+            "japan-yamatotakeru"
+          ],
+          "events": [
+            "japan-serpent",
+            "japan-burning-plain"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-totsuka",
+          "name": "十拳剑",
+          "alias": "Totsuka no tsurugi",
+          "kind": "叙事兵器类别",
+          "tier": 2,
+          "summary": "以长度描述的剑称，出现于多个神话场景。",
+          "detail": "伊邪那岐斩火神、须佐之男斩蛇都可见十拳剑的说法；这个词不自动证明各故事里的剑就是同一把。",
+          "owners": [
+            "japan-izanagi",
+            "japan-susanoo"
+          ],
+          "events": [
+            "japan-serpent"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-orochi-sake",
+          "name": "八盐折之酒",
+          "alias": "Eightfold-brewed sake",
+          "kind": "叙事饮料／制敌器物",
+          "tier": 2,
+          "summary": "为八岐大蛇设置的浓酒。",
+          "detail": "须佐之男安排围栏、八门与酒槽，让蛇各首饮酒沉醉后再斩杀。故事强调准备和谋略，不是纯粹力量比拼。",
+          "owners": [
+            "japan-susanoo",
+            "japan-orochi",
+            "japan-kushinada"
+          ],
+          "events": [
+            "japan-serpent"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-kushi",
+          "name": "汤津爪栉",
+          "alias": "Yutsu tsuma gushi",
+          "kind": "变形叙事物件",
+          "tier": 3,
+          "summary": "栉名田比卖化为梳子，被须佐之男插入发髻。",
+          "detail": "被保护的女子暂以器物形态随英雄行动；不要把叙事中的变形梳直接解释为现代求姻缘商品具有同样效力。",
+          "owners": [
+            "japan-kushinada",
+            "japan-susanoo"
+          ],
+          "events": [
+            "japan-serpent"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-yomi-peach",
+          "name": "黄泉坂的桃子",
+          "alias": "Peaches of Yomotsu Hirasaka",
+          "kind": "叙事植物／护佑物",
+          "tier": 2,
+          "summary": "伊邪那岐逃离黄泉时用来驱退追兵的果实。",
+          "detail": "桃被赋予保护世间人们的使命，食物因此成为生死边界的守护物；这一具体故事不等同所有东亚桃符观念的唯一源头。",
+          "owners": [
+            "japan-izanagi"
+          ],
+          "events": [
+            "japan-yomi"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-chibiki",
+          "name": "千引石",
+          "alias": "Chibiki no iwa",
+          "kind": "叙事界石",
+          "tier": 2,
+          "summary": "堵住黄泉入口、分隔伊邪那岐与伊邪那美的巨石。",
+          "detail": "界石使逃脱变成永久分离，也让死亡与生育数量的誓言获得边界背景；地景传说地点与文本原物需分开。",
+          "owners": [
+            "japan-izanagi",
+            "japan-izanami"
+          ],
+          "events": [
+            "japan-yomi"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-tide-flow",
+          "name": "潮满珠",
+          "alias": "Shiomitsu tama",
+          "kind": "叙事宝珠",
+          "tier": 2,
+          "summary": "海神授予山幸彦、能够令潮水上涨的珠。",
+          "detail": "与潮干珠成对使用，帮助山幸彦压制兄长又停止威胁；其力量是故事中权力不对等的手段，而非可验证的潮汐控制技术。",
+          "owners": [
+            "japan-watatsumi",
+            "japan-hoori"
+          ],
+          "events": [
+            "japan-sea"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-tide-ebb",
+          "name": "潮干珠",
+          "alias": "Shiohiru tama",
+          "kind": "叙事宝珠",
+          "tier": 2,
+          "summary": "能够令潮水退去的配对宝珠。",
+          "detail": "潮满与潮干并不分别代表善恶；叙事中的使用次序把惩戒和赦免连起来。",
+          "owners": [
+            "japan-watatsumi",
+            "japan-hoori"
+          ],
+          "events": [
+            "japan-sea"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-fishhook",
+          "name": "遗失的钓钩",
+          "alias": "Lost fishhook",
+          "kind": "叙事日用器物",
+          "tier": 2,
+          "summary": "海幸彦拒绝接受替代品而坚持索回的原钩。",
+          "detail": "金属钩虽普通，却引发海宫远行、婚姻与王权谱系。其价值来自物主关系和叙事位置，不能只以是否发光变形判定重要性。",
+          "owners": [
+            "japan-hoderi",
+            "japan-hoori",
+            "japan-watatsumi"
+          ],
+          "events": [
+            "japan-sea"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-ikuta",
+          "name": "生太刀",
+          "alias": "Ikutachi",
+          "kind": "叙事神兵",
+          "tier": 2,
+          "summary": "大国主从根之坚州国带走的太刀。",
+          "detail": "与生弓矢等物一起，标记他从受迫害的年轻者转为统治者；名称中的“生”不宜随意扩写成可起死回生的固定技能。",
+          "owners": [
+            "japan-susanoo",
+            "japan-okuninushi"
+          ],
+          "events": [
+            "japan-rootland"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-ikuyumi",
+          "name": "生弓矢",
+          "alias": "Ikuyumiya",
+          "kind": "叙事神兵",
+          "tier": 2,
+          "summary": "与生太刀同被带走、用来平定兄弟的弓矢。",
+          "detail": "它处于婚姻试炼、逃离与建国相连的段落；不要与天若日子受赐的天弓天箭混同。",
+          "owners": [
+            "japan-okuninushi",
+            "japan-susanoo"
+          ],
+          "events": [
+            "japan-rootland"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-norigoto",
+          "name": "天诏琴",
+          "alias": "Ame no norigoto",
+          "kind": "叙事乐器",
+          "tier": 3,
+          "summary": "逃离时碰触树木发出声响、惊醒须佐之男的琴。",
+          "detail": "器物并非只有帮助英雄的一面：琴声也暴露逃跑，使节奏和障碍进入追逐场景。",
+          "owners": [
+            "japan-okuninushi",
+            "japan-susanoo"
+          ],
+          "events": [
+            "japan-rootland"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        },
+        {
+          "id": "jp-art-return-arrow",
+          "name": "天之波波矢与天之麻迦古弓",
+          "alias": "Heavenly bow and returning arrow",
+          "kind": "叙事神兵",
+          "tier": 2,
+          "summary": "天若日子执行使命时获得、又因违命致死的弓箭。",
+          "detail": "射死雉的箭被投回人间并贯穿其胸，体现使命授予与追责；物件可回到起点，人物却无法撤销已做的选择。",
+          "owners": [
+            "japan-wakahiko"
+          ],
+          "events": [
+            "japan-return-arrow"
+          ],
+          "sources": [
+            "jp-full"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "jp-group-heaven",
+          "title": "高天原与降临",
+          "summary": "天照、岩户协作者、派遣神与天孙构成王权来源叙事。",
+          "members": [
+            "japan-amaterasu",
+            "japan-uzume",
+            "japan-omoikane",
+            "japan-tajikarao",
+            "japan-ninigi",
+            "japan-takemikazuchi",
+            "japan-wakahiko"
+          ],
+          "source": "jp-full"
+        },
+        {
+          "id": "jp-group-earth",
+          "title": "国土经营与根之国",
+          "summary": "须佐之男、出云神与地方建国故事的连续阅读路线。",
+          "members": [
+            "japan-susanoo",
+            "japan-okuninushi",
+            "japan-sukunahikona",
+            "japan-orochi",
+            "japan-kushinada"
+          ],
+          "source": "jp-full"
+        },
+        {
+          "id": "jp-group-sea",
+          "title": "海宫与王室祖先",
+          "summary": "遗失钓钩、异界婚姻和潮珠把海神与王室谱系连接。",
+          "members": [
+            "japan-hoori",
+            "japan-hoderi",
+            "japan-watatsumi",
+            "japan-toyotama",
+            "japan-konohana",
+            "japan-jimmu"
+          ],
+          "source": "jp-full"
+        }
+      ],
+      "sources": [
+        {
+          "id": "jp-full",
+          "title": "《古事记》全文与注释",
+          "url": "https://kojiki.kokugakuin.ac.jp/kojiki/",
+          "author": "國學院大學 古典文化学事業",
+          "kind": "原典",
+          "note": "按上卷、中卷的篇段标题定位；不把记纪异文合成一个统一版本。"
+        },
+        {
+          "id": "jp-mirror",
+          "title": "Kagami：镜与祭祀",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9667",
+          "author": "國學院大學 Encyclopedia of Shinto",
+          "kind": "学术",
+          "note": "镜可为神体或御灵代；现代神社实物不等于已证实的神话原物。"
+        }
+      ]
+    },
+    {
+      "id": "hindu",
+      "entities": [
+        {
+          "id": "hindu-ganga",
+          "name": "恒河女神",
+          "alias": "Gaṅgā",
+          "kind": "神祇／圣河",
+          "tier": 2,
+          "domain": "天河下降与净化",
+          "summary": "以女神和河流两种形式受到敬奉。",
+          "detail": "河水下降需要湿婆发髻缓冲；朝圣、葬仪与生态现实共同构成恒河的意义，不能只读为一件可操控的神奇液体。",
+          "sources": [
+            "hi-rama"
+          ]
+        },
+        {
+          "id": "hindu-bhagiratha",
+          "name": "婆吉罗陀",
+          "alias": "Bhagīratha",
+          "kind": "国王／修行者",
+          "tier": 2,
+          "domain": "引河救祖",
+          "summary": "以苦行促成恒河降临，为祖先带来解救。",
+          "detail": "他的行动连接王族世系、苦行与河流地理；“引河”是史诗宇宙叙事，并非已证实的单个人工水利工程。",
+          "sources": [
+            "hi-rama"
+          ]
+        },
+        {
+          "id": "hindu-nandi",
+          "name": "难提",
+          "alias": "Nandi",
+          "kind": "神牛／侍从",
+          "tier": 2,
+          "domain": "湿婆坐骑与守护",
+          "summary": "神庙中常面向湿婆圣所的牛形主体。",
+          "detail": "难提既是动物坐骑也具人格化侍从传统；其位置使信众目光与礼敬方向进入神庙空间。",
+          "sources": [
+            "hi-deities"
+          ]
+        },
+        {
+          "id": "hindu-dhanvantari",
+          "name": "檀梵陀利",
+          "alias": "Dhanvantari",
+          "kind": "神祇",
+          "tier": 2,
+          "domain": "医药与甘露",
+          "summary": "搅乳海时携甘露出现的医药神。",
+          "detail": "甘露与医药联系生命维护，却不可把神话中的不死饮料当作真实医疗药方；不同搅海文本列出的宝物顺序有异。",
+          "sources": [
+            "hi-vp-churn"
+          ]
+        },
+        {
+          "id": "hindu-mohini",
+          "name": "摩诃尼／迷惑女相",
+          "alias": "Mohinī",
+          "kind": "神圣形态",
+          "tier": 2,
+          "domain": "甘露分配与魅惑",
+          "summary": "毗湿奴以迷惑性的女性形态参与甘露争夺。",
+          "detail": "这不是所有女神的别名；在不同往世书中，其故事长度、对象和神学解释不同，应按文本限定。",
+          "sources": [
+            "hi-vp-churn"
+          ]
+        },
+        {
+          "id": "hindu-mahishasura",
+          "name": "水牛魔",
+          "alias": "Mahiṣāsura",
+          "kind": "阿修罗",
+          "tier": 2,
+          "domain": "女神战斗",
+          "summary": "女神难近母最具标识性的对手。",
+          "detail": "牛形、半人牛形和人形之间的变化，使图像能够展示搏斗的不同瞬间；不能据一幅作品推断所有版本都按同样步骤变形。",
+          "sources": [
+            "hi-deities"
+          ]
+        },
+        {
+          "id": "hindu-bhima",
+          "name": "怖军",
+          "alias": "Bhīma",
+          "kind": "英雄",
+          "tier": 2,
+          "domain": "般度五子与战锤",
+          "summary": "以巨大力量著称的般度英雄。",
+          "detail": "力量支持家族求存，也引出复仇与战斗规则的冲突；其战锤不同于毗湿奴的神锤，不能只因器型相同就合为同一件。",
+          "sources": [
+            "hi-mahabharata"
+          ]
+        },
+        {
+          "id": "hindu-draupadi",
+          "name": "黑公主／德劳帕蒂",
+          "alias": "Draupadī",
+          "kind": "王后／史诗人物",
+          "tier": 2,
+          "domain": "婚姻、羞辱与正义",
+          "summary": "般度五子的共同妻子，家族冲突的核心发言者。",
+          "detail": "她在赌局后的质问把所有权、人格与法的问题推到前台；史诗中的主体性不能被“战争导火索”一语替代。",
+          "sources": [
+            "hi-mahabharata"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "hindu-ganga-descent",
+          "title": "恒河下降",
+          "tier": 2,
+          "era": "《罗摩衍那》童年篇",
+          "summary": "婆吉罗陀苦行使天河来到人间。",
+          "detail": "湿婆以发髻承接猛烈水流，河水随后沿途拯救祖先；神话把净化、地理和王族记忆连为一体。",
+          "actors": [
+            "hindu-ganga",
+            "hindu-bhagiratha",
+            "hindu-shiva"
+          ],
+          "source": "hi-rama"
+        },
+        {
+          "id": "hindu-ganesha-head",
+          "title": "象头神的断首与新生",
+          "tier": 2,
+          "era": "后世往世书与图像传统",
+          "summary": "守门的少年与湿婆冲突，最终获象头而再生。",
+          "detail": "这一常见叙事并非象头神唯一的出生版本；母子、边界、辨认与赐予新身份构成理解重点。",
+          "actors": [
+            "hindu-ganesha",
+            "hindu-parvati",
+            "hindu-shiva"
+          ],
+          "source": "hi-deities"
+        },
+        {
+          "id": "hindu-herb-mountain",
+          "title": "哈奴曼搬运药山",
+          "tier": 2,
+          "era": "《罗摩衍那》战争篇",
+          "summary": "哈奴曼为战场伤员寻找救命药草。",
+          "detail": "无法迅速辨认所需草药时，他把所在山体带来；后世图像常浓缩成一手举山，但不同版本对受伤者和往返次数有差别。",
+          "actors": [
+            "hindu-hanuman",
+            "hindu-lakshmana",
+            "hindu-rama"
+          ],
+          "source": "hi-rama"
+        },
+        {
+          "id": "hindu-dice",
+          "title": "赌局、质问与流放",
+          "tier": 2,
+          "era": "《摩诃婆罗多》大会篇",
+          "summary": "掷骰使王国、兄弟与德劳帕蒂卷入被抵押的危机。",
+          "detail": "德劳帕蒂质问已输掉自己的人是否还有权拿她作赌注。故事中心是权利和法的困境，不能只写作一场倒霉的赌博。",
+          "actors": [
+            "hindu-draupadi",
+            "hindu-bhima",
+            "hindu-arjuna"
+          ],
+          "source": "hi-mahabharata"
+        },
+        {
+          "id": "hindu-khandava",
+          "title": "焚烧甘陀婆林",
+          "tier": 2,
+          "era": "《摩诃婆罗多》初篇",
+          "summary": "阿周那和克里希纳协助火神，获得关键武器。",
+          "detail": "神兵的取得伴随林中生命的大规模毁灭；史诗既展示英雄能力，也让读者面对城邦秩序建立的暴力代价。",
+          "actors": [
+            "hindu-arjuna",
+            "hindu-krishna",
+            "hindu-agni",
+            "hindu-indra"
+          ],
+          "source": "hi-mahabharata"
+        }
+      ],
+      "relations": [
+        {
+          "to": "hindu-shiva",
+          "type": "承接与降临",
+          "note": "湿婆发髻缓和天河冲击",
+          "source": "hi-rama",
+          "from": "hindu-ganga"
+        },
+        {
+          "to": "hindu-ganga",
+          "type": "祈请",
+          "note": "以苦行为祖先引河",
+          "source": "hi-rama",
+          "from": "hindu-bhagiratha"
+        },
+        {
+          "to": "hindu-shiva",
+          "type": "坐骑／侍从",
+          "note": "神庙与图像传统",
+          "source": "hi-deities",
+          "from": "hindu-nandi"
+        },
+        {
+          "to": "hindu-vishnu",
+          "type": "神圣关联",
+          "note": "医药神与毗湿奴传统相关，搅海中显现",
+          "source": "hi-vp-churn",
+          "from": "hindu-dhanvantari"
+        },
+        {
+          "to": "hindu-vishnu",
+          "type": "形态关联",
+          "note": "分配甘露时的女性形态",
+          "source": "hi-vp-churn",
+          "from": "hindu-mohini"
+        },
+        {
+          "to": "hindu-durga",
+          "type": "敌对",
+          "note": "女神降服水牛魔",
+          "source": "hi-deities",
+          "from": "hindu-mahishasura"
+        },
+        {
+          "to": "hindu-arjuna",
+          "type": "兄弟",
+          "note": "般度五子中的两位",
+          "source": "hi-mahabharata",
+          "from": "hindu-bhima"
+        },
+        {
+          "to": "hindu-bhima",
+          "type": "婚姻",
+          "note": "共同妻子的史诗语境，不类推为普遍社会制度",
+          "source": "hi-mahabharata",
+          "from": "hindu-draupadi"
+        },
+        {
+          "to": "hindu-arjuna",
+          "type": "婚姻",
+          "note": "般度五子的共同妻子",
+          "source": "hi-mahabharata",
+          "from": "hindu-draupadi"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "hi-art-sudarshana",
+          "name": "善见神轮",
+          "alias": "Sudarśana cakra",
+          "kind": "叙事神兵／图像属性",
+          "tier": 1,
+          "summary": "毗湿奴及克里希纳的重要轮形兵器。",
+          "detail": "武器也有象征性阐释：《毗湿奴往世书》将轮联系迅疾的心念。具体战斗故事、神学解读和雕像中的属性物应分层阅读。",
+          "owners": [
+            "hindu-vishnu",
+            "hindu-krishna"
+          ],
+          "events": [
+            "hindu-khandava"
+          ],
+          "sources": [
+            "hi-vp-symbol"
+          ]
+        },
+        {
+          "id": "hi-art-panchajanya",
+          "name": "五生螺",
+          "alias": "Pāñcajanya",
+          "kind": "叙事法螺／仪式属性",
+          "tier": 1,
+          "summary": "克里希纳在战场吹响的法螺。",
+          "detail": "《薄伽梵歌》开篇把不同战士的螺分别命名，声音成为战争动员；宗教仪式中的真实法螺并不都是这一唯一神话物件。",
+          "owners": [
+            "hindu-krishna",
+            "hindu-vishnu"
+          ],
+          "events": [
+            "hindu-gita"
+          ],
+          "sources": [
+            "hi-mahabharata"
+          ]
+        },
+        {
+          "id": "hi-art-kaumodaki",
+          "name": "考摩陀吉神锤",
+          "alias": "Kaumodakī",
+          "kind": "叙事神兵／图像属性",
+          "tier": 2,
+          "summary": "毗湿奴传统的重要锤形兵器。",
+          "detail": "《毗湿奴往世书》的象征解释把锤联系原初智性；它与怖军用于决斗的战锤不同，不能仅按外形合为一件。",
+          "owners": [
+            "hindu-vishnu",
+            "hindu-krishna"
+          ],
+          "events": [],
+          "sources": [
+            "hi-vp-symbol"
+          ]
+        },
+        {
+          "id": "hi-art-kaustubha",
+          "name": "考斯图跋宝石",
+          "alias": "Kaustubha",
+          "kind": "叙事宝物／图像属性",
+          "tier": 2,
+          "summary": "毗湿奴胸前的珍宝，常列于搅海所得。",
+          "detail": "宝石在象征解释中关联纯净灵性；搅海版本的宝物清单并不一致，不宜把某一后世十四宝列表当作所有原典共同记载。",
+          "owners": [
+            "hindu-vishnu"
+          ],
+          "events": [
+            "hindu-churn"
+          ],
+          "sources": [
+            "hi-vp-churn"
+          ]
+        },
+        {
+          "id": "hi-art-nandaka",
+          "name": "难陀迦神剑",
+          "alias": "Nandaka",
+          "kind": "叙事神兵／神学象征",
+          "tier": 3,
+          "summary": "毗湿奴武器传统中的剑。",
+          "detail": "往世书对剑的解释强调智慧破除无知；这类阐释不意味着每座毗湿奴像都必定持剑，四臂像更常使用其他属性组合。",
+          "owners": [
+            "hindu-vishnu"
+          ],
+          "events": [],
+          "sources": [
+            "hi-vp-symbol"
+          ]
+        },
+        {
+          "id": "hi-art-sharanga",
+          "name": "沙楞伽弓",
+          "alias": "Śārṅga",
+          "kind": "叙事神兵",
+          "tier": 2,
+          "summary": "毗湿奴及克里希纳传统的神弓。",
+          "detail": "神弓归属与罗摩故事中的诸弓关系需要按版本说明；不能把罗摩折断的湿婆之弓也归给同一个名字。",
+          "owners": [
+            "hindu-vishnu",
+            "hindu-krishna"
+          ],
+          "events": [],
+          "sources": [
+            "hi-vp-symbol"
+          ]
+        },
+        {
+          "id": "hi-art-trident",
+          "name": "三叉戟",
+          "alias": "Triśūla",
+          "kind": "神祇图像属性／叙事兵器",
+          "tier": 1,
+          "summary": "湿婆极易识别的三叉兵器。",
+          "detail": "三尖在不同解释中可联系三类力量、时间或其他三分观念；页面不把任何一说写成唯一原意。真实祭祀戟与叙事神兵也需区分。",
+          "owners": [
+            "hindu-shiva"
+          ],
+          "events": [],
+          "sources": [
+            "hi-deities"
+          ]
+        },
+        {
+          "id": "hi-art-damaru",
+          "name": "达玛鲁鼓",
+          "alias": "Ḍamaru",
+          "kind": "图像乐器／仪式器物",
+          "tier": 2,
+          "summary": "湿婆手中的沙漏形小鼓。",
+          "detail": "舞王像的鼓与火共同表现生成和消解；鼓是可见图像属性，也有真实音乐与仪式传统，不能只当作战斗道具。",
+          "owners": [
+            "hindu-shiva"
+          ],
+          "events": [
+            "hindu-nataraja"
+          ],
+          "sources": [
+            "hi-shiva"
+          ]
+        },
+        {
+          "id": "hi-art-fire",
+          "name": "舞王手中之火",
+          "alias": "Agni in Nataraja iconography",
+          "kind": "图像象征",
+          "tier": 2,
+          "summary": "与鼓相对出现、凝聚毁灭和转化的火焰。",
+          "detail": "它是图像中的神圣力量而非一支有固定专名的武器。火、足、手印和无知侏儒必须一起阅读，才能避免只看到灾难。",
+          "owners": [
+            "hindu-shiva"
+          ],
+          "events": [
+            "hindu-nataraja"
+          ],
+          "sources": [
+            "hi-shiva"
+          ]
+        },
+        {
+          "id": "hi-art-vajra",
+          "name": "金刚杵／雷霆",
+          "alias": "Vajra",
+          "kind": "叙事神兵／仪式器物",
+          "tier": 1,
+          "summary": "因陀罗的雷霆兵器，也是跨宗教传播的重要符号。",
+          "detail": "印度教战斗叙事与佛教金刚杵的仪轨、形制各有发展；不可把佛教多股杵照片直接当作吠陀神兵的写实复原。",
+          "owners": [
+            "hindu-indra"
+          ],
+          "events": [],
+          "sources": [
+            "hi-mahabharata"
+          ]
+        },
+        {
+          "id": "hi-art-gandiva",
+          "name": "甘狄拔弓",
+          "alias": "Gāṇḍīva",
+          "kind": "叙事神兵",
+          "tier": 1,
+          "summary": "阿周那长期使用的弓。",
+          "detail": "在焚林叙事的武器授予中取得；到了英雄时代终结时，武器的归还与能力衰退相联系，神兵也有时间限度。",
+          "owners": [
+            "hindu-arjuna"
+          ],
+          "events": [
+            "hindu-khandava",
+            "hindu-gita"
+          ],
+          "sources": [
+            "hi-mahabharata"
+          ]
+        },
+        {
+          "id": "hi-art-quivers",
+          "name": "阿周那不竭箭囊",
+          "alias": "Inexhaustible quivers",
+          "kind": "叙事装备",
+          "tier": 2,
+          "summary": "与甘狄拔一起支持持续作战的箭囊。",
+          "detail": "箭囊解决物资耗尽的问题，因此焚林叙事不只是“弓很强”，还涉及持续射击与封锁逃路的能力及其代价。",
+          "owners": [
+            "hindu-arjuna"
+          ],
+          "events": [
+            "hindu-khandava"
+          ],
+          "sources": [
+            "hi-mahabharata"
+          ]
+        },
+        {
+          "id": "hi-art-shiva-bow",
+          "name": "罗摩折断的湿婆之弓",
+          "alias": "Śiva's bow at Mithila",
+          "kind": "叙事神兵／婚姻试验",
+          "tier": 2,
+          "summary": "弯弓试验把罗摩与悉多的婚姻联系起来。",
+          "detail": "罗摩举弓上弦时将其折断，显示资格并引出后续神弓对照；此弓不能与他日常携带的弓或阿周那的甘狄拔混同。",
+          "owners": [
+            "hindu-rama",
+            "hindu-sita"
+          ],
+          "events": [],
+          "sources": [
+            "hi-rama"
+          ]
+        },
+        {
+          "id": "hi-art-brahmastra",
+          "name": "梵天武器",
+          "alias": "Brahmāstra",
+          "kind": "咒力兵器类别",
+          "tier": 2,
+          "summary": "凭咒语发动、具有极大毁伤能力的天界武器。",
+          "detail": "它更接近一种授受知识及发动方式，而非所有故事都只出现的一根实体箭；史诗同时关注使用资格、反制与滥用后果。",
+          "owners": [
+            "hindu-rama",
+            "hindu-arjuna"
+          ],
+          "events": [],
+          "sources": [
+            "hi-mahabharata"
+          ]
+        },
+        {
+          "id": "hi-art-amrita",
+          "name": "甘露",
+          "alias": "Amṛta",
+          "kind": "叙事生命饮料",
+          "tier": 1,
+          "summary": "搅乳海争夺的不死之饮。",
+          "detail": "甘露的生产需要合作，分配却暴露阵营冲突；此物不能直接当作真实治疗或延寿方法。各文本对获得者和分配过程有差异。",
+          "owners": [
+            "hindu-dhanvantari",
+            "hindu-mohini",
+            "hindu-vishnu"
+          ],
+          "events": [
+            "hindu-churn"
+          ],
+          "sources": [
+            "hi-vp-churn"
+          ]
+        },
+        {
+          "id": "hi-art-amrita-vessel",
+          "name": "甘露之罐",
+          "alias": "Vessel of amṛta",
+          "kind": "叙事容器／图像属性",
+          "tier": 2,
+          "summary": "檀梵陀利携带甘露显现时的重要容器。",
+          "detail": "罐与其中的液体可分别承担身份识别和生命赋予的意义；不同图像的材质与形制不应被写成唯一规格。",
+          "owners": [
+            "hindu-dhanvantari"
+          ],
+          "events": [
+            "hindu-churn"
+          ],
+          "sources": [
+            "hi-vp-churn"
+          ]
+        },
+        {
+          "id": "hi-art-mandara",
+          "name": "曼陀罗山",
+          "alias": "Mount Mandara",
+          "kind": "叙事地景／搅拌器物",
+          "tier": 2,
+          "summary": "被用作搅海棒的山。",
+          "detail": "山、蛇绳与支撑者共同形成宇宙规模的工具组合；它属于神话地景，不应与现实旅游地名未经说明地画上等号。",
+          "owners": [
+            "hindu-vishnu",
+            "hindu-vasuki"
+          ],
+          "events": [
+            "hindu-churn"
+          ],
+          "sources": [
+            "hi-vp-churn"
+          ]
+        },
+        {
+          "id": "hi-art-halahala",
+          "name": "搅海之毒",
+          "alias": "Hālāhala / Kālakūṭa",
+          "kind": "叙事危险物质",
+          "tier": 2,
+          "summary": "搅海并非只产宝物，也带来危及世界的毒。",
+          "detail": "湿婆承担毒的故事在多种往世书中发展；本条保留版本提示，不把详略不同的搅海原典拼成逐项完全一致的清单。",
+          "owners": [
+            "hindu-shiva"
+          ],
+          "events": [
+            "hindu-churn"
+          ],
+          "sources": [
+            "hi-vp-churn"
+          ]
+        },
+        {
+          "id": "hi-art-medicinal-mountain",
+          "name": "救命药草之山",
+          "alias": "Medicinal mountain",
+          "kind": "叙事地景／药物载体",
+          "tier": 2,
+          "summary": "哈奴曼为救伤员搬来的含药山峰。",
+          "detail": "神话重点是紧迫情势下的忠诚与应变；不能据故事认定某种现代草药拥有起死回生的疗效，山名也随版本和地方传统变化。",
+          "owners": [
+            "hindu-hanuman",
+            "hindu-lakshmana"
+          ],
+          "events": [
+            "hindu-herb-mountain"
+          ],
+          "sources": [
+            "hi-hanuman-img"
+          ]
+        },
+        {
+          "id": "hi-art-vina",
+          "name": "维纳琴",
+          "alias": "Vīṇā",
+          "kind": "神祇图像属性／真实乐器",
+          "tier": 2,
+          "summary": "辩才天女常持有的弦乐器。",
+          "detail": "音乐、言语和学习在女神图像中相连；vīṇā有不同历史器型，不能将一切古代弦乐器都理解成今天同一种长颈琴。",
+          "owners": [
+            "hindu-sarasvati"
+          ],
+          "events": [],
+          "sources": [
+            "hi-deities"
+          ]
+        },
+        {
+          "id": "hi-art-bhima-mace",
+          "name": "怖军的战锤",
+          "alias": "Bhīma's gadā",
+          "kind": "史诗兵器",
+          "tier": 2,
+          "summary": "怖军近身作战和决斗的重要武器。",
+          "detail": "与难敌的终局决斗涉及规则、誓言及报复；其重要性源于伦理情节，不能因锤头巨大就把它等同毗湿奴的考摩陀吉。",
+          "owners": [
+            "hindu-bhima"
+          ],
+          "events": [
+            "hindu-dice"
+          ],
+          "sources": [
+            "hi-mahabharata"
+          ]
+        },
+        {
+          "id": "hi-art-dice",
+          "name": "赌局骰子",
+          "alias": "Dice of the Sabha",
+          "kind": "史诗器物／权力媒介",
+          "tier": 2,
+          "summary": "把财物、国土乃至亲属推入赌注的器具。",
+          "detail": "史诗中最危险的器物未必是神兵；骰子使规则和强制包装成游戏，德劳帕蒂的质问暴露这种规则的伦理问题。",
+          "owners": [
+            "hindu-draupadi",
+            "hindu-bhima",
+            "hindu-arjuna"
+          ],
+          "events": [
+            "hindu-dice"
+          ],
+          "sources": [
+            "hi-mahabharata"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "hi-group-vishnu",
+          "title": "毗湿奴与护世叙事",
+          "summary": "化身、坐骑、宇宙海和搅海；形态关系不全等同普通亲子谱系。",
+          "members": [
+            "hindu-vishnu",
+            "hindu-krishna",
+            "hindu-rama",
+            "hindu-lakshmi",
+            "hindu-garuda",
+            "hindu-shesha",
+            "hindu-vasuki",
+            "hindu-dhanvantari",
+            "hindu-mohini"
+          ],
+          "source": "hi-vp"
+        },
+        {
+          "id": "hi-group-shiva",
+          "title": "湿婆、女神与家族图像",
+          "summary": "把家庭、修行、毁灭和护佑并读；大女神不是只能通过配偶关系理解。",
+          "members": [
+            "hindu-shiva",
+            "hindu-parvati",
+            "hindu-devi",
+            "hindu-durga",
+            "hindu-kali",
+            "hindu-ganesha",
+            "hindu-karttikeya",
+            "hindu-nandi",
+            "hindu-ganga",
+            "hindu-mahishasura"
+          ],
+          "source": "hi-deities"
+        },
+        {
+          "id": "hi-group-epics",
+          "title": "两大史诗的行动者",
+          "summary": "《罗摩衍那》和《摩诃婆罗多》各有叙事时间与伦理难题，不合成一场战争。",
+          "members": [
+            "hindu-rama",
+            "hindu-sita",
+            "hindu-lakshmana",
+            "hindu-hanuman",
+            "hindu-ravana",
+            "hindu-arjuna",
+            "hindu-bhima",
+            "hindu-draupadi",
+            "hindu-krishna"
+          ],
+          "source": "hi-mahabharata"
+        }
+      ],
+      "sources": [
+        {
+          "id": "hi-mahabharata",
+          "title": "The Mahabharata：Ganguli 英译",
+          "url": "https://sacred-texts.com/hin/maha/index.htm",
+          "author": "Kisari Mohan Ganguli 译，1883—1896",
+          "kind": "原典",
+          "note": "按篇名与故事段落定位；英文分节与梵文校勘本编号有差别。"
+        },
+        {
+          "id": "hi-vp-symbol",
+          "title": "《毗湿奴往世书》第一卷第22章",
+          "url": "https://sacred-texts.com/hin/vp/vp057.htm",
+          "author": "H. H. Wilson 译，1840",
+          "kind": "原典",
+          "note": "讨论宝石、锤、螺、弓、轮和剑的宇宙论象征；此解读并非全部印度教共有的一套固定答案。"
+        },
+        {
+          "id": "hi-vp-churn",
+          "title": "《毗湿奴往世书》第一卷第9章",
+          "url": "https://sacred-texts.com/hin/vp/vp044.htm",
+          "author": "H. H. Wilson 译，1840",
+          "kind": "原典",
+          "note": "搅乳海及译者异文注；所得宝物名单不能不加说明地混并。"
+        },
+        {
+          "id": "hi-ganesha-img",
+          "title": "Ganesha，2015.500.4.12",
+          "url": "https://www.metmuseum.org/art/collection/search/37397",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "12世纪铜合金象头神；实物属性可辅助识别图像，不证明所有诞生传说。"
+        },
+        {
+          "id": "hi-kali-img",
+          "title": "Kali，2021.195",
+          "url": "https://www.metmuseum.org/art/collection/search/849495",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "约1880—1885年加尔各答石版画；用于近代女神图像。"
+        },
+        {
+          "id": "hi-hanuman-img",
+          "title": "Hanuman Bearing the Mountaintop with Medicinal Herbs",
+          "url": "https://www.metmuseum.org/art/collection/search/37960",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "约1800年拉贾斯坦绘画，馆藏号57.70.6。"
+        }
+      ]
+    },
+    {
+      "id": "maya",
+      "entities": [
+        {
+          "id": "maya-zipacna",
+          "name": "西帕克纳",
+          "alias": "Zipacna",
+          "kind": "神话强者",
+          "tier": 2,
+          "domain": "山岳与自夸",
+          "summary": "七鹦鹉之子，以巨力自夸。",
+          "detail": "他与四百少年的冲突之后，又被双子用假蟹诱入山下；山、食欲与机关共同终止他的暴力。",
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "maya-cabracan",
+          "name": "卡布拉坎",
+          "alias": "Cabracan",
+          "kind": "神话强者",
+          "tier": 2,
+          "domain": "震山与虚假威力",
+          "summary": "声称能够推倒山岳的七鹦鹉之子。",
+          "detail": "双子以鸟肉和土地设计削弱他。故事属于反制虚假神圣权威的组章，不应把他当作现代地质学意义的拟人地震模型。",
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "maya-xpiyacoc",
+          "name": "伊斯皮亚科克",
+          "alias": "Xpiyacoc",
+          "kind": "神祇／祖先",
+          "tier": 2,
+          "domain": "占卜与祖辈智慧",
+          "summary": "与伊斯穆卡内配对出现的祖辈创造者。",
+          "detail": "造人商议和降服七鹦鹉时，年老并不等于无力；占卜、治病与生活经验构成不同于战斗的权能。",
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "maya-hunbatz",
+          "name": "胡恩巴茨",
+          "alias": "Hun Batz",
+          "kind": "艺者／祖辈",
+          "tier": 3,
+          "domain": "音乐、书写与猴变",
+          "summary": "英雄双子的年长同父异母兄长之一。",
+          "detail": "兄长的敌意和树上变猴是家族冲突故事，后来的艺术之神比较需要区分基切文本与古典低地的猴形书吏图像。",
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "maya-hunchouen",
+          "name": "胡恩楚恩",
+          "alias": "Hun Chouen",
+          "kind": "艺者／祖辈",
+          "tier": 3,
+          "domain": "工艺与猴变",
+          "summary": "与胡恩巴茨成对的艺者和兄长。",
+          "detail": "双子使他们变猴，再以音乐尝试召回；祖母的笑打断返回，构成才艺、嫉妒与失去家族位置的复合故事。",
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "maya-principal-bird",
+          "name": "主鸟神（古典期图像）",
+          "alias": "Principal Bird Deity",
+          "kind": "神祇／图像称谓",
+          "tier": 2,
+          "domain": "天界鸟形与王权",
+          "summary": "现代研究用于辨识古典玛雅超自然鸟的一种称谓。",
+          "detail": "馆藏图像将其联系天界和伊察姆纳赫；与基切文本七鹦鹉的比较有价值，但两者年代、语言和材料不同，不应无条件合成同一生平。",
+          "sources": [
+            "ma-pbd"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "maya-mountain-brothers",
+          "title": "降服西帕克纳与卡布拉坎",
+          "tier": 2,
+          "era": "《波波尔·乌》反制假太阳故事群",
+          "summary": "双子以计谋结束七鹦鹉两子的自夸。",
+          "detail": "假蟹、山腹、烤鸟和土地让食欲成为弱点；两次降服应分开阅读，不压成一次以暴制暴的大战。",
+          "actors": [
+            "mesoamerica-hunahpu",
+            "mesoamerica-xbalanque",
+            "maya-zipacna",
+            "maya-cabracan"
+          ],
+          "source": "me-pv"
+        },
+        {
+          "id": "maya-monkey-brothers",
+          "title": "艺者兄长化为猴",
+          "tier": 2,
+          "era": "《波波尔·乌》英雄家族段",
+          "summary": "胡恩巴茨与胡恩楚恩被双子诱上树并变猴。",
+          "detail": "嫉妒、才能与祖母的笑决定家族关系的不可逆转；与古典猴书吏作比较时应保留年代和地域距离。",
+          "actors": [
+            "maya-hunbatz",
+            "maya-hunchouen",
+            "mesoamerica-hunahpu",
+            "mesoamerica-xbalanque",
+            "mesoamerica-xmucane"
+          ],
+          "source": "me-pv"
+        },
+        {
+          "id": "maya-fish-return",
+          "title": "骨粉入河与变鱼复生",
+          "tier": 2,
+          "era": "《波波尔·乌》希巴尔巴结局",
+          "summary": "双子预先安排骨粉入河，在冥界众神误以为得胜后重返。",
+          "detail": "变鱼、穷人表演、杀死与复活的一连串转换诱使冥王自愿受死；Mint陶器记录提供较早图像的可比材料，不能直接当作殖民期书本的复制品。",
+          "actors": [
+            "mesoamerica-hunahpu",
+            "mesoamerica-xbalanque",
+            "mesoamerica-hun-came",
+            "mesoamerica-vucub-came"
+          ],
+          "source": "me-pv"
+        }
+      ],
+      "relations": [
+        {
+          "to": "mesoamerica-sevencaw",
+          "type": "父子",
+          "note": "七鹦鹉家族",
+          "source": "me-pv",
+          "from": "maya-zipacna"
+        },
+        {
+          "to": "mesoamerica-sevencaw",
+          "type": "父子",
+          "note": "七鹦鹉家族",
+          "source": "me-pv",
+          "from": "maya-cabracan"
+        },
+        {
+          "to": "mesoamerica-hunahpu",
+          "type": "敌对",
+          "note": "以假蟹诱入山腹",
+          "source": "me-pv",
+          "from": "maya-zipacna"
+        },
+        {
+          "to": "mesoamerica-xbalanque",
+          "type": "敌对",
+          "note": "烤鸟与土地的计谋",
+          "source": "me-pv",
+          "from": "maya-cabracan"
+        },
+        {
+          "to": "mesoamerica-xmucane",
+          "type": "祖辈配对",
+          "note": "造人商议、占卜与治病",
+          "source": "me-pv",
+          "from": "maya-xpiyacoc"
+        },
+        {
+          "to": "maya-hunchouen",
+          "type": "兄弟／艺者配对",
+          "note": "变猴故事",
+          "source": "me-pv",
+          "from": "maya-hunbatz"
+        },
+        {
+          "to": "mesoamerica-hunahpu",
+          "type": "同父异母兄弟",
+          "note": "嫉妒与家庭竞争",
+          "source": "me-pv",
+          "from": "maya-hunbatz"
+        },
+        {
+          "to": "mesoamerica-xbalanque",
+          "type": "同父异母兄弟",
+          "note": "树上变猴与音乐召回",
+          "source": "me-pv",
+          "from": "maya-hunchouen"
+        },
+        {
+          "to": "mesoamerica-sevencaw",
+          "type": "比较关系",
+          "note": "古典图像与基切文本可对读，不表示已确定完全同一",
+          "source": "ma-pbd",
+          "from": "maya-principal-bird"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "ma-art-ball",
+          "name": "英雄家族的球与球具",
+          "alias": "Ball and ballgame equipment",
+          "kind": "叙事器物／真实运动文化",
+          "tier": 1,
+          "summary": "两代球手与希巴尔巴冲突的关键物件。",
+          "detail": "球赛连接家庭记忆、地下空间与危险挑战；真实中美洲球赛形式、规则及祭祀背景并不只有一种，不能把所有比赛都说成败者必死。",
+          "owners": [
+            "mesoamerica-hunahpu",
+            "mesoamerica-xbalanque",
+            "mesoamerica-hunhunahpu"
+          ],
+          "events": [
+            "mesoamerica-xibalba"
+          ],
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "ma-art-blowgun",
+          "name": "双子的吹箭筒",
+          "alias": "Blowgun",
+          "kind": "叙事武器／真实狩猎器具",
+          "tier": 2,
+          "summary": "用于猎鸟并攻击七鹦鹉的吹箭筒。",
+          "detail": "技巧和合作比武器体量更重要；吹箭击中七鹦鹉后仍须借祖辈计谋收尾，器物并不保证立即取胜。",
+          "owners": [
+            "mesoamerica-hunahpu",
+            "mesoamerica-xbalanque"
+          ],
+          "events": [
+            "mesoamerica-false-sun"
+          ],
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "ma-art-head-tree",
+          "name": "结果树上的头颅",
+          "alias": "Skull in the calabash tree",
+          "kind": "叙事身体物／生命象征",
+          "tier": 1,
+          "summary": "一胡纳普的头颅置于树上，成为家系继续的转折。",
+          "detail": "头颅与果实难以区分，唾液又使血月受孕，死亡被重新组织为生命来源。图像中的玉米神头与此段可比较，但不得无条件认定完全同一。",
+          "owners": [
+            "mesoamerica-hunhunahpu",
+            "mesoamerica-xquic"
+          ],
+          "events": [
+            "mesoamerica-xibalba"
+          ],
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "ma-art-maize",
+          "name": "造人的黄白玉米",
+          "alias": "Yellow and white maize",
+          "kind": "叙事食物／宇宙论材料",
+          "tier": 1,
+          "summary": "最终成功造人的身体材料。",
+          "detail": "玉米把人的血肉与农业劳动、祖辈研磨和地方食物相连；不能把它仅概括成与其他文明泥土造人可互换的奇幻材料。",
+          "owners": [
+            "mesoamerica-xmucane",
+            "mesoamerica-huracan"
+          ],
+          "events": [
+            "mesoamerica-humans"
+          ],
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "ma-art-divining",
+          "name": "玉米与珊瑚树籽的占卜",
+          "alias": "Maize and tz'ite seeds",
+          "kind": "叙事器物／占卜材料",
+          "tier": 2,
+          "summary": "祖辈在造人商议中使用的植物材料。",
+          "detail": "这里的tz'ite是树种相关种子而非海洋珊瑚；占卜表达向知识和秩序询问，不是现代概率实验的古代版本。",
+          "owners": [
+            "maya-xpiyacoc",
+            "mesoamerica-xmucane"
+          ],
+          "events": [
+            "mesoamerica-humans"
+          ],
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "ma-art-torch-cigar",
+          "name": "暗屋的火把与雪茄",
+          "alias": "Torch and cigars of Dark House",
+          "kind": "叙事试炼器物",
+          "tier": 2,
+          "summary": "必须整夜保留却看似点燃的试炼用物。",
+          "detail": "双子以红色羽毛和萤火虫等视觉替代应对难题，胜利来自辨识规则和改变对手预期；不同译本对具体材料的译名可对读。",
+          "owners": [
+            "mesoamerica-hunahpu",
+            "mesoamerica-xbalanque"
+          ],
+          "events": [
+            "mesoamerica-xibalba"
+          ],
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "ma-art-bone-powder",
+          "name": "双子的骨粉",
+          "alias": "Ground bones of the twins",
+          "kind": "叙事身体物／复生媒介",
+          "tier": 2,
+          "summary": "经预先安排投入河中、引出复生的骨粉。",
+          "detail": "骨被磨碎并不构成终结，河流与变鱼重新组织身体；这是特定叙事中的转换，不意味着玛雅所有葬仪都有相同复活程序。",
+          "owners": [
+            "mesoamerica-hunahpu",
+            "mesoamerica-xbalanque"
+          ],
+          "events": [
+            "maya-fish-return"
+          ],
+          "sources": [
+            "me-pv"
+          ]
+        },
+        {
+          "id": "ma-art-whistling",
+          "name": "主鸟神鸣哨器",
+          "alias": "Whistling vessel",
+          "kind": "真实仪式器物／神话图像",
+          "tier": 2,
+          "summary": "加水可鸣响的古典玛雅双室陶器。",
+          "detail": "馆方将鸟辨为主鸟神，并讨论敬奉姿态可能隐藏降鸟计谋；它可与七鹦鹉故事比较，不能断言就是同一时代同一文本的插图。",
+          "owners": [
+            "maya-principal-bird"
+          ],
+          "events": [],
+          "sources": [
+            "ma-pbd"
+          ]
+        },
+        {
+          "id": "ma-art-jade-pbd",
+          "name": "主鸟神面容玉雕",
+          "alias": "Jade deity figure",
+          "kind": "真实艺术品／神祇图像",
+          "tier": 2,
+          "summary": "200—600年玛雅玉雕，身体呈人形、面容带超自然鸟特征。",
+          "detail": "馆方保留神的人格化与人戴神面具两种解释；应展示这种不确定性，而不是把它硬指为胡纳普、七鹦鹉或其他确定人物的肖像。",
+          "owners": [
+            "maya-principal-bird"
+          ],
+          "events": [],
+          "sources": [
+            "ma-pbd-jade"
+          ]
+        },
+        {
+          "id": "ma-art-inscribed-vessel",
+          "name": "带符号装饰的玛雅陶杯",
+          "alias": "Maya ceramic vessel",
+          "kind": "真实器物／书写文化",
+          "tier": 3,
+          "summary": "6—9世纪陶制容器，保留供比较的古典期表面符号。",
+          "detail": "本条用于观看器物与书写装饰的结合，馆藏页面未给出完整释读，因而不虚构杯上具体讲了哪一位神或哪场事件。",
+          "owners": [],
+          "events": [],
+          "sources": [
+            "ma-vessel"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "ma-group-creation",
+          "title": "基切创造者与祖辈",
+          "summary": "言语商议、占卜和玉米造人构成《波波尔·乌》的生命起源。",
+          "members": [
+            "mesoamerica-huracan",
+            "mesoamerica-gucumatz",
+            "mesoamerica-xmucane",
+            "maya-xpiyacoc"
+          ],
+          "source": "me-pv"
+        },
+        {
+          "id": "ma-group-twins",
+          "title": "英雄家族与希巴尔巴",
+          "summary": "两代球手、血月、祖母和冥界之主的跨代关系。",
+          "members": [
+            "mesoamerica-hunahpu",
+            "mesoamerica-xbalanque",
+            "mesoamerica-hunhunahpu",
+            "mesoamerica-xquic",
+            "mesoamerica-xmucane",
+            "mesoamerica-hun-came",
+            "mesoamerica-vucub-came",
+            "maya-hunbatz",
+            "maya-hunchouen"
+          ],
+          "source": "me-pv"
+        },
+        {
+          "id": "ma-group-classic",
+          "title": "古典玛雅图像",
+          "summary": "雨神、玉米神与主鸟神来自不同材料；与基切文本的比较需标出年代和地域差别。",
+          "members": [
+            "mesoamerica-chaak",
+            "mesoamerica-maize",
+            "maya-principal-bird"
+          ],
+          "source": "ma-pbd"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ma-mint-twins",
+          "title": "Cylinder Vessel：英雄双子",
+          "url": "https://collections.mintmuseum.org/single?id=2004.96.3",
+          "author": "The Mint Museum",
+          "kind": "博物馆",
+          "note": "550—850年；馆方将人物辨识为双子，持杖顶圆盾或为便携球场标志；该推测应保留。"
+        },
+        {
+          "id": "ma-mint-fish",
+          "title": "Cylinder Vessel：双子变鱼",
+          "url": "https://collections.mintmuseum.org/single?id=1983.172.54",
+          "author": "The Mint Museum",
+          "kind": "博物馆",
+          "note": "650—850年；馆方联系双子骨粉入河、变鱼复生的故事。"
+        },
+        {
+          "id": "ma-pbd",
+          "title": "Whistling vessel，1978.412.90a,b",
+          "url": "https://www.metmuseum.org/art/collection/search/310542",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "400—500年鸣哨器，主鸟神与可能的降鸟叙事；不直接等同基切文本的一幅逐句插画。"
+        },
+        {
+          "id": "ma-vessel",
+          "title": "Vessel，1979.206.1048",
+          "url": "https://www.metmuseum.org/art/collection/search/313241",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "6—9世纪陶器；本条只用于书写与器物的物质文化比较。"
+        },
+        {
+          "id": "ma-pbd-jade",
+          "title": "Deity figure，1979.206.1069",
+          "url": "https://www.metmuseum.org/art/collection/search/313262",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "200—600年辉石质硬玉小像；可能为主鸟神的人格化或戴其面具的人，馆方保留两种识别。"
+        }
+      ]
+    },
+    {
+      "id": "aztec",
+      "entities": [
+        {
+          "id": "aztec-tlaltecuhtli",
+          "name": "特拉尔特库特利",
+          "alias": "Tlaltecuhtli",
+          "kind": "神祇",
+          "tier": 2,
+          "domain": "大地的吞纳与再生",
+          "summary": "将吞噬、死亡和生长结合起来的大地神。",
+          "detail": "名称中的主宰称谓不能单独决定所有图像的性别；蹲踞、口部和身体图案须连同作品原来朝向阅读。",
+          "sources": [
+            "az-earth-img"
+          ]
+        },
+        {
+          "id": "aztec-chicomecoatl",
+          "name": "奇科梅科亚特尔",
+          "alias": "Chicomecoatl",
+          "kind": "神祇",
+          "tier": 2,
+          "domain": "玉米与七蛇日名",
+          "summary": "以谷物和夸张头饰表现的墨西加女神。",
+          "detail": "她属于特定纳瓦神系及农业节庆，不是玛雅玉米神的女性版本；玉米供养与帝国祭仪在其形象中相遇。",
+          "sources": [
+            "az-maize-img"
+          ]
+        },
+        {
+          "id": "aztec-xiuhtecuhtli",
+          "name": "休特库特利",
+          "alias": "Xiuhtecuhtli",
+          "kind": "神祇",
+          "tier": 2,
+          "domain": "火、炉灶与年历",
+          "summary": "与火焰、家庭炉灶和时间更新相连。",
+          "detail": "火在日常炊食与国家周期性仪式之间建立联系；新火仪式也与其他神祇、祭司和具体山地空间关联，不能归为单神独占。",
+          "sources": [
+            "me-aztec"
+          ]
+        },
+        {
+          "id": "aztec-itzpapalotl",
+          "name": "伊茨帕帕洛特尔",
+          "alias": "Itzpapalotl",
+          "kind": "神祇",
+          "tier": 3,
+          "domain": "黑曜石蝶与危险神圣",
+          "summary": "其名称与带刃的蝶形意象相连。",
+          "detail": "利刃、星空和生死的图像难以用柔美蝴蝶或纯粹恶魔概括；具体谱系与故事要按抄本和文本分开。",
+          "sources": [
+            "me-aztec"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "aztec-new-fire",
+          "title": "新火与五十二年周期更新",
+          "tier": 2,
+          "era": "晚期前西班牙与殖民期记录",
+          "summary": "旧火熄灭，新火在周期节点被重新点燃并传播。",
+          "detail": "仪式协调家户、祭司、天象与国家空间；五十二年是不同历法周期会合的尺度，不等于每五十二年确定发生一次世界末日。",
+          "actors": [
+            "aztec-xiuhtecuhtli"
+          ],
+          "source": "me-aztec"
+        },
+        {
+          "id": "aztec-earth-body",
+          "title": "大地身体与创造秩序",
+          "tier": 2,
+          "era": "纳瓦创世异文与大地神图像",
+          "summary": "创造者使大地神的身体成为可居住世界的一部分。",
+          "detail": "关于分裂、滋养和索取的故事表达生命依赖与偿还；图像中的吞噬口与生育姿态不能只读成恐怖装饰。",
+          "actors": [
+            "aztec-tlaltecuhtli",
+            "mesoamerica-quetzalcoatl",
+            "mesoamerica-tezcatlipoca"
+          ],
+          "source": "me-aztec"
+        }
+      ],
+      "relations": [
+        {
+          "to": "mesoamerica-quetzalcoatl",
+          "type": "创造叙事关联",
+          "note": "不同纳瓦创世异文",
+          "source": "me-aztec",
+          "from": "aztec-tlaltecuhtli"
+        },
+        {
+          "to": "mesoamerica-tezcatlipoca",
+          "type": "创造叙事关联",
+          "note": "创造、分裂与滋养的复合关系",
+          "source": "me-aztec",
+          "from": "aztec-tlaltecuhtli"
+        },
+        {
+          "to": "mesoamerica-tlaloc",
+          "type": "农业主题关联",
+          "note": "谷物与降雨相互依赖，不是固定亲属关系",
+          "source": "me-aztec",
+          "from": "aztec-chicomecoatl"
+        },
+        {
+          "to": "mesoamerica-huitzilopochtli",
+          "type": "火蛇属性关联",
+          "note": "共享相关图像属性不等于同一神",
+          "source": "az-xiuhcoatl",
+          "from": "aztec-xiuhtecuhtli"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "az-art-smoking-mirror",
+          "name": "烟镜",
+          "alias": "Smoking mirror",
+          "kind": "神祇图像属性／仪式象征",
+          "tier": 1,
+          "summary": "特斯卡特利波卡名字与形象的重要标识。",
+          "detail": "黑曜石镜有真实物质文化，神像上的烟镜又指向观察、命运与权力；博物馆中的任意镜不能冒充神本人持有的唯一原物。",
+          "owners": [
+            "mesoamerica-tezcatlipoca"
+          ],
+          "events": [],
+          "sources": [
+            "me-aztec"
+          ]
+        },
+        {
+          "id": "az-art-xiuhcoatl",
+          "name": "休科亚特尔／火蛇",
+          "alias": "Xiuhcoatl",
+          "kind": "神话生物兼神兵",
+          "tier": 1,
+          "summary": "维齐洛波奇特利出生战斗中使用的火蛇武器。",
+          "detail": "火蛇既有生命形态又可作为武器或背饰；它与火、太阳和年历的联系说明“动物”和“物件”并非当地图像的绝对边界。",
+          "owners": [
+            "mesoamerica-huitzilopochtli",
+            "aztec-xiuhtecuhtli"
+          ],
+          "events": [
+            "mesoamerica-birth-war"
+          ],
+          "sources": [
+            "az-xiuhcoatl"
+          ]
+        },
+        {
+          "id": "az-art-wind-jewel",
+          "name": "风之宝石",
+          "alias": "Ehecacozcatl",
+          "kind": "真实仪式饰物／神祇属性",
+          "tier": 1,
+          "summary": "螺贝横截面形成的胸饰，与风神相连。",
+          "detail": "其旋涡和材质构成可识别的神性装束；着风神装束的蜘蛛猴是关联形象，不能因为佩戴相同饰物就直接称为羽蛇神的人形肖像。",
+          "owners": [
+            "mesoamerica-quetzalcoatl"
+          ],
+          "events": [],
+          "sources": [
+            "az-wind-img"
+          ]
+        },
+        {
+          "id": "az-art-ancestor-bones",
+          "name": "米克特兰的祖骨",
+          "alias": "Ancestral bones",
+          "kind": "叙事身体物／造人材料",
+          "tier": 1,
+          "summary": "羽蛇神从亡者领域取回的前代骨骼。",
+          "detail": "造人依赖前代遗存与神的行动，生命因此不是完全凭空产生；取骨的失败、跌落或破碎等细节需按纳瓦文献版本区分。",
+          "owners": [
+            "mesoamerica-quetzalcoatl",
+            "mesoamerica-mictlantecuhtli"
+          ],
+          "events": [
+            "mesoamerica-bones"
+          ],
+          "sources": [
+            "me-aztec"
+          ]
+        },
+        {
+          "id": "az-art-sunstone",
+          "name": "太阳石",
+          "alias": "Piedra del Sol",
+          "kind": "真实纪念物／宇宙论图像",
+          "tier": 1,
+          "summary": "将历日、太阳时代与权力聚合的大型石刻。",
+          "detail": "通称“历石”容易误导：它不是普通查日期工具。中心面孔的身份有讨论，石上图像既关乎时间也关乎供养与统治。",
+          "owners": [
+            "aztec-tonatiuh",
+            "aztec-tlaltecuhtli"
+          ],
+          "events": [
+            "mesoamerica-sun"
+          ],
+          "sources": [
+            "az-sunstone"
+          ]
+        },
+        {
+          "id": "az-art-new-fire",
+          "name": "新火钻具",
+          "alias": "New Fire drill",
+          "kind": "真实仪式器物类型",
+          "tier": 2,
+          "summary": "周期更新中重新取火的工具。",
+          "detail": "新火从特定仪式中心传播，使宇宙时间进入炉灶与家庭；本条描述器具类型，不宣称有一支历届仪式都共用且现存的传奇火钻。",
+          "owners": [
+            "aztec-xiuhtecuhtli"
+          ],
+          "events": [
+            "aztec-new-fire"
+          ],
+          "sources": [
+            "me-aztec"
+          ]
+        },
+        {
+          "id": "az-art-tlaloc-vessel",
+          "name": "特拉洛克面容容器",
+          "alias": "Tlaloc effigy vessel",
+          "kind": "真实仪式器物类型",
+          "tier": 2,
+          "summary": "以雨神环眼和獠牙等特征组织的容器。",
+          "detail": "器型、供献位置与出土地需要一起阅读，不能把所有面具容器都叫特拉洛克；雨神与雨水、山岳及农业的关系也包含危险面向。",
+          "owners": [
+            "mesoamerica-tlaloc"
+          ],
+          "events": [],
+          "sources": [
+            "me-aztec"
+          ]
+        },
+        {
+          "id": "az-art-maize-headdress",
+          "name": "玉米女神的巨大头饰",
+          "alias": "Chicomecoatl's amacalli",
+          "kind": "神祇图像属性／仪式装束",
+          "tier": 2,
+          "summary": "奇科梅科亚特尔雕像上显著的建筑般头饰。",
+          "detail": "头饰与玉米及祭仪服饰共同标明身份；这里展示的是石刻表现，不是保存完好的原始纸质冠帽。",
+          "owners": [
+            "aztec-chicomecoatl"
+          ],
+          "events": [],
+          "sources": [
+            "az-maize-img"
+          ]
+        },
+        {
+          "id": "az-art-warrior-altar",
+          "name": "太阳战士祭坛",
+          "alias": "Altar to the Sun Warrior",
+          "kind": "真实仪式器物",
+          "tier": 2,
+          "summary": "纳瓦石制祭坛上的鸟类和太阳战士意象。",
+          "detail": "雕刻使仪式表面与神圣图像结合；作品的确切原用法应依馆方证据，不能仅因名为祭坛便为它补写未经证实的仪式过程。",
+          "owners": [
+            "aztec-tonatiuh"
+          ],
+          "events": [],
+          "sources": [
+            "az-warrior-altar"
+          ]
+        },
+        {
+          "id": "az-art-coyolxauhqui",
+          "name": "科约尔沙乌基巨石像",
+          "alias": "Coyolxauhqui monolith",
+          "kind": "真实纪念物／神话图像",
+          "tier": 2,
+          "summary": "大神庙下部的大型肢解女神浮雕。",
+          "detail": "它把出生战斗与神庙空间相连；神话中的身体变成可观看的石刻，不代表研究者可据图像推算一场发生过的神战日期。",
+          "owners": [
+            "mesoamerica-coyolxauhqui",
+            "mesoamerica-huitzilopochtli"
+          ],
+          "events": [
+            "mesoamerica-birth-war"
+          ],
+          "sources": [
+            "me-gods"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "az-group-cosmos",
+          "title": "创造、太阳与亡者",
+          "summary": "不同创世和造人叙事的主要主体，关系可同时包含合作与对抗。",
+          "members": [
+            "mesoamerica-quetzalcoatl",
+            "mesoamerica-tezcatlipoca",
+            "mesoamerica-mictlantecuhtli",
+            "aztec-nanahuatzin",
+            "aztec-tecuciztecatl",
+            "aztec-tonatiuh",
+            "aztec-xolotl",
+            "aztec-tlaltecuhtli"
+          ],
+          "source": "me-aztec"
+        },
+        {
+          "id": "az-group-temple",
+          "title": "帝国祭仪与生存",
+          "summary": "战争、雨水、玉米和火共同构成社群与国家的物质基础。",
+          "members": [
+            "mesoamerica-huitzilopochtli",
+            "mesoamerica-tlaloc",
+            "mesoamerica-coatlicue",
+            "mesoamerica-coyolxauhqui",
+            "aztec-chicomecoatl",
+            "aztec-xiuhtecuhtli",
+            "mesoamerica-xipe"
+          ],
+          "source": "me-aztec"
+        }
+      ],
+      "sources": [
+        {
+          "id": "az-earth-img",
+          "title": "Tlaltecuhtli (earth deity)，00.5.36",
+          "url": "https://www.metmuseum.org/art/collection/search/307636",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "1450—1521年大地神浮雕；正反面和摆放方向对解释重要。"
+        },
+        {
+          "id": "az-maize-img",
+          "title": "Chicomecoatl goddess，00.5.51",
+          "url": "https://www.metmuseum.org/art/collection/search/307644",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "1325—1521年玉米女神像；依馆藏身份，不与玛雅玉米神混用。"
+        },
+        {
+          "id": "az-wind-img",
+          "title": "Spider monkey wearing wind god regalia，2017.393",
+          "url": "https://www.metmuseum.org/art/collection/search/765334",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "1325—1521年着风神标识的蜘蛛猴；胸前螺贝横截面饰物为风之宝石，不是普通项链。"
+        },
+        {
+          "id": "az-warrior-altar",
+          "title": "Altar to the Sun Warrior，00.5.39",
+          "url": "https://www.metmuseum.org/art/collection/search/318674",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "1450—1521年纳瓦石制祭坛；比较太阳战士象征与仪式空间。"
+        },
+        {
+          "id": "az-tezcat-codex",
+          "title": "Tezcatlipoca, Codex Rios",
+          "url": "https://www.worldhistory.org/image/6153/tezcatlipoca-codex-rios/",
+          "author": "16世纪匿名画师；World History Encyclopedia 收录",
+          "kind": "参考",
+          "note": "抄本图像而非古代雕塑；来源标Public Domain。"
+        },
+        {
+          "id": "az-xiuhcoatl",
+          "title": "Xiuhcoatl, Fire Serpent",
+          "url": "https://museum.doaks.org/objects-1/info/23090",
+          "author": "Dumbarton Oaks",
+          "kind": "博物馆",
+          "note": "火蛇与维齐洛波奇特利、休特库特利的关联及器物图像。"
+        },
+        {
+          "id": "az-sunstone",
+          "title": "The Sun Stone (or The Calendar Stone)",
+          "url": "https://smarthistory.org/the-sun-stone-the-calendar-stone-aztec/",
+          "author": "Smarthistory，Beth Harris、Steven Zucker",
+          "kind": "学术",
+          "note": "墨西哥国家人类学博物馆实物解析；不是实用桌面日历，中心神像识别存在讨论。"
+        }
+      ]
+    },
+    {
+      "id": "inca",
+      "entities": [
+        {
+          "id": "inca-mamahuaco",
+          "name": "玛玛瓦科",
+          "alias": "Mama Huaco",
+          "kind": "祖先／女英雄",
+          "tier": 3,
+          "domain": "阿亚尔家族与迁徙",
+          "summary": "始祖兄妹迁徙故事中的有力女性。",
+          "detail": "殖民时期记录保留她的战争与建基行动；她与玛玛奥克略不是可无条件互换的同一名字。",
+          "sources": [
+            "in-sarmiento"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "inca-ayar-migration",
+          "title": "阿亚尔兄妹的迁徙与化石",
+          "tier": 2,
+          "era": "殖民期记录的库斯科起源叙事",
+          "summary": "兄妹由原初地点出发，经过冲突、定居与神圣化。",
+          "detail": "部分人物成为石或被留置于特定地点，地景因而保留祖先身份；这条起源线与的的喀喀湖出发的太阳之子故事应并读。",
+          "actors": [
+            "inca-ayar",
+            "inca-manco",
+            "inca-mamahuaco",
+            "inca-mamaocllo"
+          ],
+          "source": "in-sarmiento"
+        }
+      ],
+      "relations": [
+        {
+          "to": "inca-manco",
+          "type": "始祖群体",
+          "note": "阿亚尔迁徙传统中的兄妹及配偶称谓随版本整理",
+          "source": "in-sarmiento",
+          "from": "inca-mamahuaco"
+        },
+        {
+          "to": "inca-ayar",
+          "type": "群体成员",
+          "note": "阿亚尔兄妹的迁徙与建基",
+          "source": "in-sarmiento",
+          "from": "inca-mamahuaco"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "in-art-gold-staff",
+          "name": "建城的金杖",
+          "alias": "Golden staff of foundation",
+          "kind": "叙事王权器物",
+          "tier": 1,
+          "summary": "曼科卡帕克起源传统中用于选择定居地的金杖。",
+          "detail": "金杖能够没入适宜的土地，使迁徙终点表现为神圣授权；不同编年史中的湖泊起源与阿亚尔迁徙应分开核读。",
+          "owners": [
+            "inca-manco",
+            "inca-mamaocllo"
+          ],
+          "events": [
+            "inca-origin"
+          ],
+          "sources": [
+            "in-sarmiento"
+          ]
+        },
+        {
+          "id": "in-art-huaca-stone",
+          "name": "祖先化成的圣石",
+          "alias": "Ancestral stone / huaca",
+          "kind": "叙事地景／真实神圣对象",
+          "tier": 2,
+          "summary": "阿亚尔故事中祖先身体化为石，保留于地景。",
+          "detail": "huaca可指神圣存在、地点或物体，不是“雕像”的单一同义词。关系和仪式使石头具有身份，不能仅按自然与人工二分。",
+          "owners": [
+            "inca-ayar"
+          ],
+          "events": [
+            "inca-ayar-migration"
+          ],
+          "sources": [
+            "in-sarmiento"
+          ]
+        },
+        {
+          "id": "in-art-sun-disc",
+          "name": "太阳神的金质图像",
+          "alias": "Golden image of the Sun",
+          "kind": "祭祀图像／王权象征",
+          "tier": 2,
+          "summary": "太阳崇拜和库斯科神庙财富的重要形象。",
+          "detail": "殖民文献记载的金质图像与今日展示的复制品须区别；征服、掠夺和再叙述使原物的具体形制与下落不能任意补全。",
+          "owners": [
+            "inca-inti"
+          ],
+          "events": [
+            "inca-sun-feast"
+          ],
+          "sources": [
+            "in-sarmiento"
+          ]
+        },
+        {
+          "id": "in-art-conopa",
+          "name": "科诺帕供奉像",
+          "alias": "Conopa",
+          "kind": "真实仪式器物",
+          "tier": 2,
+          "summary": "小型石制供奉物把牧养与丰产愿望落实到器物。",
+          "detail": "安第斯不同地方的使用有差异；这里的Met石像是仪式物件，不是帕查玛玛、因蒂或维拉科查的确定人物肖像。",
+          "owners": [
+            "inca-pachamama"
+          ],
+          "events": [],
+          "sources": [
+            "in-conopa"
+          ]
+        },
+        {
+          "id": "in-art-ushnu",
+          "name": "乌什努祭坛",
+          "alias": "Ushnu",
+          "kind": "真实仪式建筑",
+          "tier": 2,
+          "summary": "与太阳、供献及帝国道路网络相连的平台或祭坛。",
+          "detail": "它是人群、地景和政治权威相遇的空间，不是可以装进口袋的法宝。不同遗址的结构和祭仪不能只用一个理想模型概括。",
+          "owners": [
+            "inca-inti"
+          ],
+          "events": [
+            "inca-sun-feast"
+          ],
+          "sources": [
+            "in-road"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "in-group-ancestors",
+          "title": "起源与始祖",
+          "summary": "湖泊起源和阿亚尔迁徙是可比较的叙事，不是自动无缝衔接的一份族谱。",
+          "members": [
+            "inca-inti",
+            "inca-manco",
+            "inca-mamaocllo",
+            "inca-mamahuaco",
+            "inca-ayar"
+          ],
+          "source": "in-sarmiento"
+        }
+      ],
+      "sources": [
+        {
+          "id": "in-conopa",
+          "title": "Conopa (votive effigy)，1984.524.1",
+          "url": "https://www.metmuseum.org/art/collection/search/314823",
+          "author": "The Met",
+          "kind": "博物馆",
+          "note": "1400—1535年石制供奉像，属于现实仪式器物，不是大地女神的已确认肖像。"
+        }
+      ]
+    },
+    {
+      "id": "mesopotamia",
+      "entities": [
+        {
+          "id": "mesopotamia-ninshubur",
+          "name": "宁舒布尔",
+          "alias": "Ninšubur",
+          "kind": "使者／侍从神",
+          "tier": 2,
+          "domain": "忠诚与救援",
+          "summary": "伊南娜下降冥界时留在上界求援的侍从。",
+          "detail": "遵守预先指令、哀悼和向诸神请求救援都是她的行动；不同文本里的宁舒布尔性别和所属神可能不同。",
+          "sources": [
+            "ms-inanna"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "mesopotamia-transfer-me",
+          "title": "伊南娜带走神圣权能",
+          "tier": 2,
+          "era": "苏美尔语《伊南娜与恩基》",
+          "summary": "宴饮中被授予的权能由伊南娜运往乌鲁克。",
+          "detail": "恩基事后追索，天舟的行程和宁舒布尔的协助使城市的宗教、技艺与统治资格成为可争议的获得物；me 并非都指实体器具。",
+          "actors": [
+            "mesopotamia-inanna",
+            "mesopotamia-enki",
+            "mesopotamia-ninshubur"
+          ],
+          "source": "ms-me"
+        }
+      ],
+      "relations": [
+        {
+          "to": "mesopotamia-inanna",
+          "type": "侍从／救援",
+          "note": "下降冥界后在上界求援",
+          "source": "ms-inanna",
+          "from": "mesopotamia-ninshubur"
+        },
+        {
+          "to": "mesopotamia-enki",
+          "type": "请求协助",
+          "note": "按伊南娜指令向恩基求助",
+          "source": "ms-inanna",
+          "from": "mesopotamia-ninshubur"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "ms-art-me",
+          "name": "神圣权能me",
+          "alias": "Me",
+          "kind": "抽象权能／制度象征",
+          "tier": 1,
+          "summary": "使城市生活、技艺和统治成立的多种神圣规范。",
+          "detail": "《伊南娜与恩基》把它们组织成可授予和争取的集合；虽能被“带走”，其中许多是身份或能力，不能全部改写成一袋发光宝石。",
+          "owners": [
+            "mesopotamia-enki",
+            "mesopotamia-inanna"
+          ],
+          "events": [
+            "mesopotamia-transfer-me"
+          ],
+          "sources": [
+            "ms-me"
+          ]
+        },
+        {
+          "id": "ms-art-heaven-boat",
+          "name": "天舟",
+          "alias": "Boat of Heaven",
+          "kind": "叙事载具",
+          "tier": 2,
+          "summary": "伊南娜带着权能离开埃利都的船。",
+          "detail": "追索天舟使河道旅行同时成为城市间的权力移动；船的作用在于运送与越界，不只是飞行奇观。",
+          "owners": [
+            "mesopotamia-inanna",
+            "mesopotamia-enki",
+            "mesopotamia-ninshubur"
+          ],
+          "events": [
+            "mesopotamia-transfer-me"
+          ],
+          "sources": [
+            "ms-me"
+          ]
+        },
+        {
+          "id": "ms-art-seven-regalia",
+          "name": "下降冥界的七重装束",
+          "alias": "Seven regalia of Inana",
+          "kind": "叙事装束／身份象征",
+          "tier": 1,
+          "summary": "伊南娜入冥界各门时逐件被剥去的服饰与标识。",
+          "detail": "失去王冠、珠饰和衣物意味着权力在另一秩序下失效；具体清单依所读文本，不宜套成现代游戏的固定七件装备套装。",
+          "owners": [
+            "mesopotamia-inanna",
+            "mesopotamia-ereshkigal"
+          ],
+          "events": [
+            "mesopotamia-descent"
+          ],
+          "sources": [
+            "ms-inanna"
+          ]
+        },
+        {
+          "id": "ms-art-life-food-water",
+          "name": "生命食物与生命之水",
+          "alias": "Life-giving food and water",
+          "kind": "叙事复生媒介",
+          "tier": 2,
+          "summary": "恩基安排救援伊南娜时使用的生命物质。",
+          "detail": "救援先须理解并回应冥界女王的痛苦，再使悬挂的身体恢复；器物的效果与智慧、共情和交换秩序相连。",
+          "owners": [
+            "mesopotamia-enki",
+            "mesopotamia-inanna"
+          ],
+          "events": [
+            "mesopotamia-descent"
+          ],
+          "sources": [
+            "ms-inanna"
+          ]
+        },
+        {
+          "id": "ms-art-hook",
+          "name": "悬挂伊南娜的钩",
+          "alias": "Hook in the underworld",
+          "kind": "叙事刑罚器物",
+          "tier": 3,
+          "summary": "失去生命的伊南娜身体被悬挂之处。",
+          "detail": "普通钩子在叙事中表现最强女神也会失去行动能力；与生命食物和生命水并置，才能看出从彻底失能到恢复的跨度。",
+          "owners": [
+            "mesopotamia-inanna",
+            "mesopotamia-ereshkigal"
+          ],
+          "events": [
+            "mesopotamia-descent"
+          ],
+          "sources": [
+            "ms-inanna"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "ms-group-descent",
+          "title": "下降冥界与救援",
+          "summary": "神圣权力进入不同领域会受到限制，侍从的执行和智神的援助不可忽略。",
+          "members": [
+            "mesopotamia-inanna",
+            "mesopotamia-ereshkigal",
+            "mesopotamia-ninshubur",
+            "mesopotamia-enki",
+            "mesopotamia-dumuzi"
+          ],
+          "source": "ms-inanna"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ms-me",
+          "title": "Inana and Enki",
+          "url": "https://etcsl.orinst.ox.ac.uk/section1/tr131.htm",
+          "author": "牛津大学 ETCSL，1.3.1",
+          "kind": "原典",
+          "note": "神圣权能 me 的转移；不可把抽象权能都翻成可拿在手里的法宝。"
+        }
+      ]
+    },
+    {
+      "id": "persia",
+      "entities": [
+        {
+          "id": "persia-kaveh",
+          "name": "卡维铁匠",
+          "alias": "Kāva / Kaveh",
+          "kind": "英雄／工匠",
+          "tier": 2,
+          "domain": "反暴政与王旗",
+          "summary": "举起皮围裙召集众人反抗扎哈克。",
+          "detail": "劳动器物变为政治旗帜，后来又被王权装饰；史诗反抗故事与历史萨珊王旗不能简单作同一实物的连续履历。",
+          "sources": [
+            "pe-banner"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "persia-kaveh-revolt",
+          "title": "卡维举旗反抗扎哈克",
+          "tier": 2,
+          "era": "《列王纪》史诗时间",
+          "summary": "铁匠以劳动围裙召集反抗者。",
+          "detail": "群众反抗与法里顿的王权继承连接起来，粗糙皮革后来获得华美装饰；叙事同时赞美勇气，也显示王权如何吸纳民间符号。",
+          "actors": [
+            "persia-kaveh",
+            "persia-zahhak",
+            "persia-fereydun"
+          ],
+          "source": "pe-banner"
+        }
+      ],
+      "relations": [
+        {
+          "to": "persia-fereydun",
+          "type": "结盟／拥立",
+          "note": "民间反抗与新王权相接",
+          "source": "pe-banner",
+          "from": "persia-kaveh"
+        },
+        {
+          "to": "persia-zahhak",
+          "type": "反抗",
+          "note": "铁匠反对暴政",
+          "source": "pe-banner",
+          "from": "persia-kaveh"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "pe-art-feather",
+          "name": "西摩尔格之羽",
+          "alias": "Simorḡ's feather",
+          "kind": "叙事护佑物",
+          "tier": 1,
+          "summary": "扎尔在危急时焚烧以呼唤神鸟的羽毛。",
+          "detail": "羽毛把离别后的联系保存为可行动的承诺；鲁斯塔姆出生的援助与后来的战斗救治各有情节，不能化约成无限次自动复活道具。",
+          "owners": [
+            "persia-simorgh",
+            "persia-zal",
+            "persia-rudabeh",
+            "persia-rostam"
+          ],
+          "events": [
+            "persia-bird"
+          ],
+          "sources": [
+            "pe-simorgh"
+          ]
+        },
+        {
+          "id": "pe-art-ox-mace",
+          "name": "牛头锤",
+          "alias": "Ox-headed mace",
+          "kind": "史诗兵器／王权象征",
+          "tier": 2,
+          "summary": "法里顿反抗扎哈克时的重要兵器。",
+          "detail": "牛形把英雄的养育记忆与复仇连接；后世仪式锤和艺术中的牛头锤有各自历史，不能视为同一件从神话时代连续传下的原物。",
+          "owners": [
+            "persia-fereydun",
+            "persia-zahhak"
+          ],
+          "events": [
+            "persia-tyrant",
+            "persia-kaveh-revolt"
+          ],
+          "sources": [
+            "pe-kings"
+          ]
+        },
+        {
+          "id": "pe-art-kavian-banner",
+          "name": "卡维王旗",
+          "alias": "Derafš-e Kāvīān",
+          "kind": "史诗器物／历史旗帜传统",
+          "tier": 1,
+          "summary": "铁匠围裙被举为反暴政旗帜，后来由王室装饰。",
+          "detail": "粗皮与珠宝的转换表达群众反抗被王权继承；学术资料讨论真实萨珊王旗，却不能证明史诗围裙本体保存到了帝国时代。",
+          "owners": [
+            "persia-kaveh",
+            "persia-fereydun"
+          ],
+          "events": [
+            "persia-kaveh-revolt"
+          ],
+          "sources": [
+            "pe-banner"
+          ]
+        },
+        {
+          "id": "pe-art-rostam-armor",
+          "name": "鲁斯塔姆的护身战袍",
+          "alias": "Babr-e bayān",
+          "kind": "史诗护具",
+          "tier": 2,
+          "summary": "鲁斯塔姆装备传统中具有异兽性质的护身衣。",
+          "detail": "《列王纪》以豹皮及相关称谓描述护身外衣，后来的故事又发展出屠兽取皮等来源。名称语源和叙事层次仍需区分，不能把所有版本一律改写成龙皮。",
+          "owners": [
+            "persia-rostam"
+          ],
+          "events": [
+            "persia-son"
+          ],
+          "sources": [
+            "pe-babr"
+          ]
+        },
+        {
+          "id": "pe-art-tamarisk-arrow",
+          "name": "柽柳双尖箭",
+          "alias": "Tamarisk arrow",
+          "kind": "史诗兵器",
+          "tier": 2,
+          "summary": "神鸟指点鲁斯塔姆用来对付埃斯凡迪亚尔的箭。",
+          "detail": "精准击中脆弱部位带来胜利，也带来道德和命运后果；这不是无条件庆祝“找到弱点即可正当杀人”的故事。",
+          "owners": [
+            "persia-rostam",
+            "persia-simorgh"
+          ],
+          "events": [],
+          "sources": [
+            "pe-simorgh"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "pe-group-shah",
+          "title": "《列王纪》的英雄与暴君",
+          "summary": "王朝继承、亲子悲剧和反暴政属于史诗层，不能把其人物全写入同一宗教神谱。",
+          "members": [
+            "persia-simorgh",
+            "persia-zal",
+            "persia-rudabeh",
+            "persia-rostam",
+            "persia-sohrab",
+            "persia-kaveh",
+            "persia-zahhak",
+            "persia-fereydun"
+          ],
+          "source": "pe-shah"
+        }
+      ],
+      "sources": [
+        {
+          "id": "pe-banner",
+          "title": "DERAFŠ-E KĀVĪĀN",
+          "url": "https://www.iranicaonline.org/articles/derafs-e-kavian/",
+          "author": "Encyclopaedia Iranica",
+          "kind": "学术",
+          "note": "铁匠皮围裙与王旗的史诗叙事、萨珊王旗的历史证据分别说明。"
+        },
+        {
+          "id": "pe-kings",
+          "title": "The Shah Nameh",
+          "url": "https://www.gutenberg.org/ebooks/10315",
+          "author": "Firdausi；James Atkinson 英译，1832",
+          "kind": "文学",
+          "note": "旧译选编本；用于牛头锤、鲁斯塔姆与埃斯凡迪亚尔等故事的对照。"
+        },
+        {
+          "id": "pe-babr",
+          "title": "BABR-E BAYĀN",
+          "url": "https://www.iranicaonline.org/articles/babr-e-bayan-or-babr/",
+          "author": "Djalal Khaleghi-Motlagh／Encyclopaedia Iranica",
+          "kind": "学术",
+          "note": "战袍材料、名称及不同文献层次的专门考释。"
+        }
+      ]
+    },
+    {
+      "id": "celtic",
+      "entities": [
+        {
+          "id": "celtic-bran",
+          "name": "布兰／祝福者本迪盖德弗兰",
+          "alias": "Bendigeidfran / Brân",
+          "kind": "国王／巨人",
+          "tier": 2,
+          "domain": "威尔士与爱尔兰之战",
+          "summary": "《马比诺吉》第二支的王者，携带复生锅的叙事围绕他展开。",
+          "detail": "其死后头颅继续陪伴同伴，宴饮与时间异常使悲剧获得独特余韵；这不是与爱尔兰所有同名者相同的角色。",
+          "sources": [
+            "ce-mabinogi"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "celtic-branwen-war",
+          "title": "布兰雯婚姻与爱尔兰之战",
+          "tier": 2,
+          "era": "《马比诺吉》第二支",
+          "summary": "跨海婚姻因羞辱与报复演为毁灭性战争。",
+          "detail": "能复活战士的锅使杀戮不断延续，破锅之后悲剧仍未结束；幸存者带回布兰之头，宴饮和遗忘形成另一种时间。",
+          "actors": [
+            "celtic-bran"
+          ],
+          "source": "ce-mabinogi"
+        }
+      ],
+      "relations": [],
+      "artifacts": [
+        {
+          "id": "ce-art-dagda-cauldron",
+          "name": "达格达之锅",
+          "alias": "Cauldron of the Dagda",
+          "kind": "神话器物／丰盛象征",
+          "tier": 1,
+          "summary": "达努神族四宝之一，使来者得到满足的锅。",
+          "detail": "供养与王者慷慨在此成为力量；它不同于威尔士布兰雯故事中能使战士复生的锅，两者不能因为都是大锅就合为同一件。",
+          "owners": [
+            "celtic-dagda"
+          ],
+          "events": [
+            "celtic-tuired"
+          ],
+          "sources": [
+            "ce-tuired"
+          ]
+        },
+        {
+          "id": "ce-art-lug-spear",
+          "name": "鲁格之矛",
+          "alias": "Spear of Lug",
+          "kind": "神话兵器",
+          "tier": 1,
+          "summary": "达努神族四宝中的神矛。",
+          "detail": "文本把它与战斗成功联系；后世神兵名表和游戏设定添加的名称、火焰与技能不能不加说明地倒写进原典。",
+          "owners": [
+            "celtic-lug"
+          ],
+          "events": [
+            "celtic-tuired"
+          ],
+          "sources": [
+            "ce-tuired"
+          ]
+        },
+        {
+          "id": "ce-art-nuada-sword",
+          "name": "努阿达之剑",
+          "alias": "Sword of Nuada",
+          "kind": "神话兵器",
+          "tier": 2,
+          "summary": "来自四城传统的神剑。",
+          "detail": "拔剑后的压倒性威力服务于神族战争；其意义应连同努阿达失手、失去王位资格和恢复的故事理解，而不只比较攻击力。",
+          "owners": [
+            "celtic-nuada"
+          ],
+          "events": [
+            "celtic-tuired"
+          ],
+          "sources": [
+            "ce-tuired"
+          ]
+        },
+        {
+          "id": "ce-art-lia-fail",
+          "name": "法尔之石",
+          "alias": "Lia Fáil",
+          "kind": "神话王权器物／地景",
+          "tier": 1,
+          "summary": "在合法统治者脚下发声的石头。",
+          "detail": "王位资格由地景回应的母题很重要；今日塔拉山石与文学中的石之间的识别和传承不能仅凭同名视为完全确定。",
+          "owners": [
+            "celtic-lug"
+          ],
+          "events": [
+            "celtic-tuired"
+          ],
+          "sources": [
+            "ce-tuired"
+          ]
+        },
+        {
+          "id": "ce-art-dagda-harp",
+          "name": "达格达之琴",
+          "alias": "Dagda's harp",
+          "kind": "神话乐器",
+          "tier": 2,
+          "summary": "被夺走后响应主人呼唤、操纵情绪的琴。",
+          "detail": "哭泣、欢笑与睡眠把音乐变成集体状态的控制力；它并非只在战斗间隙提供背景音乐，而能改变行动条件。",
+          "owners": [
+            "celtic-dagda"
+          ],
+          "events": [
+            "celtic-tuired"
+          ],
+          "sources": [
+            "ce-tuired"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "ce-group-irish",
+          "title": "爱尔兰神族战争",
+          "summary": "达努神族与佛莫尔诸力量的关系复杂，四宝与王权资格是重要线索。",
+          "members": [
+            "celtic-lug",
+            "celtic-dagda",
+            "celtic-morrigan",
+            "celtic-nuada",
+            "celtic-balor"
+          ],
+          "source": "ce-tuired"
+        },
+        {
+          "id": "ce-group-welsh",
+          "title": "威尔士《马比诺吉》",
+          "summary": "异界交换、婚姻、宴饮和记忆的故事；不把爱尔兰与威尔士人名混成一套神谱。",
+          "members": [
+            "celtic-pwyll",
+            "celtic-arawn",
+            "celtic-rhiannon",
+            "celtic-bran"
+          ],
+          "source": "ce-mabinogi"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "slavic",
+      "entities": [
+        {
+          "id": "slavic-ivan",
+          "name": "伊凡王子",
+          "alias": "Ivan Tsarevich",
+          "kind": "民间故事英雄",
+          "tier": 2,
+          "domain": "历险与救援",
+          "summary": "多篇俄罗斯故事采用的王子型主角名。",
+          "detail": "不同故事中的伊凡不是有统一生平的历史人物；动物助手、姻亲关系和死亡秘密常帮助他完成武力不能独立完成的任务。",
+          "sources": [
+            "sl-tales"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "slavic-ivan-rescue",
+          "title": "伊凡与不死者的秘密",
+          "tier": 2,
+          "era": "19世纪采录的故事型",
+          "summary": "伊凡依靠盟友寻找科谢伊藏在体外的死亡。",
+          "detail": "不同文本采用针、卵与套叠动物等不同配置；胜利依靠获得知识和互助，而不只是比敌人更强。",
+          "actors": [
+            "slavic-ivan",
+            "slavic-koshchei"
+          ],
+          "source": "sl-tales"
+        }
+      ],
+      "relations": [
+        {
+          "to": "slavic-koshchei",
+          "type": "敌对",
+          "note": "不同故事的伊凡不可合成单一连续生平",
+          "source": "sl-tales",
+          "from": "slavic-ivan"
+        }
+      ],
+      "artifacts": [
+        {
+          "id": "sl-art-doll",
+          "name": "母亲留下的小人偶",
+          "alias": "Vasilissa's doll",
+          "kind": "民间故事护佑物",
+          "tier": 1,
+          "summary": "瓦西丽莎喂食后向其求助的小人偶。",
+          "detail": "人偶把母亲临终的祝福变成日常互惠行为；它帮助完成不可能的家务任务，而非一件无需关系和照料就自动工作的工具。",
+          "owners": [
+            "slavic-vasilissa"
+          ],
+          "events": [
+            "slavic-vasilissa-fire"
+          ],
+          "sources": [
+            "sl-tales"
+          ]
+        },
+        {
+          "id": "sl-art-skull-lantern",
+          "name": "发光的骷髅",
+          "alias": "Skull lantern",
+          "kind": "民间故事危险物件",
+          "tier": 1,
+          "summary": "芭芭雅嘎交给瓦西丽莎带回家的火。",
+          "detail": "取得火种解决家务命令，却把死亡力量带回压迫她的家庭；照明、审判与危险在同一物件中并存，不宜只当万圣节装饰。",
+          "owners": [
+            "slavic-babayaga",
+            "slavic-vasilissa"
+          ],
+          "events": [
+            "slavic-vasilissa-fire"
+          ],
+          "sources": [
+            "sl-tales"
+          ]
+        },
+        {
+          "id": "sl-art-death-egg",
+          "name": "体外死亡之卵／针",
+          "alias": "External death in an egg or needle",
+          "kind": "民间故事生命容器",
+          "tier": 1,
+          "summary": "科谢伊的死亡被藏在体外的套叠物中。",
+          "detail": "卵、针、鸟、兽和箱子的顺序随异文变化；本条展示故事结构而非假装所有文本都有同一份物品清单。",
+          "owners": [
+            "slavic-koshchei",
+            "slavic-ivan"
+          ],
+          "events": [
+            "slavic-death-hidden",
+            "slavic-ivan-rescue"
+          ],
+          "sources": [
+            "sl-tales"
+          ]
+        },
+        {
+          "id": "sl-art-mortar",
+          "name": "芭芭雅嘎的臼、杵与扫帚",
+          "alias": "Mortar, pestle and broom",
+          "kind": "民间故事载具组合",
+          "tier": 2,
+          "summary": "家务器具被转化为飞行、驱动和抹去踪迹的装备。",
+          "detail": "日常劳动器物组成越界交通工具，表现林中老人对空间的特殊支配；不是所有斯拉夫地区的雅嘎故事都保留完整三件组合。",
+          "owners": [
+            "slavic-babayaga"
+          ],
+          "events": [
+            "slavic-vasilissa-fire"
+          ],
+          "sources": [
+            "sl-tales"
+          ]
+        },
+        {
+          "id": "sl-art-life-water",
+          "name": "死水与活水",
+          "alias": "Water of death and water of life",
+          "kind": "民间故事复生媒介",
+          "tier": 2,
+          "summary": "先修复身体、再恢复生命的成对神奇水。",
+          "detail": "许多故事把复原和复活分成两步，功能不宜互换；这是故事逻辑中的媒介，不能视为真实治疗配方。",
+          "owners": [
+            "slavic-ivan"
+          ],
+          "events": [
+            "slavic-ivan-rescue"
+          ],
+          "sources": [
+            "sl-tales"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "sl-group-tales",
+          "title": "俄罗斯民间故事",
+          "summary": "雅嘎、科谢伊和故事型英雄属于采录故事；与早期祭祀神名保留证据边界。",
+          "members": [
+            "slavic-babayaga",
+            "slavic-koshchei",
+            "slavic-vasilissa",
+            "slavic-ivan",
+            "slavic-leshy"
+          ],
+          "source": "sl-tales"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "enrichment": {
+    "arthurian-balin": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book II：Balin、Dolorous Stroke 与兄弟决斗",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "arthurian-balan": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book II：末段 Balin 与 Balan",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "arthurian-pelles": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory2",
+          "locator": "Book XI 与 Book XVII：Pelles、圣杯与医治",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "arthurian-pellam": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book II：Dolorous Stroke",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "arthurian-bertilak": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-gawain",
+          "locator": "全诗：新年挑战、城堡交换与绿教堂结局",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "japan-takemikazuchi": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：葦原中国平定",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "japan-hoderi": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：海幸彦と山幸彦",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "japan-watatsumi": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：海神の宮訪問、海幸彦の服従",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "japan-wakahiko": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：葦原中国平定②",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "japan-yamatotakeru": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "中卷：倭建命、東征、伊服岐山",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-ganga": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-rama",
+          "locator": "童年篇：Bhagiratha 与恒河下降诸歌",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-bhagiratha": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-rama",
+          "locator": "童年篇：The Descent of Ganga",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-nandi": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-deities",
+          "locator": "湿婆及坐骑图像说明",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-dhanvantari": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-churn",
+          "locator": "第一卷第9章：Dhanwantari 与 amrita",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-mohini": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-churn",
+          "locator": "第一卷第9章：女性形态分配甘露及译注",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-mahishasura": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-deities",
+          "locator": "Durgā 与 buffalo demon 图像",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-bhima": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "初篇、森林篇与沙利耶篇：Bhima 的故事",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-draupadi": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "大会篇：赌局、质问与流放",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-zipacna": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "Zipacna and the Four Hundred Boys；The Death of Zipacna",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-cabracan": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "The Defeat of Cabracan",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-xpiyacoc": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "The Wooden People；The Defeat of Seven Macaw",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-hunbatz": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "Hun Batz and Hun Chouen",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-hunchouen": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "Hun Batz and Hun Chouen",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "aztec-tlaltecuhtli": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-28118-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/307636",
+          "title": "大地神特拉尔特库特利浮雕",
+          "credit": "Mexica (Aztec)，1450-1521；The Met，00.5.36",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "1450—1521年墨西加石刻；图像身份依馆藏题名，大地吞纳与再生同时存在。",
+          "local": "assets/images/expand-other-met-307636.jpg",
+          "role": "artifact",
+          "avatar": true,
+          "position": "50% 28%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "az-earth-img",
+          "locator": "馆藏00.5.36：大地神浮雕",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "aztec-chicomecoatl": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-23858-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/307644",
+          "title": "奇科梅科亚特尔玉米女神",
+          "credit": "Mexica (Aztec)，1325–1521 CE；The Met，00.5.51",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "巨大头饰与谷物属性帮助辨识墨西加女神。她不是玛雅玉米神的别名。",
+          "local": "assets/images/expand-other-met-307644.jpg",
+          "role": "artifact",
+          "avatar": true,
+          "position": "50% 45%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "az-maize-img",
+          "locator": "馆藏00.5.51：Chicomecoatl",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "aztec-xiuhtecuhtli": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-aztec",
+          "locator": "图录：Xiuhtecuhtli、fire 与 New Fire Ceremony",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "aztec-itzpapalotl": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-aztec",
+          "locator": "图录：Itzpapalotl 图像与神祇说明",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "inca-mamahuaco": {
+      "images": [],
+      "citations": [
+        {
+          "source": "in-sarmiento",
+          "locator": "History of the Incas：Ayar 兄妹迁徙与定居库斯科",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "mesopotamia-ninshubur": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ms-inanna",
+          "locator": "Inana’s descent：Ninšubur 求援段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "persia-kaveh": {
+      "images": [],
+      "citations": [
+        {
+          "source": "pe-banner",
+          "locator": "Kāva 的皮围裙及王旗传统",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "celtic-bran": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ce-mabinogi",
+          "locator": "Branwen the Daughter of Llyr",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "slavic-ivan": {
+      "images": [],
+      "citations": [
+        {
+          "source": "sl-tales",
+          "locator": "The Death of Koshchei the Deathless 等故事",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "arthurian-dolorous": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book II：Dolorous Stroke",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "arthurian-green-challenge": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-gawain",
+          "locator": "全诗四部：斩首、狩猎、诱惑、偿还",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "arthurian-tristan-drink": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book VIII：海航与 love drink 段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "japan-rootland": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：根之堅州国訪問",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "japan-return-arrow": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：葦原中国平定②",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "japan-burning-plain": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "中卷：東征、伊服岐山",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-ganga-descent": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-rama",
+          "locator": "童年篇：Bhagiratha 与 Ganga 下降诸歌",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-ganesha-head": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/as/original/DP148767.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/37397",
+          "title": "12世纪象头神铜像",
+          "credit": "India, Tamil Nadu，12th century；The Met，2015.500.4.12",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "象头、圆腹与多臂使身份可识别；雕像不证明某一种出生故事排斥其他版本。",
+          "local": "assets/images/expand-other-met-37397.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 27%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "hi-deities",
+          "locator": "Gaṇeśa 诞生与象头图像",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-herb-mountain": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/as/original/DP227587.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/37960",
+          "title": "哈奴曼搬运药山",
+          "credit": "India (Rajasthan)，ca. 1800；The Met，57.70.6",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "约1800年拉贾斯坦绘画，手中山峰是医药搜寻故事的浓缩；不是现实山峰照片。",
+          "local": "assets/images/expand-other-met-37960.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "hi-rama",
+          "locator": "战争篇：药草搜寻与山峰搬运；对照馆藏57.70.6",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-dice": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "Sabha Parva：Dyuta 与 Anudyuta 两场赌局",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hindu-khandava": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "Adi Parva：Khandava-daha Parva",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-mountain-brothers": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "The Death of Zipacna；The Defeat of Cabracan",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-monkey-brothers": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "Hun Batz and Hun Chouen",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-fish-return": {
+      "images": [
+        {
+          "url": "https://mint-dmz.piction.com/piction/ump.di?e=243AFFFC914E98F3914B1DCB1B9B9A328B669CCD0FA5FA39EBA3956272435822&s=21&se=521158170&v=1&f=1983.172.54_w.jpg",
+          "pageUrl": "https://collections.mintmuseum.org/single?id=1983.172.54",
+          "title": "双子变鱼复生的陶器图像",
+          "credit": "玛雅艺术家，650—850年；The Mint Museum，1983.172.54",
+          "license": "Public Domain（馆藏或图片来源页明确标示）",
+          "caption": "馆方将图像联系双子骨粉入河后变鱼的叙事。古典图像与殖民期基切文本不是同一媒介的直接复制。",
+          "local": "assets/images/expand-other-mint-fish.jpg",
+          "role": "scene",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "The Death of Hunahpu and Xbalanque；Their Return",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "aztec-new-fire": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-aztec",
+          "locator": "图录：New Fire Ceremony 与历法周期",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "aztec-earth-body": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-28118-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/307636",
+          "title": "大地神特拉尔特库特利浮雕",
+          "credit": "Mexica (Aztec)，1450-1521；The Met，00.5.36",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "1450—1521年墨西加石刻；图像身份依馆藏题名，大地吞纳与再生同时存在。",
+          "local": "assets/images/expand-other-met-307636.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 28%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "me-aztec",
+          "locator": "图录：Tlaltecuhtli 与 creation 叙事",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "inca-ayar-migration": {
+      "images": [],
+      "citations": [
+        {
+          "source": "in-sarmiento",
+          "locator": "Ayar 兄妹、Huanacauri 与 Cuzco 建基诸章",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "mesopotamia-transfer-me": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ms-me",
+          "locator": "Inana and Enki：宴饮、赠予、天舟与追索",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "persia-kaveh-revolt": {
+      "images": [],
+      "citations": [
+        {
+          "source": "pe-banner",
+          "locator": "Kāva 与 Derafš-e Kāvīān 叙事",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "celtic-branwen-war": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ce-mabinogi",
+          "locator": "Branwen the Daughter of Llyr",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "slavic-ivan-rescue": {
+      "images": [],
+      "citations": [
+        {
+          "source": "sl-tales",
+          "locator": "The Death of Koshchei the Deathless 与同类异文",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-stone-sword": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book I，ch.V—VII：石砧与拔剑",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-excalibur": {
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/How_Mordred_was_Slain_by_Arthur.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:How_Mordred_was_Slain_by_Arthur.jpg",
+          "title": "亚瑟与莫德雷德的最后交战",
+          "credit": "Arthur Rackham，1917，《The Romance of King Arthur》插图",
+          "license": "Public domain／Wikimedia Commons",
+          "caption": "亚瑟与莫德雷德终战的近代文学插图，作为宝剑所处叙事的比较图；不是Excalibur考古实物或精确兵器复原。",
+          "local": "assets/images/enrich-other-05.jpg",
+          "role": "scene",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book I，ch.XXV；并读第二册Book XXI归还宝剑",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-scabbard": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book I，ch.XXV；Book IV：Morgan与scabbard",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        },
+        {
+          "source": "ar-malory1",
+          "locator": "Book I，ch.XXV",
+          "note": "意译：剑鞘抵得过十把剑。梅林强调保护生命的价值。",
+          "quote": "the scabbard is worth ten of the swords"
+        }
+      ]
+    },
+    "ar-art-roundtable": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book III：圆桌作为婚礼相关礼物及骑士设立",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-siege": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory2",
+          "locator": "Book XIII：加拉哈德来到宫廷与就座",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-grail": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory2",
+          "locator": "Books XIII—XVII：Sangreal探求",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-bleeding-lance": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book II：惨痛一击；并读第二册Book XVII圣杯治伤",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-galahad-shield": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory2",
+          "locator": "Book XIII：修道院白盾及红十字的解释",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-solomon-ship": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory2",
+          "locator": "Book XVII：神秘船与所罗门相关解释",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-love-potion": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-malory1",
+          "locator": "Book VIII：特里斯坦护送伊索尔德时的饮药段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-green-girdle": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-gawain",
+          "locator": "第三部赠带；第四部绿教堂与归廷",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ar-art-green-axe": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ar-gawain",
+          "locator": "第一部宫廷挑战；第四部偿还斧击",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-nuboko": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：淤能碁呂島、国生み",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-kagami": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-mirror",
+          "locator": "Kagami条目；对照《古事记》天石屋戸与天孙降临",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-magatama": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：天石屋戸、天孫降臨",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-kusanagi": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：八俣遠呂智；中卷：倭建命東征",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-totsuka": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：火神被杀、八俣遠呂智",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-orochi-sake": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：八俣遠呂智",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-kushi": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：八俣遠呂智，变梳与插髻段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-yomi-peach": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：黄泉国，桃子驱退追兵段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-chibiki": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：黄泉比良坂的分离与誓言",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-tide-flow": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：海神之宫、海幸彦服从",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-tide-ebb": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：海神之宫、海幸彦服从",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-fishhook": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：海幸彦と山幸彦、钓钩归还",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-ikuta": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：根之堅州国訪問，逃离与须佐之男嘱咐",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-ikuyumi": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：根之堅州国訪問",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-norigoto": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：根之堅州国訪問，琴声惊醒段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "jp-art-return-arrow": {
+      "images": [],
+      "citations": [
+        {
+          "source": "jp-full",
+          "locator": "上卷：葦原中国平定②",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-sudarshana": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-symbol",
+          "locator": "第一卷第22章：discus；并读初篇焚林武器授予",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        },
+        {
+          "source": "hi-vp-symbol",
+          "locator": "第一卷第22章，discus的解释",
+          "note": "意译：他手中的轮代表心念。这里是该章的象征解释，不是神轮的唯一意义。",
+          "quote": "in the form of his discus, the mind"
+        }
+      ]
+    },
+    "hi-art-panchajanya": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "Bhishma Parva，《薄伽梵歌》1.15；并读毗湿奴往世书第一卷22章",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-kaumodaki": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-symbol",
+          "locator": "第一卷第22章：mace；名称对读毗湿奴武器传统",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-kaustubha": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-churn",
+          "locator": "第一卷第9章搅海所得；第22章Kaustubha解释",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-nandaka": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-symbol",
+          "locator": "第一卷第22章：sword与ignorance；剑名依后世武器传统",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-sharanga": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-symbol",
+          "locator": "第一卷第22章：bow；对读毗湿奴武器段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-trident": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-deities",
+          "locator": "Shiva的图像属性与trident",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-damaru": {
+      "images": [
+        {
+          "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39328/154124/main-image",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/39328",
+          "title": "舞王湿婆",
+          "credit": "印度泰米尔地区，约11世纪末；The Met，1987.80.1",
+          "license": "Public Domain（馆藏页标示）",
+          "caption": "火环、鼓与抬足把循环时间和解脱凝聚为一幅图像。",
+          "local": "assets/images/0dc2c70cb1b8c4f9.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "hi-shiva",
+          "locator": "馆藏39328：舞王的上右手小鼓",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-fire": {
+      "images": [
+        {
+          "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39328/154124/main-image",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/39328",
+          "title": "舞王湿婆",
+          "credit": "印度泰米尔地区，约11世纪末；The Met，1987.80.1",
+          "license": "Public Domain（馆藏页标示）",
+          "caption": "火环、鼓与抬足把循环时间和解脱凝聚为一幅图像。",
+          "local": "assets/images/0dc2c70cb1b8c4f9.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "hi-shiva",
+          "locator": "馆藏39328：舞王火焰与宇宙周期",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-vajra": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "森林篇：Dadhichi、Vritra与雷霆的相关叙事",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-gandiva": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "Adi Parva：Khandava-daha；Mahaprasthanika Parva：武器归还",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-quivers": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "Adi Parva：Khandava-daha Parva，弓、战车与箭囊授予",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-shiva-bow": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-rama",
+          "locator": "童年篇：毗提诃、阇那迦王与折弓成婚",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-brahmastra": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "史诗中Brahmāstra及Sauptika Parva的毁灭性武器对峙",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-amrita": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-churn",
+          "locator": "第一卷第9章：amrita出现与分配",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-amrita-vessel": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-churn",
+          "locator": "第一卷第9章：Dhanwantari携甘露容器出现",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-mandara": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-churn",
+          "locator": "第一卷第9章：Mandara作为搅棒",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-halahala": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-vp-churn",
+          "locator": "第一卷第9章及译注中的poison与异文",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-medicinal-mountain": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/as/original/DP227587.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/37960",
+          "title": "哈奴曼搬运药山",
+          "credit": "India (Rajasthan)，ca. 1800；The Met，57.70.6",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "约1800年拉贾斯坦绘画，手中山峰是医药搜寻故事的浓缩；不是现实山峰照片。",
+          "local": "assets/images/expand-other-met-37960.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "hi-hanuman-img",
+          "locator": "馆藏57.70.6：Hanuman Bearing the Mountaintop with Medicinal Herbs",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-vina": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-deities",
+          "locator": "Sarasvatī的琴与知识图像",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-bhima-mace": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "Shalya Parva：怖军与难敌的锤战",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "hi-art-dice": {
+      "images": [],
+      "citations": [
+        {
+          "source": "hi-mahabharata",
+          "locator": "Sabha Parva：赌局及德劳帕蒂质问",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-ball": {
+      "images": [
+        {
+          "url": "https://mint-dmz.piction.com/piction/ump.di?e=9CCC6F19B9C2FA1A40D366D90546802A7B5AF880FBEE927B71AA2C0D76B84C26&s=21&se=521158170&v=1&f=2004.96.3_w.jpg",
+          "pageUrl": "https://collections.mintmuseum.org/single?id=2004.96.3",
+          "title": "持杖与头颅的英雄双子",
+          "credit": "玛雅艺术家，550—850年；The Mint Museum，2004.96.3",
+          "license": "Public Domain（馆藏或图片来源页明确标示）",
+          "caption": "馆方辨识为英雄双子；杖顶圆盾可能是便携球场标志。此侧影未逐个确定对应哪一位，保留全器物以供比较。",
+          "local": "assets/images/expand-other-mint-twins.jpg",
+          "role": "scene",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "前代球手、旧球具的发现与希巴尔巴球赛",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-blowgun": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "The Defeat of Seven Macaw",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-head-tree": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "One Hunahpu的头颅与Lady Blood相遇",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-maize": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "The Creation of Humanity：黄白玉米与肉身",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-divining": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "木人造作前的Xpiyacoc、Xmucane占卜",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-torch-cigar": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "The Dark House：火把和雪茄试炼",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-bone-powder": {
+      "images": [
+        {
+          "url": "https://mint-dmz.piction.com/piction/ump.di?e=243AFFFC914E98F3914B1DCB1B9B9A328B669CCD0FA5FA39EBA3956272435822&s=21&se=521158170&v=1&f=1983.172.54_w.jpg",
+          "pageUrl": "https://collections.mintmuseum.org/single?id=1983.172.54",
+          "title": "双子变鱼复生的陶器图像",
+          "credit": "玛雅艺术家，650—850年；The Mint Museum，1983.172.54",
+          "license": "Public Domain（馆藏或图片来源页明确标示）",
+          "caption": "馆方将图像联系双子骨粉入河后变鱼的叙事。古典图像与殖民期基切文本不是同一媒介的直接复制。",
+          "local": "assets/images/expand-other-mint-fish.jpg",
+          "role": "scene",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "me-pv",
+          "locator": "双子就死、磨骨入河与变鱼返回",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-whistling": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/310542",
+          "title": "主鸟神鸣哨器",
+          "credit": "Maya，400–500 CE；The Met，1978.412.90a, b",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "400—500年，双室加水可发声；鸟被馆方辨识为主鸟神，跪姿人物身份不作唯一断言。",
+          "local": "assets/images/expand-other-met-310542.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "ma-pbd",
+          "locator": "馆藏1978.412.90a,b：鸣哨结构、主鸟神与跪姿人物",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-smoking-mirror": {
+      "images": [
+        {
+          "url": "https://www.worldhistory.org/uploads/images/6153.jpg?v=1760047152-0",
+          "pageUrl": "https://www.worldhistory.org/image/6153/tezcatlipoca-codex-rios/",
+          "title": "烟镜神的抄本形象",
+          "credit": "16世纪匿名画师；World History Encyclopedia收录",
+          "license": "Public Domain（馆藏或图片来源页明确标示）",
+          "caption": "神名、装束和图像标识共同建立身份。图中的形象不是一面考古出土黑曜石镜的实物照片。",
+          "local": "assets/images/expand-other-whe-tezcat.jpg",
+          "role": "scene",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "me-aztec",
+          "locator": "图录：Tezcatlipoca与smoking mirror",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-xiuhcoatl": {
+      "images": [],
+      "citations": [
+        {
+          "source": "az-xiuhcoatl",
+          "locator": "馆藏说明：Fire Serpent与两位神的属性",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-wind-jewel": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-15497-007.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/765334",
+          "title": "佩戴风神标识的蜘蛛猴",
+          "credit": "Mexica (Aztec)，1325–1521 CE；The Met，2017.393",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "馆方识别为着克察尔科亚特尔—埃埃卡特尔标识的蜘蛛猴；胸前螺贝横切胸饰是风之宝石。本图不作人形神像头像。",
+          "local": "assets/images/expand-other-met-765334.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        },
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-20566-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/812477",
+          "title": "羽蛇“风之宝石”挂饰",
+          "credit": "墨西加艺术家，1325—1521；The Met，2020.386.1",
+          "caption": "贝壳切片上刻羽蛇，属于常与克察尔科亚特尔—埃埃卡特尔相连的 ehecacozcatl 风之宝石。它是仪式饰物与神性图像证据，不能当成人形肖像。",
+          "license": "Public Domain／The Met Open Access",
+          "local": "assets/images/enrich-other-met-812477.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 50%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "az-wind-img",
+          "locator": "馆藏2017.393：ehecacozcatl及海贝胸饰",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-ancestor-bones": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-aztec",
+          "locator": "图录：Quetzalcoatl、Mictlan与取骨造人",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-sunstone": {
+      "images": [],
+      "citations": [
+        {
+          "source": "az-sunstone",
+          "locator": "墨西哥国家人类学博物馆太阳石图像解析",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-new-fire": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-aztec",
+          "locator": "图录：New Fire Ceremony的取火与传播",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-tlaloc-vessel": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-aztec",
+          "locator": "图录：Tlaloc effigy与供献器物",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-maize-headdress": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-23858-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/307644",
+          "title": "奇科梅科亚特尔玉米女神",
+          "credit": "Mexica (Aztec)，1325–1521 CE；The Met，00.5.51",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "巨大头饰与谷物属性帮助辨识墨西加女神。她不是玛雅玉米神的别名。",
+          "local": "assets/images/expand-other-met-307644.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 45%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "az-maize-img",
+          "locator": "馆藏00.5.51：女神像头饰与谷物",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-warrior-altar": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-39200-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/318674",
+          "title": "太阳战士石祭坛",
+          "credit": "Nahua，1450-1521 CE；The Met，00.5.39",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "纳瓦作品，1450—1521年；实物与图像共同显示仪式表面，不对具体祭仪过程作无证据补写。",
+          "local": "assets/images/expand-other-met-318674.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "az-warrior-altar",
+          "locator": "馆藏00.5.39，1450—1521年",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "az-art-coyolxauhqui": {
+      "images": [],
+      "citations": [
+        {
+          "source": "me-gods",
+          "locator": "科约尔沙乌基故事与大神庙出土雕刻",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "in-art-gold-staff": {
+      "images": [],
+      "citations": [
+        {
+          "source": "in-sarmiento",
+          "locator": "库斯科建基与金杖故事；对照殖民期不同起源传统",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        },
+        {
+          "source": "in-sarmiento",
+          "locator": "Huanay-pata土地试验段",
+          "note": "意译：金杖陷入地中。编年史同时记录玛玛瓦科投掷金杖的另一说法。",
+          "quote": "the staff sunk in the land called Huanay-pata"
+        }
+      ]
+    },
+    "in-art-huaca-stone": {
+      "images": [],
+      "citations": [
+        {
+          "source": "in-sarmiento",
+          "locator": "Ayar兄妹与Huanacauri相关段落",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "in-art-sun-disc": {
+      "images": [],
+      "citations": [
+        {
+          "source": "in-sarmiento",
+          "locator": "太阳神庙、祭祀及征服相关记述",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "in-art-conopa": {
+      "images": [
+        {
+          "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/314823/2151373/main-image",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/314823",
+          "title": "印加石制供奉像（Conopa）",
+          "credit": "印加艺术家，秘鲁，1400—1535年；The Metropolitan Museum of Art，1984.524.1；William Kelly Simpson赠，纪念Nelson A. Rockefeller，1984",
+          "license": "Public Domain；馆藏页明确标示，Met Open Access允许商业与非商业使用",
+          "caption": "石制的小型供奉物把安第斯信仰带回日常物质世界。它是仪式物件，并不是已被确认为因蒂或维拉科查的人像。",
+          "local": "assets/images/5d2b240557773795.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "in-conopa",
+          "locator": "馆藏1984.524.1，1400—1535年",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "in-art-ushnu": {
+      "images": [],
+      "citations": [
+        {
+          "source": "in-road",
+          "locator": "Ushnus—Altars of the Sun",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ms-art-me": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ms-me",
+          "locator": "宴饮中的权能清单与转移",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ms-art-heaven-boat": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ms-me",
+          "locator": "天舟出发、Isimud追索与乌鲁克到达",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        },
+        {
+          "source": "ms-me",
+          "locator": "天舟被要求归还的反复句",
+          "note": "意译：你须替我把天舟带回埃利都。赠予与追索使城市的权力发生争执。",
+          "quote": "get the Boat of Heaven back to Eridug for me"
+        }
+      ]
+    },
+    "ms-art-seven-regalia": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ms-inanna",
+          "locator": "七道门前后：装束准备及逐门剥除",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ms-art-life-food-water": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ms-inanna",
+          "locator": "kurgarra、galatura奉命救援及生命物质",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ms-art-hook": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ms-inanna",
+          "locator": "判决、化为尸体与悬挂段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "pe-art-feather": {
+      "images": [],
+      "citations": [
+        {
+          "source": "pe-simorgh",
+          "locator": "扎尔获赠羽毛、鲁斯塔姆出生与神鸟援助",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "pe-art-ox-mace": {
+      "images": [],
+      "citations": [
+        {
+          "source": "pe-kings",
+          "locator": "Feridun与Zohak：牛头锤的制作及反抗",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "pe-art-kavian-banner": {
+      "images": [],
+      "citations": [
+        {
+          "source": "pe-banner",
+          "locator": "Kāva围裙、史诗王旗与萨珊历史证据",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "pe-art-rostam-armor": {
+      "images": [],
+      "citations": [
+        {
+          "source": "pe-babr",
+          "locator": "战袍材质、穿着次序及名称讨论",
+          "note": "《列王纪》与后起战袍来历故事分层阅读。"
+        }
+      ]
+    },
+    "pe-art-tamarisk-arrow": {
+      "images": [],
+      "citations": [
+        {
+          "source": "pe-simorgh",
+          "locator": "Rostam与Esfandiar之战，神鸟指点箭矢",
+          "note": "神鸟相助的战斗胜利仍伴随命运后果。"
+        }
+      ]
+    },
+    "ce-art-dagda-cauldron": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ce-tuired",
+          "locator": "开篇四城与四宝：Dagda之锅",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ce-art-lug-spear": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ce-tuired",
+          "locator": "开篇四城与四宝：Gorias与Lug之矛",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ce-art-nuada-sword": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ce-tuired",
+          "locator": "开篇四宝：Findias与Nuada之剑",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ce-art-lia-fail": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ce-tuired",
+          "locator": "开篇四宝：Falias与Lia Fáil",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ce-art-dagda-harp": {
+      "images": [],
+      "citations": [
+        {
+          "source": "ce-tuired",
+          "locator": "战后追入敌厅、琴归来与三种曲调",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "sl-art-doll": {
+      "images": [],
+      "citations": [
+        {
+          "source": "sl-tales",
+          "locator": "Vasilissa the Fair：母亲赠偶、喂食与任务",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "sl-art-skull-lantern": {
+      "images": [],
+      "citations": [
+        {
+          "source": "sl-tales",
+          "locator": "Vasilissa the Fair：骷髅火与归家",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "sl-art-death-egg": {
+      "images": [],
+      "citations": [
+        {
+          "source": "sl-tales",
+          "locator": "The Death of Koshchei the Deathless与相关异文说明",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "sl-art-mortar": {
+      "images": [],
+      "citations": [
+        {
+          "source": "sl-tales",
+          "locator": "Baba Yaga与Vasilissa相关段落：mortar、pestle、broom",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "sl-art-life-water": {
+      "images": [],
+      "citations": [
+        {
+          "source": "sl-tales",
+          "locator": "Water of Life and Death相关故事与比较段",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "maya-principal-bird": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/310542",
+          "title": "主鸟神鸣哨器",
+          "credit": "Maya，400–500 CE；The Met，1978.412.90a, b",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "400—500年，双室加水可发声；鸟被馆方辨识为主鸟神，跪姿人物身份不作唯一断言。",
+          "local": "assets/images/expand-other-met-310542.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        },
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-23472-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/313262",
+          "title": "主鸟神面容的玉雕",
+          "credit": "Maya，200–600 CE；The Met，1979.206.1069",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "馆方保留两种解释：主鸟神的人格化，或戴主鸟神面具的人。不能当作胡纳普或七鹦鹉的确定肖像。",
+          "local": "assets/images/expand-other-met-313262.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "ma-pbd",
+          "locator": "主鸟神、伊察姆纳赫与可能的降鸟场景",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-jade-pbd": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-23472-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/313262",
+          "title": "主鸟神面容的玉雕",
+          "credit": "Maya，200–600 CE；The Met，1979.206.1069",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "馆方保留两种解释：主鸟神的人格化，或戴主鸟神面具的人。不能当作胡纳普或七鹦鹉的确定肖像。",
+          "local": "assets/images/expand-other-met-313262.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "ma-pbd-jade",
+          "locator": "馆藏1979.206.1069：两种身份解释",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "ma-art-inscribed-vessel": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/1979.206.1048_a.JPG",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/313241",
+          "title": "6—9世纪玛雅陶杯",
+          "credit": "Maya，6th–9th century；The Met，1979.206.1048",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "馆方记录给出年代、材质及照片，未提供完整文字释读。本页不为杯上符号杜撰故事。",
+          "local": "assets/images/expand-other-met-313241.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": [
+        {
+          "source": "ma-vessel",
+          "locator": "馆藏1979.206.1048：年代、材质与作品图",
+          "note": "按所列原典段落或馆藏记录阅读；不把文学物件、象征和真实仪式器物混为一类。"
+        }
+      ]
+    },
+    "mesoamerica-hunahpu": {
+      "images": [
+        {
+          "url": "https://mint-dmz.piction.com/piction/ump.di?e=9CCC6F19B9C2FA1A40D366D90546802A7B5AF880FBEE927B71AA2C0D76B84C26&s=21&se=521158170&v=1&f=2004.96.3_w.jpg",
+          "pageUrl": "https://collections.mintmuseum.org/single?id=2004.96.3",
+          "title": "持杖与头颅的英雄双子",
+          "credit": "玛雅艺术家，550—850年；The Mint Museum，2004.96.3",
+          "license": "Public Domain（馆藏或图片来源页明确标示）",
+          "caption": "馆方辨识为英雄双子；杖顶圆盾可能是便携球场标志。此侧影未逐个确定对应哪一位，保留全器物以供比较。",
+          "local": "assets/images/expand-other-mint-twins.jpg",
+          "role": "scene",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": []
+    },
+    "mesoamerica-xbalanque": {
+      "images": [
+        {
+          "url": "https://mint-dmz.piction.com/piction/ump.di?e=9CCC6F19B9C2FA1A40D366D90546802A7B5AF880FBEE927B71AA2C0D76B84C26&s=21&se=521158170&v=1&f=2004.96.3_w.jpg",
+          "pageUrl": "https://collections.mintmuseum.org/single?id=2004.96.3",
+          "title": "持杖与头颅的英雄双子",
+          "credit": "玛雅艺术家，550—850年；The Mint Museum，2004.96.3",
+          "license": "Public Domain（馆藏或图片来源页明确标示）",
+          "caption": "馆方辨识为英雄双子；杖顶圆盾可能是便携球场标志。此侧影未逐个确定对应哪一位，保留全器物以供比较。",
+          "local": "assets/images/expand-other-mint-twins.jpg",
+          "role": "scene",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": []
+    },
+    "mesoamerica-xibalba": {
+      "images": [
+        {
+          "url": "https://mint-dmz.piction.com/piction/ump.di?e=9CCC6F19B9C2FA1A40D366D90546802A7B5AF880FBEE927B71AA2C0D76B84C26&s=21&se=521158170&v=1&f=2004.96.3_w.jpg",
+          "pageUrl": "https://collections.mintmuseum.org/single?id=2004.96.3",
+          "title": "持杖与头颅的英雄双子",
+          "credit": "玛雅艺术家，550—850年；The Mint Museum，2004.96.3",
+          "license": "Public Domain（馆藏或图片来源页明确标示）",
+          "caption": "馆方辨识为英雄双子；杖顶圆盾可能是便携球场标志。此侧影未逐个确定对应哪一位，保留全器物以供比较。",
+          "local": "assets/images/expand-other-mint-twins.jpg",
+          "role": "scene",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": []
+    },
+    "mesoamerica-tezcatlipoca": {
+      "images": [
+        {
+          "url": "https://www.worldhistory.org/uploads/images/6153.jpg?v=1760047152-0",
+          "pageUrl": "https://www.worldhistory.org/image/6153/tezcatlipoca-codex-rios/",
+          "title": "《里奥斯抄本》中的特斯卡特利波卡",
+          "credit": "16世纪匿名画师；World History Encyclopedia收录",
+          "license": "Public Domain（馆藏或图片来源页明确标示）",
+          "caption": "可识别的特斯卡特利波卡抄本图像；注意其年代晚于西班牙征服，不能标成古典玛雅图像。",
+          "local": "assets/images/expand-other-whe-tezcat.jpg",
+          "role": "scene",
+          "avatar": true,
+          "position": "50% 22%"
+        }
+      ],
+      "citations": []
+    },
+    "hindu-ganesha": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/as/original/DP148767.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/37397",
+          "title": "12世纪象头神铜像",
+          "credit": "India, Tamil Nadu，12th century；The Met，2015.500.4.12",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "象头、圆腹与多臂使身份可识别；雕像不证明某一种出生故事排斥其他版本。",
+          "local": "assets/images/expand-other-met-37397.jpg",
+          "role": "artifact",
+          "avatar": true,
+          "position": "50% 27%"
+        }
+      ],
+      "citations": []
+    },
+    "hindu-kali": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/as/original/DP-22738-001.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/849495",
+          "title": "迦梨女神石版画",
+          "credit": "West Bengal, Kolkata，ca. 1880–85；The Met，2021.195",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "约1880—1885年加尔各答图像。身体装束与神圣力量须结合虔信语境阅读，不把可畏形象直接解释成邪恶。",
+          "local": "assets/images/expand-other-met-849495.jpg",
+          "role": "artifact",
+          "avatar": true,
+          "position": "50% 37%"
+        }
+      ],
+      "citations": []
+    },
+    "hindu-hanuman": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/as/original/DP227587.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/37960",
+          "title": "哈奴曼搬运药山",
+          "credit": "India (Rajasthan)，ca. 1800；The Met，57.70.6",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "约1800年拉贾斯坦绘画，手中山峰是医药搜寻故事的浓缩；不是现实山峰照片。",
+          "local": "assets/images/expand-other-met-37960.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": []
+    },
+    "mesoamerica-quetzalcoatl": {
+      "images": [
+        {
+          "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-15497-007.jpg",
+          "pageUrl": "https://www.metmuseum.org/art/collection/search/765334",
+          "title": "佩戴风神标识的蜘蛛猴",
+          "credit": "Mexica (Aztec)，1325–1521 CE；The Met，2017.393",
+          "license": "Public Domain／The Met Open Access",
+          "caption": "馆方识别为着克察尔科亚特尔—埃埃卡特尔标识的蜘蛛猴；胸前螺贝横切胸饰是风之宝石。本图不作人形神像头像。",
+          "local": "assets/images/expand-other-met-765334.jpg",
+          "role": "artifact",
+          "avatar": false,
+          "position": "50% 35%"
+        }
+      ],
+      "citations": []
+    }
+  }
+}

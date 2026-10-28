@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#141c21"><meta name="description" content="循着大陆与海洋，探索神话的世界观、诸神谱系、历史与原典。一个有出处、有层次的中文神话学习图谱。">
+  <title>万神纪 · 世界神话图谱</title>
+  <link rel="icon" href="assets/emblem.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <header class="site-header">
+    <a class="brand" href="#atlas" aria-label="万神纪首页"><img src="assets/emblem.svg" alt=""><span>万神纪<small>ATLAS OF MYTHS</small></span></a>
+    <nav aria-label="主导航"><a href="#atlas" data-nav="atlas">世界图谱</a><a href="#compare" data-nav="compare">跨文明对照</a><a href="#library" data-nav="library">原典书房</a><a href="#notebook" data-nav="notebook">我的书签</a></nav>
+    <button class="search-trigger" id="search-trigger" aria-label="搜索神话、人物、物件与故事"><span>⌕</span><span>寻找神祇、物件、原典</span><kbd>/</kbd></button>
+  </header>
+  <main id="main" tabindex="-1"><div class="loading"><img src="assets/emblem.svg" alt=""><p>正在展开世界图谱…</p></div></main>
+  <footer class="site-footer"><span>万神纪 <i>✦</i> 让古老的世界，彼此照见。</span><button data-action="about">编纂说明与图像来源 ↗</button></footer>
+  <dialog id="search-dialog"><div class="dialog-head"><span class="eyebrow">SEARCH THE ATLAS</span><button data-close="search-dialog" aria-label="关闭搜索">×</button></div><label class="search-input"><span>⌕</span><input id="global-search" type="search" placeholder="试试：女娲、金箍棒、槲寄生、封神…" autocomplete="off"></label><div class="search-results" id="search-results"></div></dialog>
+  <dialog id="detail-dialog"><div id="detail-content"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script src="assets/d3.min.js" defer></script><script src="data/bundle.js" defer></script><script src="app.js" defer></script>
+</body></html>
+

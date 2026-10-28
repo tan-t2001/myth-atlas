@@ -1,0 +1,2552 @@
+{
+  "arthurian-arthur": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/How_Mordred_was_Slain_by_Arthur.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:How_Mordred_was_Slain_by_Arthur.jpg",
+        "title": "亚瑟与莫德雷德的最后交战",
+        "credit": "Arthur Rackham，1917，《The Romance of King Arthur》插图",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "亚瑟与莫德雷德最后一战的近代插图；以荒原和倒下的战士表现圆桌共同体的终结。",
+        "local": "assets/images/enrich-other-05.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book I，ch.V–VII；另比较 ch.XXV",
+        "note": "石中剑证明继承权；湖中获得 Excalibur 是另一段。"
+      },
+      {
+        "source": "ar-malory2",
+        "locator": "Book XXI，ch.VII",
+        "note": "译意：此处长眠着亚瑟，昔日之王、未来之王。文本报告的墓志传说，不是已证实的考古发现。",
+        "quote": "Hic jacet Arthurus, Rex quondam, Rexque futurus."
+      }
+    ]
+  },
+  "arthurian-sword": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book I，ch.V–VII；另比较 ch.XXV",
+        "note": "石中剑证明继承权；湖中获得 Excalibur 是另一段。"
+      }
+    ]
+  },
+  "arthurian-merlin": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Beguiling_of_Merlin.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Beguiling_of_Merlin.jpg",
+        "title": "被迷惑的梅林",
+        "credit": "Edward Burne-Jones，1874；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "梅林坐在左下，妮妙立于右侧。19世纪绘画是对亚瑟传说的再创作，不能代替马洛礼具体封困地点。",
+        "local": "assets/images/enrich-other-01.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "20% 56%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book IV，ch.I",
+        "note": "本卷按马洛礼的妮妙封困梅林叙事；别本的人名和封困地点可能不同。"
+      }
+    ]
+  },
+  "arthurian-nimue": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Beguiling_of_Merlin.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Beguiling_of_Merlin.jpg",
+        "title": "被迷惑的梅林",
+        "credit": "Edward Burne-Jones，1874；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "梅林坐在左下，妮妙立于右侧。19世纪绘画是对亚瑟传说的再创作，不能代替马洛礼具体封困地点。",
+        "local": "assets/images/enrich-other-01.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "74% 30%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book IV，ch.I",
+        "note": "本卷按马洛礼的妮妙封困梅林叙事；别本的人名和封困地点可能不同。"
+      }
+    ]
+  },
+  "arthurian-merlinfall": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Beguiling_of_Merlin.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Beguiling_of_Merlin.jpg",
+        "title": "被迷惑的梅林",
+        "credit": "Edward Burne-Jones，1874；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "梅林坐在左下，妮妙立于右侧。19世纪绘画是对亚瑟传说的再创作，不能代替马洛礼具体封困地点。",
+        "local": "assets/images/enrich-other-01.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book IV，ch.I",
+        "note": "本卷按马洛礼的妮妙封困梅林叙事；别本的人名和封困地点可能不同。"
+      }
+    ]
+  },
+  "arthurian-guinevere": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lancelot_and_Guinevere_-_Herbert_James_Draper.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Lancelot_and_Guinevere_-_Herbert_James_Draper.jpg",
+        "title": "兰斯洛特与桂妮薇儿",
+        "credit": "Herbert James Draper，约1890年代；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "桂妮薇儿戴冠立于画面中左，兰斯洛特是右下持矛的披甲骑士。后世宫廷绘画呈现两人相遇，不是秘密恋情被揭发的现场。",
+        "local": "assets/images/enrich-other-03.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "34% 25%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XX，ch.I–IX；Book XXI，ch.IX–X",
+        "note": "从揭发和救援读到战争，再对照修道结局。"
+      }
+    ]
+  },
+  "arthurian-lancelot": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lancelot_and_Guinevere_-_Herbert_James_Draper.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Lancelot_and_Guinevere_-_Herbert_James_Draper.jpg",
+        "title": "兰斯洛特与桂妮薇儿",
+        "credit": "Herbert James Draper，约1890年代；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "桂妮薇儿戴冠立于画面中左，兰斯洛特是右下持矛的披甲骑士。后世宫廷绘画呈现两人相遇，不是秘密恋情被揭发的现场。",
+        "local": "assets/images/enrich-other-03.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "91% 75%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XX，ch.I–IX；Book XXI，ch.IX–X",
+        "note": "从揭发和救援读到战争，再对照修道结局。"
+      }
+    ]
+  },
+  "arthurian-betrayal": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XX，ch.I–IX；Book XXI，ch.IX–X",
+        "note": "从揭发和救援读到战争，再对照修道结局。"
+      }
+    ]
+  },
+  "arthurian-galahad": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XIII，ch.I–VII；Book XVII，圣杯结局",
+        "note": "漂石拔剑者是加拉哈德，不是亚瑟早年的石中剑。"
+      }
+    ]
+  },
+  "arthurian-gawain": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XX，ch.XIX–XXII；Book XXI，ch.II–III",
+        "note": "家族复仇与临终劝告形成对照。"
+      }
+    ]
+  },
+  "arthurian-mordred": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/How_Mordred_was_Slain_by_Arthur.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:How_Mordred_was_Slain_by_Arthur.jpg",
+        "title": "亚瑟与莫德雷德的最后交战",
+        "credit": "Arthur Rackham，1917，《The Romance of King Arthur》插图",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "亚瑟与莫德雷德最后一战的近代插图；以荒原和倒下的战士表现圆桌共同体的终结。",
+        "local": "assets/images/enrich-other-05.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XXI，ch.I–IV",
+        "note": "篡位、登陆与最后交战。"
+      }
+    ]
+  },
+  "arthurian-camlann": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/How_Mordred_was_Slain_by_Arthur.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:How_Mordred_was_Slain_by_Arthur.jpg",
+        "title": "亚瑟与莫德雷德的最后交战",
+        "credit": "Arthur Rackham，1917，《The Romance of King Arthur》插图",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "亚瑟与莫德雷德最后一战的近代插图；以荒原和倒下的战士表现圆桌共同体的终结。",
+        "local": "assets/images/enrich-other-05.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XXI，ch.I–IV",
+        "note": "篡位、登陆与最后交战。"
+      }
+    ]
+  },
+  "arthurian-morgan": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book IV，ch.VI–XIV",
+        "note": "摩根与阿科隆的阴谋；她在末卷又属于送走亚瑟的女性。"
+      }
+    ]
+  },
+  "arthurian-percival": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book X，ch.XXIII；Book XIV；Book XVII",
+        "note": "受封、圣杯考验和结局；并非所有早期圣杯故事都由加拉哈德居中。"
+      }
+    ]
+  },
+  "arthurian-bors": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XVI，ch.VII–XVII；Book XVII",
+        "note": "鲍斯在亲情与救人之间受考验，并见证圣杯结局。"
+      }
+    ]
+  },
+  "arthurian-tristan": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book VIII，特里斯坦的出生、爱尔兰经历与伊索尔德婚姻；另见 Book IX",
+        "note": "人物名称在此英译本中写作 Tristram、Isoud、Mark。"
+      }
+    ]
+  },
+  "arthurian-isolde": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book VIII，特里斯坦的出生、爱尔兰经历与伊索尔德婚姻；另见 Book IX",
+        "note": "人物名称在此英译本中写作 Tristram、Isoud、Mark。"
+      }
+    ]
+  },
+  "arthurian-mark": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book VIII，特里斯坦的出生、爱尔兰经历与伊索尔德婚姻；另见 Book IX",
+        "note": "人物名称在此英译本中写作 Tristram、Isoud、Mark。"
+      }
+    ]
+  },
+  "arthurian-uther": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book I，ch.I–IV",
+        "note": "乌瑟、伊格赖恩与亚瑟诞生。"
+      }
+    ]
+  },
+  "arthurian-igraine": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book I，ch.I–IV",
+        "note": "乌瑟、伊格赖恩与亚瑟诞生。"
+      }
+    ]
+  },
+  "arthurian-morgause": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book I，ch.XIX；另对照 Book I，ch.XXVII",
+        "note": "奥克尼王洛特之妻与亚瑟的亲属关系；不要把她与摩根混为一人。"
+      }
+    ]
+  },
+  "arthurian-bedivere": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XXI，ch.V–VII",
+        "note": "还剑、驳船与不同的亚瑟死亡说法。"
+      }
+    ]
+  },
+  "arthurian-avalon": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XXI，ch.V–VII",
+        "note": "还剑、驳船与不同的亚瑟死亡说法。"
+      }
+    ]
+  },
+  "arthurian-kay": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book I，ch.V–VII",
+        "note": "凯、埃克托与亚瑟取剑。"
+      }
+    ]
+  },
+  "arthurian-roundtable": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Holy-grail-round-table-bnf-ms_fr-116F-f610v-15th-detail.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Holy-grail-round-table-bnf-ms_fr-116F-f610v-15th-detail.jpg",
+        "title": "圆桌骑士与圣杯的显现",
+        "credit": "Évrard d’Espinques，约1475；法国国家图书馆，Français 116，fol.610v",
+        "license": "Public Domain／PD-Art",
+        "caption": "中世纪手抄本中的五旬节圆桌聚会。圣杯由天使呈现，骑士围桌而坐，展现骑士共同体与基督教救赎想象的结合。",
+        "local": "assets/images/db5d59ba207e879c.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory1",
+        "locator": "Book III，ch.I–II、XV",
+        "note": "婚姻带来圆桌，誓约规定骑士义务。"
+      }
+    ]
+  },
+  "arthurian-grail": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Holy-grail-round-table-bnf-ms_fr-116F-f610v-15th-detail.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Holy-grail-round-table-bnf-ms_fr-116F-f610v-15th-detail.jpg",
+        "title": "圆桌骑士与圣杯的显现",
+        "credit": "Évrard d’Espinques，约1475；法国国家图书馆，Français 116，fol.610v",
+        "license": "Public Domain／PD-Art",
+        "caption": "中世纪手抄本中的五旬节圆桌聚会。圣杯由天使呈现，骑士围桌而坐，展现骑士共同体与基督教救赎想象的结合。",
+        "local": "assets/images/db5d59ba207e879c.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ar-malory2",
+        "locator": "Book XIII，ch.VII–VIII；Books XIV–XVII",
+        "note": "从圣杯显现、出发读到各骑士不同的结局。"
+      }
+    ]
+  },
+  "japan-izanagi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kobayashi_Izanami_and_Izanagi.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Kobayashi_Izanami_and_Izanagi.jpg",
+        "title": "伊邪那岐与伊邪那美",
+        "credit": "小林永濯，约1885；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "上方的伊邪那美与右下持矛的伊邪那岐立于云气之中，表现搅动海水、生出岛屿的创世叙事。这是明治时期作品。",
+        "local": "assets/images/enrich-other-04.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "70% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections III–VII：Onogoro、生国、生神",
+        "note": "Chamberlain 的旧译拼写与现代罗马字不同。"
+      }
+    ]
+  },
+  "japan-izanami": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kobayashi_Izanami_and_Izanagi.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Kobayashi_Izanami_and_Izanagi.jpg",
+        "title": "伊邪那岐与伊邪那美",
+        "credit": "小林永濯，约1885；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "上方的伊邪那美与右下持矛的伊邪那岐立于云气之中，表现搅动海水、生出岛屿的创世叙事。这是明治时期作品。",
+        "local": "assets/images/enrich-other-04.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "38% 27%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections III–VII：Onogoro、生国、生神",
+        "note": "Chamberlain 的旧译拼写与现代罗马字不同。"
+      }
+    ]
+  },
+  "japan-islands": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kobayashi_Izanami_and_Izanagi.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Kobayashi_Izanami_and_Izanagi.jpg",
+        "title": "伊邪那岐与伊邪那美",
+        "credit": "小林永濯，约1885；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "上方的伊邪那美与右下持矛的伊邪那岐立于云气之中，表现搅动海水、生出岛屿的创世叙事。这是明治时期作品。",
+        "local": "assets/images/enrich-other-04.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections III–VII：Onogoro、生国、生神",
+        "note": "Chamberlain 的旧译拼写与现代罗马字不同。"
+      }
+    ]
+  },
+  "japan-yomi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections IX–XI：Land of Hades、Purification、Three Illustrious Children",
+        "note": "黄泉返回、禊与三贵子的诞生为相连段落。"
+      }
+    ]
+  },
+  "japan-amaterasu": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Amaterasu_cave.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Amaterasu_cave.JPG",
+        "title": "岩户神乐之起显",
+        "credit": "春斋年昌，1887，锦绘；Wikimedia Commons",
+        "license": "Public Domain／PD-Art",
+        "caption": "天照走出天岩户，众神以乐舞迎回光明。此图是明治时期对《古事记》等叙事的再表现，画面服饰和构图不等于8世纪文本的原貌。",
+        "local": "assets/images/e7f82fad860bd950.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "51% 32%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections X–XI；天照另见 XVI",
+        "note": "月读在《古事记》中的行动较少，勿把《日本书纪》异文无提示拼入。"
+      }
+    ]
+  },
+  "japan-tsukuyomi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections X–XI；天照另见 XVI",
+        "note": "月读在《古事记》中的行动较少，勿把《日本书纪》异文无提示拼入。"
+      }
+    ]
+  },
+  "japan-susanoo": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+        "title": "须佐之男在出云斩八岐大蛇",
+        "credit": "月冈芳年，1887，《日本略史之内》三联画；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "中央持剑者为须佐之男，左右为八岐大蛇的头部。浪涛、蛇身与剑构成明治画师对古事记情节的再现。",
+        "local": "assets/images/enrich-other-07.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 30%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XII–XVIII",
+        "note": "从誓约、破坏天田读到放逐和斩蛇。"
+      }
+    ]
+  },
+  "japan-okuninushi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%E5%A4%A7%E5%9B%BD%E4%B8%BB%E7%A5%9E%E3%81%A8%E9%BC%A0_-_%C5%8Ckuninushi_and_the_Field_Mouse.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%9B%BD%E4%B8%BB%E7%A5%9E%E3%81%A8%E9%BC%A0_-_%C5%8Ckuninushi_and_the_Field_Mouse.jpg",
+        "title": "大国主与野鼠",
+        "credit": "1911年《日本神话》相关出版插图（Commons登记作者萩野由之）；Wikimedia Commons",
+        "caption": "大国主受到野鼠帮助的近代书籍插图。它对应根国试炼段，不应误标为因幡白兔故事。",
+        "license": "Public Domain／Wikimedia Commons",
+        "local": "assets/images/enrich-other-06.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "40% 25%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXI–XXIII、XXX–XXXII",
+        "note": "白兔、根国试炼与让国是同一角色的不同叙事阶段。"
+      }
+    ]
+  },
+  "japan-ninigi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ninigi_and_Sakuyahime.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ninigi_and_Sakuyahime.jpg",
+        "title": "迩迩艺命与木花之佐久夜毗卖",
+        "credit": "石井林响，1906；Wikimedia Commons",
+        "caption": "左侧为迩迩艺命，右侧为木花之佐久夜毗卖。画面表现相遇，服饰和构图属于20世纪初画家的解释。",
+        "license": "Public Domain／Wikimedia Commons",
+        "local": "assets/images/enrich-other-09.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "22% 22%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXXIII–XXXIV：Descent、Reign in Himuka",
+        "note": "天孙降临属于王权起源叙事，不直接等同可考迁徙路线。"
+      }
+    ]
+  },
+  "japan-descent": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXXIII–XXXIV：Descent、Reign in Himuka",
+        "note": "天孙降临属于王权起源叙事，不直接等同可考迁徙路线。"
+      }
+    ]
+  },
+  "japan-uzume": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Section XVI：The Door of the Heavenly Rock-Dwelling",
+        "note": "众神分别承担谋划、乐舞与打开岩户的作用。"
+      }
+    ]
+  },
+  "japan-omoikane": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Section XVI：The Door of the Heavenly Rock-Dwelling",
+        "note": "众神分别承担谋划、乐舞与打开岩户的作用。"
+      }
+    ]
+  },
+  "japan-tajikarao": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Section XVI：The Door of the Heavenly Rock-Dwelling",
+        "note": "众神分别承担谋划、乐舞与打开岩户的作用。"
+      }
+    ]
+  },
+  "japan-cave": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Amaterasu_cave.JPG",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Amaterasu_cave.JPG",
+        "title": "岩户神乐之起显",
+        "credit": "春斋年昌，1887，锦绘；Wikimedia Commons",
+        "license": "Public Domain／PD-Art",
+        "caption": "天照走出天岩户，众神以乐舞迎回光明。此图是明治时期对《古事记》等叙事的再表现，画面服饰和构图不等于8世纪文本的原貌。",
+        "local": "assets/images/e7f82fad860bd950.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Section XVI：The Door of the Heavenly Rock-Dwelling",
+        "note": "众神分别承担谋划、乐舞与打开岩户的作用。"
+      }
+    ]
+  },
+  "japan-orochi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+        "title": "须佐之男在出云斩八岐大蛇",
+        "credit": "月冈芳年，1887，《日本略史之内》三联画；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "中央持剑者为须佐之男，左右为八岐大蛇的头部。浪涛、蛇身与剑构成明治画师对古事记情节的再现。",
+        "local": "assets/images/enrich-other-07.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "78% 48%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XVIII–XIX：Eight-Forked Serpent、Palace of Suga",
+        "note": "八岐大蛇、栉名田比卖与须佐之男。"
+      }
+    ]
+  },
+  "japan-kushinada": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XVIII–XIX：Eight-Forked Serpent、Palace of Suga",
+        "note": "八岐大蛇、栉名田比卖与须佐之男。"
+      }
+    ]
+  },
+  "japan-serpent": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+        "title": "须佐之男在出云斩八岐大蛇",
+        "credit": "月冈芳年，1887，《日本略史之内》三联画；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "中央持剑者为须佐之男，左右为八岐大蛇的头部。浪涛、蛇身与剑构成明治画师对古事记情节的再现。",
+        "local": "assets/images/enrich-other-07.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XVIII–XIX：Eight-Forked Serpent、Palace of Suga",
+        "note": "八岐大蛇、栉名田比卖与须佐之男。"
+      }
+    ]
+  },
+  "japan-sukunahikona": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Section XXVII：The Little-Prince-Renowned-Deity",
+        "note": "少彦名协助经营国土。"
+      }
+    ]
+  },
+  "japan-sarutahiko": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXXIII、XXXV：Descent、Duchess of Saru",
+        "note": "与降临途中的引导和天宇受卖的关系。"
+      }
+    ]
+  },
+  "japan-konohana": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ninigi_and_Sakuyahime.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ninigi_and_Sakuyahime.jpg",
+        "title": "迩迩艺命与木花之佐久夜毗卖",
+        "credit": "石井林响，1906；Wikimedia Commons",
+        "caption": "左侧为迩迩艺命，右侧为木花之佐久夜毗卖。画面表现相遇，服饰和构图属于20世纪初画家的解释。",
+        "license": "Public Domain／Wikimedia Commons",
+        "local": "assets/images/enrich-other-09.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "72% 24%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXXVII–XXXVIII：Curse、Child-Bearing",
+        "note": "两姊妹与生命长短的解释；火中生子是后续段落。"
+      }
+    ]
+  },
+  "japan-iwynaga": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXXVII–XXXVIII：Curse、Child-Bearing",
+        "note": "两姊妹与生命长短的解释；火中生子是后续段落。"
+      }
+    ]
+  },
+  "japan-hoori": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXXIX–XLII：Exchange of Luck、Sea-Possessor’s Palace 及其后续",
+        "note": "失去鱼钩、海宫婚姻与生育禁忌。"
+      }
+    ]
+  },
+  "japan-toyotama": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXXIX–XLII：Exchange of Luck、Sea-Possessor’s Palace 及其后续",
+        "note": "失去鱼钩、海宫婚姻与生育禁忌。"
+      }
+    ]
+  },
+  "japan-sea": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXXIX–XLII：Exchange of Luck、Sea-Possessor’s Palace 及其后续",
+        "note": "失去鱼钩、海宫婚姻与生育禁忌。"
+      }
+    ]
+  },
+  "japan-kagutsuchi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections VII–VIII：Retirement、Slaying of the Deity of Fire",
+        "note": "火神诞生与伊邪那美死亡。"
+      }
+    ]
+  },
+  "japan-jimmu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-portal",
+        "locator": "Encyclopedia of Shinto：“Jinmu Tennō”条目",
+        "note": "神话王统与现代可考的历史年代需要分开。"
+      }
+    ]
+  },
+  "japan-land": {
+    "images": [],
+    "citations": [
+      {
+        "source": "jp-chamberlain",
+        "locator": "卷上 Sections XXX–XXXII：Pacifying the Land、Abdication",
+        "note": "让国与之后的天孙降临属于不同阶段。"
+      }
+    ]
+  },
+  "hindu-vishnu": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/57_51_2.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38143",
+        "title": "毗湿奴、迦楼罗与吉祥天女",
+        "credit": "印度特伦甘纳地区，12—13世纪；The Met，57.51.2",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "中央为毗湿奴；两侧与下部的小像包括吉祥天女和迦楼罗。馆藏说明用于确认身份，观看时不要把所有侍从概括成同一个神。",
+        "local": "assets/images/enrich-other-14.jpg",
+        "role": "artifact",
+        "avatar": true,
+        "position": "50% 28%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-gita",
+        "locator": "第4章第7–8偈；第11章",
+        "note": "化身与宇宙形相的经典语境。"
+      },
+      {
+        "source": "hi-gita",
+        "locator": "第4章第7偈，前半偈",
+        "note": "译意：每当正法衰微之时，婆罗多后裔啊……后半偈和第8偈继续解释显现的目的。",
+        "quote": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।"
+      }
+    ]
+  },
+  "hindu-shiva": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39328/154124/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/39328",
+        "title": "舞王湿婆",
+        "credit": "印度泰米尔地区，约11世纪末；The Met，1987.80.1",
+        "license": "Public Domain（馆藏页标示）",
+        "caption": "火环、鼓与抬足把循环时间和解脱凝聚为一幅图像。",
+        "local": "assets/images/0dc2c70cb1b8c4f9.jpg",
+        "role": "artifact",
+        "avatar": true,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-shiva",
+        "locator": "馆藏 1987.80.1（object 39328），作品说明",
+        "note": "鼓、火、侏儒和抬足的舞王图像。"
+      }
+    ]
+  },
+  "hindu-nataraja": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39328/154124/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/39328",
+        "title": "舞王湿婆",
+        "credit": "印度泰米尔地区，约11世纪末；The Met，1987.80.1",
+        "license": "Public Domain（馆藏页标示）",
+        "caption": "火环、鼓与抬足把循环时间和解脱凝聚为一幅图像。",
+        "local": "assets/images/0dc2c70cb1b8c4f9.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-shiva",
+        "locator": "馆藏 1987.80.1（object 39328），作品说明",
+        "note": "鼓、火、侏儒和抬足的舞王图像。"
+      }
+    ]
+  },
+  "hindu-devi": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP253391.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38130",
+        "title": "难近母降服水牛魔",
+        "credit": "印度比哈尔，约11世纪；The Met，91.21",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "难近母以多臂持武器征服水牛魔。此像是大女神的一种战斗形态，不能用来概括所有女神外貌。",
+        "local": "assets/images/enrich-other-15.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-met",
+        "locator": "正文关于 Vishnu、Shiva 与 Shakti（Power）的段落",
+        "note": "大女神与“力量”在不同宗派中的理解并不完全相同。"
+      }
+    ]
+  },
+  "hindu-durga": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP253391.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38130",
+        "title": "难近母降服水牛魔",
+        "credit": "印度比哈尔，约11世纪；The Met，91.21",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "难近母以多臂持武器征服水牛魔。此像是大女神的一种战斗形态，不能用来概括所有女神外貌。",
+        "local": "assets/images/enrich-other-15.jpg",
+        "role": "artifact",
+        "avatar": true,
+        "position": "50% 34%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-met",
+        "locator": "图例“Durga as Slayer of the Buffalo Demon Mahishasura”；多臂神像段与“The Hindu Temple”",
+        "note": "结合图例与寺庙女神战斗叙事阅读。"
+      }
+    ]
+  },
+  "hindu-durga-battle": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP253391.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38130",
+        "title": "难近母降服水牛魔",
+        "credit": "印度比哈尔，约11世纪；The Met，91.21",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "难近母以多臂持武器征服水牛魔。此像是大女神的一种战斗形态，不能用来概括所有女神外貌。",
+        "local": "assets/images/enrich-other-15.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-met",
+        "locator": "图例“Durga as Slayer of the Buffalo Demon Mahishasura”；多臂神像段与“The Hindu Temple”",
+        "note": "结合图例与寺庙女神战斗叙事阅读。"
+      }
+    ]
+  },
+  "hindu-krishna": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Krishna_Arjuna_Gita.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Krishna_Arjuna_Gita.jpg",
+        "title": "克里希纳向阿周那教诲",
+        "credit": "印度佚名画师，约1830；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "蓝肤克里希纳位于战车前方，向车中的阿周那举手教诲；旗帜另画哈奴曼形象。该图是后世对《薄伽梵歌》场面的视觉表达。",
+        "local": "assets/images/enrich-other-08.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "36% 58%"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP231327.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/448183",
+        "title": "克里希纳举起牧山",
+        "credit": "莫卧儿印度，约1590–95，《诃利世系》抄本页；The Met，28.63.1",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "克里希纳举山庇护布拉杰村民和牲畜。画面是《诃利世系》的抄本插图，可与《毗湿奴往世书》同题情节比较，不称为该译本原插图。",
+        "local": "assets/images/enrich-other-17.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-gita",
+        "locator": "第1章第28–47偈；第2章第47偈；第11章",
+        "note": "从阿周那的犹疑，读行动与宇宙形相；不同译注须区分。"
+      }
+    ]
+  },
+  "hindu-arjuna": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Krishna_Arjuna_Gita.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Krishna_Arjuna_Gita.jpg",
+        "title": "克里希纳向阿周那教诲",
+        "credit": "印度佚名画师，约1830；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "蓝肤克里希纳位于战车前方，向车中的阿周那举手教诲；旗帜另画哈奴曼形象。该图是后世对《薄伽梵歌》场面的视觉表达。",
+        "local": "assets/images/enrich-other-08.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "67% 45%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-gita",
+        "locator": "第1章第28–47偈；第2章第47偈；第11章",
+        "note": "从阿周那的犹疑，读行动与宇宙形相；不同译注须区分。"
+      }
+    ]
+  },
+  "hindu-gita": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Krishna_Arjuna_Gita.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Krishna_Arjuna_Gita.jpg",
+        "title": "克里希纳向阿周那教诲",
+        "credit": "印度佚名画师，约1830；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "蓝肤克里希纳位于战车前方，向车中的阿周那举手教诲；旗帜另画哈奴曼形象。该图是后世对《薄伽梵歌》场面的视觉表达。",
+        "local": "assets/images/enrich-other-08.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-gita",
+        "locator": "第1章第28–47偈；第2章第47偈；第11章",
+        "note": "从阿周那的犹疑，读行动与宇宙形相；不同译注须区分。"
+      }
+    ]
+  },
+  "hindu-rama": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP702156.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/688472",
+        "title": "罗摩的集会（Ramapanchayatam）",
+        "credit": "印度浦那，Chitrashala Press，1878–80；The Met，2015.436",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "中央蓝肤罗摩与悉多同坐；哈奴曼在左侧，罗什曼那在右侧。近代印刷使史诗中的奉爱组合进入更广泛的家庭观看。",
+        "local": "assets/images/enrich-other-12.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "46% 35%"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP227600.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38551",
+        "title": "罗摩、悉多和罗什曼那接受礼敬",
+        "credit": "印度泰米尔地区，17—18世纪，象牙浮雕；The Met，62.34.2",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "罗摩一行与哈奴曼、猴军及贤者构成朝见场面。密集雕刻适合放大阅读，不将未能单独辨认的小像当头像。",
+        "local": "assets/images/enrich-other-11.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-rama",
+        "locator": "Book II（Ayodhya Kanda）流放；Book III（Aranya Kanda）悉多被劫段",
+        "note": "按篇名和情节定位；不套用另一译本的颂数。"
+      }
+    ]
+  },
+  "hindu-sita": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP702156.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/688472",
+        "title": "罗摩的集会（Ramapanchayatam）",
+        "credit": "印度浦那，Chitrashala Press，1878–80；The Met，2015.436",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "中央蓝肤罗摩与悉多同坐；哈奴曼在左侧，罗什曼那在右侧。近代印刷使史诗中的奉爱组合进入更广泛的家庭观看。",
+        "local": "assets/images/enrich-other-12.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "64% 40%"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP227600.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38551",
+        "title": "罗摩、悉多和罗什曼那接受礼敬",
+        "credit": "印度泰米尔地区，17—18世纪，象牙浮雕；The Met，62.34.2",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "罗摩一行与哈奴曼、猴军及贤者构成朝见场面。密集雕刻适合放大阅读，不将未能单独辨认的小像当头像。",
+        "local": "assets/images/enrich-other-11.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-rama",
+        "locator": "Book II（Ayodhya Kanda）流放；Book III（Aranya Kanda）悉多被劫段",
+        "note": "按篇名和情节定位；不套用另一译本的颂数。"
+      }
+    ]
+  },
+  "hindu-exile": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP227595.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/72821",
+        "title": "《罗摩衍那》故事绣帕",
+        "credit": "印度查谟／克什米尔，18世纪；The Met，31.82.4",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "同一绣帕并置流放、渡海与战争等情节，适合比较连续叙事如何被编排在一块织物上。微小人物不用于独立头像。",
+        "local": "assets/images/enrich-other-13.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-rama",
+        "locator": "Book II（Ayodhya Kanda）流放；Book III（Aranya Kanda）悉多被劫段",
+        "note": "按篇名和情节定位；不套用另一译本的颂数。"
+      }
+    ]
+  },
+  "hindu-hanuman": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP702156.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/688472",
+        "title": "罗摩的集会（Ramapanchayatam）",
+        "credit": "印度浦那，Chitrashala Press，1878–80；The Met，2015.436",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "中央蓝肤罗摩与悉多同坐；哈奴曼在左侧，罗什曼那在右侧。近代印刷使史诗中的奉爱组合进入更广泛的家庭观看。",
+        "local": "assets/images/enrich-other-12.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "18% 47%"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP227600.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38551",
+        "title": "罗摩、悉多和罗什曼那接受礼敬",
+        "credit": "印度泰米尔地区，17—18世纪，象牙浮雕；The Met，62.34.2",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "罗摩一行与哈奴曼、猴军及贤者构成朝见场面。密集雕刻适合放大阅读，不将未能单独辨认的小像当头像。",
+        "local": "assets/images/enrich-other-11.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-rama",
+        "locator": "Book V（Sundara Kanda）：赴楞伽、寻找并会见悉多",
+        "note": "使者与奉爱实践的主要叙事段落。"
+      }
+    ]
+  },
+  "hindu-ravana": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP227595.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/72821",
+        "title": "《罗摩衍那》故事绣帕",
+        "credit": "印度查谟／克什米尔，18世纪；The Met，31.82.4",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "同一绣帕并置流放、渡海与战争等情节，适合比较连续叙事如何被编排在一块织物上。微小人物不用于独立头像。",
+        "local": "assets/images/enrich-other-13.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-rama",
+        "locator": "Book VI（Yuddha Kanda）：渡海、楞伽战争与罗波那之死",
+        "note": "战争卷与第三卷劫持段相互参照。"
+      }
+    ]
+  },
+  "hindu-lanka": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP227595.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/72821",
+        "title": "《罗摩衍那》故事绣帕",
+        "credit": "印度查谟／克什米尔，18世纪；The Met，31.82.4",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "同一绣帕并置流放、渡海与战争等情节，适合比较连续叙事如何被编排在一块织物上。微小人物不用于独立头像。",
+        "local": "assets/images/enrich-other-13.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-rama",
+        "locator": "Book VI（Yuddha Kanda）：渡海、楞伽战争与罗波那之死",
+        "note": "战争卷与第三卷劫持段相互参照。"
+      }
+    ]
+  },
+  "hindu-lakshmana": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP702156.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/688472",
+        "title": "罗摩的集会（Ramapanchayatam）",
+        "credit": "印度浦那，Chitrashala Press，1878–80；The Met，2015.436",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "中央蓝肤罗摩与悉多同坐；哈奴曼在左侧，罗什曼那在右侧。近代印刷使史诗中的奉爱组合进入更广泛的家庭观看。",
+        "local": "assets/images/enrich-other-12.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "86% 42%"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/DP227600.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38551",
+        "title": "罗摩、悉多和罗什曼那接受礼敬",
+        "credit": "印度泰米尔地区，17—18世纪，象牙浮雕；The Met，62.34.2",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "罗摩一行与哈奴曼、猴军及贤者构成朝见场面。密集雕刻适合放大阅读，不将未能单独辨认的小像当头像。",
+        "local": "assets/images/enrich-other-11.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-rama",
+        "locator": "Book II（Ayodhya Kanda）随行；Book VI（Yuddha Kanda）战斗",
+        "note": "兄弟义务与战士角色。"
+      }
+    ]
+  },
+  "hindu-brahma": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-met",
+        "locator": "“Hinduism and Hindu Art”：三主神与创造职能的介绍",
+        "note": "概览性图像说明，不意味着所有印度教派均采用同一种神学排序。"
+      }
+    ]
+  },
+  "hindu-lakshmi": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/57_51_2.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38143",
+        "title": "毗湿奴、迦楼罗与吉祥天女",
+        "credit": "印度特伦甘纳地区，12—13世纪；The Met，57.51.2",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "中央为毗湿奴；两侧与下部的小像包括吉祥天女和迦楼罗。馆藏说明用于确认身份，观看时不要把所有侍从概括成同一个神。",
+        "local": "assets/images/enrich-other-14.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Book I，Chapter IX：搅乳海与吉祥女神出现",
+        "note": "Wilson 译本卷章；婆罗多各叙事版本的细节不尽相同。"
+      }
+    ]
+  },
+  "hindu-churn": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Book I，Chapter IX：搅乳海与吉祥女神出现",
+        "note": "Wilson 译本卷章；婆罗多各叙事版本的细节不尽相同。"
+      }
+    ]
+  },
+  "hindu-sarasvati": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-deities",
+        "locator": "“Hindu deities”：Brahmā 与 Sarasvatī、Śiva 与 Pārvatī 的图像及说明",
+        "note": "用对应神名寻找图像特征；此类教学资料是概览，不能代替各派原典。"
+      }
+    ]
+  },
+  "hindu-parvati": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-met",
+        "locator": "“The Hindu Temple”节：Odisha 湿婆神庙壁龛的家庭图像",
+        "note": "该段明确列帕尔瓦蒂、象头神与 Skanda，说明地域神庙如何安排神的家庭。"
+      }
+    ]
+  },
+  "hindu-kali": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-deities",
+        "locator": "“Hindu deities”：神性、神祇形态与图像崇拜的总体论述",
+        "note": "此文为背景入口，不提供该神全部家族与事件的逐段原典；专门文献定位尚待补充。"
+      }
+    ]
+  },
+  "hindu-ganesha": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-met",
+        "locator": "“The Hindu Temple”节：Odisha 湿婆神庙壁龛的家庭图像",
+        "note": "该段明确列帕尔瓦蒂、象头神与 Skanda，说明地域神庙如何安排神的家庭。"
+      }
+    ]
+  },
+  "hindu-karttikeya": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-met",
+        "locator": "“The Hindu Temple”节：Odisha 湿婆神庙壁龛的家庭图像",
+        "note": "该段明确列帕尔瓦蒂、象头神与 Skanda，说明地域神庙如何安排神的家庭。"
+      }
+    ]
+  },
+  "hindu-indra": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Book V，Chapter XI：克里希纳举起 Govarddhana 山",
+        "note": "在该卷 Govardhana 情节中定位；印度教与佛教帝释天的后续发展另行比较。"
+      }
+    ]
+  },
+  "hindu-govardhana": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP231327.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/448183",
+        "title": "克里希纳举起牧山",
+        "credit": "莫卧儿印度，约1590–95，《诃利世系》抄本页；The Met，28.63.1",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "克里希纳举山庇护布拉杰村民和牲畜。画面是《诃利世系》的抄本插图，可与《毗湿奴往世书》同题情节比较，不称为该译本原插图。",
+        "local": "assets/images/enrich-other-17.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Book V，Chapter XI：克里希纳举起 Govarddhana 山",
+        "note": "在该卷 Govardhana 情节中定位；印度教与佛教帝释天的后续发展另行比较。"
+      }
+    ]
+  },
+  "hindu-agni": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Book III，Chapter XV：祭祖仪式中 Agni、Soma、Yama 的祭献",
+        "note": "此处为特定仪式位置，并非阿耆尼全部传统的概述。"
+      }
+    ]
+  },
+  "hindu-yama": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Book I，Chapter XXII；Book III，Chapter II",
+        "note": "前者述其亡者领域的地位，后者列太阳与桑姬娜的子女。"
+      }
+    ]
+  },
+  "hindu-garuda": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/original/57_51_2.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/38143",
+        "title": "毗湿奴、迦楼罗与吉祥天女",
+        "credit": "印度特伦甘纳地区，12—13世纪；The Met，57.51.2",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "中央为毗湿奴；两侧与下部的小像包括吉祥天女和迦楼罗。馆藏说明用于确认身份，观看时不要把所有侍从概括成同一个神。",
+        "local": "assets/images/enrich-other-14.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Garuda、Śesha、Vásuki 相关神谱；搅乳海见 Book I，Chapter IX",
+        "note": "迦楼罗是鸟形神圣主体；舍沙与婆苏吉是不同的蛇类神圣主体。"
+      }
+    ]
+  },
+  "hindu-shesha": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Garuda、Śesha、Vásuki 相关神谱；搅乳海见 Book I，Chapter IX",
+        "note": "迦楼罗是鸟形神圣主体；舍沙与婆苏吉是不同的蛇类神圣主体。"
+      }
+    ]
+  },
+  "hindu-vasuki": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hi-vp",
+        "locator": "Garuda、Śesha、Vásuki 相关神谱；搅乳海见 Book I，Chapter IX",
+        "note": "迦楼罗是鸟形神圣主体；舍沙与婆苏吉是不同的蛇类神圣主体。"
+      }
+    ]
+  },
+  "mesoamerica-hunahpu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "“Hunahpu and Xbalanque in the House of the Grandmother”，书内第125页起；其后希巴尔巴诸节",
+        "note": "双子出生和家族关系的定位。"
+      }
+    ]
+  },
+  "mesoamerica-xbalanque": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "“Hunahpu and Xbalanque in the House of the Grandmother”，书内第125页起；其后希巴尔巴诸节",
+        "note": "双子出生和家族关系的定位。"
+      }
+    ]
+  },
+  "mesoamerica-hunhunahpu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "“The Tale of the Father of Hunahpu and Xbalanque”，书内第98页起",
+        "note": "区分父辈一胡纳普与后代胡纳普。"
+      }
+    ]
+  },
+  "mesoamerica-xquic": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "“The Maiden Lady Blood and the Tree of One Hunahpu”，书内第113页起",
+        "note": "血月／Lady Blood 的名称随译本不同。"
+      }
+    ]
+  },
+  "mesoamerica-xmucane": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "“Lady Blood and the Miracle of the Maize”，第120页起；最终造人第181页",
+        "note": "祖母参与家族试炼与造人。"
+      }
+    ]
+  },
+  "mesoamerica-huracan": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "创世开端 Heart of Sky 与 Sovereign Plumed Serpent 的对话；最终造人段",
+        "note": "分别属于基切创造者的称谓群。"
+      }
+    ]
+  },
+  "mesoamerica-gucumatz": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "创世开端 Heart of Sky 与 Sovereign Plumed Serpent 的对话；最终造人段",
+        "note": "分别属于基切创造者的称谓群。"
+      }
+    ]
+  },
+  "mesoamerica-sevencaw": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "“The Defeat of Seven Macaw”，书内第82–86页（译本所标原文985–1188行）",
+        "note": "版本页码按 Mesoweb 2007电子本。"
+      }
+    ]
+  },
+  "mesoamerica-false-sun": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "“The Defeat of Seven Macaw”，书内第82–86页（译本所标原文985–1188行）",
+        "note": "版本页码按 Mesoweb 2007电子本。"
+      }
+    ]
+  },
+  "mesoamerica-hun-came": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "希巴尔巴统治者、试炼屋及双子复生的连续章节",
+        "note": "One Death 与 Seven Death 是成对的冥界统治者。"
+      }
+    ]
+  },
+  "mesoamerica-vucub-came": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "希巴尔巴统治者、试炼屋及双子复生的连续章节",
+        "note": "One Death 与 Seven Death 是成对的冥界统治者。"
+      }
+    ]
+  },
+  "mesoamerica-xibalba": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "希巴尔巴统治者、试炼屋及双子复生的连续章节",
+        "note": "One Death 与 Seven Death 是成对的冥界统治者。"
+      }
+    ]
+  },
+  "mesoamerica-chaak": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/309404/662095/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/309404",
+        "title": "持斧的玛雅雨神恰克",
+        "credit": "玛雅艺术家，800—1000年；The Met，66.181",
+        "license": "Public Domain（馆藏页标示）",
+        "caption": "斧象征雷电；雕像的建筑尺度与服饰提示其宫廷环境。",
+        "local": "assets/images/e11ff60a466d55e8.jpg",
+        "role": "artifact",
+        "avatar": true,
+        "position": "50% 32%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "me-chaak",
+        "locator": "馆藏 66.181（object 309404），作品说明",
+        "note": "依据雕像身份与斧等属性识别。"
+      }
+    ]
+  },
+  "mesoamerica-maize": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/317760/2165250/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/317760",
+        "title": "玉米神贝雕饰件一对",
+        "credit": "玛雅艺术家，公元400—700年；The Met，1995.489a,b",
+        "license": "Public Domain／PD-Art",
+        "caption": "闭眼、额头和玉米须形的头发帮助辨识玉米神。头颅对应被收割的玉米，连接农作物生长周期、死亡与再生；这类精英装饰也关联王权。",
+        "local": "assets/images/374786a38e4c9b7a.jpg",
+        "role": "artifact",
+        "avatar": true,
+        "position": "35% 50%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "me-maize",
+        "locator": "馆藏 1995.489a,b（object 317760），作品说明",
+        "note": "古典玛雅玉米神图像，不直接与高地文本人物划等号。"
+      }
+    ]
+  },
+  "mesoamerica-humans": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-pv",
+        "locator": "最终玉米造人段，书内第181页（PDF索引180）",
+        "note": "译意：他们的血肉来自黄玉米与白玉米。"
+      },
+      {
+        "source": "me-pv",
+        "locator": "书内第181页（PDF索引180）",
+        "note": "译意：他们的血肉只是黄玉米与白玉米。",
+        "quote": "Their flesh was merely yellow ears of maize and white ears of maize."
+      }
+    ]
+  },
+  "mesoamerica-quetzalcoatl": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-20566-001.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/812477",
+        "title": "羽蛇“风之宝石”挂饰",
+        "credit": "墨西加艺术家，1325—1521；The Met，2020.386.1",
+        "caption": "贝壳切片上刻羽蛇，属于常与克察尔科亚特尔—埃埃卡特尔相连的 ehecacozcatl 风之宝石。它是仪式饰物与神性图像证据，不能当成人形肖像。",
+        "license": "Public Domain／The Met Open Access",
+        "local": "assets/images/enrich-other-met-812477.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 50%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "me-aztec",
+        "locator": "图录中的 Quetzalcoatl、Tezcatlipoca 与创世／人类起源讨论",
+        "note": "不同神话版本的合作和冲突不可压成唯一家谱。"
+      }
+    ]
+  },
+  "mesoamerica-tezcatlipoca": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-aztec",
+        "locator": "图录中的 Quetzalcoatl、Tezcatlipoca 与创世／人类起源讨论",
+        "note": "不同神话版本的合作和冲突不可压成唯一家谱。"
+      }
+    ]
+  },
+  "mesoamerica-bones": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-aztec",
+        "locator": "图录中的 Quetzalcoatl、Tezcatlipoca 与创世／人类起源讨论",
+        "note": "不同神话版本的合作和冲突不可压成唯一家谱。"
+      }
+    ]
+  },
+  "mesoamerica-huitzilopochtli": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Huitzilopochtli_telleriano.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Huitzilopochtli_telleriano.jpg",
+        "title": "《特莱里亚诺—雷门西斯抄本》中的维齐洛波奇特利",
+        "credit": "16世纪纳瓦画师／殖民期抄本，fol.5r；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "神的服饰、武器与蜂鸟关联需要结合抄本语境识读。它是殖民期保存的墨西加神祇图像，不是玛雅英雄双子的插图。",
+        "local": "assets/images/enrich-other-22.jpg",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 30%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "me-gods",
+        "locator": "“Los dioses de los mexicas”：Coatlicue、Huitzilopochtli、Coyolxauhqui",
+        "note": "将出生战斗与大神庙图像并读。"
+      }
+    ]
+  },
+  "mesoamerica-coatlicue": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-gods",
+        "locator": "“Los dioses de los mexicas”：Coatlicue、Huitzilopochtli、Coyolxauhqui",
+        "note": "将出生战斗与大神庙图像并读。"
+      }
+    ]
+  },
+  "mesoamerica-coyolxauhqui": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-gods",
+        "locator": "“Los dioses de los mexicas”：Coatlicue、Huitzilopochtli、Coyolxauhqui",
+        "note": "将出生战斗与大神庙图像并读。"
+      }
+    ]
+  },
+  "mesoamerica-birth-war": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-gods",
+        "locator": "“Los dioses de los mexicas”：Coatlicue、Huitzilopochtli、Coyolxauhqui",
+        "note": "将出生战斗与大神庙图像并读。"
+      }
+    ]
+  },
+  "mesoamerica-tlaloc": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP104827.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/313255",
+        "title": "雨神面具：特拉洛克图像",
+        "credit": "米斯特克（Ñuu Savi）艺术家，1325—1521；The Met，1979.206.1062",
+        "caption": "馆方依据圆眼、牙齿与卷曲上唇将其识别为特拉洛克。作品来自米斯特克文化，用于比较中美洲共享的雨神图像；不能直接称为特诺奇蒂特兰出土物。",
+        "license": "Public Domain／The Met Open Access",
+        "local": "assets/images/enrich-other-met-313255.jpg",
+        "role": "artifact",
+        "avatar": true,
+        "position": "50% 45%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "me-aztec",
+        "locator": "Tlaloc 与 Templo Mayor 双神殿讨论、相关图版",
+        "note": "雨水、农业与国家祭祀。"
+      }
+    ]
+  },
+  "mesoamerica-mictlantecuhtli": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-aztec",
+        "locator": "Mictlantecuhtli、Xipe Totec 相关神像与图录说明",
+        "note": "从对应神名和图版读图像属性。"
+      }
+    ]
+  },
+  "mesoamerica-xipe": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-aztec",
+        "locator": "Mictlantecuhtli、Xipe Totec 相关神像与图录说明",
+        "note": "从对应神名和图版读图像属性。"
+      }
+    ]
+  },
+  "mesoamerica-sun": {
+    "images": [],
+    "citations": [
+      {
+        "source": "az-sun",
+        "locator": "“El Quinto Sol”正文",
+        "note": "第五太阳及投火语境；太阳纪元不同于历史年表。"
+      }
+    ]
+  },
+  "mesoamerica-tenochtitlan": {
+    "images": [],
+    "citations": [
+      {
+        "source": "me-lacma",
+        "locator": "“The Aztec Gods”开篇迁徙与鹰、仙人掌建城段",
+        "note": "现代国徽与早期图像的细节需分别观察。"
+      }
+    ]
+  },
+  "aztec-nanahuatzin": {
+    "images": [],
+    "citations": [
+      {
+        "source": "az-sun",
+        "locator": "“El Quinto Sol”正文，Nanáhuatl 与当前太阳的名称",
+        "note": "投火、太阳与纪元名称的语境。"
+      }
+    ]
+  },
+  "aztec-tonatiuh": {
+    "images": [],
+    "citations": [
+      {
+        "source": "az-sun",
+        "locator": "“El Quinto Sol”正文，Nanáhuatl 与当前太阳的名称",
+        "note": "投火、太阳与纪元名称的语境。"
+      }
+    ]
+  },
+  "aztec-tecuciztecatl": {
+    "images": [],
+    "citations": [
+      {
+        "source": "az-xolotl",
+        "locator": "“Xólotl, el dios perro”：Nanahuatzin 与 Tecuciztecatl 投火段",
+        "note": "页面同时讨论太阳运动与索洛特尔的联系。"
+      }
+    ]
+  },
+  "aztec-xolotl": {
+    "images": [],
+    "citations": [
+      {
+        "source": "az-xolotl",
+        "locator": "“Xólotl, el dios perro”：Nanahuatzin 与 Tecuciztecatl 投火段",
+        "note": "页面同时讨论太阳运动与索洛特尔的联系。"
+      }
+    ]
+  },
+  "aztec-chalchiuhtlicue": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-23817-001.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/307651",
+        "title": "查尔丘特利奎石雕",
+        "credit": "墨西加艺术家，1325—1521；The Met，00.5.72",
+        "caption": "环绕头部的束带、侧穗和衣饰帮助辨认水女神“身穿玉裙者”。石雕身份依据馆藏研究说明。",
+        "license": "Public Domain／The Met Open Access",
+        "local": "assets/images/enrich-other-met-307651.jpg",
+        "role": "artifact",
+        "avatar": true,
+        "position": "50% 30%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "az-water",
+        "locator": "馆藏 00.5.72（object 307651），作品身份与服饰说明",
+        "note": "水女神的玉裙名称与石雕识别。"
+      }
+    ]
+  },
+  "inca-viracocha": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-sarmiento",
+        "locator": "Chapters VI–VII：第一、第二时代及创造",
+        "note": "殖民官员所记版本，须结合其政治目的阅读；不是印加时代原文。"
+      }
+    ]
+  },
+  "inca-creation": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-sarmiento",
+        "locator": "Chapters VI–VII：第一、第二时代及创造",
+        "note": "殖民官员所记版本，须结合其政治目的阅读；不是印加时代原文。"
+      }
+    ]
+  },
+  "inca-inti": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-origin",
+        "locator": "“The Children of the Sun”全文",
+        "note": "太阳子女的始祖版本；与洞穴出发的阿亚尔兄弟叙事比较。"
+      }
+    ]
+  },
+  "inca-manco": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-origin",
+        "locator": "“The Children of the Sun”全文",
+        "note": "太阳子女的始祖版本；与洞穴出发的阿亚尔兄弟叙事比较。"
+      }
+    ]
+  },
+  "inca-mamaocllo": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-origin",
+        "locator": "“The Children of the Sun”全文",
+        "note": "太阳子女的始祖版本；与洞穴出发的阿亚尔兄弟叙事比较。"
+      }
+    ]
+  },
+  "inca-origin": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-origin",
+        "locator": "“The Children of the Sun”全文",
+        "note": "太阳子女的始祖版本；与洞穴出发的阿亚尔兄弟叙事比较。"
+      }
+    ]
+  },
+  "inca-ayar": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-sarmiento",
+        "locator": "Chapters XI–XII：始祖出发及前往库斯科",
+        "note": "该卷将神话与王朝合法性叙述交织。"
+      }
+    ]
+  },
+  "inca-pachamama": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/314823/2151373/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/314823",
+        "title": "印加石制供奉像（Conopa）",
+        "credit": "印加艺术家，秘鲁，1400—1535年；The Metropolitan Museum of Art，1984.524.1；William Kelly Simpson赠，纪念Nelson A. Rockefeller，1984",
+        "license": "Public Domain；馆藏页明确标示，Met Open Access允许商业与非商业使用",
+        "caption": "石制的小型供奉物把安第斯信仰带回日常物质世界。它是仪式物件，并不是已被确认为因蒂或维拉科查的人像。",
+        "local": "assets/images/5d2b240557773795.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "in-road",
+        "locator": "“Ushnus—Altars of the Sun”与“Apachetas—Offerings for Safe Travel”",
+        "note": "概览入口；地方实践存在差异，不是统一固定神谱。"
+      }
+    ]
+  },
+  "inca-illapa": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-road",
+        "locator": "“The Road and Religion”：Inka universe、祭祀与神圣景观",
+        "note": "此页仅用于帝国祭祀与神圣景观背景，未直接介绍伊利亚帕；该人物的专门引证尚待补充。"
+      }
+    ]
+  },
+  "inca-mamakilla": {
+    "images": [],
+    "citations": [
+      {
+        "source": "in-sarmiento",
+        "locator": "Chapter VII：日、月、星辰的出现",
+        "note": "该章支持月亮起源的叙述；“玛玛·基利亚”的完整祭祀职能仍需专门文献。"
+      }
+    ]
+  },
+  "inca-sun-feast": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/314823/2151373/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/314823",
+        "title": "印加石制供奉像（Conopa）",
+        "credit": "印加艺术家，秘鲁，1400—1535年；The Metropolitan Museum of Art，1984.524.1；William Kelly Simpson赠，纪念Nelson A. Rockefeller，1984",
+        "license": "Public Domain；馆藏页明确标示，Met Open Access允许商业与非商业使用",
+        "caption": "石制的小型供奉物把安第斯信仰带回日常物质世界。它是仪式物件，并不是已被确认为因蒂或维拉科查的人像。",
+        "local": "assets/images/5d2b240557773795.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "in-road",
+        "locator": "“The Road and Religion”：Inka universe、祭祀与神圣景观",
+        "note": "概览入口；地方实践存在差异，不是统一固定神谱。"
+      }
+    ]
+  },
+  "mesopotamia-an": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-oracc",
+        "locator": "Ancient Mesopotamian Gods and Goddesses：对应 An/Anu、Enlil、Enki/Ea、Marduk、Tiamat 条目",
+        "note": "研究项目按神名组织；其释义覆盖不同地域与时期。"
+      }
+    ]
+  },
+  "mesopotamia-enlil": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-oracc",
+        "locator": "Ancient Mesopotamian Gods and Goddesses：对应 An/Anu、Enlil、Enki/Ea、Marduk、Tiamat 条目",
+        "note": "研究项目按神名组织；其释义覆盖不同地域与时期。"
+      }
+    ]
+  },
+  "mesopotamia-enki": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-oracc",
+        "locator": "Ancient Mesopotamian Gods and Goddesses：对应 An/Anu、Enlil、Enki/Ea、Marduk、Tiamat 条目",
+        "note": "研究项目按神名组织；其释义覆盖不同地域与时期。"
+      }
+    ]
+  },
+  "mesopotamia-marduk": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-oracc",
+        "locator": "Ancient Mesopotamian Gods and Goddesses：对应 An/Anu、Enlil、Enki/Ea、Marduk、Tiamat 条目",
+        "note": "研究项目按神名组织；其释义覆盖不同地域与时期。"
+      }
+    ]
+  },
+  "mesopotamia-tiamat": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-oracc",
+        "locator": "Ancient Mesopotamian Gods and Goddesses：对应 An/Anu、Enlil、Enki/Ea、Marduk、Tiamat 条目",
+        "note": "研究项目按神名组织；其释义覆盖不同地域与时期。"
+      }
+    ]
+  },
+  "mesopotamia-inanna": {
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/327211/1575281/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/327211",
+        "title": "刻有伊南娜赞歌的加喜特滚印",
+        "credit": "加喜特艺术家，约公元前16—12世纪，美索不达米亚；The Metropolitan Museum of Art，1985.357.29；The Right Reverend Paul Moore Jr.赠，1985",
+        "license": "Public Domain；馆藏页明确标示，Met Open Access允许商业与非商业使用",
+        "caption": "玉髓滚印上的八行赞歌祈求“阿卡德的伊南娜”护佑印主，显示宗教、身份和书写如何进入一件随身器物。画面中的男性不能直接认作伊南娜。",
+        "local": "assets/images/8c08ccf6f5c536de.jpg",
+        "role": "document",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ms-inanna",
+        "locator": "ETCSL 1.4.1，1–5行；穿越七门及被审判的段落",
+        "note": "苏美尔语作品的现代译文；不是后来的阿卡德语版本全文。"
+      },
+      {
+        "source": "ms-inanna",
+        "locator": "ETCSL 1.4.1，第1行",
+        "note": "译意：她从广大的天界，把心意转向广大的地下。",
+        "quote": "From the great heaven she set her mind on the great below."
+      }
+    ]
+  },
+  "mesopotamia-descent": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-inanna",
+        "locator": "ETCSL 1.4.1，1–5行；穿越七门及被审判的段落",
+        "note": "苏美尔语作品的现代译文；不是后来的阿卡德语版本全文。"
+      }
+    ]
+  },
+  "mesopotamia-ereshkigal": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-inanna",
+        "locator": "ETCSL 1.4.1，入宫、七门与冥界审判段",
+        "note": "埃列什基伽勒主宰的领域及其规则。"
+      }
+    ]
+  },
+  "mesopotamia-dumuzi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-inanna",
+        "locator": "ETCSL 1.4.1，结尾寻找替身及杜穆兹、盖什提南娜轮替段",
+        "note": "下降故事中的替身问题。"
+      }
+    ]
+  },
+  "mesopotamia-gilgamesh": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-tablet",
+        "locator": "“The Flood Tablet”，《吉尔伽美什史诗》标准巴比伦版第XI泥板",
+        "note": "馆藏实物是洪水叙事泥板；恩奇都之死见史诗第VII–VIII泥板，不能说成此件馆藏的全部内容。"
+      }
+    ]
+  },
+  "mesopotamia-enkidu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-tablet",
+        "locator": "“The Flood Tablet”，《吉尔伽美什史诗》标准巴比伦版第XI泥板",
+        "note": "馆藏实物是洪水叙事泥板；恩奇都之死见史诗第VII–VIII泥板，不能说成此件馆藏的全部内容。"
+      }
+    ]
+  },
+  "mesopotamia-quest": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-tablet",
+        "locator": "“The Flood Tablet”，《吉尔伽美什史诗》标准巴比伦版第XI泥板",
+        "note": "馆藏实物是洪水叙事泥板；恩奇都之死见史诗第VII–VIII泥板，不能说成此件馆藏的全部内容。"
+      }
+    ]
+  },
+  "mesopotamia-utnapishtim": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-tablet",
+        "locator": "“The Flood Tablet”，《吉尔伽美什史诗》标准巴比伦版第XI泥板",
+        "note": "馆藏实物是洪水叙事泥板；恩奇都之死见史诗第VII–VIII泥板，不能说成此件馆藏的全部内容。"
+      }
+    ]
+  },
+  "mesopotamia-cosmos": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ms-oracc",
+        "locator": "Marduk、Tiamat 条目中的 Enūma eliš／《当在高处》讨论",
+        "note": "巴比伦创世史诗与马尔杜克地位的关系。"
+      }
+    ]
+  },
+  "persia-mazda": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-cosmos",
+        "locator": "“COSMOGONY i.”：Orthodox myth；creation、mixture、separation",
+        "note": "中古波斯宇宙论不能直接当作全部早期阿维斯陀材料。"
+      }
+    ]
+  },
+  "persia-ahriman": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-cosmos",
+        "locator": "“COSMOGONY i.”：Orthodox myth；creation、mixture、separation",
+        "note": "中古波斯宇宙论不能直接当作全部早期阿维斯陀材料。"
+      }
+    ]
+  },
+  "persia-renewal": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-cosmos",
+        "locator": "“COSMOGONY i.”：Orthodox myth；creation、mixture、separation",
+        "note": "中古波斯宇宙论不能直接当作全部早期阿维斯陀材料。"
+      }
+    ]
+  },
+  "persia-zarathustra": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-yasna",
+        "locator": "Yasna 30；另读 Introduction 第4节",
+        "note": "善思、善言、善行在此网页导言中出现，不误标成 Yasna 30 的逐字引文。"
+      }
+    ]
+  },
+  "persia-simorgh": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-simorgh",
+        "locator": "“SIMORḠ”：Šāh-nāma 部分，Zāl 的养育与救助",
+        "note": "巨鸟在史诗与后世文学中的功能不同。"
+      }
+    ]
+  },
+  "persia-zal": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-simorgh",
+        "locator": "“SIMORḠ”：Šāh-nāma 部分，Zāl 的养育与救助",
+        "note": "巨鸟在史诗与后世文学中的功能不同。"
+      }
+    ]
+  },
+  "persia-bird": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-simorgh",
+        "locator": "“SIMORḠ”：Šāh-nāma 部分，Zāl 的养育与救助",
+        "note": "巨鸟在史诗与后世文学中的功能不同。"
+      }
+    ]
+  },
+  "persia-rudabeh": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-simorgh",
+        "locator": "“SIMORḠ”：Rostam 诞生与鸟羽援助段",
+        "note": "对照扎尔、鲁达贝与鲁斯塔姆的家族叙事。"
+      }
+    ]
+  },
+  "persia-rostam": {
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP108556.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/452632",
+        "title": "鲁斯塔姆杀死白魔",
+        "credit": "伊朗，约1330–40，《列王纪》抄本页，画师未详；The Met，1974.290.7",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "顶部画格表现鲁斯塔姆战白魔，正文属于菲尔多西《列王纪》。诗人是文本作者，不能写成14世纪画作的画师。",
+        "local": "assets/images/enrich-other-16.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 18%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "pe-rostam",
+        "locator": "展品46：“Portrait of the infant Rostam shown to Sam”",
+        "note": "图像的制作年代与故事时间分列。"
+      }
+    ]
+  },
+  "persia-sohrab": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-shah",
+        "locator": "Section Three：相关 Shahnama 叙事与展品；按 Rostam/Sohrab、Zahhak/Faridun 检索",
+        "note": "展览入口用于对照抄本图像；若需逐句引用应另查选定《列王纪》译本。"
+      }
+    ]
+  },
+  "persia-son": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-shah",
+        "locator": "Section Three：相关 Shahnama 叙事与展品；按 Rostam/Sohrab、Zahhak/Faridun 检索",
+        "note": "展览入口用于对照抄本图像；若需逐句引用应另查选定《列王纪》译本。"
+      }
+    ]
+  },
+  "persia-zahhak": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-shah",
+        "locator": "Section Three：相关 Shahnama 叙事与展品；按 Rostam/Sohrab、Zahhak/Faridun 检索",
+        "note": "展览入口用于对照抄本图像；若需逐句引用应另查选定《列王纪》译本。"
+      }
+    ]
+  },
+  "persia-fereydun": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-shah",
+        "locator": "Section Three：相关 Shahnama 叙事与展品；按 Rostam/Sohrab、Zahhak/Faridun 检索",
+        "note": "展览入口用于对照抄本图像；若需逐句引用应另查选定《列王纪》译本。"
+      }
+    ]
+  },
+  "persia-tyrant": {
+    "images": [],
+    "citations": [
+      {
+        "source": "pe-shah",
+        "locator": "Section Three：相关 Shahnama 叙事与展品；按 Rostam/Sohrab、Zahhak/Faridun 检索",
+        "note": "展览入口用于对照抄本图像；若需逐句引用应另查选定《列王纪》译本。"
+      }
+    ]
+  },
+  "celtic-lug": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tuired",
+        "locator": "Lug 到达 Tara、守门者询问技艺的段落",
+        "note": "“多艺者”角色由一连串问答建立。"
+      }
+    ]
+  },
+  "celtic-dagda": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tuired",
+        "locator": "Dagda 与 Morrígan 会面及战前约定；战后宣告段",
+        "note": "文学中的关系与战前力量准备。"
+      }
+    ]
+  },
+  "celtic-morrigan": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tuired",
+        "locator": "Dagda 与 Morrígan 会面及战前约定；战后宣告段",
+        "note": "文学中的关系与战前力量准备。"
+      }
+    ]
+  },
+  "celtic-nuada": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tuired",
+        "locator": "开篇 Núadu 失去手臂与王权；Dian Cécht 制银手段",
+        "note": "身体完整与王权的联系。"
+      }
+    ]
+  },
+  "celtic-balor": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tuired",
+        "locator": "大战中 Lug 与 Balor 对决、眼睛被击中的段落",
+        "note": "依 Gray 译文对应情节定位；不套用别版段落号。"
+      }
+    ]
+  },
+  "celtic-tuired": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tuired",
+        "locator": "大战中 Lug 与 Balor 对决、眼睛被击中的段落",
+        "note": "依 Gray 译文对应情节定位；不套用别版段落号。"
+      }
+    ]
+  },
+  "celtic-cuchulainn": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tain",
+        "locator": "Táin Bó Cúailnge：Recension II，出兵与单人守隘等核心段落",
+        "note": "来源页列出不同校本，阅读时先选择 recension。"
+      }
+    ]
+  },
+  "celtic-medb": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tain",
+        "locator": "Táin Bó Cúailnge：Recension II，出兵与单人守隘等核心段落",
+        "note": "来源页列出不同校本，阅读时先选择 recension。"
+      }
+    ]
+  },
+  "celtic-cattle": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-tain",
+        "locator": "Táin Bó Cúailnge：Recension II，出兵与单人守隘等核心段落",
+        "note": "来源页列出不同校本，阅读时先选择 recension。"
+      }
+    ]
+  },
+  "celtic-pwyll": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-mabinogi",
+        "locator": "“Pwyll Prince of Dyved”开头：Annwvyn 会面、交换身份与一年之约",
+        "note": "Guest 旧译本的地名和人名拼写与现代版不同。"
+      }
+    ]
+  },
+  "celtic-arawn": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-mabinogi",
+        "locator": "“Pwyll Prince of Dyved”开头：Annwvyn 会面、交换身份与一年之约",
+        "note": "Guest 旧译本的地名和人名拼写与现代版不同。"
+      }
+    ]
+  },
+  "celtic-exchange": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-mabinogi",
+        "locator": "“Pwyll Prince of Dyved”开头：Annwvyn 会面、交换身份与一年之约",
+        "note": "Guest 旧译本的地名和人名拼写与现代版不同。"
+      }
+    ]
+  },
+  "celtic-rhiannon": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ce-mabinogi",
+        "locator": "“Pwyll Prince of Dyved”：Gorsedd Arberth 的骑马女子、婚约及失子段",
+        "note": "第一支中莉安侬的主要情节。"
+      }
+    ]
+  },
+  "slavic-perun": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-chronicle",
+        "locator": "《往年纪事》988年条：佩伦神像被拖下并投入第聂伯河",
+        "note": "基督教编年史的改宗叙事；不能据此恢复全部前基督教教义。"
+      }
+    ]
+  },
+  "slavic-idols": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-chronicle",
+        "locator": "《往年纪事》988年条：佩伦神像被拖下并投入第聂伯河",
+        "note": "基督教编年史的改宗叙事；不能据此恢复全部前基督教教义。"
+      }
+    ]
+  },
+  "slavic-veles": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-zaroff",
+        "locator": "Zaroff 论文：980年神像名单及 Volos/Veles、Mokosh、Dazhbog 讨论",
+        "note": "论文区分历史记录与比较重建；重建不等于保存完好的古史诗。"
+      }
+    ]
+  },
+  "slavic-mokosh": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-zaroff",
+        "locator": "Zaroff 论文：980年神像名单及 Volos/Veles、Mokosh、Dazhbog 讨论",
+        "note": "论文区分历史记录与比较重建；重建不等于保存完好的古史诗。"
+      }
+    ]
+  },
+  "slavic-dazhbog": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-zaroff",
+        "locator": "Zaroff 论文：980年神像名单及 Volos/Veles、Mokosh、Dazhbog 讨论",
+        "note": "论文区分历史记录与比较重建；重建不等于保存完好的古史诗。"
+      }
+    ]
+  },
+  "slavic-babayaga": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bilibin._Baba_Yaga.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Bilibin._Baba_Yaga.jpg",
+        "title": "雅加婆婆乘臼穿过森林",
+        "credit": "伊万·比利宾，1900；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "为《美丽的瓦西丽莎》绘制的插图，呈现乘臼、以杵驱动的雅加婆婆。这是童话出版史中的近代图像，不是古斯拉夫祭祀神像。",
+        "local": "assets/images/enrich-other-18.jpg",
+        "role": "scene",
+        "avatar": true,
+        "position": "53% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "sl-tales",
+        "locator": "“Vasilissa the Fair”整篇；另比较“The Baba Yaga”",
+        "note": "同名或相近人物可出现在不同童话中，角色功能也会变化。"
+      }
+    ]
+  },
+  "slavic-vasilissa": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-tales",
+        "locator": "“Vasilissa the Fair”整篇；另比较“The Baba Yaga”",
+        "note": "同名或相近人物可出现在不同童话中，角色功能也会变化。"
+      }
+    ]
+  },
+  "slavic-vasilissa-fire": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bilibin._Baba_Yaga.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Bilibin._Baba_Yaga.jpg",
+        "title": "雅加婆婆乘臼穿过森林",
+        "credit": "伊万·比利宾，1900；Wikimedia Commons",
+        "license": "Public domain／Wikimedia Commons",
+        "caption": "为《美丽的瓦西丽莎》绘制的插图，呈现乘臼、以杵驱动的雅加婆婆。这是童话出版史中的近代图像，不是古斯拉夫祭祀神像。",
+        "local": "assets/images/enrich-other-18.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 35%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "sl-tales",
+        "locator": "“Vasilissa the Fair”整篇；另比较“The Baba Yaga”",
+        "note": "同名或相近人物可出现在不同童话中，角色功能也会变化。"
+      }
+    ]
+  },
+  "slavic-koshchei": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-tales",
+        "locator": "“Koshchei the Deathless”整篇",
+        "note": "外置生命属于童话母题，不应无证据上推为古斯拉夫官方神学。"
+      }
+    ]
+  },
+  "slavic-death-hidden": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-tales",
+        "locator": "“Koshchei the Deathless”整篇",
+        "note": "外置生命属于童话母题，不应无证据上推为古斯拉夫官方神学。"
+      }
+    ]
+  },
+  "slavic-leshy": {
+    "images": [],
+    "citations": [
+      {
+        "source": "sl-tales",
+        "locator": "“The Léshy”篇",
+        "note": "林地精怪在采录童话中的表现。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "ct-cthulhu": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cthulhu3.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cthulhu3.jpg",
+        "title": "洛夫克拉夫特手绘克苏鲁",
+        "credit": "H. P. Lovecraft，1934年；Brown University Library / Wikimedia Commons",
+        "license": "Public Domain / PD-Art",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "作者亲绘的克苏鲁小像侧视图，是现代文学创作档案，既非古代出土物，也不是现实生物照片。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-9815fcfbb7f2.jpg",
+        "crop": [
+          0.14,
+          0.1,
+          0.6,
+          0.48
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-call",
+        "locator": "第I部分梦境与泥塑；第II部分卡斯特罗口述；第III部分拉莱耶遭遇",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。",
+        "quote": "In his house at R’lyeh dead Cthulhu waits dreaming.",
+        "translation": "在拉莱耶的宅邸中，死去的克苏鲁等待着、做着梦。"
+      }
+    ]
+  },
+  "ct-nyarl": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nyarlathotep%20the%20Black%20Pharaoh%20by%20Katharsisdrill.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nyarlathotep_the_Black_Pharaoh_by_Katharsisdrill.jpg",
+        "title": "奈亚拉托提普：黑法老的当代诠释",
+        "credit": "Katharsisdrill 与分形艺术家 Nyarlathotep 合作；创作年未详，2019年上传Commons",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "caption": "当代数字绘画，表现奈亚拉托提普的黑法老形象；不是古埃及神像。网页头像仅作圆形显示裁切。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-5fba8668e45a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-nyarl",
+        "locator": "《奈亚拉托提普》全文；另对读《梦寻秘境卡达斯》结尾",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-yog": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yog-Sothoth.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Yog-Sothoth.jpg",
+        "title": "犹格·索托斯的艺术想象",
+        "credit": "Dominique Signoret；2006年上传Commons，VRT授权记录见原页",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "现代艺术家对不可见或难以界定存在的视觉化；不是洛夫克拉夫特亲绘。原图不改动，头像显示为圆形裁切，沿用同一许可。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-0ae6b6200d24.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-dunwich",
+        "locator": "第V章《死灵之书》引文；第X章怪物临终呼喊",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。",
+        "quote": "Yog-Sothoth is the gate.",
+        "translation": "犹格·索托斯就是门。"
+      }
+    ]
+  },
+  "ct-azathoth": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Azathoth.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Azathoth.jpg",
+        "title": "阿撒托斯的艺术想象",
+        "credit": "Dominique Signoret；2006年上传Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "艺术家的主观形象，不能用于证明原文存在固定的生物学外形。原图不改动，头像圆形显示沿用同一许可。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-4a43dde7eb59.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-dream",
+        "locator": "船向西方玄武岩柱驶去的段落；卡特结尾的飞行与逃脱",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-shub": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-whisper",
+        "locator": "第III章留声机录音与转录文本",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。",
+        "quote": "The Black Goat of the Woods with a Thousand Young!",
+        "translation": "孕育万千子嗣的森林黑山羊！"
+      }
+    ]
+  },
+  "ct-elder": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-mountains",
+        "locator": "第II章解剖报告；第VI—VII章壁画文明史；第XI章同情性判断",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-shoggoth": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoggoth%20by%20Nottsuo.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shoggoth_by_Nottsuo.jpg",
+        "title": "修格斯：当代数字绘画",
+        "credit": "Nottsuo；创作年未详，2017年上传Commons并完成许可复核",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "caption": "以《疯狂山脉》为灵感的当代作品，展现可变形团块的视觉想象；与原作文字对照阅读。头像采用显示裁切。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-4fb70c2f354d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-mountains",
+        "locator": "第VII章修格斯劳动与反抗；第XI章隧道追逐",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-deep": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-innsmouth",
+        "locator": "第III章萨多克叙事；第IV章追逐；第V章结尾",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-migo": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-whisper",
+        "locator": "第I—II章来信；第VI—VIII章脑罐及身份揭示",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-yith": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-time",
+        "locator": "第IV—V章心智交换；第VIII章地底书页发现",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-dagon": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-dagon",
+        "locator": "《达贡》海底浮出地景、石柱与巨物段落；另对读《印斯茅斯的阴影》第III章",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-carter": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-dream",
+        "locator": "开篇三次梦见城市；食尸鬼援助；奈亚拉托提普与结尾",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-armitage": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-dunwich",
+        "locator": "第V章图书馆；第VIII章日记破译；第X章山顶行动",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-wilbur": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-dunwich",
+        "locator": "第II—VI章成长、求书与死亡；第X章身份说明",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-dyer": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-mountains",
+        "locator": "第I章警告与探险背景；第VI—XII章城中探索",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-danforth": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-mountains",
+        "locator": "第I章介绍；第XII章最后飞行与回望",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-akeley": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-whisper",
+        "locator": "第II—V章书信；第VIII章结尾揭示",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-wilmarth": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-whisper",
+        "locator": "第I章背景；第VI—VIII章探访与逃离",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-peaslee": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-time",
+        "locator": "第I章失忆背景；第IV章回忆；第VIII章档案",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-johansen": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Call%20of%20Cthulhu.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Call_of_Cthulhu.jpg",
+        "title": "《克苏鲁的呼唤》手稿首页",
+        "credit": "H. P. Lovecraft，1926；Brown University Library / Wikimedia Commons",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "真实存在的是这份小说手稿。它证明作品的创作与修订过程，不证明小说叙述的崇拜或事件真实发生。",
+        "role": "document",
+        "avatar": false,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-e25f63558fcd.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-call",
+        "locator": "第III部分《来自海上的疯狂》",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-thurston": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Call%20of%20Cthulhu.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Call_of_Cthulhu.jpg",
+        "title": "《克苏鲁的呼唤》手稿首页",
+        "credit": "H. P. Lovecraft，1926；Brown University Library / Wikimedia Commons",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "真实存在的是这份小说手稿。它证明作品的创作与修订过程，不证明小说叙述的崇拜或事件真实发生。",
+        "role": "document",
+        "avatar": false,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-e25f63558fcd.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-call",
+        "locator": "标题副题；第I部分开篇及第III部分结尾",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-alhazred": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-book",
+        "locator": "《死灵之书的历史》开头及翻译史段落",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-book": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-book",
+        "locator": "全文；另对读《敦威治恐怖事件》第V章",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-colour": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-colour",
+        "locator": "陨石检验、农场异变、井边离去和余留之物",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-blake": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-haunter",
+        "locator": "教堂探索、晶体记载与结尾日记",
+        "note": "这是小说中的叙述或人物判断，不能当作现实历史、宗教或科学事实。"
+      }
+    ]
+  },
+  "ct-event-dreams": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Call%20of%20Cthulhu.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Call_of_Cthulhu.jpg",
+        "title": "《克苏鲁的呼唤》手稿首页",
+        "credit": "H. P. Lovecraft，1926；Brown University Library / Wikimedia Commons",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "阅读关联：真实存在的是这份小说手稿。它证明作品的创作与修订过程，不证明小说叙述的崇拜或事件真实发生。 此图对应本事件中的存在或文本，不是对整场事件的写实复原。",
+        "role": "document",
+        "avatar": false,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-e25f63558fcd.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-call",
+        "locator": "第I—II部分",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-rlyeh": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cthulhu3.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cthulhu3.jpg",
+        "title": "洛夫克拉夫特手绘克苏鲁",
+        "credit": "H. P. Lovecraft，1934年；Brown University Library / Wikimedia Commons",
+        "license": "Public Domain / PD-Art",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "阅读关联：作者亲绘的克苏鲁小像侧视图，是现代文学创作档案，既非古代出土物，也不是现实生物照片。 此图对应本事件中的存在或文本，不是对整场事件的写实复原。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-9815fcfbb7f2.jpg",
+        "crop": [
+          0.14,
+          0.1,
+          0.6,
+          0.48
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-call",
+        "locator": "第III部分《来自海上的疯狂》",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-dunwich": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yog-Sothoth.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Yog-Sothoth.jpg",
+        "title": "犹格·索托斯的艺术想象",
+        "credit": "Dominique Signoret；2006年上传Commons，VRT授权记录见原页",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "阅读关联：现代艺术家对不可见或难以界定存在的视觉化；不是洛夫克拉夫特亲绘。原图不改动，头像显示为圆形裁切，沿用同一许可。 此图对应本事件中的存在或文本，不是对整场事件的写实复原。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-0ae6b6200d24.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-dunwich",
+        "locator": "第II—X章，尤其V、VI、VIII、X章",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-antarctic": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoggoth%20by%20Nottsuo.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shoggoth_by_Nottsuo.jpg",
+        "title": "修格斯：当代数字绘画",
+        "credit": "Nottsuo；创作年未详，2017年上传Commons并完成许可复核",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "caption": "阅读关联：以《疯狂山脉》为灵感的当代作品，展现可变形团块的视觉想象；与原作文字对照阅读。头像采用显示裁切。 此图对应本事件中的存在或文本，不是对整场事件的写实复原。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-4fb70c2f354d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-mountains",
+        "locator": "第II章解剖；第IV—VII章城市和壁画",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-revolt": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoggoth%20by%20Nottsuo.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shoggoth_by_Nottsuo.jpg",
+        "title": "修格斯：当代数字绘画",
+        "credit": "Nottsuo；创作年未详，2017年上传Commons并完成许可复核",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "caption": "阅读关联：以《疯狂山脉》为灵感的当代作品，展现可变形团块的视觉想象；与原作文字对照阅读。头像采用显示裁切。 此图对应本事件中的存在或文本，不是对整场事件的写实复原。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-4fb70c2f354d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-mountains",
+        "locator": "第VII章；第XI—XII章",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-innsmouth": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-innsmouth",
+        "locator": "第III章历史口述；第IV章逃亡；第V章反转",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-whisper": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-whisper",
+        "locator": "第I—III章证据；第VI—VIII章探访",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-yith": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-time",
+        "locator": "第I章；第IV—V章；第VIII章",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-kadath": {
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nyarlathotep%20the%20Black%20Pharaoh%20by%20Katharsisdrill.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nyarlathotep_the_Black_Pharaoh_by_Katharsisdrill.jpg",
+        "title": "奈亚拉托提普：黑法老的当代诠释",
+        "credit": "Katharsisdrill 与分形艺术家 Nyarlathotep 合作；创作年未详，2019年上传Commons",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "caption": "阅读关联：当代数字绘画，表现奈亚拉托提普的黑法老形象；不是古埃及神像。网页头像仅作圆形显示裁切。 此图对应本事件中的存在或文本，不是对整场事件的写实复原。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 40%",
+        "local": "assets/images/cthulhu-5fba8668e45a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "ct-src-dream",
+        "locator": "开篇城市之梦；末尾卡达斯会面与逃脱",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  },
+  "ct-event-colour": {
+    "images": [],
+    "citations": [
+      {
+        "source": "ct-src-colour",
+        "locator": "陨石检验、加德纳家衰败、井边目击与结尾",
+        "note": "以下时间和事件均属虚构叙事；写作或发表年代另行说明。"
+      }
+    ]
+  }
+}

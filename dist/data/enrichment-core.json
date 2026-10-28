@@ -1,0 +1,4900 @@
+{
+  "eg-atum": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Atum.svg/1280px-Atum.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Atum.svg",
+        "title": "阿图姆 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "头戴双王冠的阿图姆。现代作者依据新王国图像整理，帮助识别创造神的王权形象，并非出土壁画原件。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-205e38c9cde2a3.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“The creator emerges”与“From Ra to Osiris and Horus”小节",
+        "note": "先读创造者从原初水域出现，再读神族世代展开。"
+      }
+    ]
+  },
+  "eg-ra": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Re-Horakhty.svg/1280px-Re-Horakhty.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Re-Horakhty.svg",
+        "title": "拉 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "拉—荷拉赫提的现代复绘，以鹰首与日盘显示拉与荷鲁斯的复合形态；这幅整理图不能取代具体古代器物的铭文辨识。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-8d854e0158f14e.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The Legend of Ra and Isis（正文；目录第21项）",
+        "note": "拉的名字、衰老与魔法知识围绕一个具体故事展开。"
+      }
+    ]
+  },
+  "eg-shu": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shu_with_feather.svg/1280px-Shu_with_feather.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shu_with_feather.svg",
+        "title": "舒 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的舒形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-dca1a051959584.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“From Ra to Osiris and Horus”小节",
+        "note": "舒与泰芙努特、盖布与努特之间的创世谱系。"
+      }
+    ]
+  },
+  "eg-tefnut": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Tefnut.svg/1280px-Tefnut.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tefnut.svg",
+        "title": "泰芙努特 · 古代图像的现代复绘",
+        "credit": "PharaohCrab / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "现代作者依据古埃及图像整理的泰芙努特形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-f98a09c33d44c0.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“From Ra to Osiris and Horus”小节",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-geb": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Geb.svg/1280px-Geb.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Geb.svg",
+        "title": "盖布 · 古代图像的现代复绘",
+        "credit": "Daniel Toye / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "现代作者依据古埃及图像整理的盖布形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-core-809655fdefa518.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“From Ra to Osiris and Horus”小节",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-nut": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Nut.svg/1280px-Nut.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nut.svg",
+        "title": "努特 · 古代图像的现代复绘",
+        "credit": "A. Parrot / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "现代作者依据古埃及图像整理的努特形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-core-a5c4e6cd70069f.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“From Ra to Osiris and Horus”小节",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-osiris": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Standing_Osiris.svg/1280px-Standing_Osiris.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Standing_Osiris.svg",
+        "title": "奥西里斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的奥西里斯形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-62989cdf214b81.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+        "title": "胡内弗《亡灵书》：称量心脏",
+        "credit": "Hunefer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "胡内弗称心图中可见本主体或其象征。完整画面保存各角色的空间关系，避免仅靠现代独立神像理解审判。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-b9d50217a771bc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "A Hymn to Osiris and a Legend of the Origin of Horus（目录第23项）",
+        "note": "赞歌与叙事同读；不要把所有时代关于肢解、复原的细节拼成唯一版本。"
+      }
+    ]
+  },
+  "eg-isis": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Isis.svg/1280px-Isis.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Isis.svg",
+        "title": "伊西斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的伊西斯形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-436e464c1ad190.png"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP241036.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/548310",
+        "title": "伊西斯哺育荷鲁斯",
+        "credit": "公元前332—30年，埃及彩釉陶；The Met，55.121.5",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "伊西斯哺育幼年荷鲁斯的古代彩釉陶，连接母性保护与王权再生；与旁边的现代复绘属于不同视觉证据。",
+        "local": "assets/images/8534e858835c091b.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 50%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The Legend of Ra and Isis；A Hymn to Osiris and a Legend of the Origin of Horus",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-seth": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Set.svg/1280px-Set.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Set.svg",
+        "title": "赛特 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl ( talk · contribs ) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的赛特形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-202de9cf4a1538.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The History of Isis and Osiris；A Hymn to Osiris and a Legend of the Origin of Horus",
+        "note": "赛特在不同文本中的地位变化，不能直接套为绝对邪恶之神。"
+      }
+    ]
+  },
+  "eg-nephthys": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Nepthys.svg/1280px-Nepthys.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nepthys.svg",
+        "title": "奈芙蒂斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的奈芙蒂斯形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-b3dbcf28ae60b0.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The History of Isis and Osiris",
+        "note": "此处包含较晚完整叙事，与早期埃及葬仪暗示应区分。"
+      }
+    ]
+  },
+  "eg-horus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Horus_standing.svg/1280px-Horus_standing.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Horus_standing.svg",
+        "title": "荷鲁斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的荷鲁斯形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-a49e58bd6e42c9.png"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP241036.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/548310",
+        "title": "伊西斯哺育荷鲁斯",
+        "credit": "公元前332—30年，埃及彩釉陶；The Met，55.121.5",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "伊西斯哺育幼年荷鲁斯的古代彩釉陶，连接母性保护与王权再生；与旁边的现代复绘属于不同视觉证据。",
+        "local": "assets/images/8534e858835c091b.jpg",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 50%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "A Hymn to Osiris and a Legend of the Origin of Horus；The Legend of Horus of Behutet and the Winged Disk",
+        "note": "幼年荷鲁斯与贝赫代特荷鲁斯属于不同神格语境。"
+      }
+    ]
+  },
+  "eg-anubis": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Anubis_standing.svg/1280px-Anubis_standing.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Anubis_standing.svg",
+        "title": "阿努比斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的阿努比斯形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-dbc515321d9c04.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+        "title": "胡内弗《亡灵书》：称量心脏",
+        "credit": "Hunefer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "胡内弗称心图中可见本主体或其象征。完整画面保存各角色的空间关系，避免仅靠现代独立神像理解审判。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-b9d50217a771bc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-bookdead",
+        "locator": "《亡灵书》第125章，审判、否定告白与相关图像",
+        "note": "阿努比斯照管称量，奥西里斯为王座上的死者之王。"
+      }
+    ]
+  },
+  "eg-thoth": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Thoth.svg/1280px-Thoth.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Thoth.svg",
+        "title": "托特 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的托特形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-170d622298be3c.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+        "title": "胡内弗《亡灵书》：称量心脏",
+        "credit": "Hunefer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "胡内弗称心图中可见本主体或其象征。完整画面保存各角色的空间关系，避免仅靠现代独立神像理解审判。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-b9d50217a771bc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-bookdead",
+        "locator": "《亡灵书》第125章，称心场景与审判记录",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-maat": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Maat.svg/1280px-Maat.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Maat.svg",
+        "title": "玛阿特 · 古代图像的现代复绘",
+        "credit": "No machine-readable author provided. Jeff Dahl assumed (based on copyright claims). / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的玛阿特形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-a6d99ef335fa8e.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+        "title": "胡内弗《亡灵书》：称量心脏",
+        "credit": "Hunefer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "胡内弗称心图中可见本主体或其象征。完整画面保存各角色的空间关系，避免仅靠现代独立神像理解审判。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-b9d50217a771bc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-bookdead",
+        "locator": "《亡灵书》第125章，双重玛阿特大厅与否定告白",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-apep": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Apep_%28Deity%29.svg/1280px-Apep_%28Deity%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Apep_(Deity).svg",
+        "title": "阿佩普 · 古代图像的现代复绘",
+        "credit": "RootOfAllLight / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "caption": "阿佩普的现代复绘；原作者说明为便于辨识加入了艺术调整。可观察蛇形，但不能把每一细节当作古墓原画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "0% 50%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "local": "assets/images/enrich-core-efea0b02f7c8ed.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The History of Creation—A；太阳神抵御敌对力量的段落",
+        "note": "不同冥界书和太阳护卫文本各有编排，不能以一页概括全套夜航地图。"
+      }
+    ]
+  },
+  "eg-ptah": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ptah_standing.svg/1280px-Ptah_standing.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ptah_standing.svg",
+        "title": "卜塔 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的卜塔形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-ec36a1f6365aef.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“Other forces of creation”小节，卜塔的心与舌",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-sekhmet": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sekhmet.svg/1280px-Sekhmet.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Sekhmet.svg",
+        "title": "塞赫美特 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的塞赫美特形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-311a0841d80453.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The Legend of the Destruction of Mankind，Chapter I–II",
+        "note": "核读太阳之眼、哈托尔及杀戮停止；这些女神的等同依版本变化。"
+      }
+    ]
+  },
+  "eg-nefertem": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-gods",
+        "locator": "奈菲尔图姆相关神格与孟菲斯神群背景",
+        "note": "此项为入门参考定位，进一步研究宜查孟菲斯地方神学专著。"
+      }
+    ]
+  },
+  "eg-amun": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Amun.svg/1280px-Amun.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Amun.svg",
+        "title": "阿蒙 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的阿蒙形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 25%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-2c66618e725ca1.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-divine",
+        "locator": "“Expressing the Divine”及阿蒙—拉相关展品说明",
+        "note": "馆藏中的复合神名与王权图像是地方神学及历史发展的材料。"
+      }
+    ]
+  },
+  "eg-mut": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-divine",
+        "locator": "穆特与底比斯神群相关展品说明",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-khonsu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "A Legend of Khensu Nefer-hetep and the Princess of Bekhten（Summary VI）",
+        "note": "孔苏治愈外邦公主的故事，故事设置年代与现存碑文年代须区分。"
+      }
+    ]
+  },
+  "eg-hathor": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hathor.svg/1280px-Hathor.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Hathor.svg",
+        "title": "哈托尔 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "牛角与日盘是哈托尔常见标志，伊西斯等女神也可能采用。识别真实古物时仍需铭文与出土语境。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-c9af1b8c5ede2b.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The Legend of the Destruction of Mankind，Chapter I–II",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-bastet": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bastet.svg/1280px-Bastet.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Bastet.svg",
+        "title": "巴斯特 · 古代图像的现代复绘",
+        "credit": "Gunawan Kartapranata / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "现代作者依据古埃及图像整理的巴斯特形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-core-df407b9b53a29c.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-gods",
+        "locator": "Bastet 神祇条目",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-sobek": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Sobek.svg/1280px-Sobek.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Sobek.svg",
+        "title": "索贝克 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的索贝克形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-c06036ec5e1a11.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-gods",
+        "locator": "Sobek 神祇条目",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-khnum": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Khnum.svg/1280px-Khnum.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Khnum.svg",
+        "title": "克努姆 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的克努姆形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-06fe4b07041ede.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "A Legend of the God Khnemu and of a Seven Years’ Famine（目录第25项）",
+        "note": "该文本是克努姆传统的一个窗口，不等于七年饥荒已获独立历史确认。"
+      }
+    ]
+  },
+  "eg-neith": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-gods",
+        "locator": "Neith 神祇条目",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-nun": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Heh_as_chaos.svg/1280px-Heh_as_chaos.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Heh_as_chaos.svg",
+        "title": "努恩 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "原初水域之神的现代整理图；文件以赫赫相关图像表现努恩。这里只作图像传统的示意，不当作所有努恩描绘的标准。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-b2b9f6ad12cb34.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“Before creation”小节第1对：Nun and Nunet",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-heh": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“Before creation”小节第2对：Heh and Hehet",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-kek": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“Before creation”小节第3对：Kek and Keket",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-amunet": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“Before creation”小节，早期与后期八元神名单比较",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-taweret": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-divine",
+        "locator": "家宅、母婴保护及塔沃里特相关展品说明",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-bes": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-divine",
+        "locator": "家宅保护与贝斯图像相关展品说明",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-serket": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The Legend of the Death and Resurrection of Horus, and Other Magical Texts",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-wepwawet": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-gods",
+        "locator": "犬科神形象与 Wepwawet 相关辨识背景",
+        "note": "需将乌普奥特与阿努比斯分开识别，不能仅凭犬头定名。"
+      }
+    ]
+  },
+  "eg-apis": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-divine",
+        "locator": "圣兽、阿匹斯与卜塔相关展品说明",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-hapi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-gods",
+        "locator": "Hapi 神祇条目",
+        "note": "河神哈皮与荷鲁斯四子中的同名者应区别。"
+      }
+    ]
+  },
+  "eg-ammit": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ammit.svg/1280px-Ammit.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ammit.svg",
+        "title": "阿米特 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的阿米特形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-98f88ccbb73bba.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+        "title": "胡内弗《亡灵书》：称量心脏",
+        "credit": "Hunefer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "胡内弗称心图中可见本主体或其象征。完整画面保存各角色的空间关系，避免仅靠现代独立神像理解审判。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-b9d50217a771bc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-bookdead",
+        "locator": "《亡灵书》第125章，称心图中的吞噬者",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-khepri": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Khepri.svg/1280px-Khepri.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Khepri.svg",
+        "title": "凯布利 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "现代作者依据古埃及图像整理的凯布利形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-ba984bcf9d26df.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“The creator emerges”小节，太阳初现与创造",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-bennu": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The History of Creation—A；赫里奥波利斯创造传统",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-imhotep": {
+    "images": [],
+    "citations": [
+      {
+        "source": "eg-oldkingdom",
+        "locator": "第三王朝左塞尔与阶梯金字塔相关段落",
+        "note": "历史人物与后世医治神崇拜属于不同时间层。"
+      }
+    ]
+  },
+  "eg-aten": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Aten.svg/1280px-Aten.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Aten.svg",
+        "title": "阿顿 · 古代图像的现代复绘",
+        "credit": "AtonX / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "现代作者依据古埃及图像整理的阿顿形象，用于辨认神名、身体形态与标志；它不是古代墓葬原壁画。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-245dadabf72ba9.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-gods",
+        "locator": "Aten 神祇条目，阿肯那顿时期",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-event-emergence": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Atum.svg/1280px-Atum.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Atum.svg",
+        "title": "阿图姆 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "阿图姆的现代图像用于认识本创世叙事的创造者；此图并未画出原初丘完整事件。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-205e38c9cde2a3.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“Before creation”与“The creator emerges”小节",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-event-separation": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Shu_with_feather.svg/1280px-Shu_with_feather.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shu_with_feather.svg",
+        "title": "舒 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "舒的图像介绍分离天地故事的行动者；完整天地构图需另参考努特、盖布与舒的古代合像。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-dca1a051959584.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“From Ra to Osiris and Horus”小节",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-event-murder": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Standing_Osiris.svg/1280px-Standing_Osiris.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Standing_Osiris.svg",
+        "title": "奥西里斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "奥西里斯的包裹形象体现其死者之王身份。此处展示故事主体，并非声称图中描绘赛特加害的一刻。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-62989cdf214b81.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The History of Isis and Osiris",
+        "note": "完整故事由较晚文本叙述，早期葬仪材料多为片段暗示。"
+      }
+    ]
+  },
+  "eg-event-recovery": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Isis.svg/1280px-Isis.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Isis.svg",
+        "title": "伊西斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "伊西斯形象作为寻找、哀悼和恢复故事的主体参照；复原过程的细节按所列文本阅读。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-436e464c1ad190.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "A Hymn to Osiris and a Legend of the Origin of Horus",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-event-contest": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Horus_standing.svg/1280px-Horus_standing.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Horus_standing.svg",
+        "title": "荷鲁斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "荷鲁斯的王冠与鹰首显示争位故事的王权主题；此为主体图像，并非神庭审判的完整场景。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-a49e58bd6e42c9.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The History of Isis and Osiris；Horus 相关叙事",
+        "note": "此链接提供可读旧译入口；具体神庭争位版本宜再对读《荷鲁斯与赛特之争》纸草。"
+      }
+    ]
+  },
+  "eg-event-eye": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Horus_standing.svg/1280px-Horus_standing.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Horus_standing.svg",
+        "title": "荷鲁斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "荷鲁斯图像为眼睛受损与恢复母题提供主体参照；各修复版本仍须按具体咒文区分。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-a49e58bd6e42c9.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The Legend of the Death and Resurrection of Horus, and Other Magical Texts",
+        "note": "复原和护身功能需结合具体咒文与器物，勿把所有眼睛传说合并。"
+      }
+    ]
+  },
+  "eg-event-night": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Apep_%28Deity%29.svg/1280px-Apep_%28Deity%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Apep_(Deity).svg",
+        "title": "阿佩普 · 古代图像的现代复绘",
+        "credit": "RootOfAllLight / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "caption": "阿佩普的现代示意图表现太阳舟所面临的蛇形敌手；该图不是某一部冥界书的完整夜航路线。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "0% 50%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "local": "assets/images/enrich-core-efea0b02f7c8ed.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The History of Creation—A；太阳创造者与护卫主题",
+        "note": "更完整夜航空间另见《阿姆杜阿特书》《门之书》，本项不声称旧译包含全部。"
+      }
+    ]
+  },
+  "eg-event-humanity": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sekhmet.svg/1280px-Sekhmet.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Sekhmet.svg",
+        "title": "塞赫美特 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "狮首女神的凶猛太阳力量，与毁灭人类故事中的太阳之眼相关；女神名称和形态依版本说明。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-311a0841d80453.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The Legend of the Destruction of Mankind，Chapter I–II",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-event-name": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Isis.svg/1280px-Isis.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Isis.svg",
+        "title": "伊西斯 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "以伊西斯的神格图像引入秘密名字故事；这幅图没有描绘毒蛇与治愈的完整过程。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-436e464c1ad190.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-legends",
+        "locator": "The Legend of Ra and Isis（目录第21项）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-event-judgment": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+        "title": "胡内弗《亡灵书》：称量心脏",
+        "credit": "Hunefer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "约前1275年的胡内弗纸草：阿努比斯照管天平，羽毛代表玛阿特，托特记录，阿米特等待，右侧荷鲁斯引导亡者见奥西里斯。图像应与《亡灵书》第125章并读。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-b9d50217a771bc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-bookdead",
+        "locator": "《亡灵书》第125章：否定告白与称心",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-event-word": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ptah_standing.svg/1280px-Ptah_standing.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ptah_standing.svg",
+        "title": "卜塔 · 古代图像的现代复绘",
+        "credit": "Jeff Dahl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "卜塔的神形对应孟菲斯心与舌创造传统；图像用来辨认神，具体创造语言依文本核读。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-ec36a1f6365aef.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-creation",
+        "locator": "“Other forces of creation”小节，心与舌的创造",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "eg-event-amarna": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Aten.svg/1280px-Aten.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Aten.svg",
+        "title": "阿顿 · 古代图像的现代复绘",
+        "credit": "AtonX / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "阿顿日盘与赐生的手形光线，是阿玛尔纳时代的重要宗教图式；此件为现代整理，不是原始石碑。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-245dadabf72ba9.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "eg-gods",
+        "locator": "Aten 条目，阿肯那顿抑制其他神崇拜的背景",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-odin": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg",
+        "title": "奥丁作为漫游者 · 1886",
+        "credit": "Georg von Rosen / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "奥丁的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-407c8fb2a48211.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "《欺骗古鲁菲》第20章；另对读《高人之言》奥丁求符文段",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      },
+      {
+        "source": "no-havamal",
+        "locator": "Bellows 编号139节",
+        "note": "旧译中的自献与求知，另一常见编次为138节。",
+        "quote": "I ween that I hung on the windy tree,"
+      }
+    ]
+  },
+  "no-thor": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/A_painting_by_Max_Friedrich_Koch_-_Donar-Thor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:A_painting_by_Max_Friedrich_Koch_-_Donar-Thor.jpg",
+        "title": "雷神索尔 · 约1905",
+        "credit": "Max Koch / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "索尔的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-0a7d455d66a493.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第21章（索尔的力量与宝物）；第48章（钓蛇）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-loki": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Processed_SAM_loki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Processed_SAM_loki.jpg",
+        "title": "洛基 · 冰岛手抄本插图",
+        "credit": "古代／佚名艺术家；数字文件来源见链接 / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "冰岛手抄本对洛基的后世描绘。手稿时代晚于维京时代，适合学习故事如何被继续视觉化。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-c348fca62497cc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第33—34章（身世与子女）；第49—50章（巴德尔之死与受刑）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-frigg": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Frigg_by_Doepler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Frigg_by_Doepler.jpg",
+        "title": "弗丽嘉与侍从 · 近代插图",
+        "credit": "Carl Emil Doepler (1824-1905) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "弗丽嘉的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-b234b1e8ac9acc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第35章（女神）；第49章（巴德尔之死）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-freyr": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Frej_R%C3%A4llinge.jpg/1280px-Frej_R%C3%A4llinge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Frej_R%C3%A4llinge.jpg",
+        "title": "拉林厄小像：通常解释为弗雷",
+        "credit": "Historiska museet / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "拉林厄出土小像通常被解释为弗雷；这种神名识别是考古解释，器物本身没有写出一部弗雷传记。",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-08a64f2e13639a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第24章（弗雷）；第37章（格尔德）；第51章（终末）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-freyja": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Freyja_and_the_Necklace_by_James_Doyle_Penrose%2C_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Freyja_and_the_Necklace_by_James_Doyle_Penrose,_1890.jpg",
+        "title": "弗蕾亚与项链 · 1890",
+        "credit": "James Doyle Penrose (1862-1932) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "弗蕾亚的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-69db3b9f3aeefc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第24章（弗蕾亚与战死者）；第35章（女神）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-tyr": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Tyr_and_Fenrir-John_Bauer_%28cropped%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tyr_and_Fenrir-John_Bauer_(cropped).jpg",
+        "title": "提尔与芬里尔 · John Bauer",
+        "credit": "John Bauer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "提尔的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "scene",
+        "avatar": true,
+        "position": "100% 50%",
+        "local": "assets/images/enrich-core-1227f3475d1aec.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第25章（提尔）；第34章（芬里尔被缚）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-heimdall": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Nils_Asplund_-_Heimdal.jpg/1280px-Nils_Asplund_-_Heimdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Nils_Asplund_-_Heimdal.jpg",
+        "title": "海姆达尔与诸神 · Nils Asplund，1907",
+        "credit": "Nils Asplund / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "Nils Asplund 1907年的《海姆达尔》描绘诸神集会语境。画面含多个人物，未单独裁出可靠的海姆达尔头像，因此作为整幅场景图学习。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-core-a7a3763bfce8b6.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第27章（守桥者）；第51章（终末号角）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-baldr": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Each_arrow_overshot_his_head_by_Elmer_Boyd_Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Each_arrow_overshot_his_head_by_Elmer_Boyd_Smith.jpg",
+        "title": "众神试射巴德尔 · E. B. Smith",
+        "credit": "Elmer Boyd Smith / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "巴德尔接受众神投射武器，前景洛基把槲寄生交给霍德尔，背景有奥丁与弗丽嘉。此为20世纪初的故事插图。",
+        "role": "scene",
+        "avatar": true,
+        "position": "62% 35%",
+        "local": "assets/images/enrich-core-11c9416cda7658.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第22章（巴德尔）；第49章（死亡及归还交涉）；第53章（新世界）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-hodr": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Death_of_Baldr_by_George_Wright.jpg/1280px-Death_of_Baldr_by_George_Wright.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Death_of_Baldr_by_George_Wright.jpg",
+        "title": "巴德尔之死 · George Wright",
+        "credit": "George Wright (1872-1951) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "George Wright 的《巴德尔之死》表现槲寄生致命一击及众神反应；霍德尔与洛基位于前景，头像取景保留该行动关系。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 100%",
+        "local": "assets/images/enrich-core-4117ebca47a2dc.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第28章；第49章",
+        "note": "这里采用斯诺里的失明兄弟版本。"
+      }
+    ]
+  },
+  "no-njord": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/AM_738_4to%2C_36r%2C_BW_Nj%C3%B6r%C3%B0r.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:AM_738_4to,_36r,_BW_Nj%C3%B6r%C3%B0r.jpeg",
+        "title": "尼约德 · 17世纪冰岛手稿",
+        "credit": "Unknown author Unknown author / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "尼约德的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-c062c2c7b6a2f7.jpeg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第23章（尼约德与斯卡蒂）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-skadi": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Skadi_Hunting_in_the_Mountains_by_H._L._M.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Skadi_Hunting_in_the_Mountains_by_H._L._M.jpg",
+        "title": "斯卡蒂在山中狩猎",
+        "credit": "Signed \"H. L. M.\" / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "斯卡蒂的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-020f82a456a14e.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第23章；另见《诗语法》提亚兹被杀与索赔的开篇故事",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-idunn": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ydun_%281858%29_by_H._W._Bissen_-_angle.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ydun_(1858)_by_H._W._Bissen_-_angle.jpg",
+        "title": "伊登 · 1858年雕塑",
+        "credit": "Herman Wilhelm Bissen (1786-1840) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "伊登的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-a4bb488f105b78.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-skald",
+        "locator": "开篇：提亚兹劫走伊登及洛基救回的叙事",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-bragi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第26章（布拉吉与伊登）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-sif": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-skald",
+        "locator": "矮人宝物故事：洛基剪去希芙头发与工匠竞赛",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-hel": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第34章（洛基子女）；第49章（巴德尔交涉）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hel_%281889%29_by_Johannes_Gehrts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Hel_(1889)_by_Johannes_Gehrts.jpg",
+        "title": "海尔 · 1889",
+        "credit": "Johannes Gehrts / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "海尔的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "no-fenrir": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Tyr_and_Fenrir-John_Bauer_%28cropped%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tyr_and_Fenrir-John_Bauer_(cropped).jpg",
+        "title": "提尔与芬里尔 · John Bauer",
+        "credit": "John Bauer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "John Bauer 笔下的提尔与芬里尔，表现神与巨狼之间的担保和束缚危机。此图是近代艺术，不是维京时代原图。",
+        "role": "scene",
+        "avatar": true,
+        "position": "70% 56%",
+        "local": "assets/images/enrich-core-1227f3475d1aec.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第34章（束缚巨狼）；第51章（吞噬奥丁）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-jormungandr": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png/1280px-Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ragnarok_-_Louis_Moe_(17006)_-_cropped_(cropped).png",
+        "title": "诸神黄昏中的世界蛇 · Louis Moe",
+        "credit": "Louis Moe / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "耶梦加得的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-95cfea36d6468a.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第34章（环绕中庭）；第48章（钓蛇）；第51章（终末）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-ymir": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Audhumla_by_Abildgaard.jpg/1280px-Audhumla_by_Abildgaard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Audhumla_by_Abildgaard.jpg",
+        "title": "尤弥尔与原初母牛 · Abildgaard",
+        "credit": "Nicolai Abildgaard / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Abildgaard 的近代绘画表现尤弥尔与原初母牛等创造母题；它是埃达接受史资料，不是远古人的宇宙图原件。",
+        "role": "scene",
+        "avatar": true,
+        "position": "70% 85%",
+        "local": "assets/images/enrich-core-a182977e83c1b9.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第5—8章（尤弥尔出现、死亡与身体创世）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-audhumla": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第6章（原初母牛与布利）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/S%C3%81M_66%2C_74r%2C_Au%C3%B0umbla_and_B%C3%BAri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:S%C3%81M_66,_74r,_Au%C3%B0umbla_and_B%C3%BAri.jpg",
+        "title": "母牛舔出布利 · 18世纪冰岛手稿",
+        "credit": "Jakob Sigurðsson [2] / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "奥德姆布拉的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "no-buri": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第6章（舔冰出现的布利）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-borr": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第6—7章（博尔、贝斯特拉与三兄弟）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-bestla": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第6—7章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-vili": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第6—9章（神族祖系、创世与造人）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-ve": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第6—9章（神族祖系、创世与造人）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-mimir": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第15章（世界树与密米尔泉）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Oden_vid_Mims_lik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Oden_vid_Mims_lik.jpg",
+        "title": "奥丁面对密米尔遗体 · 近代插图",
+        "credit": "Georg Pauli / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "密米尔的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "no-norns": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第15—16章（世界树、泉水与诺恩）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Die_Nornen_Urd%2C_Werdanda%2C_Skuld%2C_unter_der_Welteiche_Yggdrasil_by_Ludwig_Burger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Die_Nornen_Urd,_Werdanda,_Skuld,_unter_der_Welteiche_Yggdrasil_by_Ludwig_Burger.jpg",
+        "title": "世界树下的三位诺恩 · 1882",
+        "credit": "Ludwig Burger (1825-1884). / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "诺恩的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 60%"
+      }
+    ]
+  },
+  "no-nidhogg": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第16章（世界树的动物）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-ratatoskr": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第16章（树顶鹰、松鼠与根部龙蛇）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-sleipnir": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Tj%C3%A4ngvide_bildsten_-_Historiska_museet_-_108203_HST_-_14081_%28cropped%29.jpg/1280px-Tj%C3%A4ngvide_bildsten_-_Historiska_museet_-_108203_HST_-_14081_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tj%C3%A4ngvide_bildsten_-_Historiska_museet_-_108203_HST_-_14081_(cropped).jpg",
+        "title": "羿昂维德图像石：八足马与骑者",
+        "credit": "Christer Åhlin, SHM（瑞典历史博物馆）；原图经 Commons 裁切 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "caption": "图像石上的八足马与骑者常被解释为斯莱普尼尔和奥丁。这里展示古代视觉线索，并保留识读的不确定性。",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "local": "assets/images/enrich-core-154bb8b393d6d6.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第42章（筑墙故事与八足马）；第49章（冥界骑行）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-surt": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/The_giant_with_the_flaming_sword_by_Dollman.jpg/1280px-The_giant_with_the_flaming_sword_by_Dollman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_giant_with_the_flaming_sword_by_Dollman.jpg",
+        "title": "持火剑的巨人 · John Charles Dollman",
+        "credit": "John Charles Dollman / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "苏尔特的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-bd3909f3fcd15d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第4章（火之域）；第51章（诸神黄昏）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-angrboda": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第34章（洛基与安格尔博达的三位子女）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-sigyn": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第50章（洛基受缚与接毒）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-vidar": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vidar_by_Collingwood.jpg/1280px-Vidar_by_Collingwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Vidar_by_Collingwood.jpg",
+        "title": "维达尔在巨狼颚间作战",
+        "credit": "W.G. Collingwood (1854 - 1932) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "维达尔的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-3633fd7cde790a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第29章；第51章（杀芬里尔）；第53章（幸存者）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-vali": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第30章；第53章",
+        "note": "与洛基子女中的近似同名人物区分。"
+      }
+    ]
+  },
+  "no-hermod": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第49章（骑马到海尔之域）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-thjazi": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-skald",
+        "locator": "开篇：伊登、洛基、提亚兹与斯卡蒂",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-brokkr": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_third_gift_%E2%80%94_an_enormous_hammer_by_Elmer_Boyd_Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_third_gift_%E2%80%94_an_enormous_hammer_by_Elmer_Boyd_Smith.jpg",
+        "title": "矮人工匠锻造神物 · E. B. Smith",
+        "credit": "Elmer Boyd Smith (1860 - 1943) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "近代插图把矮人工匠与多件神物同置一景。不同宝物的具体制造者应按《诗语法》区分，而不从画面反推统一工坊。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-4810da91a3cab3.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-skald",
+        "locator": "矮人宝物故事：布洛克与兄弟的锻造竞赛",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-askembla": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ask_and_Embla_by_Robert_Engels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ask_and_Embla_by_Robert_Engels.jpg",
+        "title": "阿斯克与恩布拉 · Robert Engels，1919",
+        "credit": "Robert Engels (1866-1920). / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "阿斯克与恩布拉的艺术表现，具体作品与年代见来源页。多数传世插图形成于中世纪以后，不能仅凭此图还原所有维京人的信仰。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-69a2cf23cd7e4d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第9章（首对人类获生命）",
+        "note": "可与《女先知预言》17—18节的赐生神名单对照。"
+      }
+    ]
+  },
+  "no-huginn": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第38章（胡金与穆宁向奥丁报告）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-creation": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Audhumla_by_Abildgaard.jpg/1280px-Audhumla_by_Abildgaard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Audhumla_by_Abildgaard.jpg",
+        "title": "尤弥尔与原初母牛 · Abildgaard",
+        "credit": "Nicolai Abildgaard / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Abildgaard 用尤弥尔与原初母牛等母题重构创世；这是后世绘画，对照《欺骗古鲁菲》第4—8章阅读。",
+        "role": "scene",
+        "avatar": false,
+        "position": "70% 85%",
+        "local": "assets/images/enrich-core-a182977e83c1b9.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第4—8章（冰火、巨人、母牛与身体创世）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-humans": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ask_and_Embla_by_Robert_Engels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ask_and_Embla_by_Robert_Engels.jpg",
+        "title": "阿斯克与恩布拉 · Robert Engels，1919",
+        "credit": "Robert Engels (1866-1920). / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Robert Engels 的1919年首对人类插图，直接表现阿斯克与恩布拉，赐生者细节仍需区分诗体与散文埃达版本。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-69a2cf23cd7e4d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-voluspa",
+        "locator": "《女先知预言》17—18节（阿斯克与恩布拉）",
+        "note": "不同版次节号可能略异，可按人名定位；另比斯诺里第9章。"
+      }
+    ]
+  },
+  "no-event-war": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Frej_R%C3%A4llinge.jpg/1280px-Frej_R%C3%A4llinge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Frej_R%C3%A4llinge.jpg",
+        "title": "拉林厄小像：通常解释为弗雷",
+        "credit": "Historiska museet / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "弗雷相关小像作为阿萨—华纳和解后神群融合的器物参照；它并没有描绘战争本身。",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-08a64f2e13639a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-skald",
+        "locator": "开篇：阿萨、华纳和解与克瓦希尔、诗蜜起源",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-runes": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg",
+        "title": "奥丁作为漫游者 · 1886",
+        "credit": "Georg von Rosen / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "奥丁漫游者肖像为求知主题提供人物参照，未直接描绘悬树；九夜、自献和符文请依《高人之言》定位核读。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-407c8fb2a48211.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-havamal",
+        "locator": "Bellows 编号139—140节；常见另一编次138—139节",
+        "note": "链接版本中第139节以“I ween that I hung”起首。"
+      }
+    ]
+  },
+  "no-event-mead": {
+    "images": [],
+    "citations": [
+      {
+        "source": "no-skald",
+        "locator": "诗蜜故事：克瓦希尔、菲亚拉与加拉、苏图恩、奥丁",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Processed_SAM_mjodr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Processed_SAM_mjodr.jpg",
+        "title": "奥丁化鹰取得诗蜜 · 18世纪冰岛手稿",
+        "credit": "https://www.sagnanet.is and turned, cropped and colour-corrected with The GIMP Version 1.2.3. / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "手稿画出奥丁与追赶者苏图恩化作鹰的情节，对应诗蜜在巨人和众神之间转移的故事。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "no-event-wall": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Tj%C3%A4ngvide_bildsten_-_Historiska_museet_-_108203_HST_-_14081_%28cropped%29.jpg/1280px-Tj%C3%A4ngvide_bildsten_-_Historiska_museet_-_108203_HST_-_14081_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tj%C3%A4ngvide_bildsten_-_Historiska_museet_-_108203_HST_-_14081_(cropped).jpg",
+        "title": "羿昂维德图像石：八足马与骑者",
+        "credit": "Christer Åhlin, SHM（瑞典历史博物馆）；原图经 Commons 裁切 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "caption": "八足马图像常被解作斯莱普尼尔，连接筑墙故事结尾的神驹诞生；图像石不是筑墙全过程插图。",
+        "role": "artifact",
+        "avatar": false,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "local": "assets/images/enrich-core-154bb8b393d6d6.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第42章（筑墙者、公马与斯莱普尼尔）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-gifts": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_third_gift_%E2%80%94_an_enormous_hammer_by_Elmer_Boyd_Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_third_gift_%E2%80%94_an_enormous_hammer_by_Elmer_Boyd_Smith.jpg",
+        "title": "矮人工匠锻造神物 · E. B. Smith",
+        "credit": "Elmer Boyd Smith (1860 - 1943) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "锻造宝物的近代故事插图。画面将多件神物汇于工坊，仍应按原典区分各工匠的作品。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-4810da91a3cab3.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-skald",
+        "locator": "矮人宝物故事：洛基、希芙、伊瓦尔第之子与布洛克",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-idunn": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ydun_%281858%29_by_H._W._Bissen_-_angle.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ydun_(1858)_by_H._W._Bissen_-_angle.jpg",
+        "title": "伊登 · 1858年雕塑",
+        "credit": "Herman Wilhelm Bissen (1786-1840) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "伊登的19世纪雕塑提供青春女神的形象参照；劫持和救回的事件细节以《诗语法》为准。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-a4bb488f105b78.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-skald",
+        "locator": "开篇提亚兹劫走伊登与斯卡蒂索赔",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-binding": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Tyr_and_Fenrir-John_Bauer_%28cropped%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tyr_and_Fenrir-John_Bauer_(cropped).jpg",
+        "title": "提尔与芬里尔 · John Bauer",
+        "credit": "John Bauer / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "John Bauer 表现提尔与芬里尔，直接对应神的担保和巨狼束缚主题。",
+        "role": "scene",
+        "avatar": false,
+        "position": "100% 50%",
+        "local": "assets/images/enrich-core-1227f3475d1aec.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第34章（魔索格莱普尼尔与提尔失手）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-fishing": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png/1280px-Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ragnarok_-_Louis_Moe_(17006)_-_cropped_(cropped).png",
+        "title": "诸神黄昏中的世界蛇 · Louis Moe",
+        "credit": "Louis Moe / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "世界蛇在诸神黄昏图中的近代形象，供认识索尔垂钓的对手；此图描绘末日语境，并非垂钓一刻。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-95cfea36d6468a.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第48章（索尔与希密尔出海）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-baldr": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Each_arrow_overshot_his_head_by_Elmer_Boyd_Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Each_arrow_overshot_his_head_by_Elmer_Boyd_Smith.jpg",
+        "title": "众神试射巴德尔 · E. B. Smith",
+        "credit": "Elmer Boyd Smith / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "众神以投射武器试验巴德尔的不受伤能力，洛基与霍德尔在前景；画面直接组织了槲寄生悲剧的关键关系。",
+        "role": "scene",
+        "avatar": false,
+        "position": "62% 35%",
+        "local": "assets/images/enrich-core-11c9416cda7658.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第49章（槲寄生、赫尔莫德交涉与拒哭者）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "no-event-ragnarok": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png/1280px-Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ragnarok_-_Louis_Moe_(17006)_-_cropped_(cropped).png",
+        "title": "诸神黄昏中的世界蛇 · Louis Moe",
+        "credit": "Louis Moe / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "Louis Moe 的诸神黄昏图局部显示世界蛇；同一终末场景中的人物需结合原典不同对决分辨。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-95cfea36d6468a.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "no-gylfi",
+        "locator": "第51—53章（终末、死者归宿与新生世界）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-chaos": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Assistants_and_George_Frederic_Watts_-_Chaos_-_Google_Art_Project.jpg/1280px-Assistants_and_George_Frederic_Watts_-_Chaos_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Assistants_and_George_Frederic_Watts_-_Chaos_-_Google_Art_Project.jpg",
+        "title": "混沌 · G. F. Watts 作坊，约1875",
+        "credit": "Workshop of George Frederic Watts / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Watts 作坊对混沌的19世纪想象，视觉化原初与生成。它不代表《神谱》规定卡俄斯具有某种固定人形，因此不设为人物头像。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-0d316ddd663080.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "《神谱》116—125行（卡俄斯及最早存在）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      },
+      {
+        "source": "gr-theogony",
+        "locator": "《神谱》116行，Evelyn-White 译",
+        "note": "意为“最先，卡俄斯出现了”。",
+        "quote": "Verily at the first Chaos came to be,"
+      }
+    ]
+  },
+  "gr-gaia": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gaia_mosaic_antioch.png/1280px-Gaia_mosaic_antioch.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Gaia_mosaic_antioch.png",
+        "title": "盖亚人格像 · 安条克马赛克",
+        "credit": "Sglbl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "安条克马赛克中的大地人格像。古典图像将大地表现为女神，提供与《神谱》母系创造叙事对读的入口。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-8c10eb47770dfd.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "116—153行；154—210行（大地与代际更替）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-uranus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Altar_P%C3%A9rgamo_Urano_01.JPG/1280px-Altar_P%C3%A9rgamo_Urano_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Altar_P%C3%A9rgamo_Urano_01.JPG",
+        "title": "帕加马大祭坛浮雕：被识读为乌拉诺斯的神祇",
+        "credit": "Miguel Hermoso Cuesta / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "帕加马大祭坛巨人之战浮雕中被识读为乌拉诺斯的神祇。古代多人物浮雕的神名辨识存在解释问题，此处不作为确定的人物头像。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-586219cfd239aa.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "126—210行（天空诞生与被推翻）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-cronus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Rhea_handing_a_swaddled_stone_to_Cronus%2C_Attic_terracotta_pelike%2C_c._460%E2%80%93450_BC%2C_Met_06.1021.144.jpg_%28cropped%29.jpg/1280px-Rhea_handing_a_swaddled_stone_to_Cronus%2C_Attic_terracotta_pelike%2C_c._460%E2%80%93450_BC%2C_Met_06.1021.144.jpg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rhea_handing_a_swaddled_stone_to_Cronus,_Attic_terracotta_pelike,_c._460%E2%80%93450_BC,_Met_06.1021.144.jpg_(cropped).jpg",
+        "title": "瑞亚把襁褓石交给克洛诺斯 · 阿提卡陶画",
+        "credit": "Original painter: Unknown, attributed to the Nausicaä Painter Photograph: Met museum Cropped version: User:Michael Aurel / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "瑞亚将裹在襁褓中的石头交给克洛诺斯，约前460—450年陶画。这直接对应以石代子的叙事情节。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-51d647cd4be3f0.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "453—506行（吞子与宙斯获救）；617—735行（泰坦战争）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-rhea": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Rhea_MKL1888.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rhea_MKL1888.png",
+        "title": "瑞亚 · 艺术图像",
+        "credit": "古代／佚名艺术家；数字文件来源见链接 / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以瑞亚为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-f6b85b32952b9f.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "453—506行（瑞亚、宙斯与替代石头）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-zeus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Zeus_Otricoli_Pio-Clementino_Inv257.jpg/1280px-Zeus_Otricoli_Pio-Clementino_Inv257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Zeus_Otricoli_Pio-Clementino_Inv257.jpg",
+        "title": "奥特里科利宙斯像",
+        "credit": "Unknown artist Unknown artist / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以宙斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-427d9ca82ae955.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "《书库》1.1.5—1.2.1（出生、夺权、分界）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-hera": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Hera_Campana_Louvre_Ma2283.jpg/1280px-Hera_Campana_Louvre_Ma2283.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Hera_Campana_Louvre_Ma2283.jpg",
+        "title": "Campana 赫拉像 · 罗马帝国时期",
+        "credit": "Marie-Lan Nguyen / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以赫拉为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-53454cc721ad10.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "921—923行（宙斯与赫拉的子女）；《伊利亚特》中另有婚姻与冲突叙述",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-poseidon": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Statue_of_Poseidon_NAMA_235_%28DerHexer%29%2C_part_2.JPG/1280px-Statue_of_Poseidon_NAMA_235_%28DerHexer%29%2C_part_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Poseidon_NAMA_235_(DerHexer),_part_2.JPG",
+        "title": "波塞冬雕像 · 雅典国家考古博物馆",
+        "credit": "— DerHexer (Talk) / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "以波塞冬为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-core-00372917a69f2d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.2.1（天空、海与冥府的分配）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-hades": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-hymn",
+        "locator": "《致德墨忒尔》1—89行、334—469行（劫夺与回归条件）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Persephone_Hades_BM_Vase_E82_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Persephone_Hades_BM_Vase_E82_(cropped).jpg",
+        "title": "哈德斯与珀耳塞福涅 · 古希腊杯画",
+        "credit": "Template:Peintre Codrus / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "以哈德斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": false,
+        "position": "72% 30%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+      }
+    ]
+  },
+  "gr-demeter": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Demeter_Altemps_Inv8546.jpg/1280px-Demeter_Altemps_Inv8546.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Demeter_Altemps_Inv8546.jpg",
+        "title": "德墨忒尔像 · Altemps 收藏",
+        "credit": "Marie-Lan Nguyen / Wikimedia Commons / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "罗马时代的大理石德墨忒尔像；头部为近代修复。头像帮助辨识作品，但不能把修复部分当作原始古代面貌。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-56995bd049c2ba.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-hymn",
+        "locator": "《致德墨忒尔》90—333行（寻找与厄琉息斯）；334—469行（协商）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-persephone": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Terracotta_votive_plaque_from_Eleusis%2C_450_BC%2C_NAMA%2C_190875.jpg/1280px-Terracotta_votive_plaque_from_Eleusis%2C_450_BC%2C_NAMA%2C_190875.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_votive_plaque_from_Eleusis,_450_BC,_NAMA,_190875.jpg",
+        "title": "厄琉息斯的两位女神 · 还愿陶板",
+        "credit": "Zde / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "厄琉息斯还愿陶板表现德墨忒尔、持火炬的珀耳塞福涅及仪式参与者；它呈现秘仪语境，不是劫夺场景。",
+        "role": "scene",
+        "avatar": true,
+        "position": "68% 35%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-de48528068cdc9.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-hymn",
+        "locator": "《致德墨忒尔》1—32行；334—469行（石榴与停留比例）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-athena": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg/1280px-Mattei_Athena_Louvre_Ma530_n2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Mattei_Athena_Louvre_Ma530_n2.jpg",
+        "title": "Mattei 雅典娜 · 罗马摹本",
+        "credit": "Jastrow / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以雅典娜为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-64a1f8951d4a34.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.3.6（墨提斯、宙斯与雅典娜诞生）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-apollo": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy-3104_-_Apollo_%285378415112%29.jpg/1280px-Italy-3104_-_Apollo_%285378415112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Italy-3104_-_Apollo_(5378415112).jpg",
+        "title": "望景楼阿波罗",
+        "credit": "Dennis G. Jarvis / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "caption": "以阿波罗为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "local": "assets/images/enrich-core-5d8104761a2574.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.4.1（勒托子女、皮同与德尔斐）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-artemis": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Diane_de_Versailles_-_Mus%C3%A9e_du_Louvre_AGER_Ma_589.jpg/1280px-Diane_de_Versailles_-_Mus%C3%A9e_du_Louvre_AGER_Ma_589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Diane_de_Versailles_-_Mus%C3%A9e_du_Louvre_AGER_Ma_589.jpg",
+        "title": "凡尔赛的狄安娜／阿尔忒弥斯",
+        "credit": "Shonagon / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "以阿尔忒弥斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-366bd97d76b88d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.4.1（勒托、阿尔忒弥斯与阿波罗）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-aphrodite": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Cnidus_Aphrodite_Altemps_Inv8619.jpg/1280px-Cnidus_Aphrodite_Altemps_Inv8619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Cnidus_Aphrodite_Altemps_Inv8619.jpg",
+        "title": "克尼多斯型阿佛洛狄忒 · 罗马摹本",
+        "credit": "Copy of Praxiteles; restorer: Ippolito Buzzi (Italian, 1562–1634) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以阿佛洛狄忒为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-b364a24f15ee5d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "188—206行（海中诞生）",
+        "note": "此处为赫西俄德版本；荷马的宙斯与狄俄涅之女版本应另列。"
+      }
+    ]
+  },
+  "gr-ares": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%CE%9F_%CE%86%CF%81%CE%B7%CF%82_%28Borghese-%CE%9B%CE%BF%CF%8D%CE%B2%CF%81%CE%BF%CF%85%29.jpg/1280px-%CE%9F_%CE%86%CF%81%CE%B7%CF%82_%28Borghese-%CE%9B%CE%BF%CF%8D%CE%B2%CF%81%CE%BF%CF%85%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:%CE%9F_%CE%86%CF%81%CE%B7%CF%82_(Borghese-%CE%9B%CE%BF%CF%8D%CE%B2%CF%81%CE%BF%CF%85).jpg",
+        "title": "阿瑞斯 · 艺术图像",
+        "credit": "Wikipedia Commons / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "以阿瑞斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-9cb422bca125f4.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "921—923行（阿瑞斯的父母）",
+        "note": "罗马玛尔斯的本土功能须另读罗马祭仪材料。"
+      }
+    ]
+  },
+  "gr-hephaestus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Hephaistos_Thetis_at_Kylix_by_the_Foundry_Painter_Antikensammlung_Berlin_F2294.jpg/1280px-Hephaistos_Thetis_at_Kylix_by_the_Foundry_Painter_Antikensammlung_Berlin_F2294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Hephaistos_Thetis_at_Kylix_by_the_Foundry_Painter_Antikensammlung_Berlin_F2294.jpg",
+        "title": "赫菲斯托斯把新铠甲交给忒提斯",
+        "credit": "Foundry Painter (name vase) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "约前490—480年杯画中，工匠神把阿喀琉斯的新铠甲交给忒提斯，可与《伊利亚特》第18卷对读。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-d762272bd94a5a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-iliad",
+        "locator": "《伊利亚特》第18卷（为阿喀琉斯铸盾）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-hermes": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Hermes_Ingenui_Pio-Clementino_Inv544.jpg/1280px-Hermes_Ingenui_Pio-Clementino_Inv544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Hermes_Ingenui_Pio-Clementino_Inv544.jpg",
+        "title": "赫尔墨斯 · 艺术图像",
+        "credit": "古代／佚名艺术家；数字文件来源见链接 / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以赫尔墨斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-e0dfd187746d47.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library3",
+        "locator": "3.10.2（赫尔墨斯出生与盗牛）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-hestia": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hestia_Giustiniani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Hestia_Giustiniani.jpg",
+        "title": "赫斯提亚 · 艺术图像",
+        "credit": "anonymous / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以赫斯提亚为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-0609d528ce28b9.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.1.5（克洛诺斯与瑞亚子女）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-dionysus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Dionysos_Louvre_Ma87_n2.jpg/1280px-Dionysos_Louvre_Ma87_n2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Dionysos_Louvre_Ma87_n2.jpg",
+        "title": "狄俄尼索斯 · 艺术图像",
+        "credit": "Marie-Lan Nguyen / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "以狄俄尼索斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-e5a9bac676c161.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library3",
+        "locator": "3.4.3（塞墨勒与狄俄尼索斯）；3.5.1—3.5.3（传播与抵抗）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-prometheus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Prometheus_and_Atlas%2C_Laconian_black-figure_kylix%2C_by_the_Arkesilas_Painter%2C_560-550_BC%2C_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg/1280px-Prometheus_and_Atlas%2C_Laconian_black-figure_kylix%2C_by_the_Arkesilas_Painter%2C_560-550_BC%2C_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Prometheus_and_Atlas,_Laconian_black-figure_kylix,_by_the_Arkesilas_Painter,_560-550_BC,_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg",
+        "title": "普罗米修斯与阿特拉斯 · 拉科尼亚杯画",
+        "credit": "Daderot / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "杯画同时表现普罗米修斯受鹰啄与阿特拉斯承天。两者在同一图像中，但并不是同一种惩罚。",
+        "role": "scene",
+        "avatar": true,
+        "position": "100% 50%",
+        "local": "assets/images/enrich-core-8b62b64ba9060e.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "507—616行（祭肉、火与惩罚）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-pandora": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Abel-josef-1764-1818-austria-prometheus-merkur-und-die-pand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Abel-josef-1764-1818-austria-prometheus-merkur-und-die-pand.jpg",
+        "title": "普罗米修斯、墨丘利与潘多拉 · Josef Abel",
+        "credit": "Josef Abel / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以潘多拉为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-7031d60b84dcc8.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-works",
+        "locator": "《工作与时日》42—105行（盗火、潘多拉与罐）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-atlas": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/MAN_Atlante_fronte_1040572.JPG/1280px-MAN_Atlante_fronte_1040572.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:MAN_Atlante_fronte_1040572.JPG",
+        "title": "阿特拉斯 · 艺术图像",
+        "credit": "Lalupa / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "以阿特拉斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-3ec5af27298289.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library2",
+        "locator": "2.5.11（赫拉克勒斯与金苹果）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-eros": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Eros_Farnese_N%C3%A1poles_05.jpg/1280px-Eros_Farnese_N%C3%A1poles_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Eros_Farnese_N%C3%A1poles_05.jpg",
+        "title": "厄洛斯 · 艺术图像",
+        "credit": "Miguel Hermoso Cuesta / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "以厄洛斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-61b3c2efaa7f84.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "116—122行（原初厄洛斯）",
+        "note": "与后世阿佛洛狄忒之子的少年爱神形态比较时需标时代。"
+      }
+    ]
+  },
+  "gr-hekate": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "411—452行（赫卡忒的荣誉与权能）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-helios": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-hymn",
+        "locator": "《致德墨忒尔》62—87行（赫利俄斯提供消息）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-heracles": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg/1280px-Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
+        "title": "法尔内塞赫拉克勒斯",
+        "credit": "Glycon of Athens (copy), Lysippos (original type) / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "以赫拉克勒斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-f5c31f1c95f447.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library2",
+        "locator": "2.4.8—2.4.12（出生与早期）；2.5.1—2.5.12（十二功业）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-perseus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Perseo_con_la_testa_di_medusa%2C_originale_di_et%C3%A0_flavia_o_traianea%2C_dalle_terme_presso_porta_laurentina%2C_01.JPG/1280px-Perseo_con_la_testa_di_medusa%2C_originale_di_et%C3%A0_flavia_o_traianea%2C_dalle_terme_presso_porta_laurentina%2C_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Perseo_con_la_testa_di_medusa,_originale_di_et%C3%A0_flavia_o_traianea,_dalle_terme_presso_porta_laurentina,_01.JPG",
+        "title": "持美杜莎头颅的珀耳修斯",
+        "credit": "Sailko / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "caption": "以珀耳修斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "local": "assets/images/enrich-core-5d2ee86315c122.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library2",
+        "locator": "2.4.1—2.4.4（珀耳修斯与美杜莎）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-theseus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Kylix_Theseus_Aison_MNA_Inv11365_n1.jpg/1280px-Kylix_Theseus_Aison_MNA_Inv11365_n1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Kylix_Theseus_Aison_MNA_Inv11365_n1.jpg",
+        "title": "忒修斯战胜米诺陶洛斯 · Aison 杯画",
+        "credit": "Aison / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "以忒修斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "48% 32%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-1bd5fe4bd71d3a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-epitome",
+        "locator": "《书库》摘要1.7—1.10（克里特、迷宫与阿里阿德涅）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-jason": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Jas%C3%A3o_e_o_Velo_de_ouro_-_Bertel_Thorvaldsen_-_1803.jpg/1280px-Jas%C3%A3o_e_o_Velo_de_ouro_-_Bertel_Thorvaldsen_-_1803.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Jas%C3%A3o_e_o_Velo_de_ouro_-_Bertel_Thorvaldsen_-_1803.jpg",
+        "title": "伊阿宋与金羊毛 · Thorvaldsen",
+        "credit": "Bertel Thorvaldsen / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以伊阿宋为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-7957994754ea86.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.9.16—1.9.28（阿尔戈英雄、金羊毛与回国）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-medea": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Relief_of_Medea_and_the_Peliades_Antikensammlung_Berlin.jpg/1280px-Relief_of_Medea_and_the_Peliades_Antikensammlung_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Relief_of_Medea_and_the_Peliades_Antikensammlung_Berlin.jpg",
+        "title": "美狄亚与珀利阿斯之女们 · 古典浮雕",
+        "credit": "Picture taken by Marcus Cyron / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "以美狄亚为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-core-2694a9d90ad672.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.9.23—1.9.28（帮助伊阿宋与后续）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-achilles": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Achilles_fighting_against_Memnon_Leiden_Rijksmuseum_voor_Oudheden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Achilles_fighting_against_Memnon_Leiden_Rijksmuseum_voor_Oudheden.jpg",
+        "title": "阿喀琉斯与门农交战 · 古陶画",
+        "credit": "Jona Lendering / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "图像题材为阿喀琉斯与门农交战，属于特洛伊战争更广的传统，不是《伊利亚特》直接描写的赫克托尔决斗。",
+        "role": "scene",
+        "avatar": true,
+        "position": "32% 35%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-0ceb2774872838.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-iliad",
+        "locator": "《伊利亚特》第1、18、22、24卷（愤怒、铸盾、决斗与共同哀悼）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-odysseus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Head_Odysseus_MAR_Sperlonga.jpg/1280px-Head_Odysseus_MAR_Sperlonga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Head_Odysseus_MAR_Sperlonga.jpg",
+        "title": "奥德修斯头像 · 斯佩隆加雕塑群",
+        "credit": "Jastrow / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "斯佩隆加刺伤波吕斐摩斯雕塑群中的奥德修斯头像，约公元1世纪；它是古典艺术作品，不是历史肖像。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-c9090d5b37c65f.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-odyssey",
+        "locator": "《奥德赛》第9—12卷（漂泊自述）；第19、23卷（辨认）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-hector": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Hector_Cassandra_Pomarici_Santomasi.jpg/1280px-Hector_Cassandra_Pomarici_Santomasi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Hector_Cassandra_Pomarici_Santomasi.jpg",
+        "title": "赫克托尔准备出战 · 埃瑞特里亚画家",
+        "credit": "Jastrow / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以赫克托尔为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "80% 45%",
+        "local": "assets/images/enrich-core-4bf5fa1f3f13d7.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-iliad",
+        "locator": "第6卷（告别妻儿）；第22卷（决斗）；第24卷（葬礼）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-helen": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Helen_of_Sparta_boards_a_ship_for_Troy_fresco_from_the_House_of_the_Tragic_Poet_in_Pompeii.jpg/1280px-Helen_of_Sparta_boards_a_ship_for_Troy_fresco_from_the_House_of_the_Tragic_Poet_in_Pompeii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Helen_of_Sparta_boards_a_ship_for_Troy_fresco_from_the_House_of_the_Tragic_Poet_in_Pompeii.jpg",
+        "title": "海伦登船赴特洛伊 · 庞贝壁画",
+        "credit": "Unknown author Unknown author / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以海伦为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-8bd7f33bbf94f7.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-iliad",
+        "locator": "第3卷（城墙上的海伦与特洛伊战争）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-paris": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Fresco_-_Wall_Fragment_with_the_Judgment_of_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Fresco_-_Wall_Fragment_with_the_Judgment_of_Paris.jpg",
+        "title": "帕里斯的裁决 · 庞贝壁画",
+        "credit": "古代／佚名艺术家；数字文件来源见链接 / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以帕里斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "100% 50%",
+        "local": "assets/images/enrich-core-541abd3753de9d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-epitome",
+        "locator": "摘要3.1—3.4（女神比美与海伦）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-agamemnon": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lekanis_Agamemnon_MNA_Taranto.jpg/1280px-Lekanis_Agamemnon_MNA_Taranto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Lekanis_Agamemnon_MNA_Taranto.jpg",
+        "title": "有题名的阿伽门农 · 古陶盖残片",
+        "credit": "Jastrow / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以阿伽门农为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-87f46a4c724f0b.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-iliad",
+        "locator": "第1卷（与阿喀琉斯争执）；第9卷（求和使团）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-penelope": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-odyssey",
+        "locator": "第2卷（织布计）；第19、23卷（相认与婚床）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-aeneas": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Iapyx_removing_arrowhead_from_Aeneas.jpg/1280px-Iapyx_removing_arrowhead_from_Aeneas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Iapyx_removing_arrowhead_from_Aeneas.jpg",
+        "title": "埃涅阿斯接受治疗 · 庞贝壁画",
+        "credit": "Unknown author. / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "庞贝壁画表现受伤的埃涅阿斯接受医者治疗，维纳斯带来药草，阿斯卡尼俄斯在旁。情节对应史诗第12卷。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-698e27093940a7.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-aeneid",
+        "locator": "《埃涅阿斯纪》第2卷（离开特洛伊）；第4卷（狄多）；第6卷（冥界）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-dido": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-aeneid",
+        "locator": "第1卷（接待流亡者）；第4卷（离别与死亡）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Death_of_Dido_%281781%29%3B_Joshua_Reynolds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Death_of_Dido_(1781);_Joshua_Reynolds.jpg",
+        "title": "狄多之死 · Joshua Reynolds，1781",
+        "credit": "Joshua Reynolds / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Reynolds 根据《埃涅阿斯纪》第4卷创作狄多临死场景。它呈现18世纪对古典叙事的解释，不是迦太基时代人物实像。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%"
+      }
+    ]
+  },
+  "gr-romulus": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-aeneid",
+        "locator": "第1卷257—296行的罗马未来预言；第6卷的罗马祖先队列",
+        "note": "这是维吉尔对建国传统的诗性安排，并非罗慕路斯的独立编年史。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Brogi,_Carlo_(1850-1925)_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg",
+        "title": "罗慕路斯与雷穆斯 · 帕维亚修道院浮雕照片",
+        "credit": "Carlo Brogi / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以罗慕路斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%"
+      }
+    ]
+  },
+  "gr-janus": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-fasti",
+        "locator": "《岁时记》第一卷89—288行（与雅努斯的问答）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Janus_coin1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Janus_coin1.jpg",
+        "title": "雅努斯双面头像 · 前102年罗马钱币",
+        "credit": "CNG Classical Numismatic Group / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "前102年罗马钱币一面为雅努斯双面头像，另一面为船首。把两面图像分开阅读，勿将它混认成任意双头石雕。",
+        "role": "artifact",
+        "avatar": false,
+        "position": "25% 50%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+      }
+    ]
+  },
+  "gr-medusa": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Gorgona_pushkin.jpg/1280px-Gorgona_pushkin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Gorgona_pushkin.jpg",
+        "title": "戈耳工头部建筑饰件 · 普希金博物馆",
+        "credit": "user:shakko / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "古代戈耳工头像建筑饰件，适合学习惊怖面容的保护用途；“戈耳工”类型不一定等同已具铭文的美杜莎个人肖像。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-core-4d38f2f9cb3485.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library2",
+        "locator": "2.4.2—2.4.3（戈耳工与斩首）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-minotaur": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Tondo_Minotaur_London_E4_MAN.jpg/1280px-Tondo_Minotaur_London_E4_MAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tondo_Minotaur_London_E4_MAN.jpg",
+        "title": "米诺陶洛斯 · 约前515年杯画",
+        "credit": "Painter of London E 4 / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "以米诺陶洛斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-e95b3068fdf884.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library3",
+        "locator": "3.1.3—3.1.4（帕西淮与米诺陶洛斯）；另见摘要1.7—1.9",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-cerberus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Herakles_Kerberos_Eurystheus_Louvre_E701.jpg/1280px-Herakles_Kerberos_Eurystheus_Louvre_E701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Herakles_Kerberos_Eurystheus_Louvre_E701.jpg",
+        "title": "赫拉克勒斯带回刻耳柏洛斯 · 古陶画",
+        "credit": "Eagle Painter / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以刻耳柏洛斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 85%",
+        "local": "assets/images/enrich-core-50b95dc723973b.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library2",
+        "locator": "2.5.12（刻耳柏洛斯功业）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-polyphemus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Greek_vase_painting%2C_archaic_or_geometric%2C_Polyphemus%2C_Odysseus%2C_AM_Argos%2C_Argm09.jpg/1280px-Greek_vase_painting%2C_archaic_or_geometric%2C_Polyphemus%2C_Odysseus%2C_AM_Argos%2C_Argm09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Greek_vase_painting,_archaic_or_geometric,_Polyphemus,_Odysseus,_AM_Argos,_Argm09.jpg",
+        "title": "奥德修斯刺伤波吕斐摩斯 · 阿尔戈斯陶画",
+        "credit": "Zde / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "以波吕斐摩斯为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-a37793fbd09bae.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-odyssey",
+        "locator": "第9卷（独眼巨人洞穴）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-sirens": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-odyssey",
+        "locator": "第12卷（塞壬之歌与桅杆束缚）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-pegasus": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-library2",
+        "locator": "2.3.2（柏勒洛丰与飞马）；2.4.2（美杜莎血中诞生）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-typhon": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Zeus_Typhon_Staatliche_Antikensammlungen_596.jpg/1280px-Zeus_Typhon_Staatliche_Antikensammlungen_596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Zeus_Typhon_Staatliche_Antikensammlungen_596.jpg",
+        "title": "宙斯与提丰 · 古希腊陶画",
+        "credit": "User:Bibi Saint-Pol / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以提丰为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "75% 50%",
+        "local": "assets/images/enrich-core-86352979faa9f7.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.6.3（提丰与宙斯的战斗）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-moirai": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Paphos_Haus_des_Theseus_-_Mosaik_Achilles_3_Moiren.jpg/1280px-Paphos_Haus_des_Theseus_-_Mosaik_Achilles_3_Moiren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Paphos_Haus_des_Theseus_-_Mosaik_Achilles_3_Moiren.jpg",
+        "title": "三位命运女神 · 帕福斯马赛克",
+        "credit": "Wolfgang Sauber / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "以摩伊赖为题材的艺术图像，可与本页原典对应阅读。作品、古代摹本及后世修复各有历史层次，具体信息见来源页。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "local": "assets/images/enrich-core-59f56e3335cbd7.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "211—225行；901—906行（命运女神的不同谱系语境）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-succession": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Rhea_handing_a_swaddled_stone_to_Cronus%2C_Attic_terracotta_pelike%2C_c._460%E2%80%93450_BC%2C_Met_06.1021.144.jpg_%28cropped%29.jpg/1280px-Rhea_handing_a_swaddled_stone_to_Cronus%2C_Attic_terracotta_pelike%2C_c._460%E2%80%93450_BC%2C_Met_06.1021.144.jpg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rhea_handing_a_swaddled_stone_to_Cronus,_Attic_terracotta_pelike,_c._460%E2%80%93450_BC,_Met_06.1021.144.jpg_(cropped).jpg",
+        "title": "瑞亚把襁褓石交给克洛诺斯 · 阿提卡陶画",
+        "credit": "Original painter: Unknown, attributed to the Nausicaä Painter Photograph: Met museum Cropped version: User:Michael Aurel / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "瑞亚交出襁褓石的古代陶画直接对应宙斯逃脱吞食的神权更替节点；它不是整场泰坦战争图。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-51d647cd4be3f0.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-theogony",
+        "locator": "453—506行；617—735行（宙斯成长与泰坦之战）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-fire": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Prometheus_and_Atlas%2C_Laconian_black-figure_kylix%2C_by_the_Arkesilas_Painter%2C_560-550_BC%2C_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg/1280px-Prometheus_and_Atlas%2C_Laconian_black-figure_kylix%2C_by_the_Arkesilas_Painter%2C_560-550_BC%2C_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Prometheus_and_Atlas,_Laconian_black-figure_kylix,_by_the_Arkesilas_Painter,_560-550_BC,_inv._16592_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01069.jpg",
+        "title": "普罗米修斯与阿特拉斯 · 拉科尼亚杯画",
+        "credit": "Daderot / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "拉科尼亚杯画中的普罗米修斯受罚，与盗火的后果相连；同画的阿特拉斯应作为另一角色辨识。",
+        "role": "scene",
+        "avatar": false,
+        "position": "100% 50%",
+        "local": "assets/images/enrich-core-8b62b64ba9060e.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-works",
+        "locator": "42—105行（火、潘多拉与人类生活）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-persephone": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Terracotta_votive_plaque_from_Eleusis%2C_450_BC%2C_NAMA%2C_190875.jpg/1280px-Terracotta_votive_plaque_from_Eleusis%2C_450_BC%2C_NAMA%2C_190875.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_votive_plaque_from_Eleusis,_450_BC,_NAMA,_190875.jpg",
+        "title": "厄琉息斯的两位女神 · 还愿陶板",
+        "credit": "Zde / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "厄琉息斯陶板展示母女与秘仪共同体，说明故事的仪式背景；画面不是冥王劫夺女儿的场景。",
+        "role": "scene",
+        "avatar": false,
+        "position": "68% 35%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-de48528068cdc9.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-hymn",
+        "locator": "《致德墨忒尔》1—495行；特别参见398—403行及回归安排",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-flood": {
+    "images": [],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.7.2（丢卡利翁与皮拉）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Deucalion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Deucalion.jpg",
+        "title": "丢卡利翁 · 16世纪人物谱像",
+        "credit": "Published by Guillaume Rouille (1518?-1589) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "这幅16世纪谱像表现丢卡利翁本人，并非洪水现场；可作人物入口，洪水与投石造人的情节请按《书库》1.7.2核读。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%"
+      }
+    ]
+  },
+  "gr-event-perseus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Perseo_con_la_testa_di_medusa%2C_originale_di_et%C3%A0_flavia_o_traianea%2C_dalle_terme_presso_porta_laurentina%2C_01.JPG/1280px-Perseo_con_la_testa_di_medusa%2C_originale_di_et%C3%A0_flavia_o_traianea%2C_dalle_terme_presso_porta_laurentina%2C_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Perseo_con_la_testa_di_medusa,_originale_di_et%C3%A0_flavia_o_traianea,_dalle_terme_presso_porta_laurentina,_01.JPG",
+        "title": "持美杜莎头颅的珀耳修斯",
+        "credit": "Sailko / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "caption": "古代珀耳修斯持美杜莎头的雕像，直接表现屠怪结果；器物与盾的细节需按不同原典核读。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "local": "assets/images/enrich-core-5d2ee86315c122.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library2",
+        "locator": "2.4.1—2.4.3（神赐器物与斩首）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-labours": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg/1280px-Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
+        "title": "法尔内塞赫拉克勒斯",
+        "credit": "Glycon of Athens (copy), Lysippos (original type) / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "赫拉克勒斯休息像提供英雄的身体与狮皮标识，具体功业场景另见本页古陶瓶图。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-f5c31f1c95f447.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP103204.jpg",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/254364",
+        "title": "赫拉克勒斯降伏克里特公牛",
+        "credit": "约公元前520—510年，阿提卡黑绘双耳瓶；The Met，41.162.193",
+        "license": "Public Domain／The Met Open Access",
+        "caption": "古代陶瓶直接表现赫拉克勒斯降伏克里特公牛，对应十二功业之一；可与《书库》2.5.7核读。",
+        "local": "assets/images/918b9b60167178ce.jpg",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 50%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library2",
+        "locator": "2.5.1—2.5.12（十二功业各节）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-argos": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Jas%C3%A3o_e_o_Velo_de_ouro_-_Bertel_Thorvaldsen_-_1803.jpg/1280px-Jas%C3%A3o_e_o_Velo_de_ouro_-_Bertel_Thorvaldsen_-_1803.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Jas%C3%A3o_e_o_Velo_de_ouro_-_Bertel_Thorvaldsen_-_1803.jpg",
+        "title": "伊阿宋与金羊毛 · Thorvaldsen",
+        "credit": "Bertel Thorvaldsen / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Thorvaldsen 所作伊阿宋与金羊毛，表现远征目标和胜利者形象；并未画出整艘阿尔戈船。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-7957994754ea86.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-library1",
+        "locator": "1.9.16—1.9.28（航行、任务与美狄亚）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-labyrinth": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Kylix_Theseus_Aison_MNA_Inv11365_n1.jpg/1280px-Kylix_Theseus_Aison_MNA_Inv11365_n1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Kylix_Theseus_Aison_MNA_Inv11365_n1.jpg",
+        "title": "忒修斯战胜米诺陶洛斯 · Aison 杯画",
+        "credit": "Aison / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "caption": "Aison 杯画表现忒修斯战胜米诺陶洛斯，雅典娜在旁；适合与《书库》摘要1.7—1.10逐项对读。",
+        "role": "scene",
+        "avatar": false,
+        "position": "48% 32%",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "local": "assets/images/enrich-core-1bd5fe4bd71d3a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-epitome",
+        "locator": "摘要1.7—1.10（贡奉、怪物与阿里阿德涅）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-trojan": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg/1280px-Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg",
+        "title": "阿喀琉斯为帕特罗克洛斯裹伤 · 约前500年",
+        "credit": "Sosias (potter, signed). Painting attributed to the Sosias Painter (name piece for Beazley, overriding attribution) or the Kleophrades Painter (Robertson) or Euthymides (Ohly-Dumm) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "有题名的古代杯画表现阿喀琉斯为帕特罗克洛斯包扎。它帮助理解两人的关系，而不是木马攻城图。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-040aaddddaea3d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-iliad",
+        "locator": "第1—24卷；主要人物入门先读第1、3、6、22、24卷",
+        "note": "木马和毁城不是《伊利亚特》结尾，另读《书库》摘要第5部分。"
+      }
+    ]
+  },
+  "gr-event-return": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Fragment_Odyssee_2245_2.jpg/1280px-Fragment_Odyssee_2245_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Fragment_Odyssee_2245_2.jpg",
+        "title": "《奥德赛》第9—10卷纸草残片",
+        "credit": "Zunkir / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "纸草残片保存《奥德赛》第9—10卷的文字，提供文本流传的物证；它不是奥德修斯时代的旅行记录。",
+        "role": "document",
+        "avatar": false,
+        "position": "50% 0%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-96c9664198a3f4.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-odyssey",
+        "locator": "第9—12卷、第19—24卷（漂泊与返回家宅）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-aeneas": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Aeneas%27_Flight_from_Troy_by_Federico_Barocci.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Aeneas%27_Flight_from_Troy_by_Federico_Barocci.jpg",
+        "title": "埃涅阿斯逃离特洛伊 · Federico Barocci",
+        "credit": "Federico Barocci / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Barocci 的后世绘画表现埃涅阿斯携父与子逃离燃烧的特洛伊，可与《埃涅阿斯纪》第2卷核读。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-ead65391d179b1.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-aeneid",
+        "locator": "第2卷与第4卷（特洛伊毁灭、狄多与离别）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "gr-event-underworld": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Iapyx_removing_arrowhead_from_Aeneas.jpg/1280px-Iapyx_removing_arrowhead_from_Aeneas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Iapyx_removing_arrowhead_from_Aeneas.jpg",
+        "title": "埃涅阿斯接受治疗 · 庞贝壁画",
+        "credit": "Unknown author. / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "埃涅阿斯的古代壁画人物参照；这幅画实为受伤治疗场景，未描绘下冥府。冥界旅程请以史诗第6卷为准。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 0%",
+        "local": "assets/images/enrich-core-698e27093940a7.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "gr-aeneid",
+        "locator": "第6卷（西比拉、亡父与未来罗马）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-god": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aleppo_Codex_%28Deut%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Aleppo_Codex_(Deut).jpg",
+        "title": "《阿勒颇抄本》书页",
+        "credit": "希伯来圣经马所拉传统，10世纪；抄写员 Shlomo ben Buya’a，校订 Aaron ben Asher；Wikimedia Commons",
+        "license": "Public Domain／PD-Art",
+        "caption": "《阿勒颇抄本》的实际书页，展示希伯来圣经传写传统。此处提供文字与抄本语境，不以人形图像替神作统一面貌。",
+        "local": "assets/images/6260a5ff89b53e1d.jpg",
+        "role": "document",
+        "avatar": false,
+        "position": "50% 50%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》1:1—2:3；另见《出埃及记》3:13—15",
+        "note": "用具体经文讨论创造与神名，避免以某一后世人形图像代表全部亚伯拉罕传统。"
+      },
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》1:1，和合本",
+        "note": "希伯来原文句法另有译法，应与具体版本一起读。",
+        "quote": "起初，神创造天地。"
+      }
+    ]
+  },
+  "hb-adam": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Michelangelo%2C_Creation_of_Adam_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Michelangelo,_Creation_of_Adam_03.jpg",
+        "title": "创造亚当 · 米开朗琪罗，约1510",
+        "credit": "Michelangelo / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "米开朗琪罗《创造亚当》的局部，属于文艺复兴基督教艺术。这里辨识的是画中的亚当，不将画中神的人形推广为犹太教或伊斯兰的统一观点。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "40% 50%",
+        "local": "assets/images/enrich-core-d99fa3b19e796c.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》2:7—3:24",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-eve": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/William_Blake_-_The_Temptation_and_Fall_of_Eve_%28Illustration_to_Milton%27s_%22Paradise_Lost%22%29_-_Google_Art_Project.jpg/1280px-William_Blake_-_The_Temptation_and_Fall_of_Eve_%28Illustration_to_Milton%27s_%22Paradise_Lost%22%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Temptation_and_Fall_of_Eve_(Illustration_to_Milton%27s_%22Paradise_Lost%22)_-_Google_Art_Project.jpg",
+        "title": "夏娃受诱惑与堕落 · William Blake，1808",
+        "credit": "William Blake / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Blake《失乐园》插图中的夏娃。角色可辨识，但画中的事件细节属于弥尔顿和画家的后世解释，不全部来自《创世记》。",
+        "role": "scene",
+        "avatar": true,
+        "position": "56% 38%",
+        "local": "assets/images/enrich-core-35186eb001b146.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》2:18—25；3:1—24",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-serpent": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/William_Blake_-_The_Temptation_and_Fall_of_Eve_%28Illustration_to_Milton%27s_%22Paradise_Lost%22%29_-_Google_Art_Project.jpg/1280px-William_Blake_-_The_Temptation_and_Fall_of_Eve_%28Illustration_to_Milton%27s_%22Paradise_Lost%22%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Temptation_and_Fall_of_Eve_(Illustration_to_Milton%27s_%22Paradise_Lost%22)_-_Google_Art_Project.jpg",
+        "title": "夏娃受诱惑与堕落 · William Blake，1808",
+        "credit": "William Blake / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Blake 为弥尔顿《失乐园》绘制夏娃受诱惑，蛇与人物服从后世诗歌的视觉解释；不能直接充当《创世记》3章的完整设定。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-35186eb001b146.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》3:1—15",
+        "note": "本章没有以“撒旦”具名蛇；后世的联读另见《启示录》12:9。"
+      }
+    ]
+  },
+  "hb-cain": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Rehberg%2C_Ca%C3%ADn%2C_Museo_de_Bellas_Artes_de_Bilbao.webp/1280px-Rehberg%2C_Ca%C3%ADn%2C_Museo_de_Bellas_Artes_de_Bilbao.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rehberg,_Ca%C3%ADn,_Museo_de_Bellas_Artes_de_Bilbao.webp",
+        "title": "该隐 · Friedrich Rehberg，1791",
+        "credit": "Friedrich Rehberg (1758 -1835) / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "该隐在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-10f6795a03d6b6.webp"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》4:1—16",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-abel": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》4:1—10",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-noah": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Giovanni_Benedetto_Castiglione_gen._Il_Grecchetto_-_Noah_mit_den_Tieren_vor_der_Arche_-_GG_1645_-_Kunsthistorisches_Museum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Giovanni_Benedetto_Castiglione_gen._Il_Grecchetto_-_Noah_mit_den_Tieren_vor_der_Arche_-_GG_1645_-_Kunsthistorisches_Museum_(cropped).jpg",
+        "title": "诺亚与方舟前的动物 · Castiglione，约1650",
+        "credit": "Giovanni Benedetto Castiglione / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "诺亚在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-e584c6802e1165.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》6:9—9:17",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-abraham": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Guercino_Abramo_ripudia_Agar_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Guercino_Abramo_ripudia_Agar_(cropped_2).jpg",
+        "title": "亚伯拉罕遣走夏甲 · Guercino，1657，局部",
+        "credit": "Guercino / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Guercino 所画的是遣走夏甲与以实玛利，图中亚伯拉罕可用于人物辨识；不是“初次蒙召”事件的现场画。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-333704ea9f516b.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-covenant",
+        "locator": "《创世记》12:1—9；15章；17章；22:1—19",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-sarah": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/James_Jacques_Joseph_Tissot_-_Abram%27s_Counsel_to_Sarai_-_Google_Art_Project_%28cropped%29.jpg/1280px-James_Jacques_Joseph_Tissot_-_Abram%27s_Counsel_to_Sarai_-_Google_Art_Project_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:James_Jacques_Joseph_Tissot_-_Abram%27s_Counsel_to_Sarai_-_Google_Art_Project_(cropped).jpg",
+        "title": "亚伯兰劝告撒莱 · Tissot，约1896—1902，局部",
+        "credit": "James Jacques Joseph Tissot (1836 - 1902) (French) Details on Google Art Project / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "撒拉在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-7cb9110c7171c9.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》18:1—15；21:1—21",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-hagar": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Fran%C3%A7ois-Joseph_Navez_-_Agar_et_Isma%C3%ABl_dans_le_d%C3%A9sert_%28cropped%29.jpg/1280px-Fran%C3%A7ois-Joseph_Navez_-_Agar_et_Isma%C3%ABl_dans_le_d%C3%A9sert_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois-Joseph_Navez_-_Agar_et_Isma%C3%ABl_dans_le_d%C3%A9sert_(cropped).jpg",
+        "title": "旷野中的夏甲与以实玛利 · Navez，1820",
+        "credit": "François-Joseph Navez / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "夏甲在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-d4055d3c9fdc03.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》16章；21:8—21",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-isaac": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Isaac_Blessing_Jacob_MET_DP145918_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Isaac_Blessing_Jacob_MET_DP145918_(cropped_2).jpg",
+        "title": "以撒祝福雅各 · Eeckhout，1642，局部",
+        "credit": "Gerbrand van den Eeckhout / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "以撒在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-ffc3ee7e5f44ae.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》21:1—8；22:1—19；27章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-ishmael": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Oldtestamentthre0001unse_0096_%28cropped%29.jpg/1280px-Oldtestamentthre0001unse_0096_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Oldtestamentthre0001unse_0096_(cropped).jpg",
+        "title": "以实玛利 · James Tissot",
+        "credit": "James Tissot / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "以实玛利在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-4fcfe40eaf966d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》16:11—16；21:8—21；25:12—18",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-jacob": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》25:19—34；27—28章；32:22—32；33章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Jan_Victors_-_Jacob_Seeking_the_Forgiveness_of_Esau_-_79.330_-_Indianapolis_Museum_of_Art_(cropped).jpg",
+        "title": "雅各请求以扫宽恕 · Jan Victors，1652，局部",
+        "credit": "Jan Victors / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "雅各／以色列在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "hb-esau": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》25:19—34；27章；33章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-joseph": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》37章；39—45章；50:15—21",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Joseph_%28Francisco_de_Zurbar%C3%A1n%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Joseph_(Francisco_de_Zurbar%C3%A1n).jpg",
+        "title": "族长约瑟 · Zurbarán，约1640—1645",
+        "credit": "Francisco de Zurbarán / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "约瑟（族长）在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "hb-moses": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg/1280px-Rembrandt_Harmensz._van_Rijn_079.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_079.jpg",
+        "title": "摩西与律法石版 · 伦勃朗，1659",
+        "credit": "Rembrandt / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "伦勃朗将摩西与律法石版联系，视觉化西奈立约及其危机。这是一幅1659年宗教历史画，并非出埃及年代的肖像。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-2217d2a9467cc4.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-exodus",
+        "locator": "《出埃及记》2—4章（身世与呼召）；14章（过海）；19—20章（西奈）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-aaron": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Aaron_in_Dura_Europos_synagogue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Aaron_in_Dura_Europos_synagogue.jpg",
+        "title": "祭司亚伦 · 杜拉欧罗波斯会堂壁画",
+        "credit": "Unknown artist Unknown artist / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "亚伦在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-341694957b4139.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-exodus",
+        "locator": "《出埃及记》4:10—16；7章；28章；32章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-miriam": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Miriam_%28Dalziels%27_Bible_Gallery%29_MET_DP835720.jpg/1280px-Miriam_%28Dalziels%27_Bible_Gallery%29_MET_DP835720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Miriam_(Dalziels%27_Bible_Gallery)_MET_DP835720.jpg",
+        "title": "米利暗 · Dalziel《圣经画廊》版画",
+        "credit": "Camden Press / Brothers Dalziel / After Edward Poynter / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "米利暗在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-ed071eb180e4f5.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-exodus",
+        "locator": "《出埃及记》2:1—10；15:20—21；另读《民数记》12章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-pharaoh": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aleppo_Codex_%28Deut%29.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Aleppo_Codex_(Deut).jpg",
+        "title": "《阿勒颇抄本》书页",
+        "credit": "希伯来圣经马所拉传统，10世纪；抄写员 Shlomo ben Buya’a，校订 Aaron ben Asher；Wikimedia Commons",
+        "license": "Public Domain／PD-Art",
+        "caption": "希伯来圣经抄本书页作为文本传统参照，并非《出埃及记》这一段的专页；经节请依下方定位阅读，不能把任意法老雕像认作经文中的匿名法老。",
+        "local": "assets/images/6260a5ff89b53e1d.jpg",
+        "role": "document",
+        "avatar": false,
+        "position": "50% 50%"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-exodus",
+        "locator": "《出埃及记》1章、5—14章",
+        "note": "正文没有给出出埃及法老的专名，不能以某一法老雕像当已确认肖像。"
+      }
+    ]
+  },
+  "hb-joshua": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Collection_Motais_de_Narbonne_-_Josu%C3%A9_arr%C3%A8te_la_course_du_soleil_-_Carlo_Maratta.jpg/1280px-Collection_Motais_de_Narbonne_-_Josu%C3%A9_arr%C3%A8te_la_course_du_soleil_-_Carlo_Maratta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Collection_Motais_de_Narbonne_-_Josu%C3%A9_arr%C3%A8te_la_course_du_soleil_-_Carlo_Maratta.jpg",
+        "title": "约书亚使日头停留 · Carlo Maratta",
+        "credit": "Didier Descouens / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "约书亚在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-696bf6f8ee8340.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《申命记》31:1—8；《约书亚记》1—6章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-samuel": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《撒母耳记上》3章；8—10章；16:1—13",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Saul_and_the_Witch_of_Endor_%28Stom%2C_1635%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Saul_and_the_Witch_of_Endor_(Stom,_1635)_(cropped).jpg",
+        "title": "隐多珥事件中的撒母耳 · Matthias Stom，局部",
+        "credit": "Matthias Stom / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "这幅画来自扫罗求问隐多珥女巫、撒母耳显现的叙事；它不是撒母耳蒙召的场景。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "hb-saul": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Saul_1878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Saul_1878.jpg",
+        "title": "扫罗 · Ernst Josephson，1878，局部",
+        "credit": "Ernst Josephson / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "扫罗在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-ac42d7fdba5bae.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《撒母耳记上》9—10章；15章；18—19章；31章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-david": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/King_David%2C_the_King_of_Israel.jpg/1280px-King_David%2C_the_King_of_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:King_David,_the_King_of_Israel.jpg",
+        "title": "大卫王 · Gerard van Honthorst，1622",
+        "credit": "Gerard van Honthorst / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "大卫在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-a302ccdd6a49ec.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《撒母耳记上》16—17章；《撒母耳记下》7章、11—12章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-solomon": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Simeon_Solomon%2C_King_Solomon%2C_1872_or_1874%2C_NGA_76152_%28cropped%29.jpg/1280px-Simeon_Solomon%2C_King_Solomon%2C_1872_or_1874%2C_NGA_76152_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Simeon_Solomon,_King_Solomon,_1872_or_1874,_NGA_76152_(cropped).jpg",
+        "title": "所罗门王 · Simeon Solomon，1872或1874",
+        "credit": "Simeon Solomon / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "所罗门在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-f92a1bd1dd1667.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《列王纪上》3章（审判）；5—8章（建殿）；11章（晚年）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-elijah": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Giovanni_Girolamo_Savoldo%2C_Elijah_Fed_by_the_Raven%2C_c._1510%2C_NGA_46134.jpg/1280px-Giovanni_Girolamo_Savoldo%2C_Elijah_Fed_by_the_Raven%2C_c._1510%2C_NGA_46134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Giovanni_Girolamo_Savoldo,_Elijah_Fed_by_the_Raven,_c._1510,_NGA_46134.jpg",
+        "title": "乌鸦供养以利亚 · Savoldo，约1510",
+        "credit": "Giovanni Girolamo Savoldo / Wikimedia Commons",
+        "license": "CC0",
+        "caption": "以利亚在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "scene",
+        "avatar": true,
+        "position": "50% 22%",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "local": "assets/images/enrich-core-1f759720e54739.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《列王纪上》17—19章；《列王纪下》2:1—18",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-job": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/L%C3%A9on_Bonnat_-_Job.jpg/1280px-L%C3%A9on_Bonnat_-_Job.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Bonnat_-_Job.jpg",
+        "title": "约伯 · Léon Bonnat，1880",
+        "credit": "Léon Bonnat / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "约伯在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-d0bc44c5d2946c.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《约伯记》1—2章（序幕）；3—37章（争辩）；38—42章（回应）",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-daniel": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_Google_Art_Project.jpg/1280px-Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_Google_Art_Project.jpg",
+        "title": "狮子坑中的但以理 · Rubens，约1614—1616",
+        "credit": "Peter Paul Rubens / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "但以理在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "scene",
+        "avatar": true,
+        "position": "100% 50%",
+        "local": "assets/images/enrich-core-0f39ca589b62a9.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《但以理书》6章、7章、10—12章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-michael": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/GuidoReni_MichaelDefeatsSatan.jpg/1280px-GuidoReni_MichaelDefeatsSatan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:GuidoReni_MichaelDefeatsSatan.jpg",
+        "title": "米迦勒战胜撒旦 · Guido Reni",
+        "credit": "Guido Reni / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "米迦勒在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "scene",
+        "avatar": true,
+        "position": "48% 25%",
+        "local": "assets/images/enrich-core-6fbaaee8f54c53.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《但以理书》10:13、10:21、12:1；《启示录》12:7—9",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-gabriel": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ghent_Altarpiece_-_Angel_of_the_Annunciation.jpg/1280px-Ghent_Altarpiece_-_Angel_of_the_Annunciation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Ghent_Altarpiece_-_Angel_of_the_Annunciation.jpg",
+        "title": "报喜天使 · 扬·凡·艾克，《根特祭坛画》局部",
+        "credit": "Jan van Eyck / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "加百列在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 24%",
+        "local": "assets/images/enrich-core-d6ccf5d9312474.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-luke",
+        "locator": "《路加福音》1:19、1:26—38；另见《但以理书》8:15—26、9:20—27",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-cherubim": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》3:24；另见《出埃及记》25:18—22与《以西结书》10章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-seraphim": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《以赛亚书》6:1—7",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-satan": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《约伯记》1:6—12、2:1—7；《启示录》12:9",
+        "note": "这两个文本的形象不应无条件压成一份连贯生平。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Codex_Gigas_fol_290r_Devil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Codex_Gigas_fol_290r_Devil.jpg",
+        "title": "《巨人抄本》中的魔鬼 · 13世纪初",
+        "credit": "Herman the Recluse of the Benedictine monastery of Podlažice / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "《巨人抄本》folio 290r 的魔鬼图，属于13世纪基督教视觉传统，不能用来确定《约伯记》控告者的相貌。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "hb-leviathan": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Destruction_of_Leviathan.png/1280px-Destruction_of_Leviathan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Destruction_of_Leviathan.png",
+        "title": "利维坦被毁灭 · Gustave Doré，1865",
+        "credit": "Gustave Doré / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "利维坦在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 100%",
+        "local": "assets/images/enrich-core-73d095873e2740.png"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《约伯记》41章；《诗篇》74:13—14、104:26；《以赛亚书》27:1",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-behemoth": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《约伯记》40:15—24",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-jesus": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Spas_vsederzhitel_sinay_%28cropped1%29.jpg/1280px-Spas_vsederzhitel_sinay_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay_(cropped1).jpg",
+        "title": "基督普世君王像 · 西奈，6世纪",
+        "credit": "Unknown artist Unknown artist / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "西奈圣凯瑟琳修道院的6世纪基督圣像。它是基督教图像传统的早期代表，不是耶稣生前肖像，也不代表伊斯兰对尔撒的绘画实践。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 15%",
+        "local": "assets/images/enrich-core-887b2949915334.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-luke",
+        "locator": "《路加福音》1—2章、22—24章；伊斯兰对读《古兰经》4:171",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-mary": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-luke",
+        "locator": "《路加福音》1:26—56；2:1—52",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Madonna_Advocata.png",
+        "title": "圣母代祷像 · 早期中世纪传统",
+        "credit": "Asia / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "圣母代祷者图像属于基督教艺术传统；不能因此把马利亚理解为另一位神，或把这一图式归给所有宗教共同体。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 24%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ]
+  },
+  "hb-baptist": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg/1280px-Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg",
+        "title": "旷野中的施洗约翰 · Titian",
+        "credit": "Titian / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "施洗约翰在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-74906cd5915cea.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-luke",
+        "locator": "《路加福音》1:5—25、1:57—80；3:1—22",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-peter": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/St._Peter_%28portrayed_as_a_Roman_consul%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:St._Peter_(portrayed_as_a_Roman_consul).jpg",
+        "title": "使徒彼得 · 6世纪蜡画圣像",
+        "credit": "Unknown author Unknown author / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "彼得在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-39a334b702d0c6.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《马可福音》8:27—33、14:66—72；《约翰福音》21:15—19",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-judas": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Almeida_J%C3%BAnior_-_Remorso_de_Judas%2C_1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Almeida_J%C3%BAnior_-_Remorso_de_Judas,_1880.jpg",
+        "title": "犹大的悔恨 · Almeida Júnior，1880",
+        "credit": "José Ferraz de Almeida Júnior / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "加略人犹大在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-aff64f7807213d.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《马太福音》26:14—16、26:47—50、27:3—10；另对读《使徒行传》1:15—20",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-paul": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《使徒行传》9:1—22；《加拉太书》1:11—24；《哥林多前书》15章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Fresco_of_Saint_Paul_at_Ephesus.jpg",
+        "title": "保罗 · 以弗所洞窟壁画",
+        "credit": "Unknown author Unknown author / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "保罗在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "hb-iblis": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Istanbul%2C_Topkap%C4%B1_Saray_M%C3%BCzesi_K%C3%BCt%C3%BCphanesi%2C_MS_Ba%C4%9Fdat_282_fol_16_Adam_and_the_Angels_watched_by_Iblis.jpg/1280px-Istanbul%2C_Topkap%C4%B1_Saray_M%C3%BCzesi_K%C3%BCt%C3%BCphanesi%2C_MS_Ba%C4%9Fdat_282_fol_16_Adam_and_the_Angels_watched_by_Iblis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Istanbul,_Topkap%C4%B1_Saray_M%C3%BCzesi_K%C3%BCt%C3%BCphanesi,_MS_Ba%C4%9Fdat_282_fol_16_Adam_and_the_Angels_watched_by_Iblis.jpg",
+        "title": "阿丹、众天使与易卜劣斯 · 赫拉特手稿，1415—1416",
+        "credit": "Maʿrūf Baghdādī / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "赫拉特历史手稿的15世纪插画表现阿丹、俯伏的天使与未俯伏的易卜劣斯。它属于特定波斯绘画传统，不是所有穆斯林共同使用的图式。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-70ad77a216af32.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-iblis-source",
+        "locator": "《古兰经》18:50",
+        "note": "该节直接称易卜劣斯属于精灵，不能无条件改称基督教式堕天使。"
+      }
+    ]
+  },
+  "hb-lucifer": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-isaiah",
+        "locator": "《以赛亚书》14:4、14:12—15",
+        "note": "先读讽喻巴比伦王的框架，再讨论后世拉丁语 Lucifer 与撒旦的联读。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Codex_Gigas_fol_290r_Devil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Codex_Gigas_fol_290r_Devil.jpg",
+        "title": "《巨人抄本》中的魔鬼 · 13世纪初",
+        "credit": "Herman the Recluse of the Benedictine monastery of Podlažice / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "中世纪魔鬼图作为后世基督教形象的对照，不将此画说成《以赛亚书》14章直接规定的路西法肖像。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "hb-raphael": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Raphael.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Saint_Raphael.JPG",
+        "title": "天使拉斐尔 · 宗教艺术",
+        "credit": "古代／佚名艺术家；数字文件来源见链接 / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "拉斐尔在后世宗教艺术中的表现。它有特定的作者、年代和共同体语境，不是人物生前的可考实证肖像，也不代表所有宗教传统的统一看法。",
+        "role": "portrait",
+        "avatar": true,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-a726df35e8d0f1.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-tobit",
+        "locator": "《多俾亚传》12:11—15；故事线见5—12章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-asmodeus": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-tobit",
+        "locator": "《多俾亚传》3:7—9、8:1—3；12章回顾救助",
+        "note": "该书正典地位因宗派而异；后世七宗罪名单不是这一段经文。"
+      }
+    ]
+  },
+  "hb-beelzebul": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《马太福音》12:22—32；《路加福音》11:14—23",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-creation": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Michelangelo%2C_Creation_of_Adam_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Michelangelo,_Creation_of_Adam_03.jpg",
+        "title": "创造亚当 · 米开朗琪罗，约1510",
+        "credit": "Michelangelo / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "西斯廷天顶画的创造亚当局部，把《创世记》的人类受造主题转为文艺复兴基督教图像。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "40% 50%",
+        "local": "assets/images/enrich-core-d99fa3b19e796c.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》1:1—3:24",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-cain": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Peter_Paul_Rubens_-_Cain_slaying_Abel_%28Courtauld_Institute%29.jpg/1280px-Peter_Paul_Rubens_-_Cain_slaying_Abel_%28Courtauld_Institute%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Cain_slaying_Abel_(Courtauld_Institute).jpg",
+        "title": "该隐杀亚伯 · Rubens",
+        "credit": "Peter Paul Rubens / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Rubens 画该隐对亚伯施暴，以身体冲突解释《创世记》4章；这幅后世画作不是故事发生年代的证据。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-1cb0db1b09dd15.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》4:1—16",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-flood": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Giovanni_Benedetto_Castiglione_gen._Il_Grecchetto_-_Noah_mit_den_Tieren_vor_der_Arche_-_GG_1645_-_Kunsthistorisches_Museum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Giovanni_Benedetto_Castiglione_gen._Il_Grecchetto_-_Noah_mit_den_Tieren_vor_der_Arche_-_GG_1645_-_Kunsthistorisches_Museum_(cropped).jpg",
+        "title": "诺亚与方舟前的动物 · Castiglione，约1650",
+        "credit": "Giovanni Benedetto Castiglione / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "诺亚与方舟前动物的17世纪绘画，将入舟前的聚集作为洪水故事的视觉入口。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-e584c6802e1165.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》6:5—9:17",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-babel": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/1280px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg",
+        "title": "巴别塔 · 老彼得·勃鲁盖尔",
+        "credit": "Pieter Brueghel the Elder / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "勃鲁盖尔以16世纪建筑与城市经验重构巴别塔。对照《创世记》11章时，区分经文写出的内容与画家补入的视觉细节。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-3432fb6f48321f.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》11:1—9",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-call": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Guercino_Abramo_ripudia_Agar_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Guercino_Abramo_ripudia_Agar_(cropped_2).jpg",
+        "title": "亚伯拉罕遣走夏甲 · Guercino，1657，局部",
+        "credit": "Guercino / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "亚伯拉罕的人物局部作为蒙召故事入口；原画实际描绘遣走夏甲，应避免误把它标为创12章的事件。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-333704ea9f516b.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-covenant",
+        "locator": "《创世记》12:1—9、15章、17章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-binding": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Rembrandt_-_Sacrifice_of_Isaac_-_WGA19096.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_Sacrifice_of_Isaac_-_WGA19096.jpg",
+        "title": "献以撒 · 伦勃朗",
+        "credit": "Rembrandt / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "伦勃朗表现天使在献子最后关头阻止亚伯拉罕。它是一种基督教艺术读法，不能替代犹太、基督教和伊斯兰各自的解释史。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-fbf2088b981896.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》22:1—19",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-joseph": {
+    "images": [],
+    "citations": [
+      {
+        "source": "hb-genesis",
+        "locator": "《创世记》37章、39—45章、50:15—21",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ],
+    "imageReferences": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Joseph_%28Francisco_de_Zurbar%C3%A1n%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Joseph_(Francisco_de_Zurbar%C3%A1n).jpg",
+        "title": "族长约瑟 · Zurbarán，约1640—1645",
+        "credit": "Francisco de Zurbarán / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Zurbarán 的族长约瑟像，为解梦与和解故事提供主体图；画面不直接描绘埃及法庭或兄弟相认。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%"
+      }
+    ]
+  },
+  "hb-event-exodus": {
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/The_Crossing_of_The_Red_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Crossing_of_The_Red_Sea.jpg",
+        "title": "渡过红海 · Nicolas Poussin",
+        "credit": "Nicolas Poussin / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Poussin 将过海后的群众与危机表现为宏大的历史画。图像依据圣经叙事创作，不证明精确路线或某位法老身份。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-d7a6f3be98507a.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-exodus",
+        "locator": "《出埃及记》1—15章；逾越见12章，过海见14章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-sinai": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg/1280px-Rembrandt_Harmensz._van_Rijn_079.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_079.jpg",
+        "title": "摩西与律法石版 · 伦勃朗，1659",
+        "credit": "Rembrandt / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "伦勃朗的摩西与石版直接连接西奈律法及金牛犊危机的后果，可与《出埃及记》20、32章对读。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-2217d2a9467cc4.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-exodus",
+        "locator": "《出埃及记》19—20章、32—34章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-monarchy": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/King_David%2C_the_King_of_Israel.jpg/1280px-King_David%2C_the_King_of_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:King_David,_the_King_of_Israel.jpg",
+        "title": "大卫王 · Gerard van Honthorst，1622",
+        "credit": "Gerard van Honthorst / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "大卫作为君王的后世绘画形象，提供王国叙事的人物入口；画家服饰不等于铁器时代以色列的考古复原。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-a302ccdd6a49ec.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《撒母耳记上》8—10章、16章；《撒母耳记下》7章；《列王纪上》3章、8章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-exile": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tissot_The_Flight_of_the_Prisoners.jpg/1280px-Tissot_The_Flight_of_the_Prisoners.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Tissot_The_Flight_of_the_Prisoners.jpg",
+        "title": "俘虏出走 · James Tissot",
+        "credit": "James Tissot / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Tissot 表现被迁徙的人群，可与王国末期的战争和流亡记忆对读；服饰和具体人物安排属于19世纪绘画重构。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-f999811ff2e9c2.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《列王纪下》24—25章；《诗篇》137篇",
+        "note": "历史事件与其神学解释分开阅读，另查本区流亡研究来源。"
+      }
+    ]
+  },
+  "hb-event-job": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/L%C3%A9on_Bonnat_-_Job.jpg/1280px-L%C3%A9on_Bonnat_-_Job.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Bonnat_-_Job.jpg",
+        "title": "约伯 · Léon Bonnat，1880",
+        "credit": "Léon Bonnat / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Bonnat 将约伯孤独受苦的身体作为画面中心，回应《约伯记》的痛苦主题，而非把朋友辩论全都画出。",
+        "role": "portrait",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-d0bc44c5d2946c.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《约伯记》1—2章、38—42章；中段长篇辩论见3—37章",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-visions": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_Google_Art_Project.jpg/1280px-Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Sir_Peter_Paul_Rubens_-_Daniel_in_the_Lions%27_Den_-_Google_Art_Project.jpg",
+        "title": "狮子坑中的但以理 · Rubens，约1614—1616",
+        "credit": "Peter Paul Rubens / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Rubens 的狮子坑画展示但以理本人和另一则宫廷故事；它不是第7章四兽异象图，异象应按所列经节阅读。",
+        "role": "scene",
+        "avatar": false,
+        "position": "100% 50%",
+        "local": "assets/images/enrich-core-0f39ca589b62a9.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-bible",
+        "locator": "《但以理书》7章、12:1—4",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  },
+  "hb-event-gospel": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Rafael_-_ressureicaocristo01.jpg/1280px-Rafael_-_ressureicaocristo01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Rafael_-_ressureicaocristo01.jpg",
+        "title": "基督复活 · Raphael",
+        "credit": "Raphael / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "Raphael 的复活题材画表现基督教核心叙事。这是信仰与艺术史中的视觉表达，不作为历史研究的直接证明。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-b30ec1a4b053b4.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-luke",
+        "locator": "《路加福音》22—24章",
+        "note": "同题还应对读其余三部福音书，叙事细节不完全相同。"
+      }
+    ]
+  },
+  "hb-event-newcreation": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/La_J%C3%A9rusalem_c%C3%A9leste_%282%29.jpg/1280px-La_J%C3%A9rusalem_c%C3%A9leste_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:La_J%C3%A9rusalem_c%C3%A9leste_(2).jpg",
+        "title": "天上的耶路撒冷 · 昂热《启示录》挂毯",
+        "credit": "Octave 444 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "昂热《启示录》挂毯表现天上的耶路撒冷。中世纪织物把《启示录》21章的城与希望组织为可观看的图像。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "local": "assets/images/enrich-core-67fa8f63996b8e.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-revelation",
+        "locator": "《启示录》20—22章，尤其21:1—5",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      },
+      {
+        "source": "hb-revelation",
+        "locator": "《启示录》21:1起句，和合本",
+        "note": "基督教启示文学的未来异象。",
+        "quote": "我又看见一个新天新地。"
+      }
+    ]
+  },
+  "hb-event-iblis": {
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Istanbul%2C_Topkap%C4%B1_Saray_M%C3%BCzesi_K%C3%BCt%C3%BCphanesi%2C_MS_Ba%C4%9Fdat_282_fol_16_Adam_and_the_Angels_watched_by_Iblis.jpg/1280px-Istanbul%2C_Topkap%C4%B1_Saray_M%C3%BCzesi_K%C3%BCt%C3%BCphanesi%2C_MS_Ba%C4%9Fdat_282_fol_16_Adam_and_the_Angels_watched_by_Iblis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Istanbul,_Topkap%C4%B1_Saray_M%C3%BCzesi_K%C3%BCt%C3%BCphanesi,_MS_Ba%C4%9Fdat_282_fol_16_Adam_and_the_Angels_watched_by_Iblis.jpg",
+        "title": "阿丹、众天使与易卜劣斯 · 赫拉特手稿，1415—1416",
+        "credit": "Maʿrūf Baghdādī / Wikimedia Commons",
+        "license": "Public domain",
+        "caption": "15世纪赫拉特手稿表现阿丹、天使与易卜劣斯，直接连接俯伏命令与拒命的原初叙事。",
+        "role": "scene",
+        "avatar": false,
+        "position": "50% 22%",
+        "local": "assets/images/enrich-core-70ad77a216af32.jpg"
+      }
+    ],
+    "citations": [
+      {
+        "source": "hb-iblis-source",
+        "locator": "《古兰经》18:50；可对读7:11—18",
+        "note": "按此篇章核读；图像的创作年代与原典形成时代另列，不将后世图像作为事件实证。"
+      }
+    ]
+  }
+}

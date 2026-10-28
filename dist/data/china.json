@@ -1,0 +1,4070 @@
+[
+  {
+    "id": "china-early",
+    "name": "中国 · 上古与先秦",
+    "en": "EARLY CHINA",
+    "region": "东亚",
+    "coords": [
+      108.5,
+      35.5
+    ],
+    "depth": 3,
+    "color": "#cba56b",
+    "tagline": "山川之间，万物有灵",
+    "period": "先秦至汉代层累成书；兼列后世上古叙事",
+    "summary": "这不是一部统一的众神族谱，而是山川祭祀、祖先记忆、宇宙解释与帝王传说的交织。《山海经》把神、异兽、药物、矿产和远方族群并置；《楚辞》保留楚地迎神送神的声音；《淮南子》与《史记》又将神话嵌入宇宙论和政治秩序。学习时最有用的问题是：谁在什么时代，为何如此讲述？本区把先秦材料作为中心，同时标明女娲补天、盘古开天等著名故事的现存文献层次。",
+    "worldview": [
+      {
+        "title": "山海并非现代地图",
+        "text": "《山海经》以山脉、水系、四海与大荒组织知识。山神的形貌、祭物、物产与疾病同样重要，反映一种地理、仪式和博物知识尚未分离的世界。它包含真实地名的记忆，却不能整体换算成今日经纬度。",
+        "source": "cn-shj"
+      },
+      {
+        "title": "宇宙有多种起源",
+        "text": "《楚辞·天问》发问天地如何形成，《淮南子》以气与阴阳说明生成；盘古劈开混沌的叙事见于较晚文献。女娲是修补破损世界的力量，并不因此成为所有古籍共同承认的唯一创世神。",
+        "source": "cn-hntw"
+      },
+      {
+        "title": "神、人、兽的边界流动",
+        "text": "精卫从溺亡的女娃化鸟，鲧死后生禹，刑天以乳为目。变形使死者继续行动；人面兽身也不必表示邪恶。在这里，形貌、所居方位、灾异与祭祀关系，比现代游戏式的善恶阵营更有解释力。",
+        "source": "cn-shj"
+      },
+      {
+        "title": "从自然力量到政治谱系",
+        "text": "黄帝、颛顼、帝喾、尧、舜在不同文本中有不同亲缘与地位。《史记》把他们整理为相承的五帝，建立文明与王权的连续性。这样的谱系是一种历史书写，不能直接当作考古已经证实的王朝年表。",
+        "source": "cn-shiji"
+      },
+      {
+        "title": "神圣空间与时间",
+        "text": "昆仑、扶桑、建木和日月的行程把地上与天上联系起来。羲和生十日、常羲生十二月，以及烛龙开闭眼造成昼夜，提供了并存的时间想象；古代作者并不总将这些材料整合成一个无矛盾的物理模型。",
+        "source": "cn-shj"
+      }
+    ],
+    "history": [
+      {
+        "title": "文本形成比故事所述时代晚",
+        "text": "《山海经》是不同材料层累形成的集子，一般讨论涉及战国至汉代；今本又受晋代郭璞注释影响。“上古人物”指故事中的时代，不等于相应篇章写于上古。",
+        "source": "cn-shj"
+      },
+      {
+        "title": "楚地祭歌与表演",
+        "text": "《九歌》以香草、乐舞、等待和离别描写迎神；其神祇与楚地文化、江湘水域相连。把诗歌只当作战斗神谱，会丢失祭祀中的声音、身体和情感。",
+        "source": "cn-jiuge"
+      },
+      {
+        "title": "从治水传说理解秩序",
+        "text": "鲧失败、禹成功的对比，把洪水经验转写为治世能力与权力正当性。洪水遗迹可以研究，但某次灾害与某一神话完全对应，需要独立考古证据，不能由故事自身证明。",
+        "source": "cn-shj"
+      },
+      {
+        "title": "后世不断改写上古",
+        "text": "汉代女娲补天，三国时期文献所见盘古，后来伏羲女娲交尾图、嫦娥和玉兔的组合，都显示传统在变化。今日影视与游戏常将这些层次并排，本图谱保留连接，也保留时间差。",
+        "source": "cn-pangu"
+      },
+      {
+        "title": "神话作为文化记忆",
+        "text": "炎黄叙事、端午对楚辞的纪念、地方山川祭祀与博物馆图像，让古老母题进入现代身份与艺术。这里讨论的是可观察的传承与再解释，不把现代民族分类直接投射回神话人物。",
+        "source": "cn-shiji"
+      }
+    ],
+    "sources": [
+      {
+        "id": "cn-shj",
+        "title": "《山海经》全文与篇目",
+        "url": "https://zh.wikisource.org/wiki/山海經",
+        "note": "重点：南山经、北山经、西山经、海外西经、海外北经、大荒东经、大荒西经、大荒北经、海内经；郭璞注须与经文分读。",
+        "kind": "原典",
+        "author": "古籍原作者／维基文库电子本"
+      },
+      {
+        "id": "cn-shjn",
+        "title": "《山海经·北山经》",
+        "url": "https://zh.wikisource.org/wiki/山海經/北山經",
+        "note": "精卫等北方山川条目；烛阴的著名记述应另查《海外北经》，不与篇名混淆。",
+        "kind": "原典",
+        "author": "古籍原作者／维基文库电子本"
+      },
+      {
+        "id": "cn-shjdb",
+        "title": "《山海经·大荒北经》",
+        "url": "https://ctext.org/shan-hai-jing/da-huang-bei-jing/zhs",
+        "note": "应龙、女魃、蚩尤、烛龙；检索可见，部分网络环境需通过站点访问检查。",
+        "kind": "原典",
+        "author": "中国哲学书电子化计划"
+      },
+      {
+        "id": "cn-hnlm",
+        "title": "《淮南子·览冥训》",
+        "url": "https://zh.wikisource.org/zh-hans/淮南子/覽冥訓",
+        "note": "女娲补天、断鳌足、止洪水，以及羿求不死药、姮娥奔月的汉代叙述。",
+        "kind": "原典",
+        "author": "刘安及门客"
+      },
+      {
+        "id": "cn-hntw",
+        "title": "《淮南子·天文训》",
+        "url": "https://zh.wikisource.org/wiki/淮南子/天文訓",
+        "note": "共工触不周山与天文宇宙论。",
+        "kind": "原典",
+        "author": "刘安及门客"
+      },
+      {
+        "id": "cn-hnbj",
+        "title": "《淮南子·本经训》",
+        "url": "https://zh.wikisource.org/wiki/淮南子/本經訓",
+        "note": "尧时十日、羿射日与除害。",
+        "kind": "原典",
+        "author": "刘安及门客"
+      },
+      {
+        "id": "cn-shiji",
+        "title": "《史记·五帝本纪》",
+        "url": "https://zh.wikisource.org/wiki/史記/卷001",
+        "note": "黄帝、炎帝、蚩尤与五帝世系；是汉代史家的整理。",
+        "kind": "原典",
+        "author": "司马迁"
+      },
+      {
+        "id": "cn-jiuge",
+        "title": "《楚辞·九歌》",
+        "url": "https://ctext.org/chu-ci/jiu-ge/zhs",
+        "note": "东皇太一、云中君、湘君、湘夫人、大司命、少司命、东君、河伯、山鬼、国殇、礼魂。",
+        "kind": "原典",
+        "author": "传统归于屈原／中国哲学书电子化计划"
+      },
+      {
+        "id": "cn-pangu",
+        "title": "《太平御览》卷二引《三五历纪》",
+        "url": "https://www.shidianguji.com/zh/book/SK1958/chapter/1kfmlo498w8pn",
+        "note": "宋代类书保存三国吴徐整盘古材料，不能据此列为先秦原文。",
+        "kind": "原典",
+        "author": "李昉等编／识典古籍"
+      },
+      {
+        "id": "cn-hnxw",
+        "title": "《淮南子·修务训》",
+        "url": "https://ctext.org/huainanzi/xiu-wu-xun/zhs",
+        "note": "神农尝百草、制度与文明创造。",
+        "kind": "原典",
+        "author": "刘安及门客／中国哲学书电子化计划"
+      },
+      {
+        "id": "cn-shuowen",
+        "title": "《说文解字·叙》",
+        "url": "https://zh.wikisource.org/wiki/說文解字/敘",
+        "note": "仓颉造字、庖牺作八卦的汉代文字起源叙述。",
+        "kind": "原典",
+        "author": "许慎"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "常衔西山之木石，以堙于东海。",
+        "source": "cn-shjn",
+        "locator": "《北山经》精卫条（简体转写）",
+        "note": "一个反复进行而尚未完成的行动；“坚持”的现代解读建立在这个叙事形态上。"
+      },
+      {
+        "text": "于是女娲炼五色石以补苍天。",
+        "source": "cn-hnlm",
+        "locator": "《览冥训》（简体转写）",
+        "note": "这是汉代文本中的救灾与宇宙修复，不是《山海经》女娲造人的原句。"
+      },
+      {
+        "text": "天地浑沌如鸡子，盘古生其中。",
+        "source": "cn-pangu",
+        "locator": "《太平御览》卷二引《三五历纪》（简体转写）",
+        "note": "鸡卵般的混沌意象见于晚出的盘古材料。"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Shahaijing-chongzhen%281628%E2%80%931644%29-nanshanjing1-fol5b-ninetailfox.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol5b-ninetailfox.jpg",
+        "title": "九尾狐：明崇祯本《山海经》插图",
+        "credit": "蒋应镐绘，李文孝刻；1628—1644年本；Wikimedia Commons／美国国会图书馆原扫描",
+        "license": "Public Domain／公有领域",
+        "caption": "这是明代读者对更早文本的视觉解释，不是先秦原图。可与《南山经》“其状如狐而九尾”对照。",
+        "local": "assets/images/75a8468a630622ae.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Shan_Hai_Jing_-_Xi_Wangmu.jpg",
+        "pageUrl": "https://commons.wikimedia.org/wiki/File:Shan_Hai_Jing_-_Xi_Wangmu.jpg",
+        "title": "西王母：《山海经》清代版本插图",
+        "credit": "佚名；Wikimedia Commons 文件页记为清代版本，扫描来自《中国古典文学大系》",
+        "license": "Public Domain／公有领域（文件页标注）",
+        "caption": "注意人面、兽性与侍从组合；与后世瑶池王母图像比较。插图比《山海经》成书晚得多。",
+        "local": "assets/images/e528421ed24fbc6a.jpg"
+      }
+    ],
+    "reading": [
+      {
+        "title": "第一条路线：从山川到众神",
+        "text": "先读《北山经》的精卫，再对照《海外北经》的夸父，观察地点、形貌和行动如何被压缩进短条目。"
+      },
+      {
+        "title": "第二条路线：同一个人物，不同文本",
+        "text": "将《山海经》的西王母与后世蟠桃王母比较；再读《史记》黄帝与《大荒北经》的战争，区分史家整理和奇异叙事。"
+      },
+      {
+        "title": "第三条路线：先查年代，再接族谱",
+        "text": "读女娲补天与盘古开天时，记录故事发生的神话时间、文献写定时间和现存引文来源三个日期层次。"
+      }
+    ],
+    "cautions": [
+      "盘古不见于现存先秦文献；此处作为后世上古叙事补入。",
+      "女娲补天的完整早期叙述见《淮南子》，抟土造人另见汉代《风俗通义》佚文传统，不能都写成《山海经》原文。",
+      "羿与夏代有穷氏后羿在早期材料中不可不加说明地合并。",
+      "“三皇五帝”的名单、伏羲女娲关系和祝融身份随文献改变；关系线均按所引文本理解。"
+    ],
+    "entities": [
+      {
+        "id": "ce-nuwa",
+        "name": "女娲",
+        "alias": "",
+        "tier": 1,
+        "kind": "神祇",
+        "domain": "宇宙修复、造生",
+        "summary": "以补天闻名，形象随时代变化。",
+        "detail": "《山海经》保存女娲之肠化神等片段，《淮南子·览冥训》完整叙述补天与止水。抟土造人的材料则属于另一条汉代文献传统。后世常将她与伏羲配对，不宜把这套组合倒推为所有先秦作者共有的创世信仰。",
+        "sources": [
+          "cn-shj",
+          "cn-hnlm"
+        ]
+      },
+      {
+        "id": "ce-fuxi",
+        "name": "伏羲",
+        "alias": "",
+        "tier": 1,
+        "kind": "文化英雄",
+        "domain": "八卦、渔猎与文明",
+        "summary": "又作伏戏、庖牺，后世三皇之一。",
+        "detail": "伏羲与网罟、八卦、婚姻等文明起源相连，但各项归属在文献中有层次。《说文解字·叙》把观察天地鸟兽与作八卦相接；汉以后图像常与女娲成对。学习其神话要区分早期文本中的名称、汉代解释和后世蛇身人首的视觉传统。",
+        "sources": [
+          "cn-shuowen",
+          "cn-hnlm"
+        ]
+      },
+      {
+        "id": "ce-huangdi",
+        "name": "黄帝",
+        "alias": "",
+        "tier": 1,
+        "kind": "祖先／帝王",
+        "domain": "文明、战争与王权",
+        "summary": "轩辕氏，后世五帝叙事的中心。",
+        "detail": "《史记》叙黄帝与炎帝战于阪泉、与蚩尤战于涿鹿，随后建立政治秩序；《山海经》保存应龙、女魃参与的神异战争。两者叙述目标不同。黄帝是祖先文化和政治记忆的重要人物，却不能仅靠神话确定他的生卒年与真实统治疆域。",
+        "sources": [
+          "cn-shiji",
+          "cn-shjdb"
+        ]
+      },
+      {
+        "id": "ce-shennong",
+        "name": "神农／炎帝",
+        "alias": "",
+        "tier": 1,
+        "kind": "文化英雄",
+        "domain": "农业与医药",
+        "summary": "神农尝百草，炎帝承载祖先记忆。",
+        "detail": "神农与炎帝在后世常被合一，但早期文本并非处处同一。《淮南子·修务训》叙神农尝草木、辨水泉而一日遇七十毒，突出为民辨物的代价。该叙事是医药与文明的神话起源，不等于现代药物安全验证，也不是可据之确证的个人医学传记。",
+        "sources": [
+          "cn-hnxw",
+          "cn-shiji"
+        ]
+      },
+      {
+        "id": "ce-chiyou",
+        "name": "蚩尤",
+        "alias": "",
+        "tier": 1,
+        "kind": "神话首领",
+        "domain": "战争与兵器",
+        "summary": "黄帝的主要对手。",
+        "detail": "《史记》把蚩尤写作被黄帝击败的暴乱者；《大荒北经》叙其作兵、请风伯雨师相助。善恶评价与后来的政治叙述有关。地方与族群传统对他的纪念并不完全相同，因此不宜把他固定成跨所有传统的纯粹魔王。",
+        "sources": [
+          "cn-shiji",
+          "cn-shjdb"
+        ]
+      },
+      {
+        "id": "ce-yu",
+        "name": "禹",
+        "alias": "",
+        "tier": 1,
+        "kind": "文化英雄",
+        "domain": "治水、秩序与夏",
+        "summary": "继鲧治水，并与夏的起源相连。",
+        "detail": "《海内经》叙鲧窃息壤治水遭杀，后生禹，帝命禹布土定九州。其他文献强调疏导、劳作和王权传承。治水既是环境经验的叙事化，也是理想治理的模型；“禹治水”不能直接等同于某项已经完全复原的史前水利工程。",
+        "sources": [
+          "cn-shj",
+          "cn-shiji"
+        ]
+      },
+      {
+        "id": "ce-gun",
+        "name": "鲧",
+        "alias": "",
+        "tier": 2,
+        "kind": "神话人物",
+        "domain": "洪水、息壤与牺牲",
+        "summary": "禹之父，偷取息壤以堵洪水。",
+        "detail": "《海内经》把窃息壤与被祝融杀于羽郊相连，继而写鲧复生禹。这里是治水失败者与新秩序诞生的复杂关系，不只是“笨父亲与聪明儿子”的教训。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-gonggong",
+        "name": "共工",
+        "alias": "",
+        "tier": 1,
+        "kind": "神祇／首领",
+        "domain": "洪水、冲突与宇宙倾斜",
+        "summary": "因触不周山而使天地失衡。",
+        "detail": "《淮南子·天文训》记共工与颛顼争为帝，怒触不周山，天倾西北、地不满东南，解释星辰和水流方向。《山海经》另有其臣相柳的叙事。共工与祝融大战是另一组流传材料，不应悄然替换本段明确写出的颛顼。",
+        "sources": [
+          "cn-hntw",
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-zhuanxu",
+        "name": "颛顼",
+        "alias": "",
+        "tier": 2,
+        "kind": "祖先／帝王",
+        "domain": "天地分隔与帝统",
+        "summary": "五帝之一，拥有多条文献谱系。",
+        "detail": "《史记》将颛顼纳入黄帝后裔的帝统；《淮南子》以他为共工争帝的对手。绝地天通的解释涉及其他典籍中的重黎职司，不能简单说成颛顼砍断唯一一棵通天树。",
+        "sources": [
+          "cn-shiji",
+          "cn-hntw"
+        ]
+      },
+      {
+        "id": "ce-zhurong",
+        "name": "祝融",
+        "alias": "",
+        "tier": 2,
+        "kind": "神祇／官名",
+        "domain": "火、南方与秩序",
+        "summary": "既是神名，也与火正官职相连。",
+        "detail": "《山海经·海内经》记帝令祝融杀鲧；其他材料又把祝融解释为职官或祖先。神名、官号与族谱重叠，说明古代神话体系并非一本统一的神职名录。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-yi",
+        "name": "羿",
+        "alias": "",
+        "tier": 1,
+        "kind": "英雄",
+        "domain": "神射与除害",
+        "summary": "受命救人，射日与除怪的英雄。",
+        "detail": "《山海经》写帝俊赐羿弓箭扶助下民，《淮南子·本经训》把羿置于尧时十日并出的大旱中。后世熟悉的“射落九日”是这一叙事的通行展开。神射手羿和夏代夺权的后羿在名字上相近，阅读早期文本仍应谨慎辨别。",
+        "sources": [
+          "cn-shj",
+          "cn-hnbj"
+        ]
+      },
+      {
+        "id": "ce-change",
+        "name": "嫦娥",
+        "alias": "",
+        "tier": 2,
+        "kind": "神话人物",
+        "domain": "月亮、不死药与离别",
+        "summary": "取不死药奔月的女性。",
+        "detail": "《淮南子·览冥训》叙羿向西王母请不死药，姮娥窃食奔月。这个简短版本没有今日所有团圆、玉兔和吴刚细节；后来诗歌、节俗和插图不断扩充了月宫。",
+        "sources": [
+          "cn-hnlm"
+        ]
+      },
+      {
+        "id": "ce-kuafu",
+        "name": "夸父",
+        "alias": "",
+        "tier": 1,
+        "kind": "巨人／英雄",
+        "domain": "逐日、干渴与超越",
+        "summary": "逐日而死，遗杖化为邓林。",
+        "detail": "《海外北经》叙夸父追逐太阳，饮尽河渭后欲饮大泽，未至而死，弃杖化林。《大荒北经》另有他被应龙杀死的说法。两个死亡版本不能合成一条无缝年表；它们保留了传统层累的痕迹。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-jingwei",
+        "name": "精卫／女娃",
+        "alias": "",
+        "tier": 1,
+        "kind": "化生神鸟",
+        "domain": "溺亡、记忆与持续行动",
+        "summary": "炎帝之女溺于东海，化鸟填海。",
+        "detail": "《北山经》先写鸟的形貌和叫声，再说明它是炎帝之女女娃，因溺亡而衔木石填海。这里的女娃不是女娲。故事可被理解为反抗、哀悼或执着，但原文没有写填海已经成功，现代价值判断应与原叙事分开。",
+        "sources": [
+          "cn-shjn"
+        ]
+      },
+      {
+        "id": "ce-xingtian",
+        "name": "刑天",
+        "alias": "",
+        "tier": 2,
+        "kind": "神话战士",
+        "domain": "失首后的抗争",
+        "summary": "与帝争神，被断首仍舞干戚。",
+        "detail": "《海外西经》写其以乳为目、以脐为口，操干戚而舞。原文的“帝”不必在所有解读中强行指定为黄帝；后世诗歌更凸显其不屈精神。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-xiwangmu",
+        "name": "西王母",
+        "alias": "",
+        "tier": 1,
+        "kind": "神祇",
+        "domain": "西方、灾厉与不死",
+        "summary": "从山野神到仙界女主的长时段变化。",
+        "detail": "《西山经》描写豹尾虎齿、善啸的西王母，掌天之厉与五残；其他山海条目把她置于昆仑。《淮南子》中她拥有不死药。后世王母蟠桃会与天庭形象，不能直接替代这些更早、更具威慑性的描述。",
+        "sources": [
+          "cn-shj",
+          "cn-hntw"
+        ]
+      },
+      {
+        "id": "ce-dijun",
+        "name": "帝俊",
+        "alias": "",
+        "tier": 1,
+        "kind": "神祇",
+        "domain": "日月谱系与文明起源",
+        "summary": "《山海经》中极重要的帝神。",
+        "detail": "帝俊与羲和、常羲及日月生成相连，亦赐羿弓箭、拥有多位发明文明技艺的后裔。他在《山海经》的地位突出，却未原样进入《史记》五帝系统。不可仅凭读音或后世推测，就把他确定等同于帝舜或帝喾。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-xihe",
+        "name": "羲和",
+        "alias": "",
+        "tier": 2,
+        "kind": "女神",
+        "domain": "太阳与时间",
+        "summary": "帝俊之妻，生十日。",
+        "detail": "《大荒南经》有羲和浴日于甘渊，称她是帝俊妻、生十日。十日既可表现周期秩序，也在其他文本中构成同时出现的灾变。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-changxi",
+        "name": "常羲",
+        "alias": "",
+        "tier": 2,
+        "kind": "女神",
+        "domain": "月亮与历法想象",
+        "summary": "帝俊之妻，生十二月。",
+        "detail": "《大荒西经》叙常羲生月十有二并始浴之。十二月令人联想到历法周期，但解释成已经完整对应现代公历十二个月会过度简化。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-zhulong",
+        "name": "烛龙／烛阴",
+        "alias": "",
+        "tier": 2,
+        "kind": "神祇",
+        "domain": "昼夜、寒暑与极北",
+        "summary": "睁眼为昼，闭眼为夜。",
+        "detail": "《海外北经》的烛阴与《大荒北经》的烛龙均具人面蛇身等特征。它以身体行动解释环境节律；现代极光说是一种比较解释，不能冒充古文本明言。",
+        "sources": [
+          "cn-shj",
+          "cn-shjdb"
+        ]
+      },
+      {
+        "id": "ce-yinglong",
+        "name": "应龙",
+        "alias": "",
+        "tier": 2,
+        "kind": "神兽",
+        "domain": "战斗、雨水与神力",
+        "summary": "参与黄帝战争，也与旱灾相连。",
+        "detail": "《大荒北经》叙应龙蓄水攻蚩尤；《大荒东经》另写杀蚩尤、夸父后不得复上，因而下界多旱，人作其形求雨。雨神与造成旱灾的角色可在同一传说网络并存。",
+        "sources": [
+          "cn-shj",
+          "cn-shjdb"
+        ]
+      },
+      {
+        "id": "ce-nuba",
+        "name": "魃／女魃",
+        "alias": "",
+        "tier": 2,
+        "kind": "女神",
+        "domain": "止雨、干旱",
+        "summary": "黄帝召来的天女。",
+        "detail": "应龙攻蚩尤时，风伯雨师引来风雨，魃使雨停止；她后来无法回天，所居不雨。原典中的灾异功能不等于现代僵尸题材的“旱魃”全部设定。",
+        "sources": [
+          "cn-shjdb"
+        ]
+      },
+      {
+        "id": "ce-xiangliu",
+        "name": "相柳／相繇",
+        "alias": "",
+        "tier": 2,
+        "kind": "神怪",
+        "domain": "洪水、毒与荒土",
+        "summary": "共工之臣，九首蛇身。",
+        "detail": "《海外北经》与《大荒北经》保存相柳或相繇被禹杀死的异文，血流处土地难以种植。它把洪水危害与环境的不宜居性浓缩成身体意象。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-pangu",
+        "name": "盘古",
+        "alias": "",
+        "tier": 2,
+        "kind": "创世巨人",
+        "domain": "开天辟地",
+        "summary": "重要但晚出的宇宙起源人物。",
+        "detail": "现存可追索材料通常指向三国吴徐整《三五历纪》《五运历年纪》的佚文传统，后被类书保存。盘古在混沌中成长、天地分离，后来又有身体化为万物的叙事。这里列入“上古想象”而非宣称他见于先秦《山海经》。",
+        "sources": [
+          "cn-pangu"
+        ]
+      },
+      {
+        "id": "ce-cangjie",
+        "name": "仓颉",
+        "alias": "",
+        "tier": 2,
+        "kind": "文化英雄",
+        "domain": "文字与知识",
+        "summary": "造字传说的中心人物。",
+        "detail": "《说文解字·叙》将仓颉写为黄帝史官，受鸟兽足迹启发而创书契。其意义在于解释文字如何使社会秩序可记录，不是现代文字史所认定的一次性单人发明。",
+        "sources": [
+          "cn-shuowen"
+        ]
+      },
+      {
+        "id": "ce-yao",
+        "name": "尧",
+        "alias": "",
+        "tier": 2,
+        "kind": "圣王",
+        "domain": "德治、灾难与让位",
+        "summary": "羿射日叙事中的君王。",
+        "detail": "《淮南子》把十日灾害放在尧时；《史记》写其考察舜而让位。神话灾难与理想政治在此互相连接。",
+        "sources": [
+          "cn-hnbj",
+          "cn-shiji"
+        ]
+      },
+      {
+        "id": "ce-shun",
+        "name": "舜",
+        "alias": "",
+        "tier": 2,
+        "kind": "圣王",
+        "domain": "孝、德行与传承",
+        "summary": "五帝叙事中的理想君主。",
+        "detail": "《史记》以困境中的孝行与治理能力刻画舜，湘水女神又被后世与尧女舜妃联系。不同文类中的家庭和神谱不宜不加辨析地拼合。",
+        "sources": [
+          "cn-shiji",
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-donghuang",
+        "name": "东皇太一",
+        "alias": "",
+        "tier": 2,
+        "kind": "祭祀神",
+        "domain": "尊神与迎神仪式",
+        "summary": "《九歌》开篇的受祭神。",
+        "detail": "祭歌着重良辰、佩饰、芳香与鼓乐，并未讲述一套完整的战斗或亲缘神话。把他直接解释成后世小说“东皇钟主人”没有原典依据。",
+        "sources": [
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-yunzhong",
+        "name": "云中君",
+        "alias": "",
+        "tier": 3,
+        "kind": "祭祀神",
+        "domain": "云气与降临",
+        "summary": "《九歌》中驾云而来的神灵。",
+        "detail": "诗中以沐浴、芳衣和远举描写神的来去，重点在祭者与神灵难以久留的相遇。",
+        "sources": [
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-xiangjun",
+        "name": "湘君",
+        "alias": "",
+        "tier": 3,
+        "kind": "水域神",
+        "domain": "湘水、等待与相会",
+        "summary": "《九歌》湘水祭歌中的主体。",
+        "detail": "湘君与湘夫人构成相互映照的水域与情感世界；具体性别身份和对应舜妃的解释历来存在讨论。",
+        "sources": [
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-xiangfuren",
+        "name": "湘夫人",
+        "alias": "",
+        "tier": 3,
+        "kind": "水域神",
+        "domain": "湘水与离愁",
+        "summary": "常与湘君并读。",
+        "detail": "“帝子降兮北渚”营造神灵降临与思慕的场景，后世将其同娥皇女英传说联系，不能抹去诗本身的含混。",
+        "sources": [
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-dasiming",
+        "name": "大司命",
+        "alias": "",
+        "tier": 3,
+        "kind": "祭祀神",
+        "domain": "寿命与命运",
+        "summary": "《九歌》中掌命的神。",
+        "detail": "祭歌借天门、云旗和生死距离表现命运的不可把握，篇章不是一部地府官署说明书。",
+        "sources": [
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-shaosiming",
+        "name": "少司命",
+        "alias": "",
+        "tier": 3,
+        "kind": "祭祀神",
+        "domain": "生命、相遇与离别",
+        "summary": "与大司命对应的神祇。",
+        "detail": "诗以兰草、秋兰与无言的离合展开；后世常与生育保护相连，仍须区分注家解释与诗中明文。",
+        "sources": [
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-hebo",
+        "name": "河伯",
+        "alias": "",
+        "tier": 3,
+        "kind": "水神",
+        "domain": "黄河与水域",
+        "summary": "《九歌》中的河神。",
+        "detail": "诗写与神同游九河、水车与龙驾。水神身份与后来河伯娶妇等故事属于可比较而非完全同一的叙事层次。",
+        "sources": [
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-shangui",
+        "name": "山鬼",
+        "alias": "",
+        "tier": 3,
+        "kind": "山灵",
+        "domain": "山林、爱慕与幽独",
+        "summary": "《九歌》中最具诗性的人神形象之一。",
+        "detail": "被薜荔、带女萝的形象跨越山野与人情；其性别、是神是巫等解释有争议，不宜给出唯一标准人设。",
+        "sources": [
+          "cn-jiuge"
+        ]
+      },
+      {
+        "id": "ce-jiuweihu",
+        "name": "九尾狐",
+        "alias": "",
+        "tier": 3,
+        "kind": "异兽",
+        "domain": "青丘、祥异与变形",
+        "summary": "早期异兽，后世狐文化的一个源头。",
+        "detail": "《南山经》青丘之山记九尾狐，能食人且食之不蛊。后世祥瑞、妖狐与妲己并非这段原文的完整设定。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-bifang",
+        "name": "毕方",
+        "alias": "",
+        "tier": 3,
+        "kind": "异鸟",
+        "domain": "火灾预兆",
+        "summary": "一足、青质赤文的鸟。",
+        "detail": "《西山经》记其现则其邑有讹火。它首先是灾异知识中的鸟形征兆，不等于固定隶属于火神的坐骑。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-kuishou",
+        "name": "夔",
+        "alias": "",
+        "tier": 3,
+        "kind": "神兽",
+        "domain": "雷声、鼓与王权",
+        "summary": "流波山的一足兽。",
+        "detail": "《大荒东经》写其出入水有风雨，黄帝取皮制鼓。应与古乐官夔的同名传统区别阅读。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-luwu",
+        "name": "陆吾",
+        "alias": "",
+        "tier": 3,
+        "kind": "山神",
+        "domain": "昆仑与帝之下都",
+        "summary": "人面虎身九尾的昆仑守神。",
+        "detail": "《西山经》称陆吾司天之九部及帝之囿时，显示昆仑兼具天帝园圃与有序管理的空间意味。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-fengbo",
+        "name": "风伯、雨师",
+        "alias": "",
+        "tier": 3,
+        "kind": "自然神群",
+        "domain": "风与雨",
+        "summary": "蚩尤战争中的助力。",
+        "detail": "《大荒北经》记蚩尤请二神引来大风雨，后被魃止住；不同祭祀语境中又各有独立身份。",
+        "sources": [
+          "cn-shjdb"
+        ]
+      },
+      {
+        "id": "ce-fenghuang",
+        "name": "凤凰",
+        "alias": "",
+        "tier": 3,
+        "kind": "神鸟",
+        "domain": "德行、秩序与祥瑞",
+        "summary": "五采文的祥瑞之鸟。",
+        "detail": "《南山经》丹穴山凤凰的羽文分别与德义礼仁信联系；鸟的身体成为伦理秩序可见的标志。",
+        "sources": [
+          "cn-shj"
+        ]
+      },
+      {
+        "id": "ce-zhouniao",
+        "name": "三青鸟",
+        "alias": "",
+        "tier": 3,
+        "kind": "神鸟群",
+        "domain": "侍奉与传信",
+        "summary": "西王母周边的重要神鸟。",
+        "detail": "《山海经》多处写三青鸟与西王母相近，后世发展为传信意象。不同篇章的数量、形貌须按原条目读。",
+        "sources": [
+          "cn-shj"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "to": "ce-chiyou",
+        "type": "敌对",
+        "note": "涿鹿之战与神异战争的不同记述。",
+        "source": "cn-shiji",
+        "from": "ce-huangdi"
+      },
+      {
+        "to": "ce-shennong",
+        "type": "交战",
+        "note": "《史记》中黄帝与炎帝战于阪泉；神农与炎帝的合一有文献层次。",
+        "source": "cn-shiji",
+        "from": "ce-huangdi"
+      },
+      {
+        "to": "ce-yinglong",
+        "type": "派遣",
+        "note": "应龙蓄水攻蚩尤。",
+        "source": "cn-shjdb",
+        "from": "ce-huangdi"
+      },
+      {
+        "to": "ce-nuba",
+        "type": "召来",
+        "note": "天女魃下界止雨，原文称“天女”，不在此强定生物学父女。",
+        "source": "cn-shjdb",
+        "from": "ce-huangdi"
+      },
+      {
+        "to": "ce-fengbo",
+        "type": "求援",
+        "note": "风伯雨师降大风雨。",
+        "source": "cn-shjdb",
+        "from": "ce-chiyou"
+      },
+      {
+        "to": "ce-fengbo",
+        "type": "止雨",
+        "note": "魃止住战争中的风雨。",
+        "source": "cn-shjdb",
+        "from": "ce-nuba"
+      },
+      {
+        "to": "ce-chiyou",
+        "type": "杀死",
+        "note": "《大荒东经》所述版本。",
+        "source": "cn-shj",
+        "from": "ce-yinglong"
+      },
+      {
+        "to": "ce-kuafu",
+        "type": "杀死（异文）",
+        "note": "与逐日渴死版本并存，不合成同一事件。",
+        "source": "cn-shj",
+        "from": "ce-yinglong"
+      },
+      {
+        "to": "ce-yu",
+        "type": "父子／化生",
+        "note": "《海内经》写“鲧复生禹”。",
+        "source": "cn-shj",
+        "from": "ce-gun"
+      },
+      {
+        "to": "ce-gun",
+        "type": "奉命诛杀",
+        "note": "帝令祝融杀鲧于羽郊。",
+        "source": "cn-shj",
+        "from": "ce-zhurong"
+      },
+      {
+        "to": "ce-xiangliu",
+        "type": "诛杀",
+        "note": "治水相关叙事，毒血与土地性质相连。",
+        "source": "cn-shj",
+        "from": "ce-yu"
+      },
+      {
+        "to": "ce-xiangliu",
+        "type": "君臣",
+        "note": "相柳为共工之臣。",
+        "source": "cn-shj",
+        "from": "ce-gonggong"
+      },
+      {
+        "to": "ce-zhuanxu",
+        "type": "争帝",
+        "note": "《天文训》所述不周山故事的对手。",
+        "source": "cn-hntw",
+        "from": "ce-gonggong"
+      },
+      {
+        "to": "ce-jingwei",
+        "type": "父女",
+        "note": "精卫本为炎帝之女女娃。",
+        "source": "cn-shjn",
+        "from": "ce-shennong"
+      },
+      {
+        "to": "ce-xihe",
+        "type": "配偶",
+        "note": "《大荒南经》明确称羲和为帝俊妻。",
+        "source": "cn-shj",
+        "from": "ce-dijun"
+      },
+      {
+        "to": "ce-changxi",
+        "type": "配偶",
+        "note": "《大荒西经》常羲生十二月。",
+        "source": "cn-shj",
+        "from": "ce-dijun"
+      },
+      {
+        "to": "ce-yi",
+        "type": "赐弓",
+        "note": "帝俊赐羿彤弓素矰以扶下国。",
+        "source": "cn-shj",
+        "from": "ce-dijun"
+      },
+      {
+        "to": "ce-change",
+        "type": "配偶",
+        "note": "《览冥训》羿请药、姮娥窃食奔月的关系传统。",
+        "source": "cn-hnlm",
+        "from": "ce-yi"
+      },
+      {
+        "to": "ce-xiwangmu",
+        "type": "求药",
+        "note": "羿向西王母请不死药。",
+        "source": "cn-hntw",
+        "from": "ce-yi"
+      },
+      {
+        "to": "ce-yi",
+        "type": "命令除害",
+        "note": "《本经训》尧使羿救灾。",
+        "source": "cn-hnbj",
+        "from": "ce-yao"
+      },
+      {
+        "to": "ce-shun",
+        "type": "让位",
+        "note": "《五帝本纪》的理想政治叙事。",
+        "source": "cn-shiji",
+        "from": "ce-yao"
+      },
+      {
+        "to": "ce-zhuanxu",
+        "type": "祖孙",
+        "note": "按《史记》颛顼为黄帝孙、昌意子。",
+        "source": "cn-shiji",
+        "from": "ce-huangdi"
+      },
+      {
+        "to": "ce-zhouniao",
+        "type": "侍奉关联",
+        "note": "三青鸟与西王母所在空间相连。",
+        "source": "cn-shj",
+        "from": "ce-xiwangmu"
+      },
+      {
+        "to": "ce-kuishou",
+        "type": "取皮为鼓",
+        "note": "《大荒东经》黄帝得夔而制鼓。",
+        "source": "cn-shj",
+        "from": "ce-huangdi"
+      },
+      {
+        "to": "ce-xiangfuren",
+        "type": "祭歌对应",
+        "note": "《九歌》中相互映照的湘水神灵，不强制唯一亲缘解释。",
+        "source": "cn-jiuge",
+        "from": "ce-xiangjun"
+      },
+      {
+        "to": "ce-shaosiming",
+        "type": "祭祀对应",
+        "note": "同为司命祭歌，具体职掌依注释传统有所不同。",
+        "source": "cn-jiuge",
+        "from": "ce-dasiming"
+      }
+    ],
+    "events": [
+      {
+        "id": "ce-ev-nuwa",
+        "title": "女娲补天",
+        "tier": 1,
+        "era": "神话时间；汉代《淮南子》记录",
+        "summary": "天地崩裂后，女娲修复世界。",
+        "detail": "她炼五色石、断鳌足、杀黑龙、积芦灰；灾难的解决同时重建天地方向、人类生存和四季秩序。原文没有将共工撞山明确写成同一连续故事的前因，后世讲述常把两段接在一起。",
+        "actors": [
+          "ce-nuwa"
+        ],
+        "source": "cn-hnlm"
+      },
+      {
+        "id": "ce-ev-pangu",
+        "title": "盘古开天",
+        "tier": 1,
+        "era": "创世时间；三国材料经宋代类书保存",
+        "summary": "盘古与天地一起成长，清浊分离。",
+        "detail": "《三五历纪》佚文以混沌如鸡子开场。后世身体化万物的情节还有其他引文来源，不能假称全部出自同一段先秦经典。",
+        "actors": [
+          "ce-pangu"
+        ],
+        "source": "cn-pangu"
+      },
+      {
+        "id": "ce-ev-flood",
+        "title": "鲧禹治水",
+        "tier": 1,
+        "era": "神话洪水时代",
+        "summary": "从盗息壤的失败到禹布土定九州。",
+        "detail": "《海内经》将鲧的违命、死亡与禹的出生相接，随后帝命禹治理下土。比较其他版本时注意堵塞与疏导的对比、神令与人力的比例如何变化。",
+        "actors": [
+          "ce-gun",
+          "ce-yu",
+          "ce-zhurong"
+        ],
+        "source": "cn-shj"
+      },
+      {
+        "id": "ce-ev-zhuolu",
+        "title": "黄帝与蚩尤之战",
+        "tier": 1,
+        "era": "传说中的五帝时代",
+        "summary": "战争成为政治秩序起源。",
+        "detail": "《史记》着重诸侯归附和统治正当性，《山海经》着重应龙蓄水、风伯雨师、魃止雨。它们可对照阅读，但不应当作同一现场的两份历史报道。",
+        "actors": [
+          "ce-huangdi",
+          "ce-chiyou",
+          "ce-yinglong",
+          "ce-nuba",
+          "ce-fengbo"
+        ],
+        "source": "cn-shjdb"
+      },
+      {
+        "id": "ce-ev-sun",
+        "title": "羿射日与除害",
+        "tier": 1,
+        "era": "尧时；汉代文本记录",
+        "summary": "十日并出使草木焦枯，羿奉命救民。",
+        "detail": "《淮南子·本经训》还列凿齿、九婴、大风、猰貐、修蛇和封豨等祸害；射日是英雄恢复可居世界的一部分。阅读时留意“后羿”这一通称与早期人物分辨。",
+        "actors": [
+          "ce-yi",
+          "ce-yao"
+        ],
+        "source": "cn-hnbj"
+      },
+      {
+        "id": "ce-ev-jingwei",
+        "title": "精卫填海",
+        "tier": 1,
+        "era": "神话时间",
+        "summary": "溺亡少女化为鸟，持续衔木石填东海。",
+        "detail": "故事的核心不是工程完成，而是死亡之后仍持续的行动。《北山经》保留形貌、鸣声与地点，精卫作为异鸟和作为女娃的身世同时存在。",
+        "actors": [
+          "ce-jingwei",
+          "ce-shennong"
+        ],
+        "source": "cn-shjn"
+      },
+      {
+        "id": "ce-ev-kuafu",
+        "title": "夸父逐日",
+        "tier": 1,
+        "era": "神话时间",
+        "summary": "巨人因追日与干渴而死，杖化邓林。",
+        "detail": "《海外北经》的行动链从追逐到饮水再到死亡；《大荒北经》另一叙事将其死亡连于应龙。并列异文比强造单一时间线更接近材料。",
+        "actors": [
+          "ce-kuafu"
+        ],
+        "source": "cn-shj"
+      },
+      {
+        "id": "ce-ev-gonggong",
+        "title": "共工触不周山",
+        "tier": 1,
+        "era": "宇宙倾斜的神话时代",
+        "summary": "帝位之争引发天地结构变化。",
+        "detail": "共工与颛顼争帝而触山，天柱折、地维绝，天倾西北、地不满东南。叙事用身体冲撞解释天象和河川方向，是宇宙秩序的病因故事。",
+        "actors": [
+          "ce-gonggong",
+          "ce-zhuanxu"
+        ],
+        "source": "cn-hntw"
+      },
+      {
+        "id": "ce-ev-moon",
+        "title": "嫦娥奔月",
+        "tier": 2,
+        "era": "神话时间；汉代记录",
+        "summary": "不死药把人间关系转向月宫。",
+        "detail": "羿向西王母求药，姮娥窃食奔月。后代将孤独、爱情、团圆和月宫仙境附着其上；本条保留《览冥训》短段的范围。",
+        "actors": [
+          "ce-yi",
+          "ce-change",
+          "ce-xiwangmu"
+        ],
+        "source": "cn-hnlm"
+      },
+      {
+        "id": "ce-ev-xingtian",
+        "title": "刑天舞干戚",
+        "tier": 2,
+        "era": "神话时间",
+        "summary": "失去头颅的战士继续挥舞武器。",
+        "detail": "《海外西经》写“帝”断其首，刑天改以乳为目、脐为口。与陶渊明等后世接受相比较，可以看到短小神怪条目如何转为人格与反抗的象征。",
+        "actors": [
+          "ce-xingtian"
+        ],
+        "source": "cn-shj"
+      },
+      {
+        "id": "ce-ev-herbs",
+        "title": "神农尝百草",
+        "tier": 2,
+        "era": "文明起源时间；汉代叙述",
+        "summary": "神农辨草木和水泉，区分宜忌。",
+        "detail": "《修务训》用“一日而遇七十毒”强调求知与救民的代价。它是传统医药知识的起源神话，既不是所有药物的实证史，也不是自行尝试未知植物的指南。",
+        "actors": [
+          "ce-shennong"
+        ],
+        "source": "cn-hnxw"
+      },
+      {
+        "id": "ce-ev-writing",
+        "title": "仓颉造字",
+        "tier": 2,
+        "era": "文明起源时间；汉代解释",
+        "summary": "观察鸟兽足迹，书契使知识留存。",
+        "detail": "《说文解字·叙》把仓颉置于黄帝史官的位置，借文字起源解释行政、礼制与分类知识。现代文字考古所见的渐进形成不宜被简化为一个人的瞬间发明。",
+        "actors": [
+          "ce-cangjie",
+          "ce-huangdi"
+        ],
+        "source": "cn-shuowen"
+      },
+      {
+        "id": "ce-ev-jiumu",
+        "title": "迎神与送神：九歌的仪式世界",
+        "tier": 2,
+        "era": "战国楚文化的诗歌传统",
+        "summary": "香草、乐舞与等待串联人神相会。",
+        "detail": "从《东皇太一》的盛礼到《山鬼》的幽独，这些篇章不是按战力排序的神传，而是不同祭祀声部。阅读时可同时记录神的出现、身体装饰和离去。",
+        "actors": [
+          "ce-donghuang",
+          "ce-yunzhong",
+          "ce-xiangjun",
+          "ce-xiangfuren",
+          "ce-shangui"
+        ],
+        "source": "cn-jiuge"
+      }
+    ]
+  },
+  {
+    "id": "china-buddhist",
+    "name": "中国 · 佛教与西游",
+    "en": "BUDDHISM IN CHINA",
+    "region": "东亚",
+    "coords": [
+      112.5,
+      34
+    ],
+    "depth": 3,
+    "color": "#b9a1ce",
+    "tagline": "从轮回的世界，走向觉悟",
+    "period": "印度起源；公元初传入中国；西游百回本属明代",
+    "summary": "佛教起源于南亚，在跨区域传播、汉译经典、寺院实践与地方社会中形成丰富的中国传统。本区先理解业、缘起、轮回、解脱和菩萨愿行，再观察佛、菩萨、罗汉与护法的区别。《西游记》作为独立的文学层并读：它借唐代玄奘取经的记忆，创造了一场兼有佛教、道教与民间神灵的修行历险。小说的法力排名和天庭关系不等于佛教教义，宗教叙事也不等于现代历史记录。",
+    "worldview": [
+      {
+        "title": "缘起、业与轮回",
+        "text": "佛教通常不以一个造物主解释万物，而关注条件相依、行为及其后果，以及无明如何延续苦。六道常分天、人、阿修罗、畜生、饿鬼、地狱；部分传统采用五趣。天界仍属生死流转，生天并非最终解脱。",
+        "source": "cb-lotus"
+      },
+      {
+        "title": "三界与多重世界",
+        "text": "欲界、色界、无色界是按生命状态与禅定层次划分的三界，并非天庭、人间、地府三个行政部门。须弥山、四大部洲与三千大千世界提供传统宇宙图景，须与今日天文学区分。",
+        "source": "cb-abhidharma"
+      },
+      {
+        "title": "佛、菩萨、罗汉和护法",
+        "text": "佛是觉者，菩萨强调为众生求觉悟的道路，罗汉是断除烦恼的圣者；天王、夜叉等可以护持佛法，却未必已脱轮回。把这些称号都排成一个官阶表，会掩盖不同修行理想与经典语境。",
+        "source": "cb-lotus"
+      },
+      {
+        "title": "净土与愿行",
+        "text": "阿弥陀佛的极乐世界、药师佛的净琉璃世界，在汉传佛教中形成重要信仰。净土具有修行和救度意义，不能简单等同于死后享乐的天界。各经强调的信愿、行为与修行条件有所不同。",
+        "source": "cb-amita"
+      },
+      {
+        "title": "西游的文学宇宙",
+        "text": "百回本同时安排玉皇天庭、十王地府、龙宫、西天和妖怪洞府；仙佛有时合作，有时呈现权力张力。取经队伍的冲突既推动故事，也可被解释为心性修炼的寓言，但不存在全书唯一获准的象征密码。",
+        "source": "cb-journey"
+      },
+      {
+        "title": "“三世佛”不是唯一固定名单",
+        "text": "横向常以释迦、阿弥陀、药师对应不同佛土；时间意义上的过去、现在、未来佛又有不同配置。燃灯是重要过去佛，但在另一类三世供奉中会出现迦叶佛，不能把一种寺院布局当作全佛教通例。",
+        "source": "cb-met"
+      }
+    ],
+    "history": [
+      {
+        "title": "汉译改变了可阅读的世界",
+        "text": "佛典经丝路、海路及译师网络逐渐传入；术语和观念在翻译中被讨论、重组。中国佛教又发展出天台、华严、禅、净土等传统，并经东亚交流继续传播。",
+        "source": "cb-met"
+      },
+      {
+        "title": "玄奘与唐僧之间",
+        "text": "历史上的玄奘在七世纪赴印度求法，留下地理与佛教见闻，并主持译经。《西游记》的唐僧、金蝉子、妖魔与八十一难是后代文学再创造，不能用小说补写玄奘的实际旅行经历。",
+        "source": "cb-xuanzang"
+      },
+      {
+        "title": "观音的形象与地方圣地",
+        "text": "观音作为慈悲的体现，在中国图像中逐渐出现不同性别、服饰和姿态。普陀、五台、峨眉、九华的圣地传统，让菩萨信仰与实际山岳、香客路线、寺院经济及艺术发生联系。",
+        "source": "cb-guanyin"
+      },
+      {
+        "title": "冥界成为伦理的可视化",
+        "text": "中国佛教、道教和地方习俗在丧葬与超度场合交会。十王审判、亡者功德和孝亲故事呈现独特的中国化表达；“十殿阎罗”不能当作所有印度佛经从一开始就有的共同制度。",
+        "source": "cb-dizang"
+      },
+      {
+        "title": "从佛像看文化传播",
+        "text": "北齐菩萨像兼具中原与中亚装饰语言，说明信仰并非只靠文字流动。馆藏图的时代、材质、姿态和题记，都能帮助辨认它与小说插图、现代影视造型的差别。",
+        "source": "cb-guanyin"
+      }
+    ],
+    "sources": [
+      {
+        "id": "cb-amita",
+        "title": "《佛说阿弥陀经》",
+        "url": "https://zh.wikisource.org/zh-hant/佛說阿彌陀經",
+        "note": "极乐世界、阿弥陀佛与信愿；另可用 CBETA T0366 对校。",
+        "kind": "原典",
+        "author": "鸠摩罗什译"
+      },
+      {
+        "id": "cb-medicine",
+        "title": "《药师琉璃光如来本愿功德经》",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0450_001",
+        "note": "CBETA T0450，十二愿、药师佛土与护法神将；网页以阅读器显示。",
+        "kind": "原典",
+        "author": "玄奘译／CBETA"
+      },
+      {
+        "id": "cb-lotus",
+        "title": "《妙法莲华经》",
+        "url": "https://zh.wikisource.org/wiki/妙法蓮華經",
+        "note": "重点：方便品、提婆达多品、观世音菩萨普门品、普贤菩萨劝发品。",
+        "kind": "原典",
+        "author": "鸠摩罗什译"
+      },
+      {
+        "id": "cb-dizang",
+        "title": "《地藏菩萨本愿经》",
+        "url": "https://cbetaonline.dila.edu.tw/zh-tw/mobile/T0412_001",
+        "note": "CBETA T0412，观业缘、利益存亡、地神护法等品。",
+        "kind": "原典",
+        "author": "传统题实叉难陀译／CBETA"
+      },
+      {
+        "id": "cb-abhidharma",
+        "title": "《阿毗达磨俱舍论》",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T1558_011",
+        "note": "卷十一等世间品，三界、四洲和世界结构；不同佛教系统并非全同。",
+        "kind": "原典",
+        "author": "世亲造、玄奘译／CBETA"
+      },
+      {
+        "id": "cb-heart",
+        "title": "《般若波罗蜜多心经》",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0251_001",
+        "note": "玄奘译本，观自在、五蕴与空。",
+        "kind": "原典",
+        "author": "玄奘译／CBETA"
+      },
+      {
+        "id": "cb-journey",
+        "title": "《西游记》百回本",
+        "url": "https://zh.wikisource.org/wiki/西遊記",
+        "note": "第1—7回大闹天宫；第8—12回取经缘起；第13—99回历险；第100回封授。标为文学层。",
+        "kind": "文学",
+        "author": "传统署吴承恩"
+      },
+      {
+        "id": "cb-j8",
+        "title": "《西游记》第八回",
+        "url": "https://zh.wikisource.org/zh-hant/西遊記/第008回",
+        "note": "观音奉旨东行，沿途劝化取经成员。",
+        "kind": "文学",
+        "author": "传统署吴承恩"
+      },
+      {
+        "id": "cb-j100",
+        "title": "《西游记》第一百回",
+        "url": "https://zh.wikisource.org/wiki/西遊記/第100回",
+        "note": "最终授职：唐僧、悟空成佛；八戒净坛使者；沙僧金身罗汉；白龙八部天龙马。",
+        "kind": "文学",
+        "author": "传统署吴承恩"
+      },
+      {
+        "id": "cb-met",
+        "title": "Chinese Buddhist Sculpture",
+        "url": "https://www.metmuseum.org/essays/chinese-buddhist-sculpture",
+        "note": "中国佛教造像发展的馆方概览。",
+        "kind": "博物馆",
+        "author": "Denise Patry Leidy／大都会艺术博物馆"
+      },
+      {
+        "id": "cb-guanyin",
+        "title": "北齐菩萨像（或为观音）",
+        "url": "https://www.metmuseum.org/art/collection/search/42718",
+        "note": "约550—560年；馆方保留“可能为观音”的辨识限定。",
+        "kind": "博物馆",
+        "author": "大都会艺术博物馆"
+      },
+      {
+        "id": "cb-xuanzang",
+        "title": "《大唐西域记》",
+        "url": "https://zh.wikisource.org/wiki/大唐西域記",
+        "note": "玄奘述、辩机撰；历史旅行与地理记录，对照《西游记》使用。",
+        "kind": "原典",
+        "author": "玄奘、辩机"
+      },
+      {
+        "id": "cb-diamond",
+        "title": "《金刚般若波罗蜜经》",
+        "url": "https://zh.wikisource.org/wiki/金剛般若波羅蜜經",
+        "note": "须菩提问答、燃灯佛授记；勿把小说燃灯道人直接视为同一传记。",
+        "kind": "原典",
+        "author": "鸠摩罗什译"
+      },
+      {
+        "id": "cb-contemplation",
+        "title": "《佛说观无量寿佛经》",
+        "url": "https://cbetaonline.dila.edu.tw/T12n0365",
+        "note": "阿弥陀佛、观世音、大势至及观想；CBETA T0365。",
+        "kind": "原典",
+        "author": "传统题畺良耶舍译／CBETA"
+      },
+      {
+        "id": "cb-skanda",
+        "title": "韦陀菩萨像",
+        "url": "https://www.metmuseum.org/art/collection/search/61701",
+        "note": "明代佛教护法形象；辨识韦陀与寺院空间。",
+        "kind": "博物馆",
+        "author": "大都会艺术博物馆"
+      },
+      {
+        "id": "cb-vairocana",
+        "title": "毗卢遮那佛像",
+        "url": "https://www.metmuseum.org/art/collection/search/73200",
+        "note": "辽代造像，手印与佛的身份；不等于西游中灵山人物谱。",
+        "kind": "博物馆",
+        "author": "大都会艺术博物馆"
+      },
+      {
+        "id": "cb-j26",
+        "title": "《西游记》第26回",
+        "url": "https://zh.wikisource.org/wiki/西遊記/第026回",
+        "note": "观音救活人参果树，悟空与镇元子结为兄弟。",
+        "kind": "文学",
+        "author": "传统署吴承恩"
+      },
+      {
+        "id": "cb-j77",
+        "title": "《西游记》第77回",
+        "url": "https://zh.wikisource.org/zh/西遊記/第077回",
+        "note": "狮驼岭三魔的身份、收伏与小说中的亲缘解释。",
+        "kind": "文学",
+        "author": "传统署吴承恩"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "其土众生，无有众苦，但受诸乐，故名极乐。",
+        "source": "cb-amita",
+        "locator": "《佛说阿弥陀经》（简体转写）",
+        "note": "经文说明极乐的名称；全经仍要求结合信愿与修持阅读。"
+      },
+      {
+        "text": "照见五蕴皆空，度一切苦厄。",
+        "source": "cb-heart",
+        "locator": "玄奘译《心经》（简体转写）",
+        "note": "空指向诸法无固定自性，不能粗略等同“一切不存在”或虚无主义。"
+      },
+      {
+        "text": "汝为斗战胜佛。",
+        "source": "cb-j100",
+        "locator": "《西游记》第100回（简体转写）",
+        "note": "这是小说中如来对悟空的授职，不能用来重构佛教史中的真实人物。"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42718/166706/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/42718",
+        "title": "北齐彩绘石雕菩萨像，可能为观音",
+        "credit": "大都会艺术博物馆，65.29.4，Sackler Collections",
+        "license": "Public Domain／馆方开放获取",
+        "caption": "约550—560年。珠饰与体态显示中国和中亚视觉语言的交会；馆方身份判断带“可能”。",
+        "local": "assets/images/ad197aa0ac3a4ce5.jpg"
+      },
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42733/163638/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/42733",
+        "title": "弥勒佛造像",
+        "credit": "大都会艺术博物馆，26.123，John Stewart Kennedy Fund",
+        "license": "Public Domain／馆方开放获取",
+        "caption": "486年造像。与今日常见的大肚布袋和尚式弥勒比较，观察同一信仰中的形象差异。",
+        "local": "assets/images/4300f4935b7460fd.jpg"
+      }
+    ],
+    "reading": [
+      {
+        "title": "先分称号，再看造像",
+        "text": "依次比较佛、菩萨、罗汉、护法：看衣饰、手势与经典语境，而不是用头衔猜“战斗力”。"
+      },
+      {
+        "title": "一部经典与一回小说对读",
+        "text": "先读《法华经·普门品》的观音，再读《西游记》第8回，比较普遍救度和具体取经组织者的角色。"
+      },
+      {
+        "title": "沿着取经路线认识改编",
+        "text": "从《大唐西域记》选一处地名，对照《西游记》的国度与妖怪，辨别地理记忆、民间故事和宗教寓言。"
+      }
+    ],
+    "cautions": [
+      "地图标注的是汉传佛教的重要传播与接受区域，佛教起源于南亚。",
+      "佛教仍是活的宗教；这里以教义、叙事与文化史的不同层次介绍，不把信众等同于小说读者。",
+      "天龙八部是护法众的类别，不是八位固定人物，也不全是恶神。",
+      "《西游记》有“三教合一”的文学表达，但不是佛道两教共同的统一经典。"
+    ],
+    "entities": [
+      {
+        "id": "cb-shakyamuni",
+        "name": "释迦牟尼佛",
+        "alias": "",
+        "tier": 1,
+        "kind": "佛",
+        "domain": "觉悟、说法与解脱",
+        "summary": "佛教历史教主与经典叙事的中心。",
+        "detail": "释迦牟尼的生平与教说在不同佛教传统中被保存和诠释；大乘经典又展开佛身与无量佛土的视野。“如来”是佛的称号，不是只属于一个角色的姓氏。《西游记》中的灵山如来带有鲜明文学性，不能用其斗法描写取代佛教的觉悟与慈悲观念。",
+        "sources": [
+          "cb-lotus",
+          "cb-met"
+        ]
+      },
+      {
+        "id": "cb-amita",
+        "name": "阿弥陀佛",
+        "alias": "",
+        "tier": 1,
+        "kind": "佛",
+        "domain": "极乐、无量光寿与接引",
+        "summary": "西方极乐世界的佛。",
+        "detail": "阿弥陀信仰以本愿、信愿与往生净土为核心，在中国形成影响深远的修行与日常称名传统。阿弥陀佛不同于释迦牟尼、药师佛，也不是玉皇的一位臣属。“西方”在这里首先是经典的佛土方位，不能直接对应现代地图上的某个国家。",
+        "sources": [
+          "cb-amita"
+        ]
+      },
+      {
+        "id": "cb-medicine",
+        "name": "药师佛",
+        "alias": "",
+        "tier": 1,
+        "kind": "佛",
+        "domain": "疾病、福祉与净琉璃世界",
+        "summary": "东方净琉璃世界的佛。",
+        "detail": "《药师经》以十二大愿关怀疾病、贫困、身体与社会困境，围绕佛土、愿行和护持形成丰富的造像与仪式。日光、月光菩萨及十二神将构成相关信仰圈。研究这种宗教救度时，应与现代医学治疗的机制与证据分别理解。",
+        "sources": [
+          "cb-medicine"
+        ]
+      },
+      {
+        "id": "cb-maitreya",
+        "name": "弥勒",
+        "alias": "",
+        "tier": 1,
+        "kind": "菩萨／未来佛",
+        "domain": "未来成佛与兜率天",
+        "summary": "当前为菩萨，未来下生成佛。",
+        "detail": "弥勒既以菩萨身份居兜率天，也被称作未来佛。中国常见笑口大肚形象与布袋和尚传统结合，和早期交脚或思惟像差异很大。《西游记》把黄眉怪写为他的童子，是文学展开，不能倒推成所有弥勒经典共同的神话。",
+        "sources": [
+          "cb-met",
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-dipankara",
+        "name": "燃灯佛",
+        "alias": "",
+        "tier": 2,
+        "kind": "过去佛",
+        "domain": "授记与漫长佛世",
+        "summary": "为释迦的前身授记的过去佛。",
+        "detail": "《金刚经》等提及燃灯佛与授记。燃灯佛、小说《封神演义》的燃灯道人，以及寺院过去佛配置应分开辨认；名称关联不意味着传记和宗派身份完全相同。",
+        "sources": [
+          "cb-diamond",
+          "cb-met"
+        ]
+      },
+      {
+        "id": "cb-guanyin",
+        "name": "观音／观世音",
+        "alias": "",
+        "tier": 1,
+        "kind": "菩萨",
+        "domain": "慈悲、应化与救苦",
+        "summary": "汉传佛教最广受崇敬的菩萨之一。",
+        "detail": "《法华经·普门品》强调以不同身份应现救度，成为观音形象变化的重要依据。中国传统将其与普陀山相连，艺术中又有水月、白衣、送子等形式。《西游记》中观音组织取经并多次救难，是在广阔信仰基础上的特定文学角色。",
+        "sources": [
+          "cb-lotus",
+          "cb-guanyin",
+          "cb-j8"
+        ]
+      },
+      {
+        "id": "cb-manjushri",
+        "name": "文殊菩萨",
+        "alias": "",
+        "tier": 1,
+        "kind": "菩萨",
+        "domain": "智慧与般若",
+        "summary": "常乘狮子，与五台山信仰相连。",
+        "detail": "文殊在大乘经典中代表智慧，常与普贤共同陪侍释迦；五台山逐渐成为其重要道场。狮子造像可象征教法威力。《西游记》把狮怪与文殊坐骑联系，是小说的降妖设计，不表示经典只把文殊定义成管理神兽的神。",
+        "sources": [
+          "cb-lotus",
+          "cb-met",
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-samantabhadra",
+        "name": "普贤菩萨",
+        "alias": "",
+        "tier": 1,
+        "kind": "菩萨",
+        "domain": "行愿与实践",
+        "summary": "常乘白象，与峨眉山相连。",
+        "detail": "普贤强调实践与愿行，在《法华经》末尾护持经典，亦是华严信仰的重要人物。汉地造像常用六牙白象识别其形象，并与文殊组成智慧和践行的呼应。不同经典中的位置与象征不可压缩为一条固定师门或家族关系。",
+        "sources": [
+          "cb-lotus",
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-ksitigarbha",
+        "name": "地藏菩萨",
+        "alias": "",
+        "tier": 1,
+        "kind": "菩萨",
+        "domain": "救苦、幽冥与孝亲",
+        "summary": "以深重愿行救度受苦众生。",
+        "detail": "《地藏菩萨本愿经》把愿行、业报、救母与利益亡者相连。汉地信仰与九华山及地狱救度密切相关，但地藏不是十殿阎王中的一位。《西游记》真假美猴王段中的地藏与谛听，则为佛教人物在文学中的再安排。",
+        "sources": [
+          "cb-dizang",
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-mahastama",
+        "name": "大势至菩萨",
+        "alias": "",
+        "tier": 2,
+        "kind": "菩萨",
+        "domain": "智慧光明与净土",
+        "summary": "净土传统中与观音同伴阿弥陀佛。",
+        "detail": "“西方三圣”的常见图像为阿弥陀佛、观音与大势至，表现净土救度网络；它不是三位彼此血缘相连的神。",
+        "sources": [
+          "cb-contemplation"
+        ]
+      },
+      {
+        "id": "cb-ananda",
+        "name": "阿难",
+        "alias": "",
+        "tier": 2,
+        "kind": "佛弟子",
+        "domain": "侍佛、记忆与结集",
+        "summary": "多闻的佛弟子。",
+        "detail": "经典中常以阿难参与问答和传持教法。《西游记》第98回阿傩索取“人事”的写法带有小说讽刺性，不能视为对历史佛弟子的确切报道。",
+        "sources": [
+          "cb-amita",
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-kashyapa",
+        "name": "摩诃迦叶",
+        "alias": "",
+        "tier": 2,
+        "kind": "佛弟子",
+        "domain": "头陀与传承",
+        "summary": "重要的早期佛教圣弟子。",
+        "detail": "其形象关联严格修行与僧团传承；中国禅宗又有拈花微笑等后世叙事。小说中的迦叶传经情节属于独立文学语境。",
+        "sources": [
+          "cb-amita",
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-sariputra",
+        "name": "舍利弗",
+        "alias": "",
+        "tier": 2,
+        "kind": "佛弟子",
+        "domain": "智慧与论辩",
+        "summary": "被称为智慧第一的弟子。",
+        "detail": "《阿弥陀经》以舍利弗为重要受教者，《心经》也向舍利子展开教说。名字的不同汉译不表示不同人物。",
+        "sources": [
+          "cb-amita",
+          "cb-heart"
+        ]
+      },
+      {
+        "id": "cb-maudgalyayana",
+        "name": "目犍连／目连",
+        "alias": "",
+        "tier": 2,
+        "kind": "佛弟子",
+        "domain": "神通与救母叙事",
+        "summary": "经典弟子与中国目连故事的中心。",
+        "detail": "大目犍连是重要弟子；中国的目连救母戏剧、变文和节俗进一步扩充其故事。神通不能免除业果的主题，与单纯比拼法力的读法不同。",
+        "sources": [
+          "cb-amita",
+          "cb-dizang"
+        ]
+      },
+      {
+        "id": "cb-vaisravana",
+        "name": "多闻天王",
+        "alias": "",
+        "tier": 2,
+        "kind": "护法天王",
+        "domain": "北方、护法与财富",
+        "summary": "四大天王之一，梵名毗沙门。",
+        "detail": "四天王属于天部护法，汉地形象有特定持物；其与中国李靖、托塔天王的形象交融值得比较，但不可简单宣称他们在所有文本中都是同一个人。",
+        "sources": [
+          "cb-lotus",
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-fourkings",
+        "name": "四大天王",
+        "alias": "",
+        "tier": 2,
+        "kind": "护法群体",
+        "domain": "四方守护",
+        "summary": "持国、增长、广目、多闻。",
+        "detail": "四方天王守护世间和佛法，常出现于寺院天王殿；持物与“风调雨顺”的民间联想是中国图像传统的一层。",
+        "sources": [
+          "cb-lotus"
+        ]
+      },
+      {
+        "id": "cb-deva",
+        "name": "天众／帝释",
+        "alias": "",
+        "tier": 3,
+        "kind": "护法众",
+        "domain": "天界与护持",
+        "summary": "帝释等天人参与听法护法。",
+        "detail": "天人寿命与福报虽高仍在轮回；帝释不能直接等同于佛教认可的永久造物主。",
+        "sources": [
+          "cb-lotus",
+          "cb-abhidharma"
+        ]
+      },
+      {
+        "id": "cb-naga",
+        "name": "龙众／那伽",
+        "alias": "",
+        "tier": 3,
+        "kind": "护法众",
+        "domain": "水域、守护与变形",
+        "summary": "印度蛇龙信仰与中国龙形象相遇。",
+        "detail": "那伽可表现为蛇或龙王；龙女成佛的经典叙事与《西游记》龙宫故事各有不同主题。",
+        "sources": [
+          "cb-lotus"
+        ]
+      },
+      {
+        "id": "cb-asura",
+        "name": "阿修罗",
+        "alias": "",
+        "tier": 3,
+        "kind": "众生类别",
+        "domain": "争斗、力量与轮回",
+        "summary": "六道说中的一个类别，亦见护法会众。",
+        "detail": "阿修罗在不同文本中地位和性格不一，不能全部简化为恶魔；它们可能与天争战，也能成为听法与护法者。",
+        "sources": [
+          "cb-lotus",
+          "cb-abhidharma"
+        ]
+      },
+      {
+        "id": "cb-garuda",
+        "name": "迦楼罗",
+        "alias": "",
+        "tier": 3,
+        "kind": "护法众",
+        "domain": "金翅鸟与龙的对立",
+        "summary": "天龙八部之一。",
+        "detail": "迦楼罗是印度传统中重要神鸟类型，佛教重新置入护法体系；小说狮驼岭的大鹏是特定文学角色，不代表整个类别。",
+        "sources": [
+          "cb-lotus",
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-yaksha",
+        "name": "夜叉",
+        "alias": "",
+        "tier": 3,
+        "kind": "护法众",
+        "domain": "自然力量与守护",
+        "summary": "可怖形貌不必等同于绝对邪恶。",
+        "detail": "夜叉有守护者、神将及危险非人等多种语境；药师十二神将的夜叉身份展示了力量被纳入护法的可能。",
+        "sources": [
+          "cb-medicine",
+          "cb-lotus"
+        ]
+      },
+      {
+        "id": "cb-eightclasses",
+        "name": "乾闼婆、紧那罗、摩睺罗迦",
+        "alias": "",
+        "tier": 3,
+        "kind": "护法众",
+        "domain": "音乐、歌舞与非人会众",
+        "summary": "天龙八部中与音乐、歌舞和大蟒相连的三类。",
+        "detail": "连同天、龙、夜叉、阿修罗、迦楼罗，通行八部名单共八类。此节点为补充分组而非额外第九部；不同身形与音乐职能各有传统。",
+        "sources": [
+          "cb-lotus"
+        ]
+      },
+      {
+        "id": "cb-arhats",
+        "name": "十六／十八罗汉",
+        "alias": "",
+        "tier": 3,
+        "kind": "圣者群体",
+        "domain": "住世护法与修行典范",
+        "summary": "汉地艺术中十八罗汉十分常见。",
+        "detail": "十六罗汉与后来十八罗汉名单存在层次，个别名号和位置也会变化；不宜把流行图谱视为全佛教从未改变的清单。",
+        "sources": [
+          "cb-met"
+        ]
+      },
+      {
+        "id": "cb-wukong",
+        "name": "孙悟空",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说人物",
+        "domain": "心猿、反叛与修行",
+        "summary": "从石猴、齐天大圣到斗战胜佛。",
+        "detail": "百回本从求长生与大闹天宫写起，随后让悟空成为取经者的保护者。他的本领并不自动保证判断正确，紧箍与师徒矛盾持续追问自由、规训与慈悲。读人物时须区分原著、戏曲和影视；其宗教名号是小说中的结局。",
+        "sources": [
+          "cb-journey",
+          "cb-j100"
+        ]
+      },
+      {
+        "id": "cb-tangseng",
+        "name": "唐三藏／唐僧",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说人物",
+        "domain": "取经、信念与肉身脆弱",
+        "summary": "以历史玄奘为背景创造的文学主角。",
+        "detail": "小说中唐僧为金蝉子转世，承担西行取经使命。他常不能识别妖魔，但坚定方向使队伍保持目标。与真实玄奘相比，小说弱化学者和旅行组织者的能力，放大慈悲、误判和被保护的角色；两种人物不可混同。",
+        "sources": [
+          "cb-journey",
+          "cb-xuanzang"
+        ]
+      },
+      {
+        "id": "cb-bajie",
+        "name": "猪八戒／猪悟能",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说人物",
+        "domain": "欲望、劳作与修行",
+        "summary": "天蓬下凡，取经路上的复杂同伴。",
+        "detail": "八戒贪食、恋色、畏难，又能战斗、承担劳作并在关键时刻协助悟空。他不是只有笑料的“坏徒弟”，而是取经群体中未尽欲望的可辨认形象。小说结尾封净坛使者，和悟空、唐僧的佛果有明确区别。",
+        "sources": [
+          "cb-journey",
+          "cb-j100"
+        ]
+      },
+      {
+        "id": "cb-wujing",
+        "name": "沙悟净／沙僧",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说人物",
+        "domain": "赎过、坚持与护持",
+        "summary": "流沙河收服的取经同伴。",
+        "detail": "原为卷帘大将，贬下界后经观音劝化。他在队伍中较少居于冲突中心，终受金身罗汉之职；影视中固定“挑担”的印象不等于每回原文分工。",
+        "sources": [
+          "cb-j8",
+          "cb-j100"
+        ]
+      },
+      {
+        "id": "cb-whitedragon",
+        "name": "白龙马",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说龙族",
+        "domain": "赎过与旅途承载",
+        "summary": "西海龙王之子，化马护送唐僧。",
+        "detail": "在鹰愁涧吞马后被观音引入取经事业，结尾受八部天龙马之职。这里“八部天龙马”是小说封授名号，不应倒解为天龙八部中另有一部叫马。",
+        "sources": [
+          "cb-journey",
+          "cb-j100"
+        ]
+      },
+      {
+        "id": "cb-subhuti",
+        "name": "菩提祖师",
+        "alias": "须菩提祖师",
+        "tier": 2,
+        "kind": "小说仙师",
+        "domain": "授艺与隐修",
+        "summary": "教授悟空长生术、变化和筋斗云。",
+        "detail": "小说称须菩提祖师，却没有沿用佛弟子须菩提的整套经典传记；相同名号不表示所有事迹相同。他兼谈三教并教授长生仙术，正显示小说跨教语言的特点。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-whitebone",
+        "name": "白骨精",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说妖怪",
+        "domain": "变化与识别",
+        "summary": "三次变形引发师徒决裂。",
+        "detail": "第27回借少女、老妪、老翁形象欺近唐僧。冲突不只是战力问题，更是看见真相与相信表象的分歧。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-redboy",
+        "name": "红孩儿",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说妖怪／童子",
+        "domain": "三昧真火与收伏",
+        "summary": "牛魔王与罗刹女之子。",
+        "detail": "在火云洞为难师徒，后被观音收为善财童子。小说借用佛教名字，但红孩儿的火攻经历不是《华严经》善财参学的原有传记。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-bullking",
+        "name": "牛魔王",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说妖王",
+        "domain": "结义、家族与阻碍",
+        "summary": "悟空旧日结义伙伴、红孩儿之父。",
+        "detail": "火焰山段将旧交、夫妻关系与取经障碍织在一起；牛魔王并不因与悟空有旧就成为稳定盟友。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-ironfan",
+        "name": "铁扇公主／罗刹女",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说人物",
+        "domain": "芭蕉扇与母子关系",
+        "summary": "火焰山借扇故事的关键主体。",
+        "detail": "她因红孩儿被收伏而与悟空结怨，芭蕉扇既控制自然障碍，也体现家庭记忆怎样影响旅途。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-sixears",
+        "name": "六耳猕猴",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说人物",
+        "domain": "真假、自我与辨识",
+        "summary": "与悟空难以区分的对手。",
+        "detail": "第58回如来辨认其为六耳猕猴。把真假猴王读作一心的两面是一种有影响的解释，但原书也以具体妖怪身份叙事。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-yellowbrow",
+        "name": "黄眉怪",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说妖怪",
+        "domain": "伪佛与辨别",
+        "summary": "冒充佛祖设小雷音寺。",
+        "detail": "弥勒童子盗宝作怪的情节，使看似神圣的外观成为危险；真假宗教空间是本段阅读重点。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-scorpion",
+        "name": "蝎子精",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说妖怪",
+        "domain": "欲望与危险",
+        "summary": "毒敌山琵琶洞的妖怪。",
+        "detail": "悟空等难以轻易制伏，最终由昴日星官解围，体现小说的克制关系与求助网络。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-diting",
+        "name": "谛听",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说神兽",
+        "domain": "听辨与知情",
+        "summary": "地藏座下辨认真假猴王的异兽。",
+        "detail": "第58回能知真假却不当场说破，将知识与能否公开处理真相区分开来；不能据此建立全佛教通行神兽等级。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-vairocana",
+        "name": "毗卢遮那／大日如来",
+        "alias": "",
+        "tier": 2,
+        "kind": "佛",
+        "domain": "法界、光明与佛身",
+        "summary": "华严与密教等传统中的重要佛。",
+        "detail": "毗卢遮那与法身、法界相连，在不同经教中有不同解释；密教大日如来的坛城位置又具特定仪轨意义，不宜把所有佛名视为一组可互换的“如来分身”。",
+        "sources": [
+          "cb-vairocana"
+        ]
+      },
+      {
+        "id": "cb-weituo",
+        "name": "韦陀",
+        "alias": "",
+        "tier": 2,
+        "kind": "佛教护法",
+        "domain": "护僧、护寺与护法",
+        "summary": "汉地寺院中常见的武将形护法。",
+        "detail": "常着甲胄、执金刚杵，面对佛殿守护寺院。其印度与中国传承具有复杂演化，不必用《西游记》的天兵官职来理解他。",
+        "sources": [
+          "cb-skanda"
+        ]
+      },
+      {
+        "id": "cb-jiedi",
+        "name": "五方揭谛",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说护法群",
+        "domain": "暗中保护取经",
+        "summary": "《西游记》中协助护持唐僧。",
+        "detail": "与六丁六甲、功曹、伽蓝等共同构成护卫网络；小说名单和密教咒语、佛经概念的联系，不能仅凭同名就合并所有身份。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-zhenyuan",
+        "name": "镇元子",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说仙人",
+        "domain": "五庄观、人参果与地仙",
+        "summary": "小说称地仙之祖，与世同君。",
+        "detail": "悟空偷果毁树后，镇元子追捕取经队伍；观音救树使冲突转成结义。人物虽属道家仙人，却是取经文学的重要主体，此处按阅读路线纳入。",
+        "sources": [
+          "cb-j26"
+        ]
+      },
+      {
+        "id": "cb-blackbear",
+        "name": "黑熊精",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说妖怪",
+        "domain": "袈裟、贪念与收伏",
+        "summary": "黑风山盗袈裟，后归观音。",
+        "detail": "第16—17回将僧人的贪欲与妖怪的珍宝欲相连，最终由观音收为守山大神；善恶并不简单依外貌划界。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-gold-silver",
+        "name": "金角、银角大王",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说妖怪群",
+        "domain": "法宝、身份与权力",
+        "summary": "莲花洞二魔，原为老君童子。",
+        "detail": "紫金葫芦、玉净瓶等宝物使悟空多次受困，最终回到天界主人出面收伏的结构。小说以偷宝下界解释危险神力的来源。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-greenox",
+        "name": "青牛精／独角兕大王",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说妖怪",
+        "domain": "金刚琢与收兵器",
+        "summary": "老君青牛下界作怪。",
+        "detail": "第50—52回中金刚琢套去诸神兵器，迫使悟空遍访援手；个体胜负离不开物件和主人的关系，不能只按单一战力排行解释。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-lion",
+        "name": "青狮",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说妖怪",
+        "domain": "狮驼岭、吞食与收伏",
+        "summary": "狮驼岭三魔之一，文殊坐骑。",
+        "detail": "第74—77回与白象、大鹏形成凶险联盟；文殊收回坐骑，使宗教神圣人物与妖魔危害形成值得讨论的文学张力。",
+        "sources": [
+          "cb-j77"
+        ]
+      },
+      {
+        "id": "cb-elephant",
+        "name": "白象",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说妖怪",
+        "domain": "巨力与狮驼岭",
+        "summary": "狮驼岭三魔之一，普贤坐骑。",
+        "detail": "长鼻与巨力是其战斗特征，最终由普贤带回。它是小说中的具体白象角色，与普贤图像中的白象象征有关却不能完全替代。",
+        "sources": [
+          "cb-j77"
+        ]
+      },
+      {
+        "id": "cb-roc",
+        "name": "大鹏金翅雕",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说妖怪",
+        "domain": "速度、吞食与神圣亲缘",
+        "summary": "狮驼城魔王，最后由如来收伏。",
+        "detail": "第77回以孔雀佛母及凤凰谱系解释大鹏与如来的关系，这是大胆的小说设定；不得据此推断佛教历史教主真的具有动物血缘。",
+        "sources": [
+          "cb-j77"
+        ]
+      },
+      {
+        "id": "cb-spiders",
+        "name": "七蜘蛛精",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说妖怪群",
+        "domain": "盘丝洞、诱惑与陷阱",
+        "summary": "盘丝岭故事中的七位女妖。",
+        "detail": "第72—73回以盘丝洞、濯垢泉与黄花观串联危机，后来与百眼魔君相连；人物的性别化书写亦可作为文学分析对象。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-centipede",
+        "name": "百眼魔君",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说妖怪",
+        "domain": "黄花观与金光",
+        "summary": "以道士外貌示人的蜈蚣精。",
+        "detail": "第73回靠多目金光困住悟空，最后需毗蓝婆菩萨帮助。宗教外观与真实行为的落差，是取经叙事反复使用的主题。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-white-deer",
+        "name": "白鹿精",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说妖怪",
+        "domain": "比丘国、伪国丈与寿药",
+        "summary": "寿星坐骑下界造成危机。",
+        "detail": "第78—79回以儿童心肝作药引的谎言展现求长生的黑暗面，与小说前部悟空求长生形成可比较的伦理差异。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-jade-rabbit",
+        "name": "玉兔精",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说妖怪",
+        "domain": "天竺公主与真假婚配",
+        "summary": "月宫玉兔下界冒充公主。",
+        "detail": "第93—95回把求亲、身份替换与月宫前缘连接；太阴星君最终出面。不可将这一文学故事说成古代所有月兔神话的起点。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-nine-lion",
+        "name": "九灵元圣",
+        "alias": "",
+        "tier": 3,
+        "kind": "小说妖怪",
+        "domain": "九头狮与护徒",
+        "summary": "太乙救苦天尊的坐骑下界。",
+        "detail": "第89—90回卷入玉华州师徒和狮群纷争，收伏依赖主人；与《封神》太乙真人须分清名号及所属叙事。",
+        "sources": [
+          "cb-journey"
+        ]
+      },
+      {
+        "id": "cb-womenqueen",
+        "name": "女儿国国王",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说人物",
+        "domain": "婚姻、政治与取经使命",
+        "summary": "以王位与婚姻挽留唐僧。",
+        "detail": "第54回的女性国家让常态社会秩序发生反转，唐僧的选择检验其目标。爱情式演绎在现代改编中更为突出，应对照原著的策略和语言。",
+        "sources": [
+          "cb-journey"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "to": "cb-ananda",
+        "type": "师徒",
+        "note": "经典中的佛与弟子。",
+        "source": "cb-amita",
+        "from": "cb-shakyamuni"
+      },
+      {
+        "to": "cb-kashyapa",
+        "type": "师徒",
+        "note": "经典会众中的主要弟子。",
+        "source": "cb-amita",
+        "from": "cb-shakyamuni"
+      },
+      {
+        "to": "cb-sariputra",
+        "type": "说法对象",
+        "note": "《阿弥陀经》的重要受教者。",
+        "source": "cb-amita",
+        "from": "cb-shakyamuni"
+      },
+      {
+        "to": "cb-maudgalyayana",
+        "type": "师徒",
+        "note": "经典列举的佛弟子。",
+        "source": "cb-amita",
+        "from": "cb-shakyamuni"
+      },
+      {
+        "to": "cb-shakyamuni",
+        "type": "授记",
+        "note": "为佛的前身授记，涉及过去世叙事。",
+        "source": "cb-diamond",
+        "from": "cb-dipankara"
+      },
+      {
+        "to": "cb-sariputra",
+        "type": "开示",
+        "note": "《心经》观自在向舍利子说明空义。",
+        "source": "cb-heart",
+        "from": "cb-guanyin"
+      },
+      {
+        "to": "cb-yaksha",
+        "type": "护持",
+        "note": "药师十二神将发愿护持行者。",
+        "source": "cb-medicine",
+        "from": "cb-medicine"
+      },
+      {
+        "to": "cb-guanyin",
+        "type": "说法会众",
+        "note": "《法华经》讨论观音救度。",
+        "source": "cb-lotus",
+        "from": "cb-shakyamuni"
+      },
+      {
+        "to": "cb-samantabhadra",
+        "type": "护持经典",
+        "note": "《法华经》普贤劝发品。",
+        "source": "cb-lotus",
+        "from": "cb-shakyamuni"
+      },
+      {
+        "to": "cb-wukong",
+        "type": "镇压与授果（小说）",
+        "note": "五行山镇压与结尾授斗战胜佛，按《西游记》。",
+        "source": "cb-journey",
+        "from": "cb-shakyamuni"
+      },
+      {
+        "to": "cb-tangseng",
+        "type": "引导（小说）",
+        "note": "授取经使命并护持。",
+        "source": "cb-j8",
+        "from": "cb-guanyin"
+      },
+      {
+        "to": "cb-bajie",
+        "type": "劝化（小说）",
+        "note": "赐法名悟能，引入取经事业。",
+        "source": "cb-j8",
+        "from": "cb-guanyin"
+      },
+      {
+        "to": "cb-wujing",
+        "type": "劝化（小说）",
+        "note": "劝化流沙河沙僧。",
+        "source": "cb-j8",
+        "from": "cb-guanyin"
+      },
+      {
+        "to": "cb-whitedragon",
+        "type": "救度（小说）",
+        "note": "让其以龙马身份护送取经。",
+        "source": "cb-journey",
+        "from": "cb-guanyin"
+      },
+      {
+        "to": "cb-wukong",
+        "type": "师徒（小说）",
+        "note": "取经队伍的核心关系。",
+        "source": "cb-journey",
+        "from": "cb-tangseng"
+      },
+      {
+        "to": "cb-bajie",
+        "type": "师徒（小说）",
+        "note": "高老庄以后结为师徒。",
+        "source": "cb-journey",
+        "from": "cb-tangseng"
+      },
+      {
+        "to": "cb-wujing",
+        "type": "师徒（小说）",
+        "note": "流沙河收徒。",
+        "source": "cb-journey",
+        "from": "cb-tangseng"
+      },
+      {
+        "to": "cb-whitedragon",
+        "type": "护送（小说）",
+        "note": "白龙化马承载唐僧西行。",
+        "source": "cb-journey",
+        "from": "cb-tangseng"
+      },
+      {
+        "to": "cb-wukong",
+        "type": "授艺（小说）",
+        "note": "教授变化与筋斗云，严禁显露师门。",
+        "source": "cb-journey",
+        "from": "cb-subhuti"
+      },
+      {
+        "to": "cb-whitebone",
+        "type": "敌对（小说）",
+        "note": "三打白骨精导致师徒争执。",
+        "source": "cb-journey",
+        "from": "cb-wukong"
+      },
+      {
+        "to": "cb-redboy",
+        "type": "父子（小说）",
+        "note": "火云洞、火焰山两段相互照应。",
+        "source": "cb-journey",
+        "from": "cb-bullking"
+      },
+      {
+        "to": "cb-redboy",
+        "type": "母子（小说）",
+        "note": "母子情感构成借扇阻碍。",
+        "source": "cb-journey",
+        "from": "cb-ironfan"
+      },
+      {
+        "to": "cb-ironfan",
+        "type": "夫妻（小说）",
+        "note": "关系又受玉面公主等情节影响。",
+        "source": "cb-journey",
+        "from": "cb-bullking"
+      },
+      {
+        "to": "cb-redboy",
+        "type": "收为童子（小说）",
+        "note": "收伏后为善财童子；勿等同华严经善财传记。",
+        "source": "cb-journey",
+        "from": "cb-guanyin"
+      },
+      {
+        "to": "cb-yellowbrow",
+        "type": "主仆（小说）",
+        "note": "黄眉为弥勒童子，盗宝下界。",
+        "source": "cb-journey",
+        "from": "cb-maitreya"
+      },
+      {
+        "to": "cb-diting",
+        "type": "座下神兽（小说）",
+        "note": "真假美猴王一段的叙事关系。",
+        "source": "cb-journey",
+        "from": "cb-ksitigarbha"
+      },
+      {
+        "to": "cb-sixears",
+        "type": "真假对立（小说）",
+        "note": "身份辨认贯穿天地与灵山。",
+        "source": "cb-journey",
+        "from": "cb-wukong"
+      },
+      {
+        "to": "cb-guanyin",
+        "type": "佛土陪侍",
+        "note": "观无量寿佛经的净土图景。",
+        "source": "cb-contemplation",
+        "from": "cb-amita"
+      },
+      {
+        "to": "cb-mahastama",
+        "type": "佛土陪侍",
+        "note": "观音与大势至共同出现在净土观想中。",
+        "source": "cb-contemplation",
+        "from": "cb-amita"
+      },
+      {
+        "to": "cb-blackbear",
+        "type": "收伏（小说）",
+        "note": "黑熊成为守山大神。",
+        "source": "cb-journey",
+        "from": "cb-guanyin"
+      },
+      {
+        "to": "cb-zhenyuan",
+        "type": "结义（小说）",
+        "note": "观音救树后化敌为友。",
+        "source": "cb-j26",
+        "from": "cb-wukong"
+      },
+      {
+        "to": "cb-zhenyuan",
+        "type": "救树（小说）",
+        "note": "用甘露救活人参果树。",
+        "source": "cb-j26",
+        "from": "cb-guanyin"
+      },
+      {
+        "to": "cb-lion",
+        "type": "坐骑（小说）",
+        "note": "狮驼岭收回青狮。",
+        "source": "cb-j77",
+        "from": "cb-manjushri"
+      },
+      {
+        "to": "cb-elephant",
+        "type": "坐骑（小说）",
+        "note": "狮驼岭收回白象。",
+        "source": "cb-j77",
+        "from": "cb-samantabhadra"
+      },
+      {
+        "to": "cb-roc",
+        "type": "收伏（小说）",
+        "note": "佛祖将大鹏约束为护法。",
+        "source": "cb-j77",
+        "from": "cb-shakyamuni"
+      },
+      {
+        "to": "cb-elephant",
+        "type": "联盟（小说）",
+        "note": "狮驼岭三魔中的二位。",
+        "source": "cb-j77",
+        "from": "cb-lion"
+      },
+      {
+        "to": "cb-roc",
+        "type": "联盟（小说）",
+        "note": "狮驼岭与狮驼城联结。",
+        "source": "cb-j77",
+        "from": "cb-elephant"
+      },
+      {
+        "to": "cb-centipede",
+        "type": "同门（小说）",
+        "note": "蜘蛛精向百眼魔君求援。",
+        "source": "cb-journey",
+        "from": "cb-spiders"
+      },
+      {
+        "to": "cb-womenqueen",
+        "type": "求婚与辞别（小说）",
+        "note": "女王欲招唐僧为夫，取经目标使其离去。",
+        "source": "cb-journey",
+        "from": "cb-tangseng"
+      }
+    ],
+    "events": [
+      {
+        "id": "cb-ev-awakening",
+        "title": "释迦的觉悟与说法",
+        "tier": 1,
+        "era": "佛陀生平叙事；公元前一千纪南亚背景",
+        "summary": "从苦的问题走向觉悟与教导。",
+        "detail": "不同传记对出家、降魔、成道与转法轮有所展开。学习重点是解脱问题及其传承，不把后世一切装饰性细节都视为可独立证实的传记事实。",
+        "actors": [
+          "cb-shakyamuni"
+        ],
+        "source": "cb-lotus"
+      },
+      {
+        "id": "cb-ev-pureland",
+        "title": "极乐世界与往生愿",
+        "tier": 1,
+        "era": "经典的超越性时间",
+        "summary": "释迦向舍利弗说明阿弥陀佛土。",
+        "detail": "《阿弥陀经》描述国土庄严、法音与往生条件，表达不退转修行的愿景。其神圣地理与现代地球坐标不是同一种知识。",
+        "actors": [
+          "cb-shakyamuni",
+          "cb-amita",
+          "cb-sariputra"
+        ],
+        "source": "cb-amita"
+      },
+      {
+        "id": "cb-ev-guanyin",
+        "title": "观音普门应化",
+        "tier": 1,
+        "era": "大乘经典叙事",
+        "summary": "以不同身份应现，救度不同处境的众生。",
+        "detail": "《普门品》将应化与救苦相连，为丰富的观音艺术和信仰提供经文基础。重点是救度方式的适应性，不是固定不变的单一形貌。",
+        "actors": [
+          "cb-guanyin"
+        ],
+        "source": "cb-lotus"
+      },
+      {
+        "id": "cb-ev-medicine",
+        "title": "药师十二大愿",
+        "tier": 2,
+        "era": "大乘经典叙事",
+        "summary": "愿使众生脱离疾病、贫苦与种种困境。",
+        "detail": "药师佛的誓愿同时涉及身心和社会生活；神将护持与净琉璃世界构成完整信仰语境。宗教祈愿不替代对身体疾病的专业诊疗。",
+        "actors": [
+          "cb-medicine",
+          "cb-yaksha"
+        ],
+        "source": "cb-medicine"
+      },
+      {
+        "id": "cb-ev-dizang",
+        "title": "地藏本生与救母愿行",
+        "tier": 2,
+        "era": "过去世叙事",
+        "summary": "孝亲、业报与救度在地藏故事中相连。",
+        "detail": "婆罗门女、光目女等本生故事把个人亲情转化为广泛的救度誓愿。不能把所有地狱图像、十王名单和通俗口号都逐字归给本经。",
+        "actors": [
+          "cb-ksitigarbha"
+        ],
+        "source": "cb-dizang"
+      },
+      {
+        "id": "cb-ev-heaven",
+        "title": "大闹天宫与五行山",
+        "tier": 1,
+        "era": "《西游记》第3—7回",
+        "summary": "悟空从求名位走向反叛，终被镇压。",
+        "detail": "龙宫得兵器、地府勾名、弼马温、齐天大圣、蟠桃与炼丹依次升级冲突。如来的手掌与五行山将身体能力的极限变为后续修行的起点。",
+        "actors": [
+          "cb-wukong",
+          "cb-shakyamuni"
+        ],
+        "source": "cb-journey"
+      },
+      {
+        "id": "cb-ev-gather",
+        "title": "观音东行与取经队伍形成",
+        "tier": 1,
+        "era": "《西游记》第8—22回",
+        "summary": "受命者与负罪者组成西行共同体。",
+        "detail": "观音先行寻找取经人与保护者，唐僧一路收徒。队伍由各自犯错的主体组成，修行遂兼有赎过、协作、冲突和改变。",
+        "actors": [
+          "cb-guanyin",
+          "cb-tangseng",
+          "cb-wukong",
+          "cb-bajie",
+          "cb-wujing",
+          "cb-whitedragon"
+        ],
+        "source": "cb-j8"
+      },
+      {
+        "id": "cb-ev-whitebone",
+        "title": "三打白骨精",
+        "tier": 1,
+        "era": "《西游记》第27回",
+        "summary": "识破妖怪的悟空被不见真相的唐僧逐走。",
+        "detail": "妖怪连续变化与师徒误解交织。悟空有识别能力却难以证明给师父，唐僧坚持不杀却可能误信欺骗，伦理冲突超出了“谁更厉害”。",
+        "actors": [
+          "cb-wukong",
+          "cb-tangseng",
+          "cb-whitebone"
+        ],
+        "source": "cb-journey"
+      },
+      {
+        "id": "cb-ev-redboy",
+        "title": "红孩儿与善财童子",
+        "tier": 2,
+        "era": "《西游记》第40—42回",
+        "summary": "强大火攻使悟空求助观音。",
+        "detail": "红孩儿最终被收为童子，故事将降伏转成纳入修行秩序。对照《华严经》的善财可以看出小说如何借名而重造身世。",
+        "actors": [
+          "cb-redboy",
+          "cb-wukong",
+          "cb-guanyin"
+        ],
+        "source": "cb-journey"
+      },
+      {
+        "id": "cb-ev-sixears",
+        "title": "真假美猴王",
+        "tier": 1,
+        "era": "《西游记》第56—58回",
+        "summary": "两个无法轻易辨别的悟空遍访神佛。",
+        "detail": "从唐僧到天庭、地府再到灵山，辨认过程展示不同权威的能力边界。谛听知而不言、如来最终定名，使真相、权力和自我主题互相叠合。",
+        "actors": [
+          "cb-wukong",
+          "cb-sixears",
+          "cb-diting",
+          "cb-ksitigarbha",
+          "cb-shakyamuni"
+        ],
+        "source": "cb-journey"
+      },
+      {
+        "id": "cb-ev-fan",
+        "title": "三调芭蕉扇",
+        "tier": 1,
+        "era": "《西游记》第59—61回",
+        "summary": "火焰山的通路取决于旧日恩怨与一柄扇。",
+        "detail": "铁扇公主因红孩儿事拒绝借扇，悟空与牛魔王反复斗智。自然灾害、家庭冲突、结义往事和群神助战汇合成一次复杂障碍。",
+        "actors": [
+          "cb-wukong",
+          "cb-ironfan",
+          "cb-bullking",
+          "cb-redboy"
+        ],
+        "source": "cb-journey"
+      },
+      {
+        "id": "cb-ev-results",
+        "title": "取经完成与五众受职",
+        "tier": 1,
+        "era": "《西游记》第98—100回",
+        "summary": "真经东归，五位成员获得不同果位。",
+        "detail": "唐僧为旃檀功德佛，悟空为斗战胜佛，八戒为净坛使者，沙僧为金身罗汉，白龙马为八部天龙马。区分结果可避免“全员成佛”的影视化记忆。",
+        "actors": [
+          "cb-tangseng",
+          "cb-wukong",
+          "cb-bajie",
+          "cb-wujing",
+          "cb-whitedragon"
+        ],
+        "source": "cb-j100"
+      },
+      {
+        "id": "cb-ev-tree",
+        "title": "人参果树与结义",
+        "tier": 2,
+        "era": "《西游记》第24—26回",
+        "summary": "偷果毁树带来冲突，救树使敌人结为兄弟。",
+        "detail": "悟空从破坏者变为求医者，遍访仙山后请观音救树。最终结义显示取经途中并非所有障碍都以杀死敌人解决。",
+        "actors": [
+          "cb-wukong",
+          "cb-zhenyuan",
+          "cb-guanyin"
+        ],
+        "source": "cb-j26"
+      },
+      {
+        "id": "cb-ev-women",
+        "title": "女儿国与西行选择",
+        "tier": 2,
+        "era": "《西游记》第53—55回",
+        "summary": "身体、性别与婚姻使取经使命再受考验。",
+        "detail": "子母河、求亲与蝎子精相继出现。女王和妖怪的愿望不相同，阅读时应避免把所有女性角色都合并为一个笼统的诱惑符号。",
+        "actors": [
+          "cb-tangseng",
+          "cb-bajie",
+          "cb-womenqueen",
+          "cb-scorpion"
+        ],
+        "source": "cb-journey"
+      },
+      {
+        "id": "cb-ev-lion",
+        "title": "狮驼岭三魔",
+        "tier": 1,
+        "era": "《西游记》第74—77回",
+        "summary": "高度组织化的妖魔世界几乎摧毁取经队伍。",
+        "detail": "青狮白象原是菩萨坐骑，大鹏又被赋予与佛祖关联的特殊来历；恶行、亲缘与最终处置之间的张力，是本段比普通降妖更值得细读之处。",
+        "actors": [
+          "cb-wukong",
+          "cb-tangseng",
+          "cb-lion",
+          "cb-elephant",
+          "cb-roc",
+          "cb-manjushri",
+          "cb-samantabhadra",
+          "cb-shakyamuni"
+        ],
+        "source": "cb-j77"
+      }
+    ]
+  },
+  {
+    "id": "china-daoist",
+    "name": "中国 · 道教与封神",
+    "en": "DAOISM & INVESTITURE",
+    "region": "东亚",
+    "coords": [
+      104.2,
+      30.5
+    ],
+    "depth": 3,
+    "color": "#81b1aa",
+    "tagline": "道化万物，神在人间",
+    "period": "先秦思想资源；东汉以来道教；明代神魔小说",
+    "summary": "道教由经典、仪式、传承、修炼与神圣空间共同组成，不能缩减为“天庭官员名单”。道作为万物根源，神灵又可以是宇宙力量的人格化、传经者、修成者和被地方共同体奉祀的历史人物。三清、玉皇、星辰神、护法与地方神在不同文献、宫观和仪式中呈现不同层级。《封神演义》借商周革命组织一场仙人劫运，把战争亡者纳入神职；这是影响广泛的文学解释，并非所有道教神祇的唯一出身档案。",
+    "worldview": [
+      {
+        "title": "道、气与万物",
+        "text": "道是不可被固定名相穷尽的根源；阴阳、气化与天地人之间的相应关系解释生成和变化。三清可以被理解为道的神圣显现与经典权威，而不是三位互相争夺唯一造物主位置的神。",
+        "source": "cd-daode"
+      },
+      {
+        "title": "神谱也是仪式秩序",
+        "text": "道教神谱随着教派与时代扩展。三清在许多体系居高位；玉皇、紫微、勾陈、后土等承担不同统御职能。“四御”“六御”有异列，宫观实际供奉与法事请神次序应按具体传统理解。",
+        "source": "cd-pure"
+      },
+      {
+        "title": "天界、洞天与人的身体",
+        "text": "诸天、洞天福地、名山与身体内景可互相对应。修炼并不只向外求仙，也把身体视为可修持、可变化的场域；符箓、存思与斋醮各有传统，不能只用小说炼丹炉代表全部道教。",
+        "source": "cd-sep"
+      },
+      {
+        "title": "天曹与地方社会",
+        "text": "城隍、土地、灶神、星君和判官把行为、家庭、社区和命运联系起来。官僚形象使冥界或天界可被社会理解，但神职与朝廷官制并非处处一对一，地方神也不都由单一中央神学规定。",
+        "source": "cd-soushen"
+      },
+      {
+        "title": "封神的双重时间",
+        "text": "《封神演义》的故事背景是商周之际，叙述的宗教想象却属于远晚于商周的世界。阐教、截教、西方教、封神榜与三百六十五正神共同构成小说制度，不能直接拿来画出西周宗教实况。",
+        "source": "cd-fengshen"
+      },
+      {
+        "title": "成仙、受封与死后神职",
+        "text": "修炼成仙与战死封神在小说中并不等价：封神可以安顿战死者并重建秩序，也带有劫运和约束意味。现实祭祀中的敕封、地方灵验传说与道教法职又是其他机制，需要分层阅读。",
+        "source": "cd-fs99"
+      }
+    ],
+    "history": [
+      {
+        "title": "组织、经书与传承逐渐形成",
+        "text": "东汉天师道、魏晋南北朝上清与灵宝经典、后来正一和全真等传承，让道教长期变化。道家思想与道教宗教并非互不相干的两块，也不能把所有差异解释成一次有明确日期的“创教”。",
+        "source": "cd-sep"
+      },
+      {
+        "title": "皇权与神灵地位",
+        "text": "历代国家可以通过赐额、加封、建观与仪式资助影响神灵的公共地位。玉皇信仰与宋代皇室的关系，是研究神学、政治和礼仪相遇的一例；同一神在民间和道教经书中的称谓也可不同。",
+        "source": "cd-yuhuang"
+      },
+      {
+        "title": "地方神跨越地域",
+        "text": "妈祖信俗与海上航行、社区记忆和进香网络密切相关。地方人物可被奉为护佑者，信仰随移民和航路传播；这类传统常同时与道教仪式、佛教和民间实践相交。",
+        "source": "cd-mazu"
+      },
+      {
+        "title": "神像有赞助人和制作年代",
+        "text": "1438年老子铜像与1542年王元帅图，都有可研究的制作与供奉背景。看图时询问谁出资、在哪里使用、为何选择此神，比把古画只当角色立绘能得到更多历史信息。",
+        "source": "cd-laozi-art"
+      },
+      {
+        "title": "小说反过来塑造常识",
+        "text": "哪吒、姜子牙、杨戬和申公豹的当代知名度深受《封神演义》、戏曲与影视影响。改编可以改变人物动机、亲缘与结局；学习时先标明“原著版本”，再比较创作如何回应各自时代。",
+        "source": "cd-fengshen"
+      }
+    ],
+    "sources": [
+      {
+        "id": "cd-daode",
+        "title": "《道德经》版本与注本",
+        "url": "https://zh.wikisource.org/wiki/道德經",
+        "note": "重点第1、25、40、42章；不同出土本、传世本有异文。",
+        "kind": "原典",
+        "author": "传统归老子"
+      },
+      {
+        "id": "cd-pure",
+        "title": "Three Pure Ones／三清",
+        "url": "https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln472/Purities.htm",
+        "note": "三清形象、名称与经书权威；教学资料。",
+        "kind": "学术",
+        "author": "Kenyon College 宗教教学资料"
+      },
+      {
+        "id": "cd-sep",
+        "title": "Religious Daoism",
+        "url": "https://plato.stanford.edu/entries/daoism-religion/",
+        "note": "道教历史、宇宙论、神灵、修炼与仪式的研究综述。",
+        "kind": "学术",
+        "author": "Fabrizio Pregadio／Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "id": "cd-soushen",
+        "title": "《三教源流搜神大全》",
+        "url": "https://zh.wikisource.org/zh-hans/三教源流搜神大全",
+        "note": "历代神传的汇编，需区分神传、史料与民间解释；并非先秦原始神谱。",
+        "kind": "原典",
+        "author": "佚名"
+      },
+      {
+        "id": "cd-fengshen",
+        "title": "《封神演义》",
+        "url": "https://zh.wikisource.org/zh/封神演義",
+        "note": "百回本全文；人物关系按小说内叙事，不与道教经书自动合并。",
+        "kind": "文学",
+        "author": "传统署许仲琳，作者归属有争议"
+      },
+      {
+        "id": "cd-fs99",
+        "title": "《封神演义》第99回：姜子牙归国封神",
+        "url": "https://zh.wikisource.org/wiki/封神演義/卷099",
+        "note": "封神名单与各部职司；版本之间存在差异。",
+        "kind": "文学",
+        "author": "传统署许仲琳"
+      },
+      {
+        "id": "cd-j6",
+        "title": "《西游记》第6回",
+        "url": "https://zh.wikisource.org/wiki/西遊記/第006回",
+        "note": "二郎神降悟空，含玉帝外甥等小说设定。",
+        "kind": "文学",
+        "author": "传统署吴承恩"
+      },
+      {
+        "id": "cd-journey",
+        "title": "《西游记》",
+        "url": "https://zh.wikisource.org/wiki/西遊記",
+        "note": "天庭、龙王、地府、王母、六丁六甲和地方神的文学层。",
+        "kind": "文学",
+        "author": "传统署吴承恩"
+      },
+      {
+        "id": "cd-yuhuang",
+        "title": "玉皇信仰介绍",
+        "url": "https://taoist.org.cn/getDjzsById.do?id=64",
+        "note": "道教内部介绍，包含《高上玉皇本行集经》故事和历史尊号。",
+        "kind": "参考",
+        "author": "中国道教协会"
+      },
+      {
+        "id": "cd-four",
+        "title": "三清与四御等神祇介绍",
+        "url": "https://www.daoist.org/culture/1/main3.htm",
+        "note": "列玉皇、紫微、勾陈、后土为四御的一种表述，勿当作唯一名单。",
+        "kind": "参考",
+        "author": "香港道教联合会网站"
+      },
+      {
+        "id": "cd-ganying",
+        "title": "《太上感应篇》原文",
+        "url": "https://www.quanxue.cn/ct_daojia/ganying/ganying01.html",
+        "note": "善恶感应、司过之神、三台北斗与灶神。",
+        "kind": "原典",
+        "author": "传统道教善书"
+      },
+      {
+        "id": "cd-met",
+        "title": "Daoism and Daoist Art",
+        "url": "https://www.metmuseum.org/essays/daoism-and-daoist-art",
+        "note": "道教艺术类型与八仙等图像参考。",
+        "kind": "博物馆",
+        "author": "Birgitta Augustin／大都会艺术博物馆"
+      },
+      {
+        "id": "cd-laozi-art",
+        "title": "陈彦清造鎏金铜老子像",
+        "url": "https://www.metmuseum.org/art/collection/search/39488",
+        "note": "1438年；题记和施主背景；公版图像。",
+        "kind": "博物馆",
+        "author": "大都会艺术博物馆"
+      },
+      {
+        "id": "cd-wang-art",
+        "title": "《王元帅图》",
+        "url": "https://www.metmuseum.org/art/collection/search/41474",
+        "note": "1542年；护法形象与明代宫廷赞助；公版图像。",
+        "kind": "博物馆",
+        "author": "大都会艺术博物馆"
+      },
+      {
+        "id": "cd-mazu",
+        "title": "Mazu belief and customs",
+        "url": "https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227",
+        "note": "妈祖信俗的海洋生活、社区和仪式背景。",
+        "kind": "参考",
+        "author": "联合国教科文组织"
+      },
+      {
+        "id": "cd-wuchang",
+        "title": "范将军与谢将军：历史明信片",
+        "url": "https://collections.nmth.gov.tw/CollectionContent.aspx?RNO=2001.008.1450&a=132",
+        "note": "馆方讨论七爷八爷、范谢将军和黑白无常的关联与辨识争议。",
+        "kind": "博物馆",
+        "author": "国立台湾历史博物馆"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "道生一，一生二，二生三，三生万物。",
+        "source": "cd-daode",
+        "locator": "通行本《道德经》第42章（简体转写）",
+        "note": "“一二三”具有多种解释传统，不能未经论证就强行套上固定神名。"
+      },
+      {
+        "text": "祸福无门，惟人自召；善恶之报，如影随形。",
+        "source": "cd-ganying",
+        "locator": "《太上感应篇》开篇（简体转写）",
+        "note": "以善恶责任组织日常伦理，后文才展开监察神的想象。"
+      },
+      {
+        "text": "仙神人鬼从今定，不使朝朝堕草莱。",
+        "source": "cd-fs99",
+        "locator": "第99回诗句（简体转写）",
+        "note": "封神是小说为战争亡者安排位置、重建秩序的关键机制。"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39488/151876/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/39488",
+        "title": "陈彦清造鎏金铜老子像",
+        "credit": "大都会艺术博物馆，1997.139",
+        "license": "Public Domain／馆方开放获取",
+        "caption": "1438年。题记关联为母亲造像的官员，让神圣形象与真实家庭、城市及工艺史相接。",
+        "local": "assets/images/e9accfc493050db8.jpg"
+      },
+      {
+        "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/41474/1908306/main-image",
+        "pageUrl": "https://www.metmuseum.org/art/collection/search/41474",
+        "title": "王元帅图",
+        "credit": "佚名，1542年；大都会艺术博物馆，1989.155",
+        "license": "Public Domain／馆方开放获取",
+        "caption": "护法踏火轮、降伏水中邪灵；题记显示明嘉靖宫廷的道教赞助背景。",
+        "local": "assets/images/6ba84de206903ea7.jpg"
+      }
+    ],
+    "reading": [
+      {
+        "title": "先读道，再读天庭",
+        "text": "从《道德经》第25、42章与三清图像开始，随后阅读玉皇、星辰神和地方神，避免只见官职而不见宇宙观。"
+      },
+      {
+        "title": "封神的三条主线",
+        "text": "沿姜子牙理解改朝换代与封神；沿哪吒理解身体、亲缘和再生；沿闻仲与截教理解忠诚、劫数和失败者。"
+      },
+      {
+        "title": "把小说与神传放在两栏",
+        "text": "读赵公明、哪吒、二郎神时，记录《封神》《西游》写了什么，再看地方庙宇和《搜神大全》的不同来历。"
+      }
+    ],
+    "cautions": [
+      "三清通常为元始天尊、灵宝天尊、道德天尊；《封神》的通天教主不能不加论证地直接替代宗教神谱中的灵宝天尊。",
+      "四御不是“四方神”的简单方位分类；不同传统有不同名单与位次。",
+      "杨戬与二郎神关系密切，但《封神》杨戬、《西游》二郎以及地方二郎信仰不能完全合并。",
+      "《封神演义》以商周为故事背景，创作与神祇体系远晚于商周；阐截之争不等于真实上古宗教战争。",
+      "玉皇与王母并非所有文本中的夫妻；本图谱不画一条无版本限定的配偶线。"
+    ],
+    "entities": [
+      {
+        "id": "cd-yuanshi",
+        "name": "元始天尊",
+        "alias": "",
+        "tier": 1,
+        "kind": "道教尊神",
+        "domain": "本始、经典与三清",
+        "summary": "三清之一；《封神》中又为阐教领袖。",
+        "detail": "宗教神谱中的元始天尊与宇宙本始、道经权威相连，是三清之一。《封神演义》则将其安排在昆仑玉虚宫，作为姜子牙等人的师长并授封神任务。两种身份可以比较，却不能把小说门下名单直接当成所有道教经派共同承认的传承表。",
+        "sources": [
+          "cd-pure",
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-lingbao",
+        "name": "灵宝天尊",
+        "alias": "",
+        "tier": 1,
+        "kind": "道教尊神",
+        "domain": "经法传播与三清",
+        "summary": "三清之一，与灵宝经典传统相连。",
+        "detail": "灵宝天尊体现经法与救度的神圣权威，常以如意等物识别。在宗教图像中与元始、道德天尊同列三清。网络常把《封神》的通天教主直接当作灵宝天尊，这是一种跨文本合并，不能作为无须说明的恒定身份。",
+        "sources": [
+          "cd-pure"
+        ]
+      },
+      {
+        "id": "cd-laojun",
+        "name": "道德天尊／太上老君",
+        "alias": "",
+        "tier": 1,
+        "kind": "道教尊神",
+        "domain": "道的显现、教化与经典",
+        "summary": "与老子神格化及《道德经》相连。",
+        "detail": "太上老君既有教化、授经的宗教角色，也在《西游记》中炼丹、持金刚琢，在《封神》中参与仙人战争。历史老子的身世与《道德经》成书本就存在研究问题；神圣传记和小说冒险不应被当作同一种历史证据。",
+        "sources": [
+          "cd-pure",
+          "cd-daode",
+          "cd-journey"
+        ]
+      },
+      {
+        "id": "cd-yuhuang",
+        "name": "玉皇大帝",
+        "alias": "",
+        "tier": 1,
+        "kind": "道教尊神",
+        "domain": "天界统御与秩序",
+        "summary": "中国天庭想象最有影响的中心之一。",
+        "detail": "道教经书为玉皇安排漫长修行与登位经历，历代赐号又扩展其公共威望。在不少神谱中位于三清之下，却在小说和民间成为最直观的天界君主。具体位次随文献而变，不宜把某回小说的受挫解释为整个道教公认的能力等级。",
+        "sources": [
+          "cd-yuhuang",
+          "cd-four"
+        ]
+      },
+      {
+        "id": "cd-ziwei",
+        "name": "紫微大帝",
+        "alias": "",
+        "tier": 2,
+        "kind": "道教尊神",
+        "domain": "星辰、天经地纬",
+        "summary": "与北极和天界星辰秩序相连。",
+        "detail": "紫微在四御等体系中有重要地位，表现人间帝制、天文方位与神圣统治之间的类比；不可直接把每个现代天文星名一一转成同一神格。",
+        "sources": [
+          "cd-four"
+        ]
+      },
+      {
+        "id": "cd-gouchen",
+        "name": "勾陈上宫天皇大帝",
+        "alias": "",
+        "tier": 2,
+        "kind": "道教尊神",
+        "domain": "星辰、三才与兵革",
+        "summary": "四御名单中的重要尊神。",
+        "detail": "在所引道教介绍中辅助统御诸星与天地人三才，并关涉兵革。与紫微、玉皇等的称号和位次应按具体名单阅读。",
+        "sources": [
+          "cd-four"
+        ]
+      },
+      {
+        "id": "cd-houdu",
+        "name": "后土皇地祇",
+        "alias": "",
+        "tier": 2,
+        "kind": "道教尊神",
+        "domain": "大地、生育与万物",
+        "summary": "承天效法后土，地祇权威的代表。",
+        "detail": "后土信仰有漫长历史，进入道教尊神系统后体现大地与生育化成。其性别形象、称谓和礼仪地位在不同阶段并不完全相同。",
+        "sources": [
+          "cd-four"
+        ]
+      },
+      {
+        "id": "cd-xiwangmu",
+        "name": "西王母／王母",
+        "alias": "",
+        "tier": 1,
+        "kind": "女神",
+        "domain": "仙界、不死与蟠桃",
+        "summary": "从早期山神到后世仙界女主。",
+        "detail": "《山海经》的虎齿豹尾与后世仙界盛会形成鲜明对比。《西游记》以蟠桃园、瑶池盛会安排天庭等级和悟空的越界。王母与玉皇常在现代作品中成为夫妻，但原典和宗教传统并无统一的配偶设定，关系图因此不默认连线。",
+        "sources": [
+          "cd-soushen",
+          "cd-journey"
+        ]
+      },
+      {
+        "id": "cd-erlang",
+        "name": "二郎神",
+        "alias": "",
+        "tier": 1,
+        "kind": "神祇／小说人物",
+        "domain": "降妖、地方护佑与神通",
+        "summary": "信仰来源多支，小说中常与杨戬联想。",
+        "detail": "二郎信仰包含地方治水神、李冰后裔等多种传统。《西游记》第6回的二郎是玉帝外甥，率梅山兄弟战悟空；《封神》杨戬另有师承和战功。现代“三只眼杨戬”的统一形象，不能抹去这几条不完全重合的来历。",
+        "sources": [
+          "cd-soushen",
+          "cd-j6",
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-lizjing",
+        "name": "李靖／托塔天王",
+        "alias": "",
+        "tier": 2,
+        "kind": "护法／小说人物",
+        "domain": "天兵、宝塔与父权",
+        "summary": "哪吒之父，神话与历史同名者须分。",
+        "detail": "《封神》中李靖为陈塘关总兵，父子冲突与宝塔收伏相连；《西游记》中统率天兵。他与历史唐将李靖、佛教毗沙门图像之间的关系是演变问题，而非一个人物的连续真实履历。",
+        "sources": [
+          "cd-fengshen",
+          "cd-journey"
+        ]
+      },
+      {
+        "id": "cd-nezha",
+        "name": "哪吒",
+        "alias": "",
+        "tier": 1,
+        "kind": "神祇／小说人物",
+        "domain": "少年护法、身体与重生",
+        "summary": "《封神》最重要的少年英雄之一。",
+        "detail": "哪吒源自跨文化宗教传说，后在中国神传、戏曲和小说中不断变化。《封神》写出生异相、杀龙、剔骨割肉还亲、莲花化身与反抗父亲；《西游记》又给出有所差别的解释。不同现代电影重写的龙族关系与动机，应另作改编比较。",
+        "sources": [
+          "cd-fengshen",
+          "cd-soushen",
+          "cd-journey"
+        ]
+      },
+      {
+        "id": "cd-dragonkings",
+        "name": "四海龙王",
+        "alias": "",
+        "tier": 2,
+        "kind": "水神群体",
+        "domain": "水域、风雨与龙宫",
+        "summary": "龙宫是人间水域的神圣镜像。",
+        "detail": "《西游记》把四海龙王纳入天庭调度，同时保有地方宫廷和家族。佛教龙王、中国本土龙与小说四海行政区相互影响，但不是从一开始就完全相同。",
+        "sources": [
+          "cd-journey"
+        ]
+      },
+      {
+        "id": "cd-zhangdaoling",
+        "name": "张道陵／张天师",
+        "alias": "",
+        "tier": 2,
+        "kind": "祖师",
+        "domain": "天师传承与授箓",
+        "summary": "天师道传统的祖师。",
+        "detail": "传统以老君授道等叙事说明天师权威；历史上天师道的组织与地方社会关系可另行研究。祖师神传与可考历史并行，而非互相替代。",
+        "sources": [
+          "cd-sep",
+          "cd-pure"
+        ]
+      },
+      {
+        "id": "cd-zhenwu",
+        "name": "真武大帝",
+        "alias": "",
+        "tier": 2,
+        "kind": "道教尊神",
+        "domain": "北方、镇护与修行",
+        "summary": "武当信仰与道教护佑的重要中心。",
+        "detail": "真武形象常伴龟蛇、披发跣足，与北方玄武传统及后世修炼传记关联。明代政治赞助、宫观建设和香火网络又放大其影响。",
+        "sources": [
+          "cd-soushen",
+          "cd-met"
+        ]
+      },
+      {
+        "id": "cd-wanglingguan",
+        "name": "王灵官／王元帅",
+        "alias": "",
+        "tier": 2,
+        "kind": "道教护法",
+        "domain": "纠察、护观与降邪",
+        "summary": "道观常见的威猛护法。",
+        "detail": "王灵官的火轮、鞭、第三眼等形象突出监察与威慑。明代王元帅图可见宫廷赞助与驱邪视觉，不能只把形貌凶猛解释成邪恶。",
+        "sources": [
+          "cd-wang-art",
+          "cd-soushen"
+        ]
+      },
+      {
+        "id": "cd-leishen",
+        "name": "雷部诸神",
+        "alias": "",
+        "tier": 2,
+        "kind": "神群",
+        "domain": "雷霆、纠察与法术",
+        "summary": "雷神体系随经法与小说而变。",
+        "detail": "道教雷法、雷公电母的民间形象与《封神》闻仲统雷部各有语境。掌雷不必意味着同属一张固定不变的家谱。",
+        "sources": [
+          "cd-soushen",
+          "cd-fs99"
+        ]
+      },
+      {
+        "id": "cd-lv",
+        "name": "吕洞宾",
+        "alias": "",
+        "tier": 2,
+        "kind": "仙人",
+        "domain": "修行、度人与剑",
+        "summary": "八仙中极具影响的人物。",
+        "detail": "吕祖在全真祖师传统、地方庙宇、文学和艺术中各有角色；钟吕传承与考验度人的故事不能仅靠一幅八仙合照读尽。",
+        "sources": [
+          "cd-met",
+          "cd-soushen"
+        ]
+      },
+      {
+        "id": "cd-zhongli",
+        "name": "钟离权",
+        "alias": "",
+        "tier": 2,
+        "kind": "仙人",
+        "domain": "修炼传承与点化",
+        "summary": "常执扇，八仙之一。",
+        "detail": "钟离与吕洞宾常构成师徒传承，后世称汉钟离并不能自动证明他真实生活在汉代；图像的年代与传记年代需区分。",
+        "sources": [
+          "cd-met",
+          "cd-soushen"
+        ]
+      },
+      {
+        "id": "cd-tieguai",
+        "name": "铁拐李",
+        "alias": "",
+        "tier": 3,
+        "kind": "仙人",
+        "domain": "异貌、医药与济世",
+        "summary": "以铁拐、葫芦识别。",
+        "detail": "借尸还魂等传说把身体外貌与道行分开，残疾形貌不是道德缺陷的符号。不同仙传的名字与经历有变化。",
+        "sources": [
+          "cd-soushen",
+          "cd-met"
+        ]
+      },
+      {
+        "id": "cd-hexiangu",
+        "name": "何仙姑",
+        "alias": "",
+        "tier": 3,
+        "kind": "仙人",
+        "domain": "女仙与度世",
+        "summary": "八仙中的女性形象。",
+        "detail": "常持荷花等物，地方传说为她安排不同出生地和成仙经历；无须为所有地方故事强制选定一份统一身份证。",
+        "sources": [
+          "cd-soushen",
+          "cd-met"
+        ]
+      },
+      {
+        "id": "cd-lancaihe",
+        "name": "蓝采和",
+        "alias": "",
+        "tier": 3,
+        "kind": "仙人",
+        "domain": "放逸、歌唱与超脱",
+        "summary": "常持花篮的八仙。",
+        "detail": "歌行与醉态使其成为不受俗世秩序束缚的形象，性别和身世在各类描绘中存在不同解释。",
+        "sources": [
+          "cd-soushen",
+          "cd-met"
+        ]
+      },
+      {
+        "id": "cd-hangxiang",
+        "name": "韩湘子",
+        "alias": "",
+        "tier": 3,
+        "kind": "仙人",
+        "domain": "音乐与变化",
+        "summary": "八仙之一，常持笛。",
+        "detail": "传说将其与韩愈关联，借文人家族关系讲述入世与出世之别；传说关系不等于全部情节可作唐史。",
+        "sources": [
+          "cd-soushen",
+          "cd-met"
+        ]
+      },
+      {
+        "id": "cd-zhangguolao",
+        "name": "张果老",
+        "alias": "",
+        "tier": 3,
+        "kind": "仙人",
+        "domain": "长寿与奇行",
+        "summary": "常与倒骑驴形象相连。",
+        "detail": "历史与神仙传记在张果身上交织，纸驴等变化故事属于仙传和文学的神异展开。",
+        "sources": [
+          "cd-soushen",
+          "cd-met"
+        ]
+      },
+      {
+        "id": "cd-cao",
+        "name": "曹国舅",
+        "alias": "",
+        "tier": 3,
+        "kind": "仙人",
+        "domain": "贵族出身与弃俗",
+        "summary": "八仙之一，常持笏或阴阳板。",
+        "detail": "“国舅”保留世俗身份，但成仙叙事强调从权贵秩序转入修行；其入列过程与八仙组合的后期定型相连。",
+        "sources": [
+          "cd-met"
+        ]
+      },
+      {
+        "id": "cd-tudi",
+        "name": "土地神",
+        "alias": "",
+        "tier": 2,
+        "kind": "地方神",
+        "domain": "社区与土地",
+        "summary": "最贴近日常空间的守护者之一。",
+        "detail": "土地可以按村落、街坊乃至特定地点分别奉祀。《西游记》中常向悟空提供地方知识；角色低微不代表现实信俗不重要。",
+        "sources": [
+          "cd-soushen",
+          "cd-journey"
+        ]
+      },
+      {
+        "id": "cd-chenghuang",
+        "name": "城隍",
+        "alias": "",
+        "tier": 2,
+        "kind": "地方神",
+        "domain": "城市、亡魂与司法",
+        "summary": "城市共同体的神圣保护与监察者。",
+        "detail": "城隍常被赋予具体历史人物身份，神职与城市行政想象相接。各地传说和祭礼不同，不能用某城的神传概括全国。",
+        "sources": [
+          "cd-soushen"
+        ]
+      },
+      {
+        "id": "cd-zaojun",
+        "name": "灶君",
+        "alias": "",
+        "tier": 2,
+        "kind": "家宅神",
+        "domain": "家庭、饮食与善恶记录",
+        "summary": "灶神信仰把日常生活连到天界。",
+        "detail": "《太上感应篇》叙灶神上奏人的罪状，民间送灶节俗又以供物与家庭伦理回应监察。它兼有信仰、节令和社会关系层面。",
+        "sources": [
+          "cd-ganying",
+          "cd-soushen"
+        ]
+      },
+      {
+        "id": "cd-guandi",
+        "name": "关帝／关羽",
+        "alias": "",
+        "tier": 2,
+        "kind": "历史人物神格",
+        "domain": "忠义、保护与财富",
+        "summary": "跨佛道与民间广受奉祀。",
+        "detail": "历史武将关羽在后世获封并进入多种宗教场域，成为忠义、护法、行业和财富的神圣代表。各传统的角色有别，不宜据《三国演义》填满历史传记。",
+        "sources": [
+          "cd-soushen"
+        ]
+      },
+      {
+        "id": "cd-mazu",
+        "name": "妈祖／天后",
+        "alias": "",
+        "tier": 2,
+        "kind": "地方神",
+        "domain": "海上救护与社区",
+        "summary": "沿海与海外华人社会的重要女神。",
+        "detail": "妈祖信仰围绕林氏女子的救难传说展开，并通过航运、移民、进香与地方节庆传播。与其他宗教实践的交会，不意味着她只有一种排他的宗派归属。",
+        "sources": [
+          "cd-mazu"
+        ]
+      },
+      {
+        "id": "cd-zhongkui",
+        "name": "钟馗",
+        "alias": "",
+        "tier": 3,
+        "kind": "驱邪神",
+        "domain": "捉鬼、护宅与禳灾",
+        "summary": "绘画和年俗中的驱邪主体。",
+        "detail": "以落第、冤屈或皇帝梦遇等传说解释其护卫身份。奇貌与捉鬼力量相接，神传版本不可视为同一件可考的唐代事件。",
+        "sources": [
+          "cd-soushen"
+        ]
+      },
+      {
+        "id": "cd-fengdu",
+        "name": "酆都大帝",
+        "alias": "",
+        "tier": 2,
+        "kind": "冥界尊神",
+        "domain": "幽冥统摄",
+        "summary": "道教冥界体系的重要神。",
+        "detail": "酆都、罗酆等名号与幽冥经法相连；与佛教阎罗、地藏和民间十殿体系的交会形成复合死后世界，并非同一尊神的不同昵称。",
+        "sources": [
+          "cd-soushen",
+          "cd-sep"
+        ]
+      },
+      {
+        "id": "cd-tenkings",
+        "name": "十殿阎王",
+        "alias": "",
+        "tier": 2,
+        "kind": "冥界神群",
+        "domain": "审判、业报与亡者秩序",
+        "summary": "中国化冥界想象中的十王。",
+        "detail": "佛教、道教与地方丧葬实践共同塑造十王形象。《西游记》勾销生死簿是文学故事，不能代表现实宗教对死亡和业报的一切解释。",
+        "sources": [
+          "cd-journey",
+          "cd-soushen"
+        ]
+      },
+      {
+        "id": "cd-oxhorse",
+        "name": "牛头马面",
+        "alias": "",
+        "tier": 3,
+        "kind": "冥界使者",
+        "domain": "拘魂与刑罚",
+        "summary": "动物首人身的冥界吏役。",
+        "detail": "形象将死亡与司法秩序可视化，与佛教地狱叙事和中国民间故事交融；具体职司随作品不同。",
+        "sources": [
+          "cd-journey"
+        ]
+      },
+      {
+        "id": "cd-blackwhite",
+        "name": "黑白无常",
+        "alias": "",
+        "tier": 3,
+        "kind": "民间冥界神",
+        "domain": "拘魂与生死无常",
+        "summary": "常作为成对冥差出现。",
+        "detail": "各地名号、服饰和传记有异。范谢将军、七爷八爷与黑白无常常被关联，但馆方资料也提示身份合并存在争论，不能强行统一各地说法。",
+        "sources": [
+          "cd-wuchang"
+        ]
+      },
+      {
+        "id": "cd-stars",
+        "name": "二十八宿与北斗星君",
+        "alias": "",
+        "tier": 3,
+        "kind": "星辰神群",
+        "domain": "天象、时序与命数",
+        "summary": "天文学与人格化神灵相交。",
+        "detail": "星辰既是可观测天象，也可在斋醮、善书与小说中人格化；《封神》星宿名单是一种文学来历，不能替代天文史。",
+        "sources": [
+          "cd-ganying",
+          "cd-fs99"
+        ]
+      },
+      {
+        "id": "cd-dingjia",
+        "name": "六丁六甲、四值功曹",
+        "alias": "",
+        "tier": 3,
+        "kind": "护法神群",
+        "domain": "值日、护持与传命",
+        "summary": "时间秩序人格化的护法系统。",
+        "detail": "与干支、年/月/日/时等时间结构相连；《西游记》安排其暗护唐僧，是相应宗教观念的文学使用。",
+        "sources": [
+          "cd-journey"
+        ]
+      },
+      {
+        "id": "cd-jiang",
+        "name": "姜子牙",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说人物／历史原型",
+        "domain": "辅周、封神与秩序重建",
+        "summary": "受元始命执掌封神的核心人物。",
+        "detail": "历史上的太公望传统被小说扩展为昆仑学道、下山扶周与主持封神的漫长生涯。姜子牙法力并非最高，却掌握连接朝代更替、仙人劫数与神职安排的任务。将他的受封名单逐项当作全部中国神祇起源，会误读小说的性质。",
+        "sources": [
+          "cd-fengshen",
+          "cd-fs99"
+        ]
+      },
+      {
+        "id": "cd-zhou",
+        "name": "商纣王／帝辛",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说君主／历史原型",
+        "domain": "失德、王朝终结与天命",
+        "summary": "《封神》以暴政说明商亡。",
+        "detail": "小说从女娲宫题诗展开其失德，并加入妖狐、刑罚与忠臣受害等情节。历史商王帝辛与后世“纣王”形象之间存在史料层累；小说解释商亡的道德故事，不等于考古已经逐条证明的商代政治史。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-daji",
+        "name": "妲己／狐妖",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说人物",
+        "domain": "魅惑、王权与责任",
+        "summary": "九尾狐附身苏妲己的文学设定。",
+        "detail": "《封神》中的狐妖受女娲差遣下界，却因残害生灵遭到惩罚。历史记忆中的妲己、小说苏妲己与附体狐妖应分别理解。把王朝覆亡全部归责于女性魅惑，是叙事中的性别结构，也需要放回政治和文学语境审视。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-wenwang",
+        "name": "周文王／姬昌",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说君主／历史原型",
+        "domain": "德政与天命转移",
+        "summary": "西岐秩序的象征。",
+        "detail": "囚羑里、归西岐、访贤等故事在小说中组成受命之君形象；历史周人的兴起远比一位圣王的私人经历复杂。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-wuwang",
+        "name": "周武王／姬发",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说君主／历史原型",
+        "domain": "伐商与新王朝",
+        "summary": "在姜子牙辅佐下完成伐纣。",
+        "detail": "小说把武王的征伐置于天命和仙人战争中；牧野之战具有历史研究基础，但法宝斗阵和神仙助战属于文学神话。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-wen",
+        "name": "闻仲",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说人物",
+        "domain": "忠诚、商朝与雷部",
+        "summary": "商太师，忠而不能挽回商亡。",
+        "detail": "闻仲既有截教师承，又是商朝权臣和战将；他的坚定忠诚与王朝的失德形成张力。战死后被封九天应元雷声普化天尊是《封神》的解释，不能反推所有雷法经典最初都以闻仲为神的前身。",
+        "sources": [
+          "cd-fengshen",
+          "cd-fs99"
+        ]
+      },
+      {
+        "id": "cd-tongtian",
+        "name": "通天教主",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说仙人",
+        "domain": "截教、护徒与劫数",
+        "summary": "截教领袖，碧游宫主人。",
+        "detail": "他与元始、老子的冲突将护徒、教门和天数织在一起，诛仙阵、万仙阵把凡间战争推至仙界。小说的“三友”或教主关系需按原著理解，不应直接拿来改写道教三清的宗教身份与经典史。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-shen",
+        "name": "申公豹",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说仙人",
+        "domain": "劝说、结盟与阻碍",
+        "summary": "不断为商方招来援手。",
+        "detail": "申公豹以同门与交游网络推动仙人卷入战争；他使“关系与口才”成为情节力量，不只是一个固定脸谱的反派。结尾封分水将军。",
+        "sources": [
+          "cd-fengshen",
+          "cd-fs99"
+        ]
+      },
+      {
+        "id": "cd-yangjian",
+        "name": "杨戬",
+        "alias": "",
+        "tier": 1,
+        "kind": "小说仙人",
+        "domain": "变化、侦察与辅周",
+        "summary": "《封神》中玉鼎真人弟子。",
+        "detail": "杨戬以变化和谋略多次帮助周军，与哪吒、雷震子等共同构成青年战力。《封神》自身的叙事范围应与《西游记》二郎显圣真君和后来的宝莲灯故事分开；图谱用两个节点保留这些差别。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-taiyi",
+        "name": "太乙真人",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说仙人",
+        "domain": "师承、法宝与再生",
+        "summary": "哪吒之师，乾元山金光洞仙人。",
+        "detail": "用莲花重造哪吒身体，又赐法宝助战。不可把小说太乙真人与道教太乙救苦天尊仅凭同含“太乙”就认定为完全同一角色。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-yuding",
+        "name": "玉鼎真人",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说仙人",
+        "domain": "阐教师承",
+        "summary": "杨戬之师。",
+        "detail": "小说中的阐教仙人，师承联系帮助理解青年战将与昆仑体系的连接；人物重要性主要来自这条传承线。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-randeng",
+        "name": "燃灯道人",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说仙人",
+        "domain": "阐教战事与后续归属",
+        "summary": "协助破阵、参与诸仙争战。",
+        "detail": "《封神》使用与佛教燃灯佛相近的名号，形成三教交织的文学想象；不可将其战事经历直接添加到佛教过去佛的经传。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-zhaogongming",
+        "name": "赵公明",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说仙人／财神",
+        "domain": "法宝、截教与财富",
+        "summary": "骑虎的强敌，后来与财神信仰相关。",
+        "detail": "小说中以定海珠重创周方，死后受金龙如意正一龙虎玄坛真君职并统招宝等部属；财神信仰有多种来源，不能只由本书一锤定音。",
+        "sources": [
+          "cd-fengshen",
+          "cd-fs99"
+        ]
+      },
+      {
+        "id": "cd-sanyun",
+        "name": "云霄、琼霄、碧霄",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说女仙群",
+        "domain": "亲族、复仇与九曲黄河阵",
+        "summary": "赵公明的三位妹妹。",
+        "detail": "兄长之死使三霄卷入战事，阵法削去阐教众仙修为；她们的动机表现亲族情感与教门冲突相互推动。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-leizhenzi",
+        "name": "雷震子",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说异人",
+        "domain": "翼、雷雨与辅周",
+        "summary": "姬昌收养、云中子教养的少年。",
+        "detail": "吞仙杏后长翼等身体变化使其成为救父与辅周的英雄。名字与雷相关，不表示他就是所有民间雷公或闻仲雷部的同一身份。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-yunzhongzi",
+        "name": "云中子",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说仙人",
+        "domain": "辨妖、炼器与收徒",
+        "summary": "雷震子的师父。",
+        "detail": "他赴朝歌献剑驱妖，随后又在周方战事中提供帮助。辨妖与技术知识使其不同于纯粹战斗型角色。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-huangfeihu",
+        "name": "黄飞虎",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说将领",
+        "domain": "忠义、背商与东岳",
+        "summary": "由商归周的重要人物。",
+        "detail": "家族遭难使其离商助周，战死后在小说中被封东岳泰山天齐仁圣大帝。这是东岳神信仰的一条文学附会，不是唯一历史来源。",
+        "sources": [
+          "cd-fengshen",
+          "cd-fs99"
+        ]
+      },
+      {
+        "id": "cd-bigan",
+        "name": "比干",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说忠臣／历史记忆",
+        "domain": "谏诤、牺牲与财富象征",
+        "summary": "以剖心故事著称的忠臣。",
+        "detail": "小说把比干之死放在纣王暴政与狐妖仇怨的交点；后世另有文财神信仰，不能把不同传统的神职混为一谈。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      },
+      {
+        "id": "cd-fshen-nuwa",
+        "name": "女娲（封神）",
+        "alias": "",
+        "tier": 2,
+        "kind": "小说女神",
+        "domain": "惩戒、天命与妖狐",
+        "summary": "小说开篇的神圣裁断者。",
+        "detail": "与上古补天神话人物有传承联系，但《封神》把她安排为因题诗受辱而遣妖、又限制妖行的角色。这套动机属于小说时代的重新叙事。",
+        "sources": [
+          "cd-fengshen"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "to": "cd-lingbao",
+        "type": "同列三清",
+        "note": "宗教神谱，非小说战斗同盟。",
+        "source": "cd-pure",
+        "from": "cd-yuanshi"
+      },
+      {
+        "to": "cd-laojun",
+        "type": "同列三清",
+        "note": "共同体现道经与神圣权威。",
+        "source": "cd-pure",
+        "from": "cd-lingbao"
+      },
+      {
+        "to": "cd-ziwei",
+        "type": "神谱协同",
+        "note": "按所引四御名单，具体位次可异。",
+        "source": "cd-four",
+        "from": "cd-yuhuang"
+      },
+      {
+        "to": "cd-gouchen",
+        "type": "神谱协同",
+        "note": "天界治理分工，非血缘。",
+        "source": "cd-four",
+        "from": "cd-yuhuang"
+      },
+      {
+        "to": "cd-houdu",
+        "type": "神谱协同",
+        "note": "天道与地祇的对应。",
+        "source": "cd-four",
+        "from": "cd-yuhuang"
+      },
+      {
+        "to": "cd-zhangdaoling",
+        "type": "授道传承",
+        "note": "天师传统中的神圣授受。",
+        "source": "cd-pure",
+        "from": "cd-laojun"
+      },
+      {
+        "to": "cd-lv",
+        "type": "师承传统",
+        "note": "钟吕传承，传记具有层累性。",
+        "source": "cd-soushen",
+        "from": "cd-zhongli"
+      },
+      {
+        "to": "cd-nezha",
+        "type": "父子（封神）",
+        "note": "父权冲突、还身与宝塔收伏。",
+        "source": "cd-fengshen",
+        "from": "cd-lizjing"
+      },
+      {
+        "to": "cd-nezha",
+        "type": "师徒（封神）",
+        "note": "莲花化身与赐宝。",
+        "source": "cd-fengshen",
+        "from": "cd-taiyi"
+      },
+      {
+        "to": "cd-dragonkings",
+        "type": "敌对（封神）",
+        "note": "陈塘关杀龙与父子危机。",
+        "source": "cd-fengshen",
+        "from": "cd-nezha"
+      },
+      {
+        "to": "cd-jiang",
+        "type": "师徒（封神）",
+        "note": "姜子牙奉命下山并主持封神。",
+        "source": "cd-fengshen",
+        "from": "cd-yuanshi"
+      },
+      {
+        "to": "cd-taiyi",
+        "type": "师承（封神）",
+        "note": "玉虚体系的仙人。",
+        "source": "cd-fengshen",
+        "from": "cd-yuanshi"
+      },
+      {
+        "to": "cd-yuding",
+        "type": "师承（封神）",
+        "note": "玉虚体系的仙人。",
+        "source": "cd-fengshen",
+        "from": "cd-yuanshi"
+      },
+      {
+        "to": "cd-shen",
+        "type": "同门体系（封神）",
+        "note": "申公豹与姜子牙同在玉虚门下。",
+        "source": "cd-fengshen",
+        "from": "cd-yuanshi"
+      },
+      {
+        "to": "cd-yangjian",
+        "type": "师徒（封神）",
+        "note": "杨戬作为第三代弟子辅周。",
+        "source": "cd-fengshen",
+        "from": "cd-yuding"
+      },
+      {
+        "to": "cd-leizhenzi",
+        "type": "师徒（封神）",
+        "note": "教养并赋予其异能。",
+        "source": "cd-fengshen",
+        "from": "cd-yunzhongzi"
+      },
+      {
+        "to": "cd-leizhenzi",
+        "type": "收养（封神）",
+        "note": "并非小说叙述中的亲生关系。",
+        "source": "cd-fengshen",
+        "from": "cd-wenwang"
+      },
+      {
+        "to": "cd-wuwang",
+        "type": "父子（封神）",
+        "note": "周政权承继。",
+        "source": "cd-fengshen",
+        "from": "cd-wenwang"
+      },
+      {
+        "to": "cd-wenwang",
+        "type": "君臣（封神）",
+        "note": "访贤与辅政。",
+        "source": "cd-fengshen",
+        "from": "cd-jiang"
+      },
+      {
+        "to": "cd-wuwang",
+        "type": "君臣（封神）",
+        "note": "辅佐伐商与封神。",
+        "source": "cd-fengshen",
+        "from": "cd-jiang"
+      },
+      {
+        "to": "cd-daji",
+        "type": "宠妃（封神）",
+        "note": "苏妲己与狐妖附身的小说设定。",
+        "source": "cd-fengshen",
+        "from": "cd-zhou"
+      },
+      {
+        "to": "cd-wen",
+        "type": "君臣（封神）",
+        "note": "闻仲忠于商而屡加劝谏。",
+        "source": "cd-fengshen",
+        "from": "cd-zhou"
+      },
+      {
+        "to": "cd-bigan",
+        "type": "君臣／宗亲（封神）",
+        "note": "忠谏与剖心冲突。",
+        "source": "cd-fengshen",
+        "from": "cd-zhou"
+      },
+      {
+        "to": "cd-huangfeihu",
+        "type": "决裂（封神）",
+        "note": "黄飞虎弃商归周。",
+        "source": "cd-fengshen",
+        "from": "cd-zhou"
+      },
+      {
+        "to": "cd-yuanshi",
+        "type": "教门冲突（封神）",
+        "note": "截教与阐教在商周战事中对立。",
+        "source": "cd-fengshen",
+        "from": "cd-tongtian"
+      },
+      {
+        "to": "cd-laojun",
+        "type": "对阵（封神）",
+        "note": "诛仙阵等叙事中的仙人冲突。",
+        "source": "cd-fengshen",
+        "from": "cd-tongtian"
+      },
+      {
+        "to": "cd-zhaogongming",
+        "type": "邀援（封神）",
+        "note": "申公豹劝赵公明出山。",
+        "source": "cd-fengshen",
+        "from": "cd-shen"
+      },
+      {
+        "to": "cd-sanyun",
+        "type": "兄妹（封神）",
+        "note": "兄长之死引发三霄出阵。",
+        "source": "cd-fengshen",
+        "from": "cd-zhaogongming"
+      },
+      {
+        "to": "cd-zhaogongming",
+        "type": "敌对（封神）",
+        "note": "定海珠与战事联系。",
+        "source": "cd-fengshen",
+        "from": "cd-randeng"
+      },
+      {
+        "to": "cd-wen",
+        "type": "敌对（封神）",
+        "note": "商周战争中双方统帅。",
+        "source": "cd-fengshen",
+        "from": "cd-jiang"
+      },
+      {
+        "to": "cd-daji",
+        "type": "差遣与惩戒（封神）",
+        "note": "遣轩辕坟三妖，后责其残害生灵。",
+        "source": "cd-fengshen",
+        "from": "cd-fshen-nuwa"
+      },
+      {
+        "to": "cd-leishen",
+        "type": "封授（封神）",
+        "note": "第99回以闻仲统率雷部。",
+        "source": "cd-fs99",
+        "from": "cd-jiang"
+      },
+      {
+        "to": "cd-leishen",
+        "type": "统领（封神）",
+        "note": "被封九天应元雷声普化天尊。",
+        "source": "cd-fs99",
+        "from": "cd-wen"
+      },
+      {
+        "to": "cd-erlang",
+        "type": "舅甥（西游）",
+        "note": "《西游记》第6回明确的文学关系。",
+        "source": "cd-j6",
+        "from": "cd-yuhuang"
+      },
+      {
+        "to": "cd-lizjing",
+        "type": "天庭统属（西游）",
+        "note": "托塔天王统天兵。",
+        "source": "cd-journey",
+        "from": "cd-yuhuang"
+      },
+      {
+        "to": "cd-yangjian",
+        "type": "跨文本比较",
+        "note": "相关形象，不将两部小说与地方传说无条件等同。",
+        "source": "cd-fengshen",
+        "from": "cd-erlang"
+      }
+    ],
+    "events": [
+      {
+        "id": "cd-ev-revelation",
+        "title": "老君授道与天师传承",
+        "tier": 1,
+        "era": "道教神圣历史；东汉背景",
+        "summary": "授道叙事建立祖师和教团的权威。",
+        "detail": "张道陵受老君授道，是天师传统的重要自我解释。研究时同时看神圣叙事、教团组织和历史文献的性质，不把每一神授细节都当成现代可验证纪事。",
+        "actors": [
+          "cd-laojun",
+          "cd-zhangdaoling"
+        ],
+        "source": "cd-sep"
+      },
+      {
+        "id": "cd-ev-peaches",
+        "title": "蟠桃会与悟空越界",
+        "tier": 1,
+        "era": "《西游记》第5回",
+        "summary": "天界盛会的名录与资源引发反叛。",
+        "detail": "王母蟠桃会、悟空偷桃偷酒和老君金丹，把长生资源与身份等级连接起来。这个文学天庭是研究神魔小说的对象，不是现实宫观通行的一份宴会制度。",
+        "actors": [
+          "cd-xiwangmu",
+          "cd-yuhuang",
+          "cd-laojun"
+        ],
+        "source": "cd-journey"
+      },
+      {
+        "id": "cd-ev-erlang",
+        "title": "二郎显圣降大圣",
+        "tier": 2,
+        "era": "《西游记》第6回",
+        "summary": "变化斗法与天庭协作围捕悟空。",
+        "detail": "二郎与梅山兄弟下界，老君金刚琢、细犬等共同影响战果。故事并非只靠一次正面对决就能得出永恒神仙战力榜。",
+        "actors": [
+          "cd-erlang",
+          "cd-laojun",
+          "cd-yuhuang"
+        ],
+        "source": "cd-j6"
+      },
+      {
+        "id": "cd-ev-fs-start",
+        "title": "女娲宫题诗与妖狐入宫",
+        "tier": 1,
+        "era": "《封神演义》第1—4回",
+        "summary": "失德的王与神罚构成商亡的小说开端。",
+        "detail": "纣王题诗激怒女娲，三妖受命入世，苏妲己被狐妖附体。神罚并不等于对任意残害的许可，后文又回到妖狐责任。",
+        "actors": [
+          "cd-zhou",
+          "cd-daji",
+          "cd-fshen-nuwa"
+        ],
+        "source": "cd-fengshen"
+      },
+      {
+        "id": "cd-ev-nezha",
+        "title": "哪吒闹海与莲花化身",
+        "tier": 1,
+        "era": "《封神演义》第12—14回",
+        "summary": "少年杀龙引发家庭危机，太乙重造其身。",
+        "detail": "哪吒以身体回应父母的生养关系，继而由莲花再生并追赶李靖。它让身体归属、父子权力和师门支持发生冲突；现代动画对动机的改写应与原著区别。",
+        "actors": [
+          "cd-nezha",
+          "cd-lizjing",
+          "cd-taiyi",
+          "cd-dragonkings"
+        ],
+        "source": "cd-fengshen"
+      },
+      {
+        "id": "cd-ev-jiang",
+        "title": "姜子牙下山与文王访贤",
+        "tier": 1,
+        "era": "《封神演义》前半部",
+        "summary": "仙门任务进入人间政局。",
+        "detail": "姜子牙并未因长年修行而获得理想仙途，却被派执掌封神；从朝歌辗转西岐使个人际遇与天命交汇。访贤故事将新政治秩序建立在德与识人上。",
+        "actors": [
+          "cd-jiang",
+          "cd-yuanshi",
+          "cd-wenwang"
+        ],
+        "source": "cd-fengshen"
+      },
+      {
+        "id": "cd-ev-wen",
+        "title": "闻仲征西与绝龙岭",
+        "tier": 1,
+        "era": "《封神演义》第50—52回前后",
+        "summary": "忠臣兵败身死，后来进入雷部。",
+        "detail": "闻仲持续为商召集强援，却无法挽回局势。绝龙岭之死与结尾封神形成“政治失败者成为神圣职官”的结构，忠诚不自动保证生前胜利。",
+        "actors": [
+          "cd-wen",
+          "cd-jiang",
+          "cd-yunzhongzi"
+        ],
+        "source": "cd-fengshen"
+      },
+      {
+        "id": "cd-ev-ninebends",
+        "title": "赵公明与九曲黄河阵",
+        "tier": 1,
+        "era": "《封神演义》第47—50回",
+        "summary": "私人复仇把仙人劫运进一步升级。",
+        "detail": "赵公明死后，三霄以混元金斗和阵法困住阐教众仙。亲族情感推动教门冲突，最后需更高层仙人介入，显示小说中力量、天数和关系并行。",
+        "actors": [
+          "cd-zhaogongming",
+          "cd-sanyun",
+          "cd-randeng",
+          "cd-yuanshi",
+          "cd-laojun"
+        ],
+        "source": "cd-fengshen"
+      },
+      {
+        "id": "cd-ev-immortals",
+        "title": "诛仙阵与万仙阵",
+        "tier": 1,
+        "era": "《封神演义》第77—84回前后",
+        "summary": "商周之争扩展为仙界阵营的大战。",
+        "detail": "通天教主率截教与老子、元始等交锋，西方教人物也参与。小说将三教名号置入同一架空历史，因此可研究其融合想象，却不能按阵营还原真正的商周宗教。",
+        "actors": [
+          "cd-tongtian",
+          "cd-yuanshi",
+          "cd-laojun",
+          "cd-jiang"
+        ],
+        "source": "cd-fengshen"
+      },
+      {
+        "id": "cd-ev-muye",
+        "title": "武王伐纣与商周更替",
+        "tier": 1,
+        "era": "小说末段；历史背景为商周之际",
+        "summary": "朝代更替完成，神界制度随后重组。",
+        "detail": "凡间军事胜负与天命判断在小说结局相合。历史牧野之战、周人政治宣传与后代神魔改写属于不同证据层次，阅读时应分别提问。",
+        "actors": [
+          "cd-wuwang",
+          "cd-zhou",
+          "cd-jiang",
+          "cd-daji"
+        ],
+        "source": "cd-fengshen"
+      },
+      {
+        "id": "cd-ev-investiture",
+        "title": "姜子牙归国封神",
+        "tier": 1,
+        "era": "《封神演义》第99回",
+        "summary": "战死者被分入雷、火、瘟、斗等神职。",
+        "detail": "封神榜把对立阵营亡者共同纳入新秩序，闻仲、黄飞虎、赵公明等各有去处。受封并不说明作者认为每个角色同样正义；名单同时是叙事收束和神谱解释。",
+        "actors": [
+          "cd-jiang",
+          "cd-yuanshi",
+          "cd-wen",
+          "cd-huangfeihu",
+          "cd-zhaogongming",
+          "cd-shen"
+        ],
+        "source": "cd-fs99"
+      },
+      {
+        "id": "cd-ev-mazu",
+        "title": "妈祖信俗与航海共同体",
+        "tier": 2,
+        "era": "宋代以来的信仰传承；延续至今",
+        "summary": "救难传说随海路、移民与进香传播。",
+        "detail": "从地方女神到跨地域文化网络，妈祖信俗展示神话如何进入船民安全感、社区组织和节庆生活。传统故事与可观察的仪式实践应互相参照。",
+        "actors": [
+          "cd-mazu"
+        ],
+        "source": "cd-mazu"
+      }
+    ]
+  }
+]

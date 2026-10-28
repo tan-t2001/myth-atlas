@@ -1,0 +1,159 @@
+{
+  "china-early": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anonymous-Fuxi_and_N%C3%BCwa.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Anonymous-Fuxi_and_N%C3%BCwa.jpg",
+      "title": "伏羲女娲图 · 唐代绢画",
+      "credit": "佚名，8世纪中期；新疆维吾尔自治区博物馆；Wikimedia Commons",
+      "license": "Public Domain／PD-Art",
+      "caption": "吐鲁番阿斯塔那墓地出土的唐代图像。交缠蛇身、规矩与星象展示伏羲女娲在后世的宇宙象征；它是唐代物证，不应直接当成先秦文本的插图。",
+      "local": "assets/images/e856f5383e81ae19.jpg"
+    },
+    {
+      "url": "https://tile.loc.gov/image-services/iiif/service%3Aasian%3Alcnclscd%3A2001530410%3A1A015%3A00001a/full/pct%3A100/0/default.jpg",
+      "pageUrl": "https://www.loc.gov/item/2001530410/",
+      "title": "《山海经》十八卷 · 古籍书影",
+      "credit": "美国国会图书馆，中国古籍数字馆藏，2001530410",
+      "license": "古籍原作公共领域；数字馆藏使用说明见来源页",
+      "caption": "把异兽、山川和祭祀重新放回书页：原典并非现代神谱百科，而是在地理编排中保存多种材料。馆藏书影展示的是流传版本，不能与文本材料的形成时代混同。",
+      "local": "assets/images/625c83e846da57b3.jpg"
+    }
+  ],
+  "china-daoist": [
+    {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/44698/1298649/main-image",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/44698",
+      "title": "北斗中斗本命星君图",
+      "credit": "佚名，1454年；The Metropolitan Museum of Art，2012.525",
+      "license": "Public Domain／The Met Open Access",
+      "caption": "这幅明代神像原属奉敕制作的水陆仪式画组。星宿化为冠服神官，同时出现在佛教仪式中，提示佛道图像与实际宗教生活之间的交流。",
+      "local": "assets/images/47aee86c646eb1c2.jpg"
+    },
+    {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/40093/168799/main-image",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/40093",
+      "title": "吕洞宾过岳阳楼图",
+      "credit": "佚名；馆藏标注13世纪末至14世纪初，年代讨论见原页；The Met，17.170.2",
+      "license": "Public Domain／The Met Open Access",
+      "caption": "吕洞宾飞临岳阳楼的图像把仙人、地方名胜和后世信仰连接起来。馆方对画中纪年另有讨论，宜同时阅读作品说明与年代字段。",
+      "local": "assets/images/b7d1447c1ec87be2.jpg"
+    }
+  ],
+  "egypt": [
+    {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/551786/1502608/main-image",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/551786",
+      "title": "伊姆霍特普《亡灵书》局部",
+      "credit": "约公元前332—200年；The Metropolitan Museum of Art，35.9.20a–w",
+      "license": "Public Domain／The Met Open Access",
+      "caption": "为荷鲁斯祭司伊姆霍特普制作的纸草卷。这部葬仪文本组织咒文与图像以帮助死者转化和安全通行，不是一部按固定故事顺序写成的史诗。",
+      "local": "assets/images/0ddf8f1d1b43d0d9.jpg"
+    },
+    {
+      "url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP241036.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/548310",
+      "title": "伊西斯哺育荷鲁斯",
+      "credit": "公元前332—30年，埃及彩釉陶；The Met，55.121.5",
+      "license": "Public Domain／The Met Open Access",
+      "caption": "伊西斯哺育幼年荷鲁斯的形象，将母性保护与再生联系在一起。王座形头饰提示女神名字，荷鲁斯的侧发辫则标示儿童身份。",
+      "local": "assets/images/8534e858835c091b.jpg"
+    }
+  ],
+  "norse": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Om_Yggdrasil_by_Fr%C3%B8lich.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Om_Yggdrasil_by_Fr%C3%B8lich.jpg",
+      "title": "世界树 · 1895年《埃达》插图",
+      "credit": "Lorenz Frølich，1895；Wikimedia Commons",
+      "license": "Public Domain Mark 1.0",
+      "caption": "19世纪画家依据北欧诗歌创作的世界树图。它适合观察近代如何视觉化古代神话，却不是维京时代原图，也不能证明一个固定的九界空间排列。",
+      "local": "assets/images/2624b8add83c2b86.jpg"
+    }
+  ],
+  "hebrew": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aleppo_Codex_%28Deut%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Aleppo_Codex_(Deut).jpg",
+      "title": "《阿勒颇抄本》书页",
+      "credit": "希伯来圣经马所拉传统，10世纪；抄写员 Shlomo ben Buya’a，校订 Aaron ben Asher；Wikimedia Commons",
+      "license": "Public Domain／PD-Art",
+      "caption": "观察希伯来字母、元音点和页边注记：经典不只通过故事流传，也通过精密的抄写与诵读传统保存。这是中世纪圣经抄本，不是故事发生时代的手稿。",
+      "local": "assets/images/6260a5ff89b53e1d.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Paradise_Lost_12.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Paradise_Lost_12.jpg",
+      "title": "《失乐园》插图：撒旦向地球飞行",
+      "credit": "Gustave Doré，1866；Wikimedia Commons",
+      "license": "Public Domain／PD-Art",
+      "caption": "为弥尔顿《失乐园》第三卷740—742行绘制的后世文学插图。网络上常将它泛称为“路西法堕落”；本页保留原书语境，避免把近代基督教文学直接并入希伯来圣经。",
+      "local": "assets/images/95e6f64b17876863.jpg"
+    }
+  ],
+  "arthurian": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Holy-grail-round-table-bnf-ms_fr-116F-f610v-15th-detail.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Holy-grail-round-table-bnf-ms_fr-116F-f610v-15th-detail.jpg",
+      "title": "圆桌骑士与圣杯的显现",
+      "credit": "Évrard d’Espinques，约1475；法国国家图书馆，Français 116，fol.610v",
+      "license": "Public Domain／PD-Art",
+      "caption": "中世纪手抄本中的五旬节圆桌聚会。圣杯由天使呈现，骑士围桌而坐，展现骑士共同体与基督教救赎想象的结合。",
+      "local": "assets/images/db5d59ba207e879c.jpg"
+    }
+  ],
+  "japan": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Amaterasu_cave.JPG",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Amaterasu_cave.JPG",
+      "title": "岩户神乐之起显",
+      "credit": "春斋年昌，1887，锦绘；Wikimedia Commons",
+      "license": "Public Domain／PD-Art",
+      "caption": "天照走出天岩户，众神以乐舞迎回光明。此图是明治时期对《古事记》等叙事的再表现，画面服饰和构图不等于8世纪文本的原貌。",
+      "local": "assets/images/e7f82fad860bd950.jpg"
+    }
+  ],
+  "greco-roman": [
+    {
+      "url": "https://images.metmuseum.org/CRDImages/gr/web-large/DP103204.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/254364",
+      "title": "赫拉克勒斯降伏克里特公牛",
+      "credit": "约公元前520—510年，阿提卡黑绘双耳瓶；The Met，41.162.193",
+      "license": "Public Domain／The Met Open Access",
+      "caption": "瓶身两面描绘英雄制服公牛的同一场景。这样的器物把英雄叙事带入日常使用和观看之中，可以与十二功业的文学编排相互核读。",
+      "local": "assets/images/918b9b60167178ce.jpg"
+    }
+  ],
+  "inca": [
+    {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/314823/2151373/main-image",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/314823",
+      "title": "印加石制供奉像（Conopa）",
+      "credit": "印加艺术家，秘鲁，1400—1535年；The Metropolitan Museum of Art，1984.524.1；William Kelly Simpson赠，纪念Nelson A. Rockefeller，1984",
+      "license": "Public Domain；馆藏页明确标示，Met Open Access允许商业与非商业使用",
+      "caption": "石制的小型供奉物把安第斯信仰带回日常物质世界。它是仪式物件，并不是已被确认为因蒂或维拉科查的人像。",
+      "local": "assets/images/5d2b240557773795.jpg"
+    }
+  ],
+  "mesopotamia": [
+    {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/327211/1575281/main-image",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/327211",
+      "title": "刻有伊南娜赞歌的加喜特滚印",
+      "credit": "加喜特艺术家，约公元前16—12世纪，美索不达米亚；The Metropolitan Museum of Art，1985.357.29；The Right Reverend Paul Moore Jr.赠，1985",
+      "license": "Public Domain；馆藏页明确标示，Met Open Access允许商业与非商业使用",
+      "caption": "玉髓滚印上的八行赞歌祈求“阿卡德的伊南娜”护佑印主，显示宗教、身份和书写如何进入一件随身器物。画面中的男性不能直接认作伊南娜。",
+      "local": "assets/images/8c08ccf6f5c536de.jpg"
+    }
+  ],
+  "maya": [
+    {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/317760/2165250/main-image",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/317760",
+      "title": "玉米神贝雕饰件一对",
+      "credit": "玛雅艺术家，公元400—700年；The Met，1995.489a,b",
+      "license": "Public Domain／PD-Art",
+      "caption": "闭眼、额头和玉米须形的头发帮助辨识玉米神。头颅对应被收割的玉米，连接农作物生长周期、死亡与再生；这类精英装饰也关联王权。",
+      "local": "assets/images/374786a38e4c9b7a.jpg"
+    }
+  ]
+}

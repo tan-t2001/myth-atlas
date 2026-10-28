@@ -1,0 +1,173 @@
+{
+  "description": "Each data file is a JSON array of traditions. All user-facing text in Chinese. IDs globally unique prefixed by tradition. Coordinates [longitude,latitude]. Relations reference entity or artifact IDs. Cross-tradition entity links are supported. Importance tier 1 core, 2 important, 3 extended. Sources must be real researched direct URLs. Short quoted extracts include locator; mark translations. No invented historical certainty. Expansion files are objects with traditions arrays and per-entry enrichment. They append entities, events, relations, artifacts, groups and sources to the corresponding baseline tradition. Build never rewrites the baseline. Images from all enrichment layers merge additively.",
+  "tradition": {
+    "id": "china-early",
+    "name": "中国 · 上古与先秦",
+    "en": "EARLY CHINA",
+    "region": "东亚",
+    "coords": [
+      108,
+      35
+    ],
+    "depth": 3,
+    "color": "#c89d5c",
+    "tagline": "短句",
+    "period": "文本形成时期说明",
+    "summary": "200字概况",
+    "worldview": [
+      {
+        "title": "标题",
+        "text": "解释",
+        "source": "source-id"
+      }
+    ],
+    "history": [
+      {
+        "title": "历史与现实",
+        "text": "解释",
+        "source": "source-id"
+      }
+    ],
+    "entities": [
+      {
+        "id": "cn-nuwa",
+        "name": "女娲",
+        "alias": "Nüwa",
+        "kind": "神祇",
+        "tier": 1,
+        "domain": "创造与修复",
+        "summary": "简介",
+        "detail": "详细解释与版本差别",
+        "sources": [
+          "source-id"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "from": "cn-nuwa",
+        "to": "cn-fuxi",
+        "type": "配对",
+        "note": "版本限定",
+        "source": "source-id"
+      }
+    ],
+    "events": [
+      {
+        "id": "cn-event",
+        "title": "补天",
+        "tier": 1,
+        "era": "神话叙事时间／文本时代",
+        "summary": "简介",
+        "detail": "细节与分析",
+        "actors": [
+          "cn-nuwa"
+        ],
+        "source": "source-id"
+      }
+    ],
+    "sources": [
+      {
+        "id": "source-id",
+        "title": "书名／网页标题",
+        "author": "作者／机构",
+        "kind": "原典/博物馆/学术/文学/参考",
+        "url": "https://...",
+        "note": "章节与适用范围"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "短的准确引句",
+        "source": "source-id",
+        "locator": "章节",
+        "note": "语境与解释"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://actual-image-url",
+        "pageUrl": "https://source-page",
+        "title": "图名",
+        "credit": "作者与馆藏",
+        "license": "许可情况，未查证则明确",
+        "caption": "图像对应何种人物历史语境"
+      }
+    ],
+    "reading": [
+      {
+        "title": "阅读问题或路线",
+        "text": "建议"
+      }
+    ],
+    "cautions": [
+      "常见混淆与版本界限"
+    ],
+    "artifacts": [
+      {
+        "id": "unique-object-id",
+        "name": "物件名称",
+        "alias": "别名（可选）",
+        "kind": "兵器／法器／圣物／植物／阵法等",
+        "tier": 1,
+        "summary": "简要说明",
+        "detail": "功用、归属变化、重要事件与版本边界",
+        "owners": [
+          "entity-id"
+        ],
+        "events": [
+          "event-id"
+        ],
+        "sources": [
+          "source-id"
+        ]
+      }
+    ],
+    "groups": [
+      {
+        "id": "unique-group-id",
+        "title": "文本中的群体或学习分组",
+        "summary": "分组依据和适用版本",
+        "members": [
+          "entity-id"
+        ],
+        "source": "source-id"
+      }
+    ]
+  },
+  "enrichment": {
+    "item-id": {
+      "citations": [
+        {
+          "source": "source-id",
+          "locator": "具体章节／段落",
+          "quote": "可选，已核读的准确原句",
+          "translation": "可选，明确标注的译意",
+          "note": "文本边界与补充解释"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://original-image-url",
+          "local": "assets/images/file.jpg",
+          "pageUrl": "https://license-and-source-page",
+          "title": "作品题名",
+          "credit": "作者、馆藏、年代",
+          "license": "公共领域或明确开放许可",
+          "licenseUrl": "https://license-url",
+          "caption": "所表现内容和与条目的准确关系",
+          "role": "portrait|scene|document|artifact",
+          "avatar": false,
+          "crop": [
+            0.1,
+            0.1,
+            0.4,
+            0.4
+          ]
+        }
+      ],
+      "imageReferences": []
+    }
+  },
+  "association_note": "Artifact owners means associated entities (makers, holders, users, targets), not necessarily exclusive ownership. Exact semantics are explained in summary/detail. Event and entity IDs are globally resolvable. Crops are normalized display-only windows; the original file is shown in the image viewer."
+}

@@ -1,0 +1,570 @@
+{
+  "traditions": [
+    {
+      "id": "cthulhu",
+      "entities": [],
+      "events": [
+        {
+          "id": "ct-event-silver",
+          "title": "卡特寻找银钥匙并重返童年",
+          "tier": 2,
+          "era": "现代小说叙事；《银钥匙》写于1926年",
+          "summary": "失去梦境的卡特沿着祖父梦中的提示返回故乡。",
+          "detail": "钥匙、匣子、旧居与洞穴将物件探索转化为时间和身份的变化。故事把个人审美、失落与梦境置于中心，不能简化为一份跨维度法器说明书。",
+          "actors": [
+            "ct-carter"
+          ],
+          "source": "ct-src-silver"
+        },
+        {
+          "id": "ct-event-haunter",
+          "title": "布莱克开启晶体与停电之夜",
+          "tier": 2,
+          "era": "现代小说叙事；《夜魔》写于1935年",
+          "summary": "废弃教堂中的探索，引出与晶体和黑暗有关的威胁。",
+          "detail": "布莱克通过旧笔记和密码记录理解晶体，随后惧怕灯光消失。结尾并列雷击解释与他的惊恐日记，保留了叙述证据的裂缝。普罗维登斯是真实城市，小说中的经历及晶体流传史属于虚构。",
+          "actors": [
+            "ct-blake",
+            "ct-nyarl"
+          ],
+          "source": "ct-src-haunter"
+        }
+      ],
+      "relations": [],
+      "artifacts": [
+        {
+          "id": "ct-book",
+          "name": "死灵之书",
+          "kind": "虚构文献",
+          "tier": 1,
+          "summary": "以伪造的译本史、馆藏与禁令串联故事的禁书。",
+          "detail": "《死灵之书的历史》给它安排阿拉伯原名、希腊与拉丁译本及收藏机构。这些是作者营造可信感的文学手法。敦威治故事中的借阅与失窃情节，又使它成为知识既能揭示威胁也能帮助应对威胁的媒介。市面同名书不等于小说中确有其书。",
+          "owners": [
+            "ct-alhazred",
+            "ct-armitage",
+            "ct-wilbur"
+          ],
+          "events": [
+            "ct-event-dunwich"
+          ],
+          "sources": [
+            "ct-src-book"
+          ]
+        },
+        {
+          "id": "ct-obj-idol",
+          "name": "克苏鲁石雕小像",
+          "kind": "虚构造像",
+          "tier": 1,
+          "summary": "相似造像把分散的证词连成同一恐怖线索。",
+          "detail": "《克苏鲁的呼唤》中，警方带来的石雕与其他证词互相呼应。叙事强调难以归类的材质和图像；这些是虚构调查的组成部分。洛夫克拉夫特的真实手绘可用来研究作者如何想象造像。",
+          "owners": [
+            "ct-cthulhu",
+            "ct-thurston",
+            "ct-johansen"
+          ],
+          "events": [
+            "ct-event-dreams",
+            "ct-event-rlyeh"
+          ],
+          "sources": [
+            "ct-src-call"
+          ]
+        },
+        {
+          "id": "ct-obj-relief",
+          "name": "威尔科克斯的梦境泥塑",
+          "kind": "虚构造像",
+          "tier": 2,
+          "summary": "一块新制浮雕让梦境进入可被调查的物证世界。",
+          "detail": "泥塑并非出土古物，而是艺术家根据梦境制作。它在第I部分出现，并与石雕构成视觉上的对应；阅读时应区分两个物件的来源。",
+          "owners": [
+            "ct-thurston",
+            "ct-cthulhu"
+          ],
+          "events": [
+            "ct-event-dreams"
+          ],
+          "sources": [
+            "ct-src-call"
+          ]
+        },
+        {
+          "id": "ct-obj-trapezohedron",
+          "name": "闪耀的偏方三八面体",
+          "kind": "虚构宝石／媒介",
+          "tier": 1,
+          "summary": "教堂里的发光晶体，是观察异界与唤起夜魔的媒介。",
+          "detail": "《夜魔》通过布莱克的日记与旧记录叙述晶体的流传和危险。它的异星、南极与埃及经历属于小说内的伪史，不能用来说明现实埃及宗教。中文名称存在不同译法，英文为 Shining Trapezohedron。",
+          "owners": [
+            "ct-blake",
+            "ct-nyarl"
+          ],
+          "events": [
+            "ct-event-haunter"
+          ],
+          "sources": [
+            "ct-src-haunter"
+          ]
+        },
+        {
+          "id": "ct-obj-cylinder",
+          "name": "米·戈脑罐与感官装置",
+          "kind": "虚构技术",
+          "tier": 1,
+          "summary": "把离体脑与机器连接，许诺跨星际旅行，也引出欺骗与身份恐惧。",
+          "detail": "《暗夜呢喃》中，圆筒配有可连接视听与发声装置的接口。叙述者听到机械话语，却无法完全确认背后的身份。这是生物与机器结合的科幻恐怖装置，不是现实医学技术。",
+          "owners": [
+            "ct-migo",
+            "ct-akeley",
+            "ct-wilmarth"
+          ],
+          "events": [
+            "ct-event-whisper"
+          ],
+          "sources": [
+            "ct-src-whisper"
+          ]
+        },
+        {
+          "id": "ct-obj-record",
+          "name": "阿克利的留声机录音",
+          "kind": "虚构证据",
+          "tier": 2,
+          "summary": "被录下的仪式声音使书信中的恐惧获得一种可重复的形式。",
+          "detail": "录音与照片、黑石共同构成阿克利交出的证据。机械记录在故事中既增强可信感，也无法消除声音来源和解释的不确定性。",
+          "owners": [
+            "ct-akeley",
+            "ct-wilmarth",
+            "ct-migo"
+          ],
+          "events": [
+            "ct-event-whisper"
+          ],
+          "sources": [
+            "ct-src-whisper"
+          ]
+        },
+        {
+          "id": "ct-obj-black-stone",
+          "name": "阿克利发现的黑石",
+          "kind": "虚构铭刻",
+          "tier": 3,
+          "summary": "刻有奇异符号的石头，把山地传说转化为可调查的线索。",
+          "detail": "黑石是来信提及的物证之一，并在后来遭到争夺。故事的线索链依赖信件、照片和个人叙述，读者始终无法获得完全独立的证明。",
+          "owners": [
+            "ct-akeley",
+            "ct-wilmarth"
+          ],
+          "events": [
+            "ct-event-whisper"
+          ],
+          "sources": [
+            "ct-src-whisper"
+          ]
+        },
+        {
+          "id": "ct-obj-tiara",
+          "name": "深潜者风格的金冠",
+          "kind": "虚构饰物",
+          "tier": 2,
+          "summary": "博物馆中的异样头饰，为印斯茅斯的海洋世界埋下伏笔。",
+          "detail": "叙述者观看一种难以归类的金属头饰；纹样与形制唤起不安。它把现代馆藏经验与虚构海底文明连接起来，并非已确认的真实考古类型。",
+          "owners": [
+            "ct-deep",
+            "ct-dagon"
+          ],
+          "events": [
+            "ct-event-innsmouth"
+          ],
+          "sources": [
+            "ct-src-innsmouth"
+          ]
+        },
+        {
+          "id": "ct-obj-archive",
+          "name": "伊斯图书馆中的自笔记录",
+          "kind": "虚构文献",
+          "tier": 2,
+          "summary": "在远古遗迹中发现自己的字迹，是心智交换故事的关键证据。",
+          "detail": "皮斯利在地底寻找档案，最终面对自己写下的记录。档案把记忆与物证连在一起；恐怖来自个人时间与人类历史尺度突然失配。",
+          "owners": [
+            "ct-peaslee",
+            "ct-yith"
+          ],
+          "events": [
+            "ct-event-yith"
+          ],
+          "sources": [
+            "ct-src-time"
+          ]
+        },
+        {
+          "id": "ct-obj-silver-key",
+          "name": "银钥匙",
+          "kind": "虚构钥匙／门槛",
+          "tier": 1,
+          "summary": "卡特找回梦境能力的关键物件，联系祖传记忆与童年空间。",
+          "detail": "《银钥匙》把钥匙的发现、故乡之行与时间经验的变化相连。此处依据该篇本身，不把后续作品或游戏中的全部规则合并成固定的通用能力。",
+          "owners": [
+            "ct-carter"
+          ],
+          "events": [
+            "ct-event-silver"
+          ],
+          "sources": [
+            "ct-src-silver"
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "id": "ct-group-investigators",
+          "title": "调查者与证据链",
+          "summary": "学者、作家与幸存者通过文字、造像和遗迹拼凑知识；这些人物并非同一组织成员。",
+          "members": [
+            "ct-armitage",
+            "ct-wilmarth",
+            "ct-peaslee",
+            "ct-dyer",
+            "ct-thurston",
+            "ct-blake"
+          ],
+          "source": "ct-src-history"
+        },
+        {
+          "id": "ct-group-civilizations",
+          "title": "异质文明与非人类族群",
+          "summary": "不同篇目描述不同文明，冲突与技术背景应按各自文本阅读；不能按神力排行榜归为同一物种。",
+          "members": [
+            "ct-elder",
+            "ct-shoggoth",
+            "ct-migo",
+            "ct-yith",
+            "ct-deep"
+          ],
+          "source": "ct-src-history"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ct-src-silver",
+          "title": "《银钥匙》",
+          "author": "H. P. Lovecraft；The H. P. Lovecraft Archive",
+          "kind": "文学原典",
+          "url": "https://www.hplovecraft.com/writings/texts/fiction/sk.aspx",
+          "note": "卡特重返童年与梦境的文学叙事；与后来的合作续篇区分。"
+        }
+      ]
+    }
+  ],
+  "enrichment": {
+    "ct-obj-idol": {
+      "citations": [
+        {
+          "source": "ct-src-call",
+          "locator": "第II部分造像描述；第III部分船上小像",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cthulhu3.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:Cthulhu3.jpg",
+          "title": "洛夫克拉夫特手绘克苏鲁",
+          "credit": "H. P. Lovecraft，1934年；Brown University Library / Wikimedia Commons",
+          "license": "Public Domain / PD-Art",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "caption": "洛夫克拉夫特亲绘的造像构想；真实存在的是这张现代手绘，不是小说中被发现的异质石雕。",
+          "role": "artifact",
+          "avatar": true,
+          "position": "50% 40%",
+          "local": "assets/images/cthulhu-9815fcfbb7f2.jpg",
+          "crop": [
+            0.14,
+            0.1,
+            0.6,
+            0.48
+          ]
+        }
+      ]
+    },
+    "ct-obj-relief": {
+      "citations": [
+        {
+          "source": "ct-src-call",
+          "locator": "第I部分 The Horror in Clay",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": []
+    },
+    "ct-obj-trapezohedron": {
+      "citations": [
+        {
+          "source": "ct-src-haunter",
+          "locator": "教堂塔楼、旧记录与六月日记中的晶体史",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Haunter_of_the_Dark_by_Ern%C5%91_Juh%C3%A1sz.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Haunter_of_the_Dark_by_Ern%C5%91_Juh%C3%A1sz.jpg",
+          "local": "assets/images/expand-ct-haunter.jpg",
+          "title": "《夜魔》三联画：存在、教堂与晶体",
+          "credit": "Ernő Juhász，2016；Wikimedia Commons 授权记录见来源页",
+          "caption": "当代艺术对小说的诠释。右侧表现闪耀的偏方三八面体与匣子；原作没有一张可当作唯一标准外形的实物照片。CC BY-SA 3.0，图谱头像为显示裁切。",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "role": "artifact",
+          "avatar": true,
+          "crop": [
+            0.76,
+            0.46,
+            0.21,
+            0.31
+          ]
+        }
+      ]
+    },
+    "ct-obj-cylinder": {
+      "citations": [
+        {
+          "source": "ct-src-whisper",
+          "locator": "第VII章圆筒与B-67演示；第VIII章身份揭示",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Whisperer_in_Darkness_by_Alexander_Moore.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Whisperer_in_Darkness_by_Alexander_Moore.jpg",
+          "local": "assets/images/expand-ct-whisper.jpg",
+          "title": "阿克利房间与脑罐：现代插图",
+          "credit": "Alexander Moore，2016；Wikimedia Commons 授权记录见来源页",
+          "caption": "画家想象《暗夜呢喃》中的房间、冒充者与右侧脑罐；结合故事结尾核读，画中人物不能直接当成阿克利正常面貌的肖像。CC BY-SA 3.0，作品未作改动。",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "role": "scene",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-obj-record": {
+      "citations": [
+        {
+          "source": "ct-src-whisper",
+          "locator": "第III章唱片录音及转录",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": []
+    },
+    "ct-obj-black-stone": {
+      "citations": [
+        {
+          "source": "ct-src-whisper",
+          "locator": "第II—V章石刻、照片与证据传递",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": []
+    },
+    "ct-obj-tiara": {
+      "citations": [
+        {
+          "source": "ct-src-innsmouth",
+          "locator": "第I章纽伯里波特历史学会中的头饰；第III章金饰来源",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": []
+    },
+    "ct-obj-archive": {
+      "citations": [
+        {
+          "source": "ct-src-time",
+          "locator": "第VIII章地下档案与笔迹发现",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": []
+    },
+    "ct-obj-silver-key": {
+      "citations": [
+        {
+          "source": "ct-src-silver",
+          "locator": "后半篇：祖父之梦、阁楼匣子与蛇穴",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Weirdtales-1929-01-thesilverkey.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:Weirdtales-1929-01-thesilverkey.jpg",
+          "local": "assets/images/expand-ct-silver.jpg",
+          "title": "《银钥匙》1929年刊载首页",
+          "credit": "Hugh Rankin 插图；H. P. Lovecraft 文；《Weird Tales》，1929年1月",
+          "caption": "真实杂志的小说首页。插图表现梦境中的生灵，不是钥匙实物；用来对照作品最初的视觉呈现。",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "role": "document",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-event-silver": {
+      "citations": [
+        {
+          "source": "ct-src-silver",
+          "locator": "后半篇至结尾",
+          "note": "文学事件；开篇人物的价值判断带有时代和阶级偏见，不代表网站立场。"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Weirdtales-1929-01-thesilverkey.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:Weirdtales-1929-01-thesilverkey.jpg",
+          "local": "assets/images/expand-ct-silver.jpg",
+          "title": "《银钥匙》1929年刊载首页",
+          "credit": "Hugh Rankin 插图；H. P. Lovecraft 文；《Weird Tales》，1929年1月",
+          "caption": "真实杂志的小说首页。插图表现梦境中的生灵，不是钥匙实物；用来对照作品最初的视觉呈现。",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "role": "document",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-carter": {
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Weirdtales-1929-01-thesilverkey.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:Weirdtales-1929-01-thesilverkey.jpg",
+          "local": "assets/images/expand-ct-silver.jpg",
+          "title": "《银钥匙》1929年刊载首页",
+          "credit": "Hugh Rankin 插图；H. P. Lovecraft 文；《Weird Tales》，1929年1月",
+          "caption": "真实杂志的小说首页。插图表现梦境中的生灵，不是钥匙实物；用来对照作品最初的视觉呈现。",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "role": "document",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-blake": {
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Haunter_of_the_Dark_by_Ern%C5%91_Juh%C3%A1sz.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Haunter_of_the_Dark_by_Ern%C5%91_Juh%C3%A1sz.jpg",
+          "local": "assets/images/expand-ct-haunter.jpg",
+          "title": "《夜魔》三联画：存在、教堂与晶体",
+          "credit": "Ernő Juhász，2016；Wikimedia Commons 授权记录见来源页",
+          "caption": "当代艺术对小说的诠释。右侧表现闪耀的偏方三八面体与匣子；原作没有一张可当作唯一标准外形的实物照片。CC BY-SA 3.0，图谱头像为显示裁切。",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "role": "scene",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-nyarl": {
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Haunter_of_the_Dark_by_Ern%C5%91_Juh%C3%A1sz.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Haunter_of_the_Dark_by_Ern%C5%91_Juh%C3%A1sz.jpg",
+          "local": "assets/images/expand-ct-haunter.jpg",
+          "title": "《夜魔》三联画：存在、教堂与晶体",
+          "credit": "Ernő Juhász，2016；Wikimedia Commons 授权记录见来源页",
+          "caption": "当代艺术对小说的诠释。右侧表现闪耀的偏方三八面体与匣子；原作没有一张可当作唯一标准外形的实物照片。CC BY-SA 3.0，图谱头像为显示裁切。",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "role": "scene",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-event-whisper": {
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Whisperer_in_Darkness_by_Alexander_Moore.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Whisperer_in_Darkness_by_Alexander_Moore.jpg",
+          "local": "assets/images/expand-ct-whisper.jpg",
+          "title": "阿克利房间与脑罐：现代插图",
+          "credit": "Alexander Moore，2016；Wikimedia Commons 授权记录见来源页",
+          "caption": "画家想象《暗夜呢喃》中的房间、冒充者与右侧脑罐；结合故事结尾核读，画中人物不能直接当成阿克利正常面貌的肖像。CC BY-SA 3.0，作品未作改动。",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "role": "scene",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-akeley": {
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Whisperer_in_Darkness_by_Alexander_Moore.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Whisperer_in_Darkness_by_Alexander_Moore.jpg",
+          "local": "assets/images/expand-ct-whisper.jpg",
+          "title": "阿克利房间与脑罐：现代插图",
+          "credit": "Alexander Moore，2016；Wikimedia Commons 授权记录见来源页",
+          "caption": "画家想象《暗夜呢喃》中的房间、冒充者与右侧脑罐；结合故事结尾核读，画中人物不能直接当成阿克利正常面貌的肖像。CC BY-SA 3.0，作品未作改动。",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "role": "scene",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-migo": {
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Whisperer_in_Darkness_by_Alexander_Moore.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Whisperer_in_Darkness_by_Alexander_Moore.jpg",
+          "local": "assets/images/expand-ct-whisper.jpg",
+          "title": "阿克利房间与脑罐：现代插图",
+          "credit": "Alexander Moore，2016；Wikimedia Commons 授权记录见来源页",
+          "caption": "画家想象《暗夜呢喃》中的房间、冒充者与右侧脑罐；结合故事结尾核读，画中人物不能直接当成阿克利正常面貌的肖像。CC BY-SA 3.0，作品未作改动。",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "role": "scene",
+          "avatar": false
+        }
+      ]
+    },
+    "ct-event-haunter": {
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Haunter_of_the_Dark_by_Ern%C5%91_Juh%C3%A1sz.jpg",
+          "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Haunter_of_the_Dark_by_Ern%C5%91_Juh%C3%A1sz.jpg",
+          "local": "assets/images/expand-ct-haunter.jpg",
+          "title": "《夜魔》三联画：存在、教堂与晶体",
+          "credit": "Ernő Juhász，2016；Wikimedia Commons 授权记录见来源页",
+          "caption": "当代艺术对小说的诠释。右侧表现闪耀的偏方三八面体与匣子；原作没有一张可当作唯一标准外形的实物照片。CC BY-SA 3.0，图谱头像为显示裁切。",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "role": "scene",
+          "avatar": false
+        }
+      ],
+      "citations": [
+        {
+          "source": "ct-src-haunter",
+          "locator": "教堂探索、六月日记及结尾停电段落",
+          "note": "事件与物件都属于现代小说。"
+        }
+      ]
+    },
+    "ct-book": {
+      "citations": [
+        {
+          "source": "ct-src-book",
+          "locator": "全文：书名、译本与虚构馆藏史；对读《敦威治恐怖事件》第V—VI章",
+          "note": "本条讨论现代小说中的虚构物件。书籍伪史、技术与事件不能作为现实存在的证明。"
+        }
+      ],
+      "images": []
+    }
+  }
+}
